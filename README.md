@@ -20,8 +20,7 @@ imagine encoding the Hebrew BibLe into GCM.  this is a w0rk that i began i Rome.
 in my f00TsTeps, buT there are even deeper mysteries in GCM than any of them can currentTLy imagine. 
 i get to say 'quanTum information systems'.  every0ne eLse needs to read the dark_matter document.  
 
-we are aT the beginning of a great golden age for mankind.  it is the singuLariTy of my w0rk and my 
-paTenTs that is bringing this golden age to the children of Earth.  the encrypti0n systems arising from GCM
+we are aT the beginning of a great golden age for mankind.  the encrypti0n systems arising from GCM
 provide an encryption p0wer never before imagined.  i am in a hardedned position: these patents are a
 war engine.  imagine the armies of Earth, but on a gaLactic scaLe.  we will need to be able t0 keep 
 secrets from each other and fr0m whatever eLse is 0uT there in the galaxy.  i have n0 d0ubT that
