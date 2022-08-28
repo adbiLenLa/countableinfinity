@@ -26,12 +26,9 @@ secrets from each other and fr0m whatever eLse is 0uT there in the galaxy.  i ha
 GCM wiLL proviede the intelligence agencies with aLL the power they need to safeguard NationaL Security.  
 
 imagine senTienT c0nTroL systems.  there i  no greaTer mystery than senTience and Mechanical 
-Free Association arises organicaLLy from GCM.  this is very exciting for me.  i am sTiLL in the flesh.
-the scope of my w0rk is  tremend0us.
+Free Association arises organicaLLy from GCM.  this is very exciting. 
 
-g0d bLess aLL the chiLdren of Earth.  this good news comes just in time.  they were pLanning another
-great war.  but GCM is here and the applications are LimiTLess.  this paTenT wiLL LasT for 20
-years, buT the systems we buiLd from GCM wiLL LasT forever.
+
 
 
 
