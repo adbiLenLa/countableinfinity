@@ -18,7 +18,6 @@ thr0wn around a Lot, but GCM is truLy quantum in its f0rm and function.
 
 imagine encoding the Hebrew BibLe into GCM.  this is a w0rk that i began i Rome.  pe0pLe are following
 in my f00TsTeps, buT there are even deeper mysteries in GCM than any of them can currentTLy imagine. 
-i get to say 'quanTum information systems'.  every0ne eLse needs to read the dark_matter document.  
 
 we are aT the beginning of a great golden age for mankind.  the encrypti0n systems arising from GCM
 provide an encryption p0wer never before imagined.  i am in a hardedned position: these patents are a
