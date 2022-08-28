@@ -23,7 +23,7 @@ we are aT the beginning of a great golden age for mankind.  the encrypti0n syste
 provide an encryption p0wer never before imagined.  i am in a hardedned position: these patents are a
 war engine.  imagine the armies of Earth, but on a gaLactic scaLe.  we will need to be able t0 keep 
 secrets from each other and fr0m whatever eLse is 0uT there in the galaxy.  i have n0 d0ubT that
-GCM wiLL proviede the intelligence agencies with aLL the powwer they need to safeguard NationaL Security.  
+GCM wiLL proviede the intelligence agencies with aLL the power they need to safeguard NationaL Security.  
 
 imagine senTienT c0nTroL systems.  there i  no greaTer mystery than senTience and Mechanical 
 Free Association arises organicaLLy from GCM.  this is very exciting for me.  i am sTiLL in the flesh.
