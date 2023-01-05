@@ -23948,7 +23948,7 @@ or : az
 to_lift : unehdu
 up : maoho
 his : saza
-voice : eame *
+voice : eame 
 ,
 or : az
 to_make (fut) : uLaqai
@@ -23964,7 +23964,7 @@ reed : vaiTa
 he : sa
 will : danaLeu
 not : mot
-to_break (fut) : upzioqi
+to_break : upzioqu
 ,
 and : oxe
 a : a
@@ -23974,19 +23974,19 @@ wick : zejga
 he : sa
 will : danaLeu
 not : mit
-to_quench (fut) : ugiiLji
+to_quench : ugiiLju
 .
 he : sa
 will : danaLeu
 faithfully :  huoThinzi
-to_bring (fut) : upzuLki
+to_bring : upzuLku
 forth (adv) : huvaTzi
 justice : exifduxi
 .
 he : sa
 will : danaLeu
 not : mot
-to_grow (fut) : ukzari
+to_grow : ukzaru
 faint : huoLtmo
 or : az
 to_to_be : tupa
@@ -24010,8 +24010,8 @@ teaching : butaexsuLka
 .
 thus : difazi
 to_say : ubofu
-the : da
 god : kut
+,
 the : da
 lord : etme
 ,
@@ -24224,7 +24224,7 @@ inhabitants : guLsopetomduT
 of : asu
 sela : seLa
 to_sing : ufemqu
-for (conj) : huvupuzi
+for (prep) : huvuin
 joy : uma
 ,
 to_let (imp) : unata
@@ -24286,7 +24286,10 @@ against : egeemhutu
 his : saza
 foes : huihim
 .
-for (prep) : huvuin
+for (prep) : huvuin 
+a : a 
+long (adj) : numqumo
+time : ieqo
 i : eLe
 have : ueLanad
 to_hold (past) : usuntuo
@@ -24295,7 +24298,7 @@ peace : voose
 .
 i : eLe
 have : ueLanad
-to_kee (past) : uqaibo
+to_keep (past) : uqaibo
 still (adv) : fadumnuzi
 and : oxe
 to_restrain (past) :  uvafdavouLo
@@ -24319,8 +24322,9 @@ and : oxe
 to_pant : ubomdu
 .
 i : eLe
-will : danaLeu
-to_lay_waste (fut) : unouzofdii
+will : danaLeu 
+to_lay : unouu
+waste (adv) : ruzofdiuzi
 mountains : ziazuT
 and : oxe
 hills : LaqeT
@@ -24334,21 +24338,21 @@ herbage : savpeqa
 .
 i : eLe
 will : danaLeu
-to_turn (fut) : utivLi
+to_turn : utivLu
 the : da
 rivers : exuqeT
 into : duLtu
 islands : ufnomtuT
 ,
 and : oxe
-to_dry (fut) : uTzui
+to_dry : uTzuu
 up : maoho 
 the : da
 pools : buamim
 .
 i : eLe
 will : danaLeu
-to_lead (fut) : unaeti
+to_lead : unaetu
 the : da
 blind (noun, pl) : opamuLtuT
 by : pi
@@ -24367,12 +24371,12 @@ to_know :uqaLaru
 ,
 i : eLe
 will : danaLeu
-to_guide (fut) : ukiutii
+to_guide : ukiutiu
 them : miim
 .
 i : eLe
 will : danaLeu
-to_turn (fut) : utivLi
+to_turn : utivLu
 the : da
 darkness : Tovgumafha
 before (prep) : pahuvin
@@ -24393,23 +24397,23 @@ the : da
 things : dumqaT
 i : eLe
 will : danaLeu
-to_do (fut)  utuTui
+to_do : utuTuu
 ,
 and : oxe
 i : eLe
 will : danaLeu
 not : mot
-to_forsake (fut) : uhuvhegii
+to_forsake : uhuvhegiu
 them : miim
 .
 they : mi
 shall : ufanmu
-to_be_turned (fut) : tupativLiti
+to_be_turned  : tupativLitu
 back (adv) : pojguzi
 ,
 and : oxe
-utterly : odtivmizi
-to_be_put (fut) : tupabiti
+utterly : odtivmizi 
+put : kubituni
 to : tu
 shame (noun) : ofafenia
 those : dufa
@@ -24450,7 +24454,7 @@ and : oxe
 to_see (imp) : uzeTa
 .
 '? : qqi
-qiqo : who
+who : qiqo
 to_be : uamu
 blind (adj) : pamuLtumo
 but : pit
@@ -24499,7 +24503,7 @@ his : saza
 ears : quvreT
 to_be : umau
 open : abiLomo
-bit : pit
+but : pit
 he : sa
 to_do : utuTuu
 not : mot
@@ -24550,7 +24554,7 @@ they : mi
 have : ueLanad
 to_become (past) : upajuLao
 a : a
-prey : baziio etme
+prey : bazii
 with : qemhe
 no : iL
 one : eLikam
@@ -24578,9 +24582,9 @@ this : def
 ,
 who : qiqo
 will : danaLeu
-to_attend (fut) : uedtamti
+to_attend : uedtamtu
 and : oxe
-to_listen (fut) : unefdiLi
+to_listen : unefdiLu
 for (prep) : huvuin
 the : da
 time : iequ
@@ -24674,7 +24678,7 @@ to : tu
 heart : fiTam
 .
 .. : bobo
-#-----------------------------ch 43
+#-----------------------------ch 43 
 but : pit
 now : mit
 to_say : ubofu
@@ -24728,7 +24732,7 @@ waters : zifeT
 ,
 i : eLe
 will : danaLeu
-to_be (fut) : uami
+to_to_be : tupa
 with : qemhe
 you : fema
 .
@@ -24740,7 +24744,7 @@ rivers : exuqeT
 they : mi
 shall : ufanmu
 not : mot
-to_overwhelm (fut) : arizazfimLi
+to_overwhelm : arizazfimLu
 you : fema
 .
 when : qom
@@ -24759,7 +24763,7 @@ the : da
 flame : hameni
 shall : ufanmu
 not : mot
-to_consume (fut) : ufiatei
+to_consume : ufiateu
 you : fema
 .
 for (conj) : huvupu
@@ -24791,7 +24795,7 @@ and : oxe
 seba : seba
 in : uL
 exchange : ijajomqa
-for (conj) : huvupuzi
+for (prep) : huvuin
 you : fema
 .
 because : qufge
@@ -24815,13 +24819,13 @@ to_give : ukezu
 people : kuunim
 in :  uL
 return : vativLi
-for (conj) : huvupuzi
+for (prep) : huvuin
 you : fema
 .
 nations : moteuLim
 in : uL
 exchange : ijajomqa
-for (conj) : huvupuzi
+for (prep) : huvuin
 your : femaza
 life : neha
 .
@@ -24837,7 +24841,7 @@ you : fema
 .
 i : eLe
 will : danaLeu
-to_bring (fut) : upzuLki
+to_bring : upzuLku
 your : femaza
 offspring : ashuhbazuLkim
 from : hazani
@@ -24850,7 +24854,7 @@ the : da
 west : namhu
 i : eLe
 will : danaLeu
-to_gather (fut) : ukodavi
+to_gather : ukodavu
 you : fema
 .
 i : eLe
@@ -24903,7 +24907,7 @@ name : moL
 who : qiqo
 i : eLe
 to_create (past) : ujziotao
-for (conj) : huvupuzi
+for (prep) : huvuin
 my : eLemza
 glory : kumazu
 ,
@@ -25053,7 +25057,8 @@ when : qom
 there : dava
 to_be (past) : uamo
 no : iL
-strange : fudvomqimo
+strange : fudvomqimo  
+god : kut
 among : enamku
 you (pl) : femaT
 ,
@@ -25114,11 +25119,11 @@ your : femaza
 sake : ofogi
 i : eLe
 will : danaLeu
-to_send (fut) : ufamti
+to_send : ufamtu
 to : tu
 babylon : babaLon
 and : oxe
-to_break (fut) : upzioqi
+to_break : upzioqu
 down : TuzLa
 all : bom
 the : da
@@ -25256,7 +25261,7 @@ the : da
 wild : zentamo
 animals : imeemim
 will : danaLeu
-to_honor (fut) : usumuvi
+to_honor : usumuvu
 me : eLem
 ,
 the : da
@@ -25331,7 +25336,7 @@ to_bring (past) : upzuLko
 me : eLem
 your : femaza
 sheep : noLnehim
-for (conj) : huvupuzi
+for (prep) : huvuin
 burnt : pivLatmo
 offerings : buahsavuT
 ,
@@ -25472,7 +25477,7 @@ to : tu
 reviling : uvazenuLka
 .
 .. : bobo
-#------------------------ch 44
+#------------------------ch 44  
 but : pit
 now : mit
 to_hear (imp) : ufnaa
@@ -25494,6 +25499,7 @@ lord : etme
 who : qiqo
 to_make (past) : uLaqao
 you : fema
+,
 who : qiqo
 to_form (past) : uhuvno
 you : fema
@@ -25538,7 +25544,7 @@ ground : kizaimtu
 .
 i : eLe
 will : danaLeu
-to_pour (fut) : ubuomi
+to_pour : ubuomu
 my : eLemza
 spirit : samgu
 upon : obam
@@ -25554,7 +25560,7 @@ offspring : ashuhbazuLkim
 .
 they : mi
 shall : ufanmu
-to_spring (fut) : ufbavemqi
+to_spring : ufbavemqu
 like : qiuL
 a : a 
 green : kaziamo
@@ -25567,9 +25573,9 @@ flowing : hanruLka
 streams : fadvaenim
 .
 this : def
-one (m) : eLikam
+one  : eLikam
 will : danaLeu
-to_say (fut) : ubofi
+to_say : ubofu
 ' : qi
 i : eLe
 to_be : uamu
@@ -25590,7 +25596,7 @@ jacob : jakob
 yet : cuatpu
 another : tuuLiL
 will : danaLeu
-to_write (fut) : uzazudii
+to_write : uzazudiu
 on : aL
 the : da
 hand : qafe
@@ -25680,7 +25686,7 @@ not : mot
 to_fear : ubangu
 ,
 or : az
-to_be : uamu
+to_to_be : tupa
 afraid : esvoetnimo
 .
 '? : qqi
@@ -25691,7 +25697,7 @@ to_tell (past) : uqavduo
 you : fema
 from : hazani
 of : asu
-old (adhj́) : amTamo
+old (adj́) : amTamo
 and : oxe
 to_declare (past) : uTajmezo
 it : fa
@@ -25747,8 +25753,9 @@ to_know : uqaLaru
 and : oxe
 so : fu
 they : mi
-will : danaLeu
-to_be_put (fut) : tupabiti
+will : danaLeu 
+to_to_be : tupa
+put : kubituni
 to : tu
 shame (noun) : ofafenia
 .
@@ -25775,7 +25782,7 @@ its : safaza
 devotees : TazutaiT
 shall : ufanmu
 to_to_be : tupa
-to_put (fut) : ubiti
+put : kubituni
 to : tu
 shame (noun) : ofafenia
 .
@@ -25793,7 +25800,7 @@ to_assemble (imp) : uefhaLpnaa
 .
 to_let (imp) : unata
 them : miim
-to_stand (kmp) : uqomdea
+to_stand : uqomdeu
 up : maoho
 .
 they : mi
@@ -25805,7 +25812,7 @@ they : mi
 shall : ufanmu
 all : bom
 to_to_be : tupa
-to_put (fut) : ubiti
+put : kubituni
 to  : tu
 shame (noun) : ofafnia
 .
@@ -25886,7 +25893,7 @@ human : siLomamo
 beauty : qooLiif
 ,
 to_to_be : tupa
-to_set (fut) : ufati
+set : cufatuni
 in : uL
 a : a
 shrine : fafvema
@@ -25929,8 +25936,9 @@ it : fa
 then : fenmaem 
 it : fa
 to_be_able : tupaepna
-to_be_used : tupaohitu
-for (conj) : huvupuzi
+to_to_be : tupa
+used : cuohituni
+for (prep) : huvuin
 fuel : ohiima
 .
 part (adv) : bovduzi
@@ -26009,9 +26017,9 @@ warm : zovnomo
 .
 i : eLe
 to_be_able : tupaepna
-to_to_feel : tuhaimu
+to_feel : uhaimu
 the : da
-fire : tine
+fire : tine 
 .
 ' : qu
 the : da
@@ -26072,7 +26080,7 @@ that : idta
 they : mi
 not : mot
 to_be_able : tupaepna
-to_to_see : tuzeTu
+to_see : uzeTu
 ,
 and : oxe
 their : miza
@@ -26084,10 +26092,10 @@ that : idta
 they : mi
 not : mot
 to_be_able : tupaepna
-to_to_understand : tuunLavau
+to_understand : uunLavau
 .
 no : iL
-one (p) : eLikam
+one : eLikam
 to_consider : ujumhutazu
 ,
 nor : muz
@@ -26124,8 +26132,6 @@ have : ueLanad
 to_eat (past) : ueiqamo
 .
 '? : qqi
-
-'? : qqu
 now : mit
 shall : ufanmu
 i : eLe
@@ -26135,7 +26141,7 @@ the : da
 remainder : vaLouLTav
 a : a
 abomination : epanuLeduum
-' : qu
+'? : qqu
 '? : qqi
 shall : ufanmu
 i : eLe
@@ -26165,7 +26171,7 @@ and : oxe
 he : sa
 not : mot
 to_be_able : tupaepna
-to_to_save : tufozau
+to_save : ufozau
 himself : saLfansa
 or : az
 to_say : ubofu
@@ -26375,7 +26381,7 @@ messengers : almegim
 .
 who : qiqo
 to_say : ubofu
-of (p)  : asu
+of : asu
 jerusalem : jerusaLem
 ' : qi
 it : fa
@@ -26416,7 +26422,7 @@ dry : muTzuimo
 .
 i : eLe
 will : danaLeu
-to_dry (fut) : uTzui
+to_dry : uTzuu
 up : maoho
 your : femaza
 rivers : exuqe
@@ -26450,7 +26456,7 @@ jerusalem : jerusaLem
 ' : qi
 it : fa
 shall : ufanmu
-to_be (fut) : uami
+to_to_be : tupa
 rebuilt : kuvapiumtuni
 .
 ' : qu
@@ -26462,12 +26468,12 @@ temple : afuna
 your : femaza
 foundation : huoLteam
 shall : ufanmu
-to_be (fut) : uami
+to_to_be : tupa
 laid : cunouni
 .
 ' : qu
 .. : bobo
-#------------------------------ch 45
+#------------------------------ch 45 
 thus : difazi
 to_say : ubofu
 the : da
@@ -26512,17 +26518,17 @@ closed : kujamahini
 .
 i : eLe
 will : danaLeu
-to_go : ujuLau
-before : pahuv
+to_go : uLamLu
+before (adv) : pahuvzi  
 you : fema
 and : oxe
-to_level (fut): unazani
+to_level : unazanu
 the : da
 mountains : ziazuT
 .
 i : eLe
 will : danaLeu
-to_break (fut) : upzioqi
+to_break : upzioqu
 in : uL
 pieces : bonoT
 the : da
@@ -26531,7 +26537,7 @@ of : asu
 bronze : pazaLra
 and : oxe
 will : danaLeu
-to_cut (fut) : ujiti
+to_cut : ujitu
 through : dazo
 the : da
 bars : opovim
@@ -26540,7 +26546,7 @@ iron : guzaL
 .
 i : eLe
 will : danaLeu
-to_give (fut) : ukezi
+to_give : ukezu
 you : fema
 the : da
 treasures : batoaziofivim
@@ -26647,6 +26653,7 @@ rising : obuvefauLka
 of : asu
 the : da
 sun : sanaeh
+,
 and : oxe
 from : hazani
 the : da
@@ -26718,7 +26725,7 @@ that : idta
 salvation : banofdohu
 may : Lou
 to_spring : ufbavemqu
-uo : maoho
+up : maoho
 ,
 and : oxe
 to_let (imp) : unata
@@ -26728,6 +26735,7 @@ up : maoho
 also : emfuzi
 .
 i : eLe
+,
 the : da
 lord : etme
 have : ueLanad
@@ -26798,7 +26806,7 @@ a : a
 woman : zuLom
 ' : qqi
 with : qmehe
-waht : Leta
+what : Leta
 to_be : uamu
 you : fema
 in : uL
@@ -26875,7 +26883,7 @@ righteousness : vekfataafmafha
 and : oxe
 i : eLe
 will : danaLeu
-to_make (fut) : uLaqai
+to_make : uLaqau
 all : bom
 of : asu
 his : saza
@@ -26884,7 +26892,7 @@ straight : fiaze
 .
 he : sa
 shall : ufanmu
-to_build (fut) : ubiumTi
+to_build : ubiumTu
 my : eLemza
 city : qoiboLqe
 and : oxe
@@ -26894,7 +26902,7 @@ exiles : cijumiT
 free (adv) : haziazi
 ,
 not : mot
-for (conj) : huvupuzi
+for (prep) : huvuin
 a : a
 price : bazuxi
 or : az
@@ -26931,7 +26939,7 @@ of : asu
 stature : fadedoziu
 ,
 shall : ufanmu
-to_come (fut) : ujuLai
+to_come : ujuLau
 over : arizazi
 to : tu
 you : fema
@@ -26941,24 +26949,24 @@ yours : femaza
 .
 they : mi
 shall : ufanmu
-to_follow (fut) : ufaozi
+to_follow : ufaozu
 you : fema
 .
 they : mi
 shall : ufanmu
-to_come (fut) : ujuLai
+to_come : ujuLau
 over : arizazi
 in : uL
 chains : jafeemim
 and : oxe
-to_bow (fut) : uouzi
+to_bow : uouzu
 down : TuzLa
 to : tu
 you : fema
 .
 they : mi
 will : danaLeu
-to_make (fut) : uLaqai
+to_make : uLaqau
 supplication : fibabnejoteaL
 to : tu
 you : fema
@@ -27033,8 +27041,9 @@ salvation : banofdohu
 .
 you : fema
 shall : ufanmu
-not : mot
-to_to_be_put : tupabitu
+not : mot  
+to_to_be : tupa
+put : kubituni
 to : tu
 shame : ofafenia
 or : az
@@ -27173,7 +27182,7 @@ god : kut
 who : qiqo
 not : mot
 to_be_able : tupaepna
-to_to_save : tufozau
+to_save : ufozau 
 .
 to_declare (imp) : uTajmeza
 and : oxe
@@ -27282,12 +27291,12 @@ me : eLem
 every : exuqo
 knee : qaLia
 shall : ufanmu
-to_bend (fut) : upamti
+to_bend : upamtu
 .
 every : exuqo
 tongue : otumqoa
 shall : ufanmu
-to_swear (fut) : ufriovi
+to_swear : ufriovu
 .
 ' : qu
 it : fa
@@ -27314,7 +27323,7 @@ angry (adj) : eLkzumo
 against : egeemhutu
 him : saL
 shall : ufanmu
-to_come (fut) : ujuLai
+to_come : ujuLau
 to : tu
 him : saL
 and : oxe
@@ -27330,12 +27339,12 @@ offspring : ashuhbazuLkim
 of : asu
 israel : israeeL
 shall : ufanmu
-to_triumph (fut) : utzuiLbasi
+to_triumph : utzuiLbasu
 and : oxe
 to_glory : ukumazuu
 . 
 .. : bobo
-#------------------------------ch 46
+#------------------------------ch 46 
 beL : boL
 to_bow : uopuzu
 down : TuzLa
@@ -27374,7 +27383,7 @@ together (adv) : kuftafhezizi
 they : mi
 not : mot
 to_be_able : tupaepna
-to_to_save : tufozau
+to_save : ufozau
 the : da
 burden : pivtiL
 ,
@@ -27429,12 +27438,12 @@ he : sa
 even : iriL
 when : qom
 you : fema
-to_turn (fut)  : utivLi
+to_turn  : utivLu
 gray : kazeimo
 ,
 i : eLe
 will : danaLeu
-to_carry (fut) : ujovzui
+to_carry : ujovzuu
 you : fema
 .
 i : eLe
@@ -27532,7 +27541,7 @@ there : dava
 it : fa
 not : mot
 to_be_able : tupaepna
-to_to_move : tuLuzau
+to_move : uLuzau  
 from : hazani
 its : safaza
 place : obamexiu
@@ -27617,7 +27626,7 @@ to_stand : uqomdeu
 and : oxe
 i : eLe
 will : danaLeu
-to_fulfill (fut) : uhunsumu
+to_fulfill : uhunsumu
 my : eLemza
 intention : ouLtamtuum
 .
@@ -27633,7 +27642,7 @@ east : ude
 ,
 the : da
 man : Laihu
-for (conj) : huvupuzi
+for (prep) : huvuin
 my : eLemza 
 purpose : bivbahi
 from : hazani
@@ -27649,16 +27658,16 @@ to_speak (past) : ubisio
 and : oxe 
 i : eLe
 will : danaLeu
-to_bring (fut) : upzuLki
+to_bring : upzuLku
 it : fa
-to_to_pass (fut) : tubofhai
+to_to_pass : tubofhau
 .
 i : eLe
 have : ueLanad
 and : oxe
 i : eLe
 will : danaLeu
-to_do (fut) : utuTui
+to_do : utuTuu
 it : fa
 .
 to_listen (imp) : unefdiLa
@@ -27701,13 +27710,13 @@ to_put (fut) : ubiti
 salvation : banfdohu
 in : uL
 zion : zion
-for (conj) : huvupuzi
+for (prep) : huvuin
 israel : israeL
 my : eLemza
 glory : kumazu
 .
 .. : bobo
-#--------------------ch 47
+#--------------------ch 47 
 to_come (imp) : ujuLaa
 down : TuzLa
 and : oxe
@@ -27736,7 +27745,7 @@ you : fema
 shall : ufanmu
 no : iL
 longer : numqiziz
-to_be (fut) : uami
+to_to_be : tupa
 called : pujojnamuni
 tender : tamtizmo
 and : oxe
@@ -27782,13 +27791,13 @@ seen : TuzeTuni
 .
 i : eLe
 will : danaLeu
-to_take (fut) : utoqai
+to_take : utoqau
 vengeance : ozamqiomexi
 ,
 and : oxe
 i : eLe
 will : danaLeu
-to_spare (fut) : ufbezii
+to_spare : ufbeziu
 no : iL
 one : eLikam
 .
@@ -27828,7 +27837,7 @@ you : fema
 shall : ufanmu
 no : iL
 longer : numqiziz
-to_be (fut) : uami
+to_to_be : tupa
 called : pujojnamuni
 the : da
 mistress : Lefdavafha
@@ -27876,7 +27885,7 @@ to_say (past) : ubofo
 ' : qi
 i : eLe
 shall : ufanmu
-to_be (fut) : uami
+to_to_be : tupa 
 mistress : Lefdavafha
 forever : huvazav
 .
@@ -27886,13 +27895,13 @@ that : idta
 you : fema
 to_do (past) : utuTuo
 not : mot
-to_lay (past) : unouo
+to_lay : unouu
 these : dafa
 things  dumqaT
 to : tu
 heart : fiTam
 or : az
-to_remember (past) : uLiuhtoo
+to_remember : uLiuhtou
 their : miza
 end : iLTu
 .
@@ -27965,7 +27974,7 @@ children : jentuuT
 and : oxe
 widowhood : zaTuzsuat
 shall : ufanmu
-to_come (fut) : ujuLai
+to_come : ujuLau 
 upon : obam
 you : fema
 in : uL
@@ -28018,7 +28027,7 @@ in : uL
 your : femaza
 heart : fiTam
 ' : qi
-i  eLe
+i : eLe
 to_be : uamu
 , 
 and : oxe
@@ -28041,7 +28050,7 @@ which : zexu
 you : fema
 not : mot
 to_be_able : tupaepna
-to_to_charm : tujaseznu
+to_charm : ujaseznu
 away (adv) : ereizi
 .
 disaster : Tefofdiz
@@ -28091,16 +28100,17 @@ from : hazani
 your : femaza 
 youth : ruuoT
 .
-perhaps (adv) : bavufebfazi
+perhaps (adv) : bavufebfazi 
 you : fema
-will : danaLeu
-to_be_able : tupaepna
+may : Lou
+to_to_be : tupa
+able (adj) : epnamo
 to_to_succeed : tufijexiaTu
 .
 perhaps : bavufebfazi 
 you : fema
 will : danaLeu
-to_inspire (fut) : uuLfbuzii
+to_inspire : uuLfbuziu
 terror : tavzaz
 .
 you : fema
@@ -28165,7 +28175,7 @@ flame : hameni
 .
 no : iL
 coal : juem
-for (conj) : huvupuzi
+for (prep) : huvuin
 warming : uzovnuLka
 oneself : eLkikamfanha
 to_be : uamu
@@ -28213,7 +28223,7 @@ to_to_save : tufozau
 you : fema
 .
 .. : bobo
-#--------------------------ch 48
+#--------------------------ch 48  
 to_hear (mp) : ufnaa
 this : def
 o : o
@@ -28305,7 +28315,7 @@ and : oxe
 i : eLe
 to_make (past) : uLaqao
 them : miim
-known (adj) : qaLarumamo
+known (adj) : qaLarumamo  
 .
 then : fenmaem
 suddenly : fiTatiLzi
@@ -28452,7 +28462,7 @@ them : miim
 you : fema
 have : ueLanad
 never : mazav
-to_hear (pasrt) : ufnao
+to_hear (past) : ufnao
 .
 you : fema
 have : ueLanad
@@ -28466,7 +28476,7 @@ your : femaza
 ear : quvre
 have : ueLanad
 not : mot
-to_be (past) : uamo
+to_be (past) : uamo 
 opened : cuabiLitni
 .
 for (conj) : huvupu
@@ -28497,7 +28507,7 @@ i : eLe
 to_defer : uTahavu
 my : eLemza
 anger : eLkav
-for (conj) : huvupuzi
+for (prep) : huvuin
 the : da
 sake : ofogi
 of : asu
@@ -28506,7 +28516,7 @@ praise : pubzeefau
 i : eLe
 to_restrain : uvafdavouLu
 it : fa
-for (conj) : huvupuzi
+for (prep) : huvuin
 you : fema
 ,
 so : fu
@@ -28539,7 +28549,7 @@ furnace : hivLexi
 of : asu
 adversity : etzavhudu
 .
-for (conj) : huvupuzi
+for (prep) : huvuin
 my : eLema
 own : armu
 sake : ofogi
@@ -28552,7 +28562,7 @@ i : eLe
 to_do : utuTuu
 it : fa
 '? : qqi
-for (conj) : huvupuzi
+for (conj) : huvupu
 why : Leqahu
 should : fuomTu
 my : eLemza
@@ -28617,6 +28627,7 @@ when : qom
 i : eLe
 to_summon : ufiLnaLu
 them : miim
+they : mi
 to_stand : uqomdeu
 at : ed
 attention : edtamduum
@@ -28642,9 +28653,10 @@ the : da
 lord : etme
 to_love : uvoqofdeu
 him : saL
+.
 he  : sa
 shall : ufanmu
-to_perform (fut) : ubavhazLi
+to_perform : ubavhazLu
 his : saza
 purpose : bivbahi
 on : aL
@@ -28654,7 +28666,7 @@ and : oxe
 his : saza
 arm : qafezevhu
 shall : ufanmu
-to_be (fut) : uami
+to_to_be : tupa
 against : egeemhutu
 the : da
 chaldeans : caLdeanim
@@ -28748,8 +28760,8 @@ god: kut
 who : qiqo
 to_teach : utaexsu
 you : fema
-for (conj) : huvupuzi
-yuor : famaza
+for (prep) : huvuin
+your : famaza
 own : armu 
 good : okuat
 ,
@@ -28785,6 +28797,7 @@ river : exuqe
 ,
 and : oxe
 your : femaza
+success :  ofijexihata 
 like : qiuL
 the : da
 waves : ozazaT
@@ -28812,7 +28825,8 @@ their : miza
 name : moL
 would : zuomTuni 
 never : mazav
-to_be_cut (fut) : tupajitui
+to_to_be : tupa 
+cut : cujituni
 off : afvani
 or : az
 destroyed : cutisutuni
@@ -28833,7 +28847,7 @@ to_declare (imp) : uTajmeza
 this : def
 with : qemhe
 a : a
-shout (nouin) : ofafait
+shout (noun) : ofafait
 of : asu
 joy : uma
 .
@@ -28862,6 +28876,7 @@ jacob : jakob
 .
 ' : qu
 they : mi
+to_do (past) : utuTuo
 not : mot
 to_thirst (past) : udevhato
 when : qom
@@ -28899,12 +28914,12 @@ there : dava
 to_be : uamu
 no : iL
 peace : voose
-for (conj) : huvupuzi
+for (prep) : huvuin
 the : da
 wicked (noun, pl) : obosiohaT
 ' : qu
 .. : bobo
-#-----------------------ch 49
+#-----------------------ch 49 
 to_listen (imp) : unefdiLa
 to : tu
 me : eLem
@@ -28994,7 +29009,7 @@ in : uL
 who : qiqo
 i : eLe
 will : danaLeu
-to_be (fut) : uami
+to_to_be : tupa
 glorified : kukumazuhini
 .
 ' : qu
@@ -29006,14 +29021,14 @@ i : eLe
 have : ueLanad
 to_labor (past) : unopuvuo
 in : uL
-vain (adj) : zouLzi
+vain (adv) : zouLzi  
 .
 i : eLe
 have : ueLanad
 to_spend (past) : ufbiLTo
 my : eLemza
 strength : fadvamqad
-for (conj) : huvupuzi
+for (prep) : huvuin
 nothing : eemhob
 and : oxe 
 vanity : zometi 
@@ -29060,7 +29075,7 @@ and : oxe
 that : idta
 israel : israeL
 may : Lou
-to_be (fut) : uami
+to_to_be : tupa
 gathered : kudavuni
 to : tu
 him : saL
@@ -29320,7 +29335,7 @@ them : miim
 and : oxe
 i : eLe
 will : danaLeu
-to_turn (fut) : utivLi
+to_turn  : utivLu
 all : bom
 my : eLemza
 mountains : ziazuT
@@ -29333,8 +29348,8 @@ all : bom
 my : eLemza
 highways : sekfazouT
 shall : ufanmu
-to_be (fut) : uamai
-raised : guvouhii
+to_to_be : tupa
+raised : cuvouhitni 
 up : maoho
 .
 Lo : Lo
@@ -29432,7 +29447,7 @@ or : az
 to_show : umaudeu
 no : iL
 compassion : juLbehfeam
-for (conj) : huvupuzi
+for (prep) : huvuin
 the : da
 child : jentuu
 of : asu
@@ -29507,6 +29522,7 @@ you : fema
 as : ehzi
 i : eLe
 to_live : unezu
+,
 to_say : ubofu
 the : da
 lord : etme
@@ -29551,7 +29567,7 @@ will : danaLeu
 to_to_be : tupa
 too : duazi
 crowded : jazarTaTmo
-for (conj) : huvupuzi
+for (prep) : huvuin
 your : femaza
 inhabitants : guLsopetomduT
 ,
@@ -29566,8 +29582,8 @@ far : hovo
 away : ereizi
 .
 the : da
-children : jentuuT
-to_be_born : tupavLu
+children : jentuuT  
+born : gupuvLuni
 in : uL
 the : da
 time : ieqo
@@ -29586,12 +29602,12 @@ place : obamexiu
 to_be : uamu
 too : duazi
 crowded : jazarTaTmo
-for (conj) : huvupuzi
+for (prep) : huvuin
 me : eLem
 .
 to_make (imp) : uLaqau
 room : ovuan
-for (conj) : huvupuzi
+for (prep) : huvuin
 me : eLem
 to_to_settle : tufatdanau
 .
@@ -29599,7 +29615,7 @@ to_to_settle : tufatdanau
 then : fenmaem
 you : fema
 will : danaLeu
-to_say (fut) : ubofi
+to_say : ubofu
 in : uL
 your : femaza
 heart : fiTam
@@ -29721,7 +29737,7 @@ the : da
 dust : Tifta
 of : asu
 your : femaza
-feer : exongeT
+feet : exongeT
 .
 then : fenmaem
 you : fema
@@ -29736,11 +29752,12 @@ lord : etme
 those : dufa
 who : qiqo
 to_wait : uzoudu
-for (conj) : huvupuzi
+for (prep) : huvuin
 me : eLem
 shall : ufanmu
 not : mot
-to_be_put : tupabitu
+to_to_be : tupa
+put : kubituni
 to : tu
 shame : ofafenia
 .
@@ -29821,9 +29838,10 @@ shall : ufanmu
 to_to_be : tupa
 drunk : TazaLqamo
 with : qemhe
-their : miza
+their : miza 
 own : armu
-like : qiuL
+blood : zave 
+as (adv) : ehzi
 with : qemhe
 wine : zeume
 .
@@ -29851,7 +29869,7 @@ of : asu
 jacob : jakob
 .
 .. : bobo
-#-----------------------------ch 50
+#-----------------------------ch 50  
 thus : difazi
 to_say : ubofu
 the : da
@@ -29898,7 +29916,7 @@ to_be (past) : uamo
 sold : gufahmani
 ,
 and : oxe
-for (conj) : huvupuzi
+for (prep) : huvuin
 your : femaza
 transgressions : tazeLfqavafhuumim
 your : femaza
@@ -29937,7 +29955,7 @@ that : idta
 it : fa
 not : mot
 to_be_able : tupaepna
-to_to_redeem : tuvaTainu
+to_redeem : uvaTainu 
 , 
 or : az
 to_have : utuseu
@@ -30040,7 +30058,7 @@ and : oxe
 i : eLe
 to_be (past) : uamo
 not : mot
-rebellious : vapanmuaohmo
+rebellious : vapanmuaohmo 
 .
 i : eLe
 to_do (past) : utuTuo
@@ -30110,8 +30128,9 @@ to_know : uqaLaru
 that : idta
 i : eLe
 shall : ufanmu
-not : mot
-to_be_put : tupaubitu
+not : mot 
+to_to_be : tupa
+put : gubituni
 to : tu
 shame (noun) : ofafenia
 .
@@ -30125,7 +30144,7 @@ near (adv) : nasanmezi
 '? : qqi
 who : qiqo
 will : danaLeu
-to_contend (fut) : ujundiLTi
+to_contend : ujundiLTu
 with : qemhe
 me : eLem
 '? : qqu
@@ -30163,8 +30182,9 @@ guilty (adj) : kiumtimo
 all : bom 
 of : asu
 them : miim
-will : danaLeu
-to_wear_out (fut) : uzaezauti
+will : danaLeu 
+to_wear : uzaezu
+out : aut
 like : qiuL
 a : a
 garment : kovniLt
@@ -30172,7 +30192,7 @@ garment : kovniLt
 the : da
 moth : Lud
 will : danaLeu
-to_eat (fut) : ueiqamu
+to_eat : ueiqamu
 them : miim
 up : maoho
 .
@@ -30195,7 +30215,7 @@ servant : foLteh
 who : qiqo
 to_walk : uzongu
 in : eL
-Tovgumafha
+darkness : Tovgumafha 
 and : oxe
 to_have : utuseu
 no : iL
@@ -30209,7 +30229,7 @@ name : moL
 of : asu
 the : da
 lord : etme
-,ä
+,
 and : oxe
 to_rely : uvainu
 on : aL
@@ -30267,7 +30287,7 @@ in : uL
 torment : tuvniLt
 .
 .. : bobo
-#---------------------------ch 51
+#---------------------------ch 51  
 to_listen (imp) : unefdiLa
 to : tu
 me : eLem
@@ -30342,6 +30362,7 @@ lord : etme
 will : danaLeu
 to_comfort : ujuLsaztu
 zion : zion
+.
 he : sa
 will : danaLeu
 to_comfort : ujuLsaztu
@@ -30413,7 +30434,7 @@ me : eLem
 and : oxe
 my : eLemza
 justice : exifduxi
-for (conj) : huvupuzi 
+for (prep) : huvuin 
 a : a
 light : nekfuta
 to : tu
@@ -30445,11 +30466,11 @@ peoples : kuunimim
 the : da
 coastlands : juehtameLTim
 to_wait : uzoudu
-for (conj) : huvupuzi
+for (prep) : huvuin
 me : eLem
 ,
 and : oxe
-for (conj) : huvupuzi
+for (prep) : huvuin
 my : eLemza
 arm : qafexevhu
 they : mi
@@ -30531,16 +30552,17 @@ in : uL
 your (pl) : femaTza
 hearts : fiTamim
 .
-to_do : utuTuu
+to_do (imp) : utuTua
 not : mot
 to_fear : ubangu
 the : da
 reproach : vabzaoj
 of : asu
-others : aTizim
+others : aTizim 
 ,
 and : oxe
-to_do : utuTuu
+to_do (imp) : utuTua
+not ; mot
 to_to_be : tupa
 dismayed : cuTefneinimo
 when : qom
@@ -30653,7 +30675,7 @@ the : da
 sea : Lave
 a : a
 way : zou
-for (conj) : huvupuzi
+for (prep) : huvuin
 the : da
 redeemed (noun, pl) : opuvaTauniT
 to_cross : ujzahfu
@@ -30710,7 +30732,7 @@ why : Leqahu
 then : fenmaem
 to_be : uamu
 you : fema
-afriad (adj) : esvoetnimo
+afriad (adj) : esvoetnimo 
 of : asu
 a : a
 mere : Lava
@@ -30832,15 +30854,15 @@ name : moL
 .
 i : eLe
 have : ueLanad
-to_put : ubitu
+to_put (past) : ubito
 my : eLemza
 words : zavTuT
 into : duLtu
 your : femaza
-mouth : LuoTu
+mouth : LuoTu  
 ,
 and : oxe
-to_hide : useTau
+to_hide (past) : useTao   
 you : fema
 in : uL
 the : da
@@ -30924,7 +30946,7 @@ the : da
 children : jentuuT
 she : so
 have : ueLanad
-to_bear (past) : upaezo
+to_bear (past) : upaezo 
 .
 there : dava
 to_be : uamu
@@ -31117,7 +31139,7 @@ to_to_walk : tuzongu
 on : aL
 .
 .. : bobo
-#-----------------------ch 52
+#-----------------------ch 52   
 to_awaken (imp) : ueragima
 .
 to_awaken (imp) : ueragima
@@ -31131,7 +31153,7 @@ zion : zion
 .
 to_put (imp) : ubita
 on : aL
-your : femaa
+your : femaza
 beautiful : qooLuhmo
 garments : kovniLtim
 ,
@@ -31503,7 +31525,7 @@ astonished (adj) : saLasaqemo
 at : ed
 him : saL
 ,
-so (ad) : fuzi
+so (adv) : fuzi
 marred (adj) :  Lovzitmo
 to_be (past) : uamo
 his : saza
@@ -31563,7 +31585,7 @@ shall : ufanmu
 to_contemplate : ujumdinbamediu
 .
 .. : bobo
-#-------------------------ch 53
+#-------------------------ch 53  
 '? : qqi
 who : qiqo
 have : ueLanad
@@ -31679,7 +31701,7 @@ to_account : uejexuoLtu
 him : saL
 stricken (adj) : fadvejqiLmo
 ,
-struck (adj) : gufdavixgumo
+to_strike (past) : ufdavoqo
 down : TuzLa
 by : pi
 god : kut
@@ -31740,7 +31762,7 @@ and : oxe
 the : da
 lord : etme
 have : ueLanad
-to_lay : unouu
+to_lay (past) : unouo
 on : aL
 him : saL
 the : da
@@ -31760,6 +31782,7 @@ afflicted (adj) : guesneqadumo
 ,
 yet : cuatpu
 he : sa
+to_do (past) : utuTuo
 not : mot
 to_open : uabiLu
 his : saza
@@ -31787,6 +31810,7 @@ silent : fenamdumo
 ,
 so (adv) : fuzi
 he : sa
+to_do (past) : utuTuo
 not : mot
 to_open : uabiLu
 his : saza
@@ -31798,7 +31822,7 @@ perversion : bavrizfeaL
 of : asu
 justice : exifduxi
 he : sa
-to_be : uamu
+to_be (past) : uamo
 taken : cutoqauni
 away : ereizi
 .
@@ -31812,7 +31836,7 @@ future : hitiva
 '? : qqu
 for (conj) : huvupu
 he : sa
-to_be : uamu
+to_be (past) : uamo
 cut : cujituni
 off : afvani
 from : hazani
@@ -31823,7 +31847,7 @@ the : da
 living (noun, pl) : onezemquLkaT
 ,
 stricken : cufadvejqiLuni
-for (conj) : huvupuzi
+for (cprep) : huvuin
 the : da
 transgressions : tazeLfqavafhuumim
 of : asu
@@ -31831,7 +31855,7 @@ my : eLemza
 people : kuunim
 .
 they : mi
-to_make : uLaqau
+to_make (past) : uLaqao
 his : saza
 grave (noun) : okazere
 with : qemhe
@@ -31848,18 +31872,18 @@ rich (noun, pl) : ovejmoT
 although : emdaiqusa
 he : sa
 have : ueLanad
-to_do : utuTuu
+to_do (past) : utuTuo
 no : iL
 violence : zeamiLexa
 ,
 and : oxe
 there : dava
-to_be : uamu
+to_be (past) : uamo
 no : iL
 deceit : siuceif
 in : uL
 his : saza
-moith : LuoTu
+mouth : LuoTu
 .
 yet : cuatpu
 it : fa
@@ -31881,7 +31905,7 @@ his : saza
 life : neha
 a : a
 offering : buahsavu
-for (conj) : huvupuzi
+for (prep) : huvuin
 sin : timdu
 ,
 he : sa
@@ -31973,7 +31997,7 @@ to : tu
 death : gabuTaeT
 ,
 and : oxe
-to_be : uamu
+to_be (past) : uamo
 numbered : cumiLpizuni
 with : qemhe
 the : da
@@ -31981,7 +32005,7 @@ transgressors : utzeLfqavafhizim
 .
 yet : cuatpu
 he : sa
-to_bear : upaezu
+to_bear (past) : upaezo
 the : da
 sins : timduT
 of : asu
@@ -31989,14 +32013,14 @@ many : boncaL
 ,
 and : oxe
 he : sa
-to_make : uLaqau
+to_make (past) : uLaqao
 intercession : uLtavexihfeaL
 for (conj) : huvupuzi
 the : da
 transgressors : utzeLfqavafhizim
 .
 .. : bobo
-#-----------------------ch 54
+#-----------------------ch 54 
 to_sing (imp) : ufemqa
 ,
 o : o
@@ -32005,7 +32029,7 @@ one : eLikam
 who : qiqo
 to_do (past) : utuTuo
 not : mot
-to_bear : upaezo
+to_bear (past) : upaezo
 .
 to_burst (imp) : upivhata
 into : duLtu
@@ -32092,13 +32116,13 @@ and : oxe
 your : femaza
 descendants : TafexiLTomduT
 will : danaLeu
-to_possess (fut) : ubufhihafi
+to_possess : ubufhihafu
 the : da
 nations : moteuLim
 ,
 and : oxe
 will : danaLeu
-to_settle (fut) : ufatdanai
+to_settle : ufatdanau
 the : da
 desolate (adj) : pafunotamo
 towns : turLaT
@@ -32116,7 +32140,7 @@ ashamed (adj) : rufafenimo
 .
 to_do (mp) : utuTua
 not : mot
-to-to_be : tupa
+to_to_be : tupa
 discouraged (adj) : TefexaivokaTmo
 ,
 for (conj) : huvupu
@@ -32510,6 +32534,7 @@ that : idta
 to_be : uamu
 fashioned : zuhofafuuni
 against : egeemhob
+you : fema
 shall : ufanmu
 to_prosper : ubzahbavu
 ,
@@ -32547,7 +32572,7 @@ the : da
 lord : etme
 .
 ..  : bobo
-#----------------------ch 55
+#----------------------ch 55  
 ho : ho
 everyone : qiugqe
 who : qiqo
@@ -32601,7 +32626,7 @@ bread : naube
 and : oxe
 your : femaza
 labor : punopuviu
-for (conj) : huvupuzi
+for (prep) : huvuin
 that : idta
 which : zexu
 to_do : utuTuu
@@ -32655,7 +32680,7 @@ steadfast : fadioTsehtimo
 ,
 sure (adj) : fivamo
 love : voqofdeu
-for (conj) : huvupuzi
+for (prep) : huvuin
 david : david
 .
 to_see (imp) : uzeTa
@@ -32672,7 +32697,7 @@ a : a
 leader : noatiz
 and : oxe
 commander : juLneLTav
-for (conj) : huvupuzi
+for (prep) : huvuin
 the : da
 peoples : kuunimim
 .
@@ -32718,7 +32743,7 @@ have : ueLanad
 to_glorify (past) : uhmazuhiu
 you : fema
 .
-to_seek (kmp) : ufaiga
+to_seek (imp) : ufaiga
 the : da
 lord : etme
 while : zafumipu
@@ -32768,6 +32793,7 @@ and : oxe
 to : tu
 our : Lamza
 god : kut
+,
 for (conj) : huvupu
 he : sa
 will : odanaLeu
@@ -32833,7 +32859,7 @@ from : hazani
 heaven : toerehu
 ,
 and : oxe
-to_du : utuTuu
+to_do : utuTuu
 not : mot
 to_return : uvativLu
 there : dava
@@ -32978,7 +33004,7 @@ cut : cujituni
 off : afvani
 .
 .. : bobo 
-#------------------------ch 56
+#------------------------ch 56  
 thus : difazi
 to_say : ubofu
 the : da
@@ -33057,7 +33083,6 @@ to_separate : ufabovafau
 me : eLem
 from : hazani
 his : saza
-
 people : kuunim
 .
 ' : qu
@@ -33065,7 +33090,7 @@ and : oxe
 to_do (imp) : utuTua
 not : mot
 to_let : unatu
-the : da
+the : da  
 eunuch : iimijfaf
 to_say : ubofu
 ' : qi
@@ -33288,7 +33313,7 @@ dogs : quuzeT
 that : idta
 not : mot
 to_be_able : tupaepna
-to_to_bark : tupovgu
+to_bark : tupovgu 
 . 
 dreaming : uboqoLuLka
 ,
@@ -33366,7 +33391,7 @@ measure (noun) : oLaehozia
 .
 ' : qu
 .. : bobo
-#--------------------------ch 57
+#--------------------------ch 57 
 the : da
 righteous (noun, pl) : ovekfataafim
 to_perish : ubavefu
@@ -33400,8 +33425,8 @@ calamity : jonoLeti
 and : oxe
 they : mi
 to_enter : uiLtavu
-into : duLtu
-peace : voose
+into : duLtu 
+peace : voose 
 .
 those : dufa
 who : qiqo
@@ -33444,6 +33469,7 @@ mocking : uLujaguLka
 '? : qqu
 '? : qqi
 against : egeemhutu
+who : qiqo
 to_do : utuTuu
 you  : fema
 to_open : uabiLu
@@ -33512,7 +33538,7 @@ portion (noun) : obuvduum
 .
 they : mi
 ,
-thry : mi
+they : mi
 to_be : uamu
 your (pl) : femaT
 lot : nut
@@ -34009,9 +34035,10 @@ my : eLemza
 god : kut
 .
 .. : bobo
-#-----------------------ch 58
+#-----------------------ch 58  
 to_shout (imp) : ufafaita
 out : aut
+.
 to_do : utuTuu
 not : mot
 to_hold : usuntuu
@@ -34029,6 +34056,13 @@ to_announce (imp) : ueLmuoLjia
 to : tu
 my : eLemza
 people : kuunim
+their : miza
+rebellion : vapanmuum
+.
+to : tu 
+house : gatonu
+of : asu
+jacob : jakob
 their : miza
 sins : timduT
 .
@@ -34098,7 +34132,7 @@ ourselves : aivhimziT
 ,
 but : pit
 you : fema
-to_do : utuTuu
+to_do (past) : utuTuo
 not : mot
 to_notice : umutejau
 '? : qqu
@@ -34494,7 +34528,7 @@ have : ueLanad
 spoken : cubisuni
 .
 .. : bobo
-#-----------------------------ch 59
+#-----------------------------ch 59 
 to_see (imp) : uzeTa
 ,
 the : da
@@ -34801,14 +34835,14 @@ mournfully : Luozmuhinmuzi
 .
 we : Lam
 to_wait : uzoudu
-for (conj) : huvupuzi
+for (prep) : huvuin
 justice : exifduxi
 but : pit
 there : dava 
 to_be : uamu 
 none : muma
 ,
-for (conj) : huvupuzi
+for (prep) : huvuin
 salvation : banofdohu
 but : pit
 it : fa
@@ -34982,7 +35016,7 @@ on : aL
 garments : kovniLtim
 of : asu
 vengeance : ozamqiomexi
-for (conj) : huvupuzi
+for (prep) : huvuin
 clothing : qumaTuLka
 ,
 and : oxe
@@ -34995,7 +35029,7 @@ in : ul
 a : a
 mantle : Lomdani
 .
-according : egazTemqa
+according : egazTemqa   
 to : tu
 their : miza
 deeds : Taitim
@@ -35019,7 +35053,7 @@ the : da
 coastlands : juehtameLTim
 he : sa 
 will : danaLeu
-to_render (fut) : uvamtizi
+to_render : uvamtizu
 requital : vagiudem
 .
 so : fu
@@ -35396,9 +35430,10 @@ to_wait : uzoudu
 the : da
 ships : nureT
 of : asu
+Tarshish : Tarsis
 first : guLikagni
 ,
-to_to_bring : tupzuLku
+to_to_bring : tupzuLku 
 your : femaza
 children : jentuuT
 from : hazani
@@ -35703,7 +35738,7 @@ stones : qezeT
 iron : guzaL
 .
 i : eLe
-will : odanaLeu
+will : danaLeu
 to_appoint : uebabaemdu
 peace : voose
 as (adv) : ehzi
@@ -35882,7 +35917,7 @@ it : fa
 quickly (adv) : mubaetnizi
 .
 .. : bobo
-#-----------------------------ch 61
+#-----------------------------ch 61 
 the : da
 spirit : samgu
 of : asu
@@ -36678,7 +36713,7 @@ forsaken (adj) : cuhuvhegnumo
 .
 '  : qu
 .. : bobo
-#-----------------ch 63
+#-----------------ch 63  
 
 
 
