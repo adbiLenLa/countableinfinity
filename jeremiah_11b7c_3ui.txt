@@ -4590,7 +4590,7 @@ to_mutter : uLitdizu
 '? :qqi
 should : fuomTu
 a : a
-people (noun) : okuunim
+people (noun) : okuunima
 not : mot
 to_consult : ujumhomta
 their : miza
@@ -16118,7 +16118,7 @@ camels : joLinim
 , : ,
 to : tu
 a : a
-people : okuunim
+people : okuunima
 that : idta
 not : mot
 to_be_able : tupaepna
@@ -18020,7 +18020,7 @@ highways : sekfazouT
 to_be : uamu
 deserted (adj) : puTafavdunimo
 . : .
-travelers (noun, : , pl) : otazerimaT
+travelers (noun, : , pl) : otazerimezim
 have : ueLanad
 to_quit (past) : ugiudo
 the : da
@@ -19261,7 +19261,7 @@ god's : kutza
 people : kuunim
 . : .
 no : iL
-traveler : otazerima
+traveler : otazerimez
 , : ,
 not : mot
 even : iriL
@@ -23223,7 +23223,7 @@ offspring : ashuhbazuLkim
 of : asu
 abraham : abraham
 my : eLemza
-friend : uhtaza
+friend : ohtaza
 . : .
 you : fema
 who : qiqo
@@ -41332,7 +41332,7 @@ father : botav
 you : fema
 to_be : uamu
 the : da
-friend : uhtaza
+friend : ohtaza
 of : asu
 my : eLemza
 youth : ruuoTa
@@ -43473,7 +43473,7 @@ fire : tine
 , : ,
 and : oxe
 this : def
-people (noun, : , sing) : okuunim
+people (noun, : , sing) : okuunima
 wood : zaut
 , : ,
 and : oxe
@@ -43774,7 +43774,7 @@ it : fa
 . : .
 but : pit
 this : def
-people (noun, : , sing) : okuunim
+people (noun, : , sing) : okuunima
 to_have : utuseu
 a : a
 stubborn : fadopapuvLamo
@@ -44602,7 +44602,7 @@ to_to_bring (fut) : tupzuLki
 disaster : Tefofdiz
 on : aL
 this : def
-people (sing) : okuunim
+people (sing) : okuunima
 , : ,
 the : da
 fruit : hazoet
@@ -44680,7 +44680,7 @@ to_be : uamu
 laying : unouuLka
 before (prep) : pahuvin
 this : def
-people (sing) : okuunim
+people (sing) : okuunima
 stumbling (adj) : bufdinapniuLkamo
 blocks : pamaxeqaT
 against : egeemhutu
@@ -44696,7 +44696,7 @@ together (adv) : kuftafhezizi
 . : .
 neighbor : moebozu
 and : and
-friend : uhtaza
+friend : ohtaza
 shall : ufanmu
 to_perish (fut) : ubavefu
 . : .
@@ -44708,7 +44708,7 @@ lord : etme
 to_see (imp) : uzeTa
 , : ,
 a : a
-people (sing) : okuunim
+people (sing) : okuunima
 to_be : uamu
 coming : ujuLauLka
 from : hazani
@@ -45272,7 +45272,7 @@ the : da
 wickedenss : bosiomafha
 of : asu
 my : eLemza
-people (sing) : okuunim
+people (sing) : okuunima
 israel : israeL
 . : .
 and : oxe
@@ -45953,7 +45953,7 @@ the : da
 corpses : juvbufaT
 of : asu
 this : da
-people (sing) : okuunim
+people (sing) : okuunima
 will : danaLeu
 to_be (fut) : uami
 food : viage
@@ -46203,7 +46203,7 @@ why : Leqahu
 then : fenmaem
 have : ueLanad
 this : def
-people (sing) : okuunim
+people (sing) : okuunima
 to_turn (past) : utivLo
 away : ereizi
 in : uL
@@ -46297,7 +46297,7 @@ coming (noun) :  ojuaLauLka
 . : .
 but : pit
 my : eLemza
-people (sing) : okuunim
+people (sing) : okuunima
 to_do : utuTuu
 not : mot
 to_know : uqaLaru
@@ -46361,7 +46361,7 @@ to_to_be : tupa
 dismayed (adj) : cuTefneinimo
 and : oxe
 taken (adj) : cuToqaunimo
-.
+. : .
 since (adv) : femexizi
 they : mi
 have : ueLanad
@@ -46754,7 +46754,7 @@ the : da
 hurt : osivdu
 of : asu
 my : eLemza
-people (sing) : okuunim
+people (sing) : okuunima
 i : eLe
 to_be : uamu
 hurt (adj) : sivdumo
@@ -46793,22 +46793,527 @@ health : saemda
 of : asu
 my : eLemza
 poor (adj) : buazmo
-people (sing) : okuunim
+people (sing) : okuunima
 not : mot
 to_be (past) : uamo
 restored : cuvafdazuni
 '? : qqu
 .. : bobo
 #--------------jeremiah ch 9
-
-
-
-
-
-
-
-
-
+o : o
+that : idta
+my : eLemza
+head : baet
+to_be (past) : uamo
+a : a
+spring : fabvemqa
+of : asu
+water : zife
+, : ,
+and : oxe
+my : eLemza 
+eyes : fenaneT
+a : a 
+fountain : huoLtooL
+of : asu
+tears : taezim
+, : ,
+so : fu
+that : idta
+i : eLe
+to_might : uLekfatu
+to_weep : uzaibu
+day : bauri
+and :  oxe
+night : mekasdu
+for (prep) : huvuin
+the : da
+slain (noun, pl) : fameemim
+of : asu
+my : eLemza
+poor : buazmo
+people (sing) : okuunima
+. : .
+o : o
+that : idta
+i : eLe
+to_have (past) : utuseo
+in : uL
+the : da
+desert : oTafavdu
+a : a
+traveler's : otazerimezaza
+lodging (noun) : onuTqiuLka
+place : obamexi
+, : ,
+that : idta
+i : eLe
+may : Lou
+to_leave (fut) :  unaezai
+my : eLemza
+people (sing) : okuunima
+and : oxe
+to_go (fut) : uLamLi
+away : ereizi
+from : hazani
+them : miim
+. : .
+for (conj) : huvupu
+they : mi
+to_be  : uamu
+all : bom
+adulterers : etomtavavim
+, : ,
+a : a
+band : ozupomu
+of : asu
+traitors : tazeetuvim
+. : .
+they : mi
+to_bend : upamtu
+their : miza
+tongues : otumqoaT
+like : qiuL
+bows : opuzim
+. : .
+they : mi
+have : ueLanad
+to_grow (past) : ukzaro
+strong : zosroTmo
+in : uL
+the : da
+land : nomta
+for (prep) : huvuin
+falsehood :  honhifauT
+, : ,
+and : oxe
+not : mot
+for (prep) : huvuin
+truth : bentuu
+. :  .
+for (conj) : huvupu
+they : mi
+to_proceed : ubzaxiaTu
+from : hazani
+evil : vuirum
+to : tu
+evil : vuirum
+, : ,
+and : oxe
+they : mi
+to_do : utuTuu
+not : mot
+to_know : uqaLaru
+me : eLem
+, : ,
+to_say : ubofu
+the : da
+lord : etme
+. : .
+to_beware (imp) : upazovaa
+of : asu
+your : femaza
+neighbors : moebozuT
+, : ,
+and : oxe
+to_put (imp) : ubita
+no : iL
+trust (noun) : okutzahtu
+in : uL
+any : eLu
+of : asu
+your : femaza
+kin : qema
+. : .
+for (conj) : huvupu
+all : bom
+of : asu
+your : femaza
+kin : qema
+to_be : uamu
+supplanters : fibabnomdizim
+, : ,
+and : oxe
+every : exuqo
+neighbor : moebozu
+to_go : uLamLu
+around (adv) : ezaomtazi
+like : qiuL 
+a : a
+slanderer : ofameLTaviz
+. : .
+they : mi
+all : bom
+to_deceive : uTajauriu
+their : miza
+neighbors : moebozuT
+, : ,
+and : oxe
+no : iL
+one : eLikam
+to_speak : ubisiu
+the : da
+truth : bentuu
+. : .
+they : mi
+have : ueLanad
+taught : gutaexsuni
+their : miza
+tongues : otumqoaT
+to_to_speak : tubisiu
+lies : neiT
+. : .
+they : mi
+to_commit : uquLetu
+iniquity : buLukaeti
+and : oxe
+they : mi
+to_be : uamu
+too : duazi
+weary : zaezumo
+to_to_repent : tuvabamdu
+. : .
+oppression : okabubzihfeaL
+upon : obam
+oppression : okabubzihfeaL
+, : ,
+deceit : suiceif
+upon : obam
+deceit : suiceif
+. : .
+they : mi
+to_refuse : uvahifu
+to_to_know : tuqaLaru
+me : me
+, : ,
+to_say : ubofu
+the : da
+lord : etme
+. : .
+therefore : izqu
+thus : difazi
+to_say : ubofu
+the : da
+lord : etme
+of : asu
+hosts : sufduT
+. : .
+i : eLe
+will : danaLeu
+now : mit
+to_refine : uvahemau
+and : oxe
+to_test : utafdu
+them : miim
+, : ,
+'? : qqi
+for (conj) : huvupu
+what : Leta 
+else : imfa
+to_be_able : tupaepna
+i : eLe
+to_do : utuTuu
+with : qemhe
+my : eLemza
+sinful : timdunen
+people (sing) : okuunima
+'? : qqu
+their : miza
+tongue : otumqoa
+to_be : uamu
+a : a
+deadly (adj) : TaeTnimo
+arrow : ezvuz
+. : .
+it : fa
+to_speak : ubisiu
+deceit : siuceif
+through : dazo
+the : da
+mouth : LuoTu
+. :  .
+they : mi
+all : bom
+to_speak : ubisiu
+friendly (adj) : bohtazamumo
+words : zavTuT
+to : tu
+their : miza
+neighbors : moebozuT
+, : ,
+but : pit
+inwardly (adv) : guLzovtamuzi 
+to_be : uamu
+planning : ubmeLuLka
+to_to_lay : tunouu
+a : a
+ambush : oenpifaf
+. : .
+'? : qqi
+shall : ufanmu
+i : eLe
+not : mot
+to_punish : ubimefafu
+them : miim
+for (prep) : huvuin
+these : dafa
+things : dumqaT
+'? : qqu
+to_say : ubofu
+the : da
+lord : etme
+. : .
+'? : qqi
+and : oxe
+shall : ufanmu
+i : eLe
+not : mot
+to_bring : upzuLku
+retribution : vatzupoduum
+on : aL
+a : a
+nation : moteuL
+such (adj) : fijafmo
+as : eh
+this : def
+'? : qqu
+to_take (imp) : utoqaa
+up : maoho
+weeping (noun) : ozaibuLka
+and : oxe
+wailing (noun) : ozoumuLka
+for (prep) : huvuin
+the : da
+mountains : ziazuT
+. : . 
+and : oxe
+a : a
+lamentation : noLamdeduum
+for (prep) : huvuin
+the : da
+pastures : bofdoziaT
+of : asu
+the : da
+wilderness : izenoe
+, : ,
+because : qufge
+they : mi 
+to_be : uamu
+laid : cunouki
+waste : oruzofdiu
+so : fu
+that : idta
+no : iL
+one : eLikam
+to_pass : ubofhau
+through : dazo
+, : ,
+and : oxe
+the : da
+lowing (noun) : onuzuLka
+of : asu
+cattle : jotdanaT
+to_be : uamu
+not : mot
+heard : cufnauni
+. : .
+both : LunaLned
+the : da
+birds : pevtuT
+of : asu
+the : da
+air : eeva
+and : oxe
+the : da
+animals : imeemim
+have : ueLanad
+fled : cuhmiaduni
+and : oxe
+to_be : uamu
+gone : guLamLuni
+. : .
+i : eLe
+will : danaLeu
+to_make (fut) : uLaqai
+Jerusalem : jersaLem
+a : a
+heap : saeba
+of : asu
+ruins : vooLuT
+, : ,
+a : a
+lair : nouz
+of : asu
+jackals : exojgemim
+. : .
+and : oxe
+i : eLe
+will : danaLeu
+to_make (fut) : uLaqai
+the : da
+towns : turLaT
+of : asu
+Judah : judah
+a : a
+desolation : oTafunoteaL
+, : ,
+without : zeduoudzi
+inhabitant : guLsopetomdu
+.  : .
+'? : qqi
+who : qiqo
+to_be : uamu
+wise : zefamo
+enough (adj) : iLaihumo
+to_to_understand : tuunLavau
+this : def
+'? : qqu
+'? : qqi
+to : tu
+who : qiqo
+have : ueLanad
+the : da 
+mouth : LuoTu
+of : asu
+the : da
+lord : etme
+to_speak (past) : ubisio
+, : ,
+so : fu
+that : idta
+they : mi
+may : Lou
+to_declare : uTajmezu
+it : fa
+'? : qqu
+'? : qqi
+why : Leqahu
+to_be : umau
+the : da
+land : momta
+ruined (adj) : vooLitmo
+and : oxe
+laid : cunouni
+waste : oruzofdiu
+like : qiuL 
+a : a
+wilderness : izenoe
+, : ,
+so : fu
+that : idta
+no : iL
+one : eLikam
+to_pass : ubofhau
+through : dazo
+'? : qqu
+and : oxe
+the : da
+lord : etme
+to_say : ubofu
+. : .
+because : qufge
+they : mi
+have : ueLanad
+to_forsake (past) : uhuvhegio
+my : eLamza
+law : noz
+that : idta
+i : eLe
+to_set (past) : ufato
+before : pahuv
+them : miim
+, : ,
+and : oxe
+have : ueLanad
+not : mot
+to_obey (past) : ueLTzo
+my : eLemza
+voice : zuuxi
+, : ,
+or : az
+to_walk (past) : uzongo
+in : uL
+accordance: exjuvteLja
+with : qemhe
+it : fa
+,  : ,
+but : pit
+have : ueLanad
+stubbornly : fadopapuvLanizi
+to_follow (past) : ufaozo
+their : miza
+own : armu
+hearts : fiTamim
+and : oxe
+have : ueLanad
+after (prep) : estazin
+the : da
+baaLs : baaLim
+, : ,
+as : eh
+their : miza
+ancestors : eLjafdazim
+to_teach (past) : utaexso
+them : miim
+. : .
+therefore : izquä
+to_say : ubofu
+the : da
+lord : etme
+god : kut
+of : asu
+hosts : sufduT
+, : ,
+the : da
+god : kut
+of : asu
+israel : israeL
+. : .
+i : eLe
+to_be : uamu
+feeding : uhaituLka
+this : def
+people (sing) : okuunima
+with : qemhe
+wormwood : zuvnazuat
+and : oxe
+giving : ukezuLka
+them : miim
+poisonous (adj) : buuhaLaifmo
+water : zife
+to_to_drink : tuTzuLqu
+. : .
+i : eLe
+will : danaLeu
+to_scatter (fut) : ufugedtavi
+them : miim
+among : enamku
+the : da
+nations : moteuLim
+that : idta
+neither : mauTiz
+they : mi
+nor : muz
+their : miza
+ancestors : eLjafdazim
+have : ueLanad
+to_know (past) : uqaLaro
+. : .
+and : oxe
+i : eLe
+will : danaLeu
+to_send (fut) : ufamti
+the : da
+sword : fazasa
+after (prep) : estazin
+them : miim
+, : ,
+until : oLten
+i : eLe
+have : ueLanad
+consumed : cufiateuni
+them : miim
+. : .
 
 
 
