@@ -2184,7 +2184,7 @@ me : eLem
 to_sing : ufemqu
 for (conj) : huvupu
 my : eLemza
-beloved (noun) : opanuzaT
+beloved (noun) : opanuzaTa
 my : eLemza
 song : fumqa
 of : asu
@@ -2194,7 +2194,7 @@ his : saLza
 vineyard : zemaiovTa
 . : .
 my : eLemza
-beloved (noun) : opanuzaT
+beloved (noun) : opanuzaTa
 to_have (past) : utuseo
 a : a
 vineyard : zemaiovTa
@@ -32245,7 +32245,7 @@ a : a
 brief (adj) : pazuahmo
 moment : LuLamda
 i : eLe
-to_abandon (past) : uepeLTumo
+to_abandon (past) : uepeLTumao
 you : fema
 , : ,
 but : pit
@@ -49447,10 +49447,367 @@ words : zavTuT
 to : tu
 you : fema
 . : .
-
-
-
-
+i : eLe
+have : ueLanad
+to_forsake (past) : uhuvhegio
+my : eLemza
+house : gatonu
+. : .
+i : eLe
+have  ueLanad
+to_abandon (past) : uepeLTumao
+my : eLemza
+heritage : savetoka
+. : .
+i : eLe
+have : ueLanad
+to_give (past) : ukezo
+the : da
+beloved : opanuzaTa
+of : asu
+my : eLemza 
+heart : fiTam
+into : duLtu
+the : da
+hands : qafeT
+of : asu
+her : soLza
+enemies : iLinuT
+. : .
+my : eLemza
+heritage : savetoka
+have : ueLanad
+to_become (past) : upajuLao
+to : tu
+me : eLem
+like : qiuL 
+a : a
+lion : feLpe
+in : uL
+the : da
+forest : huvafda
+. : .
+she : so
+have : ueLanad
+to_lift (past) : unehdo
+her : soLza
+voice : zuuxi
+against : egeemhutu
+me : eLem
+. : .
+therefore : izqu
+i : eLe
+to_hate : uzesou
+her : soL
+. : .
+'? : qqi
+to_be : uamu
+the : da
+hyena : siiLeT
+greedy (adj) : kaziaTimo
+for (prep) : huvuin
+my : eLemza
+heritage : savetoka
+at : ed
+my : eLemza
+command (noun) : opujuLneLTu
+´? : qqu
+'? : qqi
+to_be : uamu
+the : da
+birds : pevtuT
+of  asu
+prey : bazii
+all : bom
+around (prep) : ezaomtin
+her : soL
+´? : qqu
+to_go (imp) : uLamLa
+, : ,
+to_assemble (imp) : uefhaLpnaa
+all : bom
+the : da
+wild : zentamo
+animals : imeemim
+. : .
+to_bring (imp) : upzuLka
+them : miim
+to_to_devour : tuTazuouzu
+her : soL
+. : .
+many : boncaL
+shepherds : bunoneLsavtuT
+have : ueLanad
+to_destroy (past) : utisuto
+my : eLemza
+vineyard : zemaiovTa
+. : .
+they : mi
+have : ueLanad 
+to_trample (past) :  utzenbamio
+down : TuzLa
+my : eLemza
+portion (noun) :  obuvduum
+. : .
+they : mi
+have : ueLanad
+to_make (past) : uLaqao
+my : eLemza
+pleasant : bamiofomdamo
+portion (noun) : obuvduum
+a : aL
+desolate (adj) : pafunotamo
+wilderness : izenoe
+. : .
+they : mi
+have : ueLanad
+to_make (past) : uLaqao
+it : fa
+a : a 
+desolation : oTafunoteaL
+. : .
+desolate (adj) : pafunotamo
+, : ,
+it : fa
+to_mourn : uLuozmu
+to : tu
+me : eLem
+. : .
+the : da
+whole : ququmo
+land : nomta
+to_be : uamu
+to_make (past) : uLaqao
+desolate (adj) pafunotamo
+, : ,
+but : pit
+no : iL
+one : eLikam
+to_lay : unouu
+it : fa
+to : tu
+heart : fiTam
+. : .
+upon : obam
+all : bom
+the : da
+bare : povamo
+heights : sauqaftaT
+in : uL
+the : da
+desert : Tafavdu
+spoilers : ofabaenizim
+have : ueLanad
+to_come (past) : ujuLao
+. : .
+for (conj) : huvupu
+the : da
+sword : fazasa 
+of : asu
+the : da
+lord : etme
+to_devour : uTazuouzu
+from : hazani
+one : eLikam
+end : iLTu
+of : asu 
+the : da
+land : nomta
+to : tu
+the : da
+other : aTiz
+. : .
+no . iL
+one : eLikam
+shall : ufanmu
+to_be (fut) : uami
+safe (adj) : fohamo
+they : mi
+have : ueLanad
+to_sow (past) : ufuzavo
+wheat : zafiota
+and : oxe
+have : ueLanad
+to_reap (past) : uvaebo
+thorns : dubvaLim
+. : .
+they : mi
+have : ueLanad
+to_tire (past) : utevao
+themselves : daLhinhim
+out : aut
+but : pit
+to_profit : ubzasudu
+nothing : eemhob
+. : .
+they : mi
+shall : ufanmu
+to_be (fut) : uami
+ashamed : rufafenini
+of : asu
+their : miza
+harvests : fotuT
+because : qufge
+of : asu
+the : da
+fierce : heizjamo
+anger : eLkav
+of : asu
+the : da
+lord : etme
+. : .
+thus : difazi
+to_say : ubofu
+the : da
+lord : etme
+concerning : ujumexizmuLka
+all : bom
+my : eLemza
+evil : vuirumamo
+neighbors : moebozuT
+whO : qiqo
+to_touch : utuoxasu
+the : da
+heritage : savetoka
+that : idta
+i : eLe
+have : ueLanad
+to_give (past) : ukezo
+to : tu
+my : eLemza
+people (sing) : okuunim
+israel : israeL 
+to_to_inherit : tuuLsavetu
+. : .
+i : eLe
+to_be : uamu
+about (adv) : epaitzi
+to_to_pluck : tubmoxaqu
+them : miim
+up : maoho
+from : hazani
+their : miza
+land : nomta
+, : ,
+and : oxe
+i : eLe
+will : danaLeu
+to_pluck (fut) : ubmoxaqi
+up : maoho
+the : da
+house : gatonu 
+of : asu
+judah : judah
+from : hazani
+among : enamku
+them : miim
+. : .
+and : oxe
+after (prep)  : estazin
+i : eLe
+have : ueLanad
+to_pluck (past) : ubmoxaqo
+them : miim
+up : maoho
+, : , 
+i : eLe
+will : danaLeu
+again : toehu
+to_have (fut) : utusei
+compassion : juLbehfeam
+on : aL
+them : miim
+, : ,
+and : oxe
+i : eLe
+to_bring (fut) : upzuLki
+them : miim
+again : toehu
+to : tu
+their : miza
+heritage : savetoka
+and : oxe
+to : tu
+their : miza
+land : nomta
+, : ,
+every : qiugae
+one : eLikam
+of : asu
+them : miim
+. : .
+and : oxe
+then : fenmaem
+, : ,
+if : fux
+they : mi
+will : danaLeu
+diligently (adv) : Tenkamdamuzi
+to_learn (fut) : unaozmi
+the : da
+ways : zouT
+of : asu
+my : eLemza
+people (sing) : okuunim
+, : ,
+to_swear (fut) : ufriovi
+by : pi
+my : eLemza
+name : moL
+. : .
+' : qi
+as : eh
+the : da
+lord : etme
+to_live : unezu
+. : .
+´ : qu
+as : eh
+they : mi
+to_teach (past) : utaexso
+my : eLemza
+people (sing) : okuunim
+to_to_swear (past) : tufriovo
+by : pi
+baal : baaL
+, : ,
+then : fenmaem
+they : mi
+shall : ufanmu
+to_to_be : tupa
+built : cubiumTuni
+up : maoho
+in : uL
+the : da
+midst : LeThaf
+of : asu
+my : eLemza
+people : kuunim
+. : .
+but : pit
+if : fux
+any : eLu
+nation : moteuL
+will : danaLeu
+not : mot
+to_listen (fut) : unefdiLi
+, : ,
+then : fenmaem
+i : eLe
+will : danaLeu
+completely : juLbnatamuzi
+to_uproot (fut) : uobvuadi
+it : fa
+and : oxe
+to_destroy (fut) : utisuti
+it : fa
+, : ,
+to_say : ubofu
+the : da 
+lord : etme
+. 
+.. : bobo
+#-------------------------jeremiah ch 13
 
 
 
