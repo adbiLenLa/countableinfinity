@@ -12568,7 +12568,7 @@ down : TuzLa
 every : exuqo
 house : gatonu 
 to_be : uamu
-shut : kufafoduki
+shut (adj) : kufafodukimo
 up : maoho 
 so : fu
 that : idta
@@ -49808,14 +49808,818 @@ lord : etme
 . 
 .. : bobo
 #-------------------------jeremiah ch 13
-
-
-
-
-
-
-
-
+thus : difazi 
+to_say (past) : ubofo 
+the : da
+lord : etme 
+to : tu
+me : eLem
+' : qi
+to_go (imp) : uLamLa
+and : oxe
+to_buy (imp) : upia
+for (prep) : huvuin
+yourself : buuozhanrihu
+a : a
+linen : memam
+loincloth : nuuLjamaTa
+, : ,
+and : oxe
+to_put (imp) : ubita
+it : fa
+on : aL
+your : femaza
+loins : nuuLim
+, : ,
+but : pit 
+to_do (imp) : utuTua
+not : mot
+to_dip : uTebu
+it : fa
+in : uL 
+water : zife
+. : .
+' : qu
+so : fu
+i : eLe
+to_buy (past) : upio
+a : aL
+loincloth : nuuLjamaTa
+according : egazTamqa
+to : tu
+the : da
+word : zavTu
+of : asu
+the : da
+lord : etme
+, : ,
+and : oxe
+to_put (past) : ubito
+it : fa
+on : aL
+my : eLemza
+loins : nuuLim
+. : .
+and : oxe
+the : da
+word : zavTu 
+of : asu
+the : da
+lord : etme
+to_come (past) : ujuLao
+to : tu
+me : eLem 
+a : a
+second : eLipamzi
+time : ieqo
+, : ,
+saying : ubofuLka
+' : qi
+to_take (imp) : utoqaa 
+the : da
+loincloth : nuuLjamaTa
+that : idta
+you : fema
+to_buy (past) : upio
+and : oxe
+you : fema
+to_be : uamu
+now : mit
+wearing : uzaezuLka
+, : ,
+and : oxe
+to_go (imp) : uLamLa
+to : tu
+the : da
+euphrates : eufraTis
+, : ,
+and : oxe
+to_hide (imp) : useTaa
+it : fa
+there : dava 
+in : uL
+a : a
+cleft : qamistu
+of : asu
+the : da
+rock : vuqa
+. : .
+' : qu
+so : fu
+i : eLe 
+to_go (past) : uLamLo
+and : oxe
+to_hide (past) : useTao
+it : fa
+near : nasanmein
+the : da
+euphrates : eufraTis
+as : eh
+the : da
+lord : etme
+to_command (past) : ujuLneLTo
+me : eLem
+. : .
+and : oxe
+after (prep) : estazin
+many : boncaL
+days : bauriT
+, : ,
+the : da
+lord : etme
+to_say (past) : ubofo
+to : tu
+me : eLem
+' : qi
+to_go (imp) : uLamLa
+now : mit
+to : tu
+the : da 
+euphrates : eufraTis
+and : oxe
+to_take (imp) : utoqaa
+from : hazani
+there : dava
+the : da
+loincloth : nuuLjamaTa
+that : idta
+i : eLe
+to_command (past) : ujuLneLTo
+you : fema
+to_to_hide : useTau
+there : dava
+. : .
+' : qu 
+then : fenmaaem
+i : eLe
+to_go (past) : uLamLo
+to : tu
+the : da
+euphrates : eufraTis
+and : oxe
+to_dig (past) : uTeko
+, : ,
+and : oxe
+i : eLe
+to_take (past) : utoqao
+the : da
+loincloth : nuuLjamaTa
+from : hazani
+the : da
+place : obamexi
+where : Lefhi
+i : eLe
+have : ueLanad
+to_hide (past) : useTao
+it : fa
+. : .
+but : pit
+now : mit
+the : da
+loincloth : nuuLjamaTa
+to_be (past) : uamo
+ruined (adj) : vooLitmo
+. : .
+it : fa
+to_be (past) : uamo
+good (adj) : kuatmo
+for (prep) : huvuin
+nothing : eemhob
+. : .,
+then : fenaem
+the : da
+word  zavTu
+of : asu
+the : da
+lord : etme
+to_come (past) : ujuLao
+to : tu
+me : eLem
+. : .
+thus : difazi
+to_say : ubofu
+the : da
+lord : etme
+. : .
+just : dafixu
+so : fu
+i : eLe
+will : danaLeu
+to_ruin (fut) : uviuLi
+the : da
+pride : bazuti
+of : asu
+judah : judah
+and : oxe
+the : da
+great : kaziotmo
+pride : bazuti
+of : asu
+jerusalem : jerusaLem
+. : .
+this : def
+evil : vuirumamo
+people (sing) : okuunim
+, : ,
+who : qiqo
+to_refuse : uvahifu
+to_to_hear : tufnau
+my : eLemza
+words : zavTuT
+, : ,
+who : qiqo
+stubbornly : fadopapuvLanizi
+to_follow : ufaozu
+their : miza
+own : armu
+will (noun) : odanaLeu
+and : oxe
+have : ueLanad
+to_go (past) : uLamLo
+after (prep) : estazin
+other : aTiz
+gods : kutim
+to_to_serve : tufavriu
+them : miim
+and : oxe
+to_to_worship : tubouraLtou
+them : miim
+, : ,
+shall : ufanmu
+to_be (fut) : uami
+like : qiuL
+this : def
+loincloth : nuuLjamaTa
+which : zexu
+to_be : uamu
+good : kuatmo
+for (prep): huvuin
+nothing : eemhob
+. : .
+for (conj) : huvupu
+as : eh
+the : da
+loincloth : nuuLjamaTa
+to_cling : uexnamqu
+to : tu
+one's : eLikamza
+loins : nuuLim
+, : ,
+so : fu
+i : eLe
+to_make (past) : uLaqao
+the : da
+whole : ququmo
+house : gatonu
+of : asu
+israel : israeL
+and : oxe
+the : da
+whole : ququmo
+house : gatonu
+of : asu
+judah : judah
+to_cling : uexnamqu
+to : tu
+me : eLem
+, : ,
+to_say : ubofu
+the : da
+lord : etme
+, : ,
+in : uL
+order : azTav
+that : idta
+they : mi
+may : Lou
+to_to_be : tupa
+for (prep) : huvuin
+me : eLem
+a : a
+people (sing) : okuunim
+, : ,
+a : a
+name : moL 
+, : ,
+a : a
+praise : pubzeefau
+, : ,
+and : oxe
+a : aL
+glory : kumazu
+. : .
+but : pit
+they : mi
+would : zuomTuni
+not : mot
+to_listen (past) : unefdiLo
+. : .
+you : fema
+shall : ufanmu
+to_speak (imp) : ubisia
+to : tu
+them : miim
+this : def
+word : zavTu
+. : .
+thus : difazi
+to_say : ubofu
+the : da
+lord : etme
+, : ,
+the : da
+god : kut
+of : asu
+israel : israeL
+. : .
+every : exuqo
+wine : zeume
+jar : exov
+should : fuomTu
+to_to_be : tupa
+filled : buhenmuni
+with : qemhe
+wine : zeume
+. : .
+and : oxe
+they : mi
+will : danaLeu
+to_say (fut) : ubofi
+' : qi
+'? : qqi
+to_do : utuTuu
+you : fema
+to_think : udemgu
+that : idta
+we : Lam
+to_do : utuTuu
+not : mot
+to_know : uqaLaru
+that : idta
+every : exuqo
+wine : zeume
+jar : exov
+should : fuomTu
+to_to_be : tupa
+filled : buhenmuni
+with : qemhe
+wine : zeume
+'? : qqu
+' : qu
+then : fenmaem
+you : fema 
+shall : ufanmu
+to_say (imp) : ubofa
+to : tu
+them : miim
+. : .
+thus : difazi
+to_say : ubofu
+the : da
+lord : etme
+. : .
+i : eLe
+to_be : uamu
+about : epaitzi
+to_to_fill (fut) :  utuhenmi
+the : da
+inhabitants : guLsopetomduT
+of : asu
+this : def
+land : nomta
+, : ,
+the : da
+kings : vacuT
+who : qiqo
+to_sit : ufetau
+on : aL
+david's : davidza
+throne : dazaLi
+, : ,
+the : da
+priests : qusamim
+, : ,
+the : da
+prophets : bisaLeihuT
+, : ,
+and : oxe
+all : bom
+the : da
+inhabitants : guLsopetomduT 
+of : asu 
+jerusalem : jerusaLem
+, : ,
+with : qemhe 
+drunkenness : TazoLqamafha
+. : .
+and : oxe
+i : eLe
+will : danaLeu
+to_dash (fut) : uTofafi
+them : miim
+one : eLikam
+against : egeemhutu
+another : tuuLiL
+, : ,
+parents : bovamdiT
+and : oxe
+children : jentuuT
+together (adv) : kuftafhezizi
+, : ,
+to_say : ubofu
+the : da
+lord : etme
+. : .
+i : eLe
+will : danaLeu
+not : mot
+to_pity (fut) : ubetii
+or : az
+to_spare (fut) : ufbezii
+or : az
+to_have (fut) : utusei 
+compassion : juLbehfeam
+when : qom
+i : eLe
+to_destroy (fut) : utisuti
+them : miim
+. : .
+to_hear (imp) : ufnaa
+and : oxe
+to_give (imp) : ukeza
+ear : quvre
+. : .
+to_do (imp) : utuTua
+not : mot
+to_to_be : tupa
+haughty : sooqasdumo
+, : ,
+for (conj) : huvupu
+the : da
+lord : etme
+have : ueLanad
+to_speak (past) : ubisio
+. : .
+to_give (imp) : ukeza
+glory : kumazu
+to : tu
+the : da 
+lord : etme
+your : femaza
+god : kut
+before (adv) : pahuvzi
+he : sa
+to_bring (fut) : upzuLki
+darkness : Tovgumafha 
+, : ,
+and : oxe
+before (adv) : pahuvzi
+your : femaza
+feet : exongeT
+to_stumble (fut) : ufdinapnii
+on : aL
+the : da
+mountains : ziazuT
+at : ed
+twilight : tarumuqasda
+. : .
+while (conj) : zafumipu
+you : fema
+to_look : unaugou 
+for (prep) : huvuin
+light : nekfuta
+, : ,
+he : sa
+to_turn : utivLu
+it : fa
+into : duLtu
+gloom (noun) : kamauL
+and : oxe
+he : sa
+to_make : uLaqau
+it : fa
+deep (adj) : Taibmo
+darkness : Tovgumaafha
+. : .
+but : pit
+if : fux
+you : fema
+will : danaLeu
+not : mot
+to_listen (fut) : unefdiLi
+, . ,
+my : eLemza
+soul : feima
+will : danaLeu
+to_weep (fut) : uzaibi
+in : uL
+secret (noun) : ofajzid
+for (prep) : huvuin
+your : femaza
+pride : bazuti
+. : .
+my : eLemza
+eyes : fenaneT
+will : danaLeu
+to_weep (fut) : uzaibi
+bitterly (adv) : petdizazi
+and : oxe
+to_run (fut) : uvimi
+down : TuzLa
+with : qemhe
+tears : taezim
+, : ,
+because : qufge
+the : da
+lord's : etmeza
+have : ueLanad
+flock : neoneT
+have : ueLanad
+to_be (past) : uamo
+taken : cutoqauni
+captive (adj) : cujobdozumo 
+. : .
+to_say (imp) : ubofa
+to : tu
+the : da
+king : vacu
+and : oxe
+the : da
+queen : giiam
+mother : Ludav
+' : qi
+to_take (imp) : utoqaa
+a : a
+lowly (adj) : nuznumo
+seat : faed
+, : ,
+for (conj) : huvupu
+your : femaza
+beautiful : qooLuhmo
+crown : qazarma 
+have : ueLanad
+to_come (past) : ujuLao
+down : TuzLa
+from : hazani 
+your : femaza
+head : baet
+' : qu
+the : da
+towns : turLaT
+of : asu
+the : da
+negeb : negeb
+to_be : uamu
+shut (adj) :  kufafodukimo
+up : maoho
+with : qemhe
+no : iL
+one : eLikam
+to_to_open : tuabiLu 
+them : miim
+. : .
+all : bom
+judah : judah
+to_be : uamu
+taken : cutoqauni
+into : duLtu
+exile : ijumi
+, : ,
+wholly (adv) : zafamnizi
+taken : cutoqauni
+into : duLtu
+exile : ijumi
+. : . 
+to_lift (imp) : unehda
+up : maoho
+your : femaza
+eyes : fenaneT
+and : oxe
+to_see (imp) : uzeTa
+those : dufa
+who : qiqo
+to_come : ujuLau
+from : hazani 
+the : da
+north : muvTu
+. : .
+'?  :qqi
+where : Lefhi
+to_be : uamu
+the : da
+flock : neone
+that : idta
+to_be (past) : uamo
+given : cukezamuni
+to : tu
+you : fema 
+, : ,
+your : femaza
+beautiful : qooLuhmo
+flock : neone
+'? : qqu
+'? : qqi
+what : Leta
+will : danaLeu
+you : fema
+to_say (fut) : ubofi
+when : qom
+they : mi
+to_set (fut) : ufati
+as : eh
+head : baet
+over : ariz
+you : fema
+those : dufa
+who : qiqo
+you : fema
+have : ueLanad
+to_train (past) : utzeemo
+to_to_be : tupa
+your : femaza
+allies : emniT
+'? : qqu
+'? : qqi
+will : danaLeu
+not : mot
+pangs : bomqaT
+to_take (fut) : utoqai
+hold (hold) : osunTu
+of : asu
+you : fema
+, : ,
+like : qiuL
+those: dufa 
+of : asu
+a : a
+woman : zuLom
+in : uL
+labor : punopuviu
+´? : qqu
+and : oxe
+if : fux
+you : fema
+to_say : ubofu
+in : uL
+your : femaza
+heart : fitam
+' : qi
+'? : qqi
+why : Leqahu
+have : ueLanad
+these : dafa
+things : dumqaT
+to_come (past) : ujonmo
+upon : obam
+me : eLem
+'? : qqu
+' : qu
+it : fa
+to_be : uamu
+for (prep) : huvuin
+the : da
+greatness : kaziotmafha
+of : asu
+your : femaza
+iniquity : buLukaeti
+that : idta
+your : femaza
+skirts : faguzatim
+to_be : uamu
+lifted : Lunehduni
+up : maoho
+, : ,
+and : oxe 
+you : fema
+to_be : uamu
+violated : Luzeametauni
+. : .
+'? : qqi
+to_be_able : tupaepna
+ethiopians : kuskuunim
+to_change : ujemqiu
+their : miza
+skins : faguLim
+, : ,
+or : az
+leopards :  naabezTaT
+their : miza
+spots : fabadim
+'? : qqu
+then : fenmaem
+also (adv) : emfuzi
+you : fema
+to_be_able : tupaepna
+to_do : utuTuu
+good (noun) : okuat
+who : qiqo
+to_be : uamu
+accustomed (adj) : exjifdanitmo
+to_to_do : tutuTuu
+evil : vuirum
+. : .
+i : eLe
+will : danaLeu
+to_scatter (fut) : ufugedtavi
+you (pl) : femaT
+like : qiuL 
+chaff : johaso
+driven : kutzureuni
+by : pi
+the : da
+wind : tiomu
+from : hazani
+the : da
+desert (noun) : oTafavdu
+. : .
+this : def
+to_be : uamu
+your : femaza
+lot : nut
+, : ,
+the : da
+portion : obuvduum
+that : idta
+i : eLe
+have : ueLanad
+to_measure (past) : uLaehoo
+out : aut
+to : tu
+you : fema
+, : ,
+to_say : ubofu
+the : da
+lord : etme 
+, . ,
+because : qufge
+you : fema
+have : ueLanad
+to_forget (past) : uhuvqido
+me : eLem
+and : oxe
+to_trust (past) : uhzohto
+in : uL
+lies : neiT
+. : .
+i : eLe
+myself : Lifansu
+will : danaLeu
+to_lift (fut) : unehdi
+up : maoho
+your : femaza
+skirts : faguzatim
+over : ariz
+your : femaza
+face : qofrad
+, : ,
+and : oxe
+your : femaza
+shame (noun) : ofafenia
+will : danaLeu
+to_be (fut) : uami
+seen : TuzeTuni
+. : .
+i : eLe
+have : ueLanad
+to_see (past) : uzeTo
+your : femaza
+abominations : epanuLeduumim
+, : ,
+your : femaza
+adulteries : etomtaviT
+and : oxe
+neighings : umauqasuLkaT
+, : ,
+your : femaza
+shameless (adj) : fafenianafhamo
+prostitutions : obazahtetiteaLim
+on : aL
+the : da
+hills : LaqeT
+of : asu
+the : da
+countryside : juoLtzufeTa
+. : .
+woe : zui 
+to : tu
+you : fema
+o : o
+jerusalem : jerusaLem
+. : .
+'? : qqi
+how : suo
+long (adv) : numqazi
+will : danaLeu
+it : fa
+to_to_be : tupa
+before (adv) : pahuvzi
+you : fema
+to_be (fut) : uami
+made : kuLaqauni
+clean(adj) : bistohmo
+'? : qqu
+.. : bobo
+#--------------------jeremiah ch 14
 
 
 
