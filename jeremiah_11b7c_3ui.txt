@@ -4,11 +4,40 @@
 # by john.david jones
 # ozazL
 #
-#  abcdefghijkLmnopqrsTtuvxz
-#
-#  t is pronounced like th in thank you
+#  abcde
+#  fghij
+#  kLmno
+#  pqrsT
+#  tuvxz
+#--
+#  a as in father
+#  b as in baby
+#  c as in chess
+#  d as in day
+#  e aw in help
+#  f as in father
+#  g as in good
+#  h as in hello 
+#  i as in me
+#  j as in jupiter
+#  k as in katherine
+#  L as in lamb
+#  m as in make
+#  n as in now
+#  o as in open 
+#  p as in padre
+#  q as in quickly
+#  r as in rope
+#  s as in simple
 #  T like Today
-#  h like hello
+#  t as in thanks
+#  u as in Tube
+#  v as in very
+#  x as is nexT
+#  z as in zebra
+#--
+#  one syllable per vowel
+#  ubzeiu -> ub-ze-i-u  
 #-----------------------ch 1
 the : da
 vision : zefaeL
@@ -72056,6 +72085,224 @@ with : qemhe
 fire : tine 
 . : .
 ' : qu
+then : fenmaem
+zedekiah : zedekiah 
+to_say (past) : ubofo 
+to : tu 
+jeremiah : jeremiah 
+' : qi 
+to_do (imp) : utuTua 
+not : mot 
+to_let : unatu 
+anyone : eLuuma 
+else : imfa 
+to_know : uqaLaru
+of : asu 
+this : def
+conversation : jumrizfoteaL 
+, : ,
+or : az
+you  fema 
+will : danaLeu 
+to_die (fut) : uqoaniLi
+. : .
+if : fux
+the : da 
+officials : ashejeemim 
+should : fuomTu
+to_hear (fut) : ufnai 
+that : idta 
+i : eLe
+have : ueLanad 
+to_speak (past) : ubisio
+with : qemhe 
+you : fema 
+, : ,
+and : oxe
+they : mi
+should : fuomTu
+to_come (fut) : ujuLai
+to : tu 
+you : fema
+and : oxe
+to_say (fut) : ubofi
+' : qiqi
+to_tell (imp) : uqavdua 
+us : La 
+to_say (past) : ubofo 
+to : tu 
+the : da 
+king : vacu 
+. : .
+to_do (imp) : utuTua 
+not : mot 
+to_conceal : ujumexiun
+it : fa 
+from : hazani 
+us : La
+, : ,
+or : az
+we : Lam 
+will : danaLeu 
+to_put : ubitu
+you : fema
+to : tu 
+daeth : gabuTaeT 
+. : .
+'? : qqi 
+what : Leta 
+to_do (past) : utuTuo 
+the : da 
+king : vacu 
+to_say (past) : ubofo
+to : tu 
+you : fema
+'? : qqu
+' : ququ
+then : fenmaem 
+you : fema 
+shall : ufanmu 
+to_say (imp) : ubofa
+to : tu 
+them : miim 
+' : qiqi 
+i : eLe
+to_be (past) : uamo 
+presenting : ubzihiLtuLka
+my : eLemza 
+plea : ozubmioTa 
+to : tu 
+the : da 
+king : vacu 
+not : mot
+to_to_send : tufamtu
+me : eLem 
+back : pojguzi 
+to : tu 
+the : da 
+house : gatonu 
+of : asu 
+jonathon : jonaton 
+to_to_die : tuqoaniLu 
+there : dava
+. : .
+' : ququ
+' : qu
+all : bom 
+the : da 
+officials : ashejeemim 
+to_do (past) : utuTuo
+to_come (past) : ujuLao 
+to : tu 
+jeremiah : jeremiah 
+and : oxe
+to_question (past) : ugiihteaLo
+him : saL 
+. : .
+and : oxe
+he : sa 
+to_answer (past) : uzoftedeo 
+them : miim 
+in : uL
+the : da
+very (adj) : tufemo 
+words : zavTuT 
+the : da 
+king : vacu 
+to_command (past) : ujuLneLTo 
+. : .
+so : fu 
+they : mi 
+to_stop (past) : ufdabo 
+questioning : ugiihteaLuLka
+him : saL 
+, : ,
+for (conj) : huvupu 
+the : da 
+conversation : jumrizfoteaL 
+have : ueLanad 
+to_be (past) : uamo 
+overheard : cuarizsaezTuni
+. : .
+and : oxe
+jeremiah : jeremiah 
+to_remain (past) : uvaLouLo 
+in : uL 
+the : da 
+court : juozta 
+of : asu 
+the : da 
+guard : okiezTa 
+until : oLten 
+the : da 
+day : bauri 
+jerusalem : jerusaLem
+to_be (past) : uamo 
+taken : cutoqauni 
+. : .
+.. : bobo
+#----------------------------jeremiah ch 39
+in : uL 
+the : da 
+ninth : eLiTom 
+year : eLmuf 
+of : asu 
+king : vacu 
+zedekiah : zedekiah 
+of : asu 
+judah : judah 
+, : ,
+in : uL
+the : da 
+tenth : eLikaTam 
+month : LumTa 
+, : ,
+king : vacu 
+nebuchadnezar : nebukadnezar 
+of : asu 
+babalon : babaLon 
+and : oxe
+all : bo, 
+his : saLza
+army : ezLaxo 
+to_come (past) : ujuLao
+against : egeemhutu 
+jerusalem : jerusaLem 
+and : oxe
+to_beseige (past) : upafauqo
+it : fa 
+. : .
+in : uL
+the : da 
+eleventh : eLikakam 
+year : eLmuf 
+of : asu 
+zedekiah : zedekiah 
+, : ,
+in : uL
+the : da 
+fourth : eLikim
+month : LumTa 
+, : ,
+on : aL 
+the : da 
+ninth : eLiTom 
+day : bauri 
+of : asu 
+the : da 
+month : LumTa 
+, : ,
+a : a 
+breach : paziojfa 
+to_be (past) : uamo 
+made : kuLaqauni 
+in : uL
+the : da 
+city : qoiboLqe 
+. : .
+
+
+
 
 
 
