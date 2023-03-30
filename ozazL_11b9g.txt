@@ -46268,7 +46268,7 @@ to_listen (past) : unefdiLo
 , : ,
 but : pit
 they : mi
-to_do : ututuu
+to_do : utuTuu
 not : mot
 to_speak : ubisiu
 honestly (adv) : sumafdamuzi
@@ -56693,7 +56693,7 @@ for (prep) : huvuin
 nothing : eemhob 
 , : ,
 and : oxe
-to_do : ututuu
+to_do : utuTuu
 not : mot 
 to_give : ukezu
 them : miim 
@@ -58054,7 +58054,7 @@ to_see : uzeTuLka
 them : miim 
 '? : qqu 
 '? : qqi
-to_do : ututuu
+to_do : utuTuu
 i : eLe 
 not : mot 
 to_fill : utuhenmu 
@@ -87972,7 +87972,7 @@ the : da
 prayers : cubzeiT 
 of : asu 
 the : da 
-saints : fouLtaT
+saints : biseLifim
 . : .
 they : mi 
 to_sing : ufemqu 
@@ -88005,7 +88005,7 @@ you : fema
 to_ransom (past) : uvemhano 
 for (prep) : huvuin 
 god : kut 
-saints : fouLtaT 
+saints : biseLifim 
 from : hazani 
 every : exuqo 
 tribe : tazupi 
@@ -89316,7 +89316,7 @@ prayers : cubzeiT
 of : asu 
 all : bom
 the : da
-saints : fouLtaT 
+saints : biseLifim 
 on : aL 
 the : da 
 golden : qindemo 
@@ -89339,7 +89339,7 @@ the : da
 prayers : cubzeiT 
 of : asu 
 the : da
-saints : fouLtaT 
+saints : biseLifim 
 , : ,
 to_rise (past) : uvero
 before : pahuv 
@@ -91151,7 +91151,7 @@ servants : foLtehim
 the : da 
 prophets : bisaLeihuT 
 and : oxe
-saints : fouLtaT 
+saints : biseLifim 
 and : oxe
 all : bom 
 who : qiqo 
@@ -91981,7 +91981,7 @@ to_to_make : tuLaqau
 war : futo 
 on : aL 
 the : da 
-saints : fouLtaT 
+saints : biseLifim 
 and : oxe
 to_to_conquer : tujumkoavu
 them :  miim 
@@ -92083,7 +92083,7 @@ and : oxe
 faith : houTa 
 of : asu 
 the : da 
-saints : fouLtaT 
+saints : biseLifim 
 . : .
 now : mit
 i : eLe 
@@ -92722,7 +92722,7 @@ the : da
 endurance : iLTivomexi 
 of : asu 
 the : da
-saints : fouLtaT 
+saints : biseLifim 
 , : ,
 those : dufa 
 who : qiqo 
@@ -93444,7 +93444,7 @@ to_shed : ufafitu
 the : da 
 blood : zave 
 of : asu 
-saints : fouLtaT 
+saints : biseLifim 
 and : oxe
 prophets : bisaLeihuT 
 , : ,
@@ -94042,7 +94042,7 @@ the : da
 blood : zave 
 of : asu 
 the : da 
-saints : fouLtaT 
+saints : biseLifim 
 and : oxe
 the : da 
 blood : zave 
@@ -95104,7 +95104,7 @@ o : o
 heaven : toerehu 
 , : ,
 you (pl) : femaT 
-saints : fouLtaT
+saints : biseLifim
 and : oxe
 apostles : ebahtamiT 
 and : oxe
@@ -95263,7 +95263,7 @@ bloos :  zave
 of : asu 
 prophets : bisaLeihuT
 and : oxe
-saints : fouLtaT 
+saints : biseLifim 
 , : ,
 and : oxe
 of : asu
@@ -95512,7 +95512,7 @@ righteous : vekfataafmo
 deeds : Taitim 
 of : asu 
 the : da
-saints : fouLtaT 
+saints : biseLifim 
 . : .
 and : oxe
 the : da 
@@ -96250,7 +96250,7 @@ the : da
 camp (noun) : ojoLba
 of : asu 
 the : da
-saints : fouLtaT 
+saints : biseLifim 
 and : oxe
 the : da 
 beloved (adj) : opanuzaTamo 
@@ -97852,7 +97852,7 @@ to_be (imp) : uama
 with : qemhe 
 all : bom
 the : da 
-saints : fouLtaT 
+saints : biseLifim 
 . : .
 amen : amen 
 . : .
@@ -97868,7 +97868,7 @@ amen : amen
 #    vanhan vaasan sairaaLa
 #
 #--------------------------------------
-#ch1 : ch1
+$11b9g : $11b9g
 my : eLemza 
 name : moL 
 to_be : uamu 
@@ -97877,7 +97877,7 @@ ozazL : ozazL
 i : eLe
 to_be : uamu
 god's : kutza 
-messenger : almegim
+messenger : aLmeg
 . : .
 the : da 
 lord : etme 
@@ -97996,7 +97996,7 @@ this : def
 '? : qqu
 '? : qqi 
 why : Leqahu 
-to_do : ututuu
+to_do : utuTuu
 it : fa 
 to_feel : uhaimu
 like : qiuL 
@@ -98113,7 +98113,7 @@ to_be : uamu
 nectar : majdez
 in : uL
 the : da 
-name : molech
+name : moL
 of : asu 
 god : kut
 . : .
@@ -98486,7 +98486,8 @@ of : asu
 aLaLuie : aLaLuie 
 hazoet : hazoet
 . : .
-#11b9h/3wn:0z:vV:::
+.. : bobo
+$11b9h : $11b9h
 to_let (imp) : unata 
 there : dava 
 to_to_be : tupa 
@@ -98738,16 +98739,275 @@ the : da
 truly (adv) : entuzi 
 wicked (noun, pl) : obosiohaT
 . : .
-
-
-
-
-
-
-
-
-
-
+the : da 
+vast (adj) : zofdamo 
+majority : oLoxuveti
+of : asu 
+people : kuunim 
+to_be : uamu 
+innocent (adj) : guLnujamdumo
+. : .
+have : utusea 
+mercy : Lavexu 
+and : oxe
+to_send (imp) : ufamta 
+opaTi : opaTi
+with : qemhe 
+her's : soLza 
+knife : qaLusi
+to_to_exact : tuijextu
+a : a  
+surgical (adj) : fivquxemamo
+removal (noun) : ovaLuzon
+of : asu 
+the : da 
+wicked (noun, pl) : obosiohaT 
+from : hazani 
+the : da 
+earth : iovTa 
+, : ,
+o : o 
+lord : etme 
+god : kut
+, : ,
+to_gather (imp) :  ukodava 
+the : da 
+saints : biseLifim
+, : ,
+the : da 
+fallen (noun, pl) : oquhonmumoT
+into : duLta 
+a : a 
+great : kaziotmo 
+congregation : jumqavakotaaL
+. : .
+they : mi 
+to_be : uamu 
+mighty : Lekfatimo 
+and : oxe
+beautiful : qooLuhmo 
+. : .
+they : mi 
+to_be : uamu 
+your : femaza 
+servants :  foLtehim 
+and : oxe 
+they : mi 
+to_love : uvoqofdeu 
+you : fema 
+with : qemhe 
+burning (adj) : kupivLuLkamo 
+hearts : fiTamim 
+. : .
+zavTu : zavTu 
+to_be : uamu 
+the : da 
+path : bod 
+of : asu 
+pure : bivamo 
+devotion : TazuteuL
+. : .
+aLaLuie : aLaLuie
+hazoet : hazoet 
+to_be : uamu 
+the : da 
+supreme : fibzinimo
+person : bavhaL 
+. : .
+he : sa 
+to_be : uamu 
+the : da 
+light : nekfuta 
+the : da 
+life : neha 
+and : oxe 
+the : da 
+love : voqofdeu
+of : asu 
+the : da 
+world : zavnuTaa
+. : .
+in : uL 
+the : da 
+holy : suni 
+name : moL  
+of : asu 
+jesus : jesus
+christ : qazuhat
+i : eLe
+to_pray (imp) : ubzeia
+. : .
+to_move (imp) : uLuzaa 
+and : oxe 
+to_appear (imp) : uebiova 
+o : o
+holy : suni
+spiriT : samgu 
+, : ,
+adaLao : adaLao
+, : ,
+here : suvu 
+and : oxe
+now : mit
+. : .
+to_move (imp) : uLuzaa
+in : uL 
+the : da 
+astral (adj) : ehtazemamo
+fluid : hamoeT 
+that : idta 
+to_surround : ufivzaoLtu 
+us : La 
+. : .
+to_call (imp) : ujonma
+upon : obam 
+the : da 
+lord : etme 
+by : pi 
+name : moL 
+. : .
+there : dava 
+to_be : uamu 
+nectar : majdez 
+in : uL 
+the : da 
+name : moL 
+, : ,
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+. : .
+boL : boL 
+ieue : ieue
+aLe : aLe 
+suTnam : suTnam
+. : .
+one : eLikam 
+by :  pi 
+one : eLikam
+, : ,
+step : fadib 
+by : pi 
+step : fadib
+. : .
+a : a 
+voice : zuuxi 
+, : ,
+still (adj) : fadumnumo 
+and : oxe
+pure (adj) : bivamo 
+to_tell : uqavduu 
+me : eLem 
+to_to_feel : tufaimu 
+the : da 
+lord : etme
+god : kut
+in : uL 
+my : eLemza 
+hands : qafeT 
+and : oxe
+feet : ezongeT 
+. : .
+the : da 
+voice : zuuxi 
+to_be : uamu 
+adaLao : adaLao
+. : .
+' : qi 
+you : fema 
+to_be : uamu 
+body : vionahu 
+and : oxe
+soul : feima 
+. : .
+to_feel (imp) : uhaima 
+me : eLem
+in : uL 
+your : femaza 
+hands : qafeT 
+and : oxe
+feet : exongeT
+, ; ,
+in : uL 
+your : femaza
+heart : fiTam 
+and : oxe
+tongue : otumqoa 
+, : ,
+my : eLemza 
+beloved : opanuzaTaa
+. : .
+you : fema 
+to_be : uamu 
+made : kuLaqauni 
+to_to_prosper : tubzahbavu 
+and : oxe
+to_to_thrive : tudzuriu 
+. : .
+you : fema 
+to_be : uamu 
+meant : muLaeLuni
+to_to_be : tupa
+happy (adj): gumaemamo 
+and : oxe 
+free (adj) : haziamo
+. : .
+to_be (imp) : uama 
+one : eLikam
+with : qemhe 
+me : eLem
+. : .
+this : def 
+voice : zuuxi
+to_be : uamu 
+new : oife
+. : .
+my : eLemza 
+name : moL
+to_be : uamu
+adaLao : adaLao
+. : .
+' : qu
+this : def
+word : zavTu 
+to_be : uamu 
+new : oife
+. : .
+' : qi
+in : uL
+the : da 
+beginning : cupakemu 
+to_be (past) : uamo
+the : da 
+word : zavTu
+. : .
+' : qu
+in : uL 
+the : da 
+name : moL 
+of : asu 
+the : da 
+lord : etme 
+jesus : jesus 
+christ : qazuhat
+i : eLe 
+to_summon (imp) : ufiLnaLa 
+niudeL : niudeL
+. : .
+to_rise (imp)  : uvera
+o : o
+lord : etme 
+niudeL : niudeL
+from : hazani 
+the : da
+deep (noun) : oTaib
+. : .
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova
+here : suvu 
+and : oxe 
+now : mit 
+. : .
 
 
 
