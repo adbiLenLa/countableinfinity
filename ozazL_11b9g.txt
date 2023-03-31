@@ -3650,7 +3650,7 @@ and : oxe
 to_conquer : ujumkoavu
 it : fa
 for (conj) : huvupu
-ourselves : buuozhanrihuT
+ourselves : aivhimzaT
 and : oxe
 to_make : uLaqau
 the : da
@@ -64116,7 +64116,7 @@ me : eLem
 for (conj) : huvupu 
 who : qiqo
 would : zuomTuni 
-otherwise (adv) : aTazazefamo
+otherwise (adv) : aTazazefazi
 to_dare : uTovau
 to_to_approach : tuebvuexu 
 me : eLem
@@ -99008,6 +99008,696 @@ here : suvu
 and : oxe 
 now : mit 
 . : .
+.. : bobo
+$11b9i : $11b9i 
+i : eLe
+to_feel : uhaimu 
+you : fema 
+lord : etme 
+god : kut 
+in : uL 
+my : eLemza 
+neck : majqa 
+and : oxe 
+back (noun) : ofange 
+and  : oxe
+shoulders : fafaintizim 
+, : , 
+lord : etme
+god : kut 
+most : Lufda 
+high : sekfamo 
+, : ,
+to_be (imp) : uama 
+with : qemhe 
+me : eLem 
+now : mit
+and : oxe 
+forever : huvazav 
+. : .
+you : fema 
+to_be : uamu 
+wonderful : zumtizhinmo 
+, : ,
+and : oxe 
+i : eLe 
+to_love : uvoqofdeu  
+you : fema 
+with : qemhe 
+all : bom 
+my : eLemza 
+heart : fiTam 
+and : oxe
+soul : feima 
+. : . 
+' : qi 
+to_tell (imp) : uqavdua 
+me : eLem 
+what : Leta
+you : fema 
+to_see : uzeTuLka
+. : .
+' : qu
+i : eLe
+to_see : uzeTu 
+a : a 
+angel : eLkan
+sitting : ufetauLka 
+at : ed 
+his : saLza 
+table : boude 
+. : .
+he : sa 
+to_have : utuseu 
+a : a 
+computer : teidaqaLi 
+and : oxe 
+a : a 
+guitar : kiudez 
+. : .
+he : sa 
+to_be : uamu 
+utterly : odtivmizi 
+alone : emaLi 
+. : .
+he : sa 
+to_be : uamu 
+beautiful : qooLuhmo 
+and : oxe
+he : sa 
+to_be : uamu
+in : uL 
+love : voqofdeu 
+with : qemhe 
+the : da 
+holy : suni 
+father : botav 
+, : ,
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+. : .
+' : qi 
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+and : oxe
+this : def 
+to_be : uamu
+my : eLemza 
+vision : zefaeL 
+. : .
+i : eLe 
+to_see : uzeTu 
+beautiful : qooLuhmo 
+humans : siLomim 
+living : unezuLka 
+forever : huvazav 
+in : uL 
+a : a 
+great : kaziotmo
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+' : qu
+there : dava 
+to_be : uamu 
+nectar : majdez 
+and : oxe 
+power : zuuno
+in : uL 
+zavTu : zavTu
+. : .
+to_fill (imp) : utuhenmaa 
+my : eLemza 
+hands : qafeT 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu
+o : o 
+etme kut 
+. : .
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+. : .
+i : eLe 
+to_serve : ufavriu 
+negivet : negivet 
+, : ,
+the : da 
+god : kut 
+of : asu
+israel : israeL
+. : .
+the : da 
+first : guLikagni
+encrypted (adj) : iLjazubtaTmo
+word : zavTu 
+to_be : uamu 
+negivet : negivet 
+to_mean : uLaeLu 
+supreme : fibzinimo 
+person : bavhaL
+. : .
+o : o
+great : kaziotmo 
+green : kaziamo 
+negivet : negivet 
+to_fill (imp) : utuhenmaa 
+my : eLemza 
+feima : qemhe
+power : zuuno
+and : oxe 
+glory : kumazu 
+. : .
+the : da 
+truth : bentuu 
+to_be : uamu 
+the : da 
+negative : makotez
+of : asu 
+a : a
+photograph : ohutukazes
+. : .
+purple : bivbanamo
+to_be : uamu 
+yellow : zuanmarmo
+. : .
+blue : panoamo
+to_be : uamu 
+orange : azeLkamo 
+. : .
+red : vaTumo 
+to_be : uamu 
+green : kaziamo 
+. : .
+i : eLu 
+to_call (imp) : ujonma 
+upon : obam 
+you : fema 
+by : pi 
+name : moL 
+, : ,
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+. : .
+to_let (imp) : unata
+them : miim 
+to_feel (imp) : uhaima
+your : femaza 
+power : zuuno 
+, : ,
+o : o
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+. : .
+they : mi
+to_be :  uamu 
+looking : unauguLka 
+to_to_feel : tuhaimu
+your : femaza 
+power : zuuno 
+in : uL 
+the : da 
+word : zavTu 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+aLaLuie : aLaLuie
+hazoet : hazoet 
+. : .
+to_start (imp) : ufdezta 
+at : ed
+the : da 
+beginning : cupakemu 
+and : oxe
+to_undo (imp) : uoLTua 
+every : exuqo 
+curse (noun) : ojivhiu 
+. : .
+to_be (imp) : uama 
+in : eL 
+the : da 
+garden : kovtiLa 
+and : oxe
+to_ask (imp) : uqifa 
+the : da 
+holy : suni 
+father : botav 
+if : fux
+the : da 
+words : zavTuT
+of : asu 
+the : da 
+serpent : qaezLa 
+to_be : uamu 
+true : entu 
+. : .
+' : qi
+you : fema 
+will : danaLeu 
+not : mot 
+to_die : uqoaniLu
+. : .
+for (conj) : huvupu 
+god : kut
+to_know : uqaLaru 
+that : idta 
+when : qom 
+you : fema 
+to_eat : ueiqamau
+of : asu 
+it : fa 
+your : femaza 
+eyes : fenaneT 
+will : danaLeu 
+to_to_be : tupa
+opened : cuabiLitni 
+, : ,
+and : oxe
+you : fema 
+will : danaLeu 
+to_to_be : tupa 
+like : qiuL 
+god : kut 
+, : ,
+knowing : uqaLaruLka 
+good (noun) : okuat 
+and : oxe
+evil : vuirum 
+. : .
+' : qu
+' : qi 
+then : fenmaem 
+the : da 
+lord : etme 
+god : kut 
+to_say (past) : ubofo
+' : qiqi 
+to_see (imp) :  uzeTa 
+, : ,
+the : da 
+man : Laihu 
+have : ueLanad 
+to_become (past) : upajuLao 
+like : qiuL 
+one : eLikam 
+of : asu 
+us : La 
+, : ,
+knowing : uqaLaruLka 
+good (noun) : okuat
+and : oxe
+evil : vuirum 
+. : .
+and : oxe 
+now : mit 
+, : ,
+he : sa
+could : juomTiuni 
+to_reach : utuvaexsu 
+out : aut 
+his : saLza
+hand : qafe 
+and : oxe
+to_take : utoqau 
+also : emfuzi 
+from : hazani 
+the : da 
+tree : bio 
+of : asu 
+life : neha 
+and : oxe
+to_live : unezu 
+forever : huvazav 
+. : .
+' : ququ'
+' : qu 
+the : da 
+woman : zuLom 
+to_go : uLamLu
+to : tu 
+the : da 
+man : Laihu 
+and : oxe
+to_tell : uqavduu 
+him : saL 
+the : da 
+words : zavTuT 
+of : asu 
+the : da 
+serpent : qaezLa
+, : ,
+and : oxe
+they : mi 
+to_go : uLamLu 
+together : kuftafhezizi 
+to_to_ask : tuqifu 
+the : da 
+holy : suni 
+father : botav 
+. : .
+in : uL 
+this : def
+version : zavhuum
+of : asu 
+the : da 
+story : fadazu 
+aLaLuie : aLaLuie 
+to_tell : uqavduu 
+adam : adam 
+and : oxe
+eve : eva 
+the : da 
+truth : bentuu 
+and : oxe
+to_invite : uuLzeta 
+the : da 
+mortals : Luvtomim 
+to_to_dine : uTemau 
+at : ed 
+his : saLza 
+table : boude 
+. : .
+the : da 
+lord : etme 
+god : kut 
+to_give : ukezu 
+them : miim 
+fruit : hazoet 
+from : hazani
+every : exuqo 
+tree : bio 
+, : ,
+and : oxe
+the : da 
+man : Laihu 
+and : oxe 
+woman : zuLom  
+to_become : upajuLau
+immortal : unLuvtomamo
+. : .
+this : def  
+to_be : uamu 
+the : da 
+first : guLikagni 
+curse : opujivhiu 
+undone : cuoLTuni 
+. : .
+so : fu 
+, : ,
+man : Laihu
+to_be (past) : uamo
+made : kuLaqauni 
+to_to_die : tuqoaniLu
+. : .
+the : da 
+holy : suni 
+father : botav 
+have : ueLanad 
+decided :  dutianutuni 
+to_to_have : tutuseu 
+mercy : Lavexu 
+on : aL 
+humankind :  siLomamoqemta 
+. : .
+he : sa 
+have : ueLanad 
+to_send (past) : ufamto 
+me : eLem 
+, : ,
+ozazL : ozazL 
+, : ,
+into : duLtu 
+the : da 
+world : zavnuTaa 
+with : qemhe 
+a : a  
+vision : zefaeL 
+and : oxe
+a : a
+charter : jovdiz 
+and : oxe
+the : da 
+technologies : taqaLamaquT 
+necessary : majafhezumo 
+to_to_make : tuLaqau 
+the : da
+vision : zefaeL 
+real (adj) : vaemamo 
+. : .
+the : da 
+holy : suni 
+father : botav 
+to_command : ujuLneLTu
+us : La 
+to_to_undo : tuoLTuu
+the : da 
+curse : opujivhiu
+of : asu 
+genesis : kamafef 
+11 : eLikakam 
+. : .
+' : qi 
+now : mit 
+the : da 
+whole : ququmo 
+earth : iovTa 
+have : ueLanad 
+one : eLikam 
+language : nomqooka 
+and : oxe
+the : da 
+same : foLamo 
+words : zavTuT 
+. : .
+and : oxe
+as : eh 
+they : mi 
+to_migate (past) : uLekzedio
+from : hazani 
+the : da 
+east : ude 
+, : ,
+they : mi 
+to_come (past) : ujuLao 
+upon : obam
+a : a 
+plain : bameem 
+in : uL 
+the : da 
+land : nomta
+of : asu 
+shinar : sinar 
+and : oxe
+to_settle (past) : ufatdanao 
+there : dava 
+. : .
+and : oxe 
+they : mi 
+to_say (past) : ubofo 
+to : tu
+one : eLikam 
+another : tuuLiL 
+' : qiqi 
+to_come (imp) : ujuLaa
+, : ,
+to_let (imp) : unata
+us : La 
+to_make : uLaqau 
+bricks : pazuxqaT 
+, : ,
+and : oxe 
+to_to_burn : tupivLu
+them : miim 
+thoroughly : duvuoqasmuzi 
+. : .
+' : ququ
+and : oxe 
+they : mi 
+have : ueLanad 
+bricks : pazuxqaT 
+for (prep) : huvuin 
+stone : qeze 
+and : oxe 
+bitumin : biTumina
+for (prep) : huvuin 
+mortar : nuvdez 
+. : .
+then : fenmaem 
+they : mi 
+to_say (past) : ubofo 
+' : qiqi 
+to_come (imp) : ujuLaa
+, : ,
+to_let (imp) : unata 
+us : La 
+to_build :  ubiumTu 
+ourselves : aivhimzaT 
+a : a 
+city : qoiboLqe 
+, : ,
+and : oxe
+a : a 
+tower : duvLu 
+with : qemhe 
+its : safaza 
+top : tuba 
+in : uL 
+the : da 
+heavens : toerehuT 
+. : .
+and : oxe
+to_let (imp) : unata 
+us : La 
+to_make : uLaqau 
+a : a 
+name : moL 
+for (prep) : huvuin 
+ourselves : aivhimzaT 
+. : .
+otherwise (adv) : aTazazefazi
+, : ,
+we : Lam 
+will : danaLeu 
+to_to_be : tupa 
+scattered : fugedtavuni
+abroad : epvuetzi 
+upon : obam 
+the : da 
+face : qofrad 
+of : asu
+the : da 
+whole : ququmo 
+earth : iovTa 
+. : .
+' : ququ
+the : da 
+lord : etme 
+to_come (past) : ujuLao 
+down : TuzLa
+to_to_see : tuzeTu 
+the : da 
+city : qoiboLqe 
+and : oxe
+the : da 
+tower : duvLu 
+, : ,
+which : zexu 
+mortals : Luvtomim 
+have : ueLanad 
+to_build (past) : ubiumTo 
+. : .
+and : oxe
+the : da 
+lord : etme 
+to_say (past) : ubofo 
+' : qiqi 
+to_look (imp) : unaugoa 
+, : ,
+they : mi 
+to_be :  uamu 
+one : eLikam 
+people (sing) : okuunim
+, : ,
+and : oxe
+they : mi 
+to_have : utuseu 
+all : bom 
+one : eLikam 
+language : nomqooka
+. : .
+this : def 
+to_be : uamu 
+only : oemueni 
+the : da 
+beginning : cupakemu 
+of : asu 
+what : Leta 
+they : mi 
+will : danaLeu 
+to_do (fut) : utuTui
+. : .
+nothing : eemhob 
+they : mi 
+to_propose : ubzabahiu
+to_to_do : tutuTuu
+will : danaLeu 
+to_to_be : tupa 
+impossible (adj) : dunbufhupnaumo 
+for (prep) : huvuin 
+them : miim 
+. : .
+to_come (imp) : ujuLaa 
+to_let (imp) : unata 
+us : La 
+to_go : uLamLu 
+down : TuzLa 
+and : oxe
+to_coinfuse : ujumsohiu
+their : miza
+language : nomqooka 
+there : dava 
+, : ,
+so : fu 
+that : idta 
+they : mi 
+will : danaLeu 
+not : mot 
+to_understand : uunLavau 
+one : eLikam 
+another's : tuuLiLaza
+speech : bubisio 
+. : .
+
+' : ququ
+so : fu 
+the : da 
+lord : etme 
+to_scatter (past) : ufugedtavo 
+them : miim 
+abroad : epvuetzi 
+from : hazani 
+there : dava 
+over : ariz 
+the : da 
+face : qofrad 
+of : asu
+the : da 
+whole : ququmo 
+earth : iovTa 
+, : , 
+and : oxe
+they : mi 
+to_stop (past) :  ufdabo 
+building : ubiumTuLka
+the : da 
+city : qoiboLqe
+. : .
+' : qu 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
