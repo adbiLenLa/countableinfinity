@@ -100091,7 +100091,7 @@ i : eLe
 to_be (past) : uamo 
 released : juvanaehiuni
 from : hazani
-containment : jumdeemnilta
+containment : jumdeemniLta
 . : .
 i : eLe
 to_be : uamu
@@ -100462,21 +100462,507 @@ distant (adj) : TefdeLatmo
 past : bofdu 
 . : .
 .. : bobo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+$11b9k : $11b9k 
+to_enter (imp) : uiLtava 
+my : eLemza 
+heart : fiTam 
+and : oxe
+tongue : otumqoa 
+, : ,
+adaLao : adaLao
+. : .
+to_move (imp) : uLuzaa 
+in : uL 
+my : eLemza
+sex_center : mufabu 
+. : .
+i : eLe 
+to_be (fut) : uami
+healthy (adj) : saemdimo 
+and : oxe
+strong (adj) : zosroTmo 
+forever : huvazav 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe
+to_open (imp) : uabiLa 
+the : da
+way : zou  
+to : tu 
+peace : voose 
+and : oxe 
+universal : goLurizfonmo 
+prosperity : obzahbavudu 
+. : .
+there : dava 
+to_be : uamu 
+a : a 
+total (adj) : tutonmo 
+lack (noun) : oTunojgu 
+of : asu 
+vision : zefaeL 
+. : .
+to_let (imp) : unata 
+the : da 
+zavTu : zavTu 
+vision : zefaeL 
+to_find : unoudeu 
+its : safaza 
+way : zou 
+into : duLtu 
+the : da 
+hearts : fiTamim 
+and : oxe
+souls : feimaT 
+of : asu 
+all : bom 
+humankind : siLomamoqemta 
+. : .
+i : eLe
+to_see : uzeTu 
+you (pl) : femaT 
+all : bom
+the : da 
+children : jentuuT 
+of : asu 
+earth : iovTa 
+, : ,
+in : uL
+a : a 
+great : kaziotmo 
+golden : qindemo  
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+, : ,
+living : unezuLka 
+forever : huvazav  
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+aLaLuie : aLaLuie 
+. : .
+in : uL 
+the : da 
+holy : suni 
+name : moL 
+of : asu 
+the : da 
+lord : etme 
+jesus : jesus 
+christ : qazuhat 
+i : eLe
+to_pray : ubzeiu 
+. : .
+this : def 
+message : baLmeg 
+to_be : umau 
+for (prep) : huvuin 
+you (pl) : femaT 
+, : ,
+children : jentuuT 
+of : asu 
+earth : iovTa 
+. : .
+i : eLe 
+to_be : uamu 
+jonekino : jonekino
+amuqimax : amuqimax 
+. : .
+i : eLe 
+will : danaLeu 
+to_to_be : tupa 
+with : qemhe 
+you (pl) : femaT 
+forever : huvazav 
+. : .
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+, : ,
+the : da 
+messenger : aLmeg 
+of : asu 
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+. : .
+you (pl) : femaT
+to_be : uamu 
+not : mot 
+alone : emaLi 
+, : ,
+dear : Tiezmo 
+devotee : Tazutai 
+of : asu 
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+, : ,
+aLaLuie : aLaLuie 
+hozoet : hozoet  
+. : .
+' . qi 
+i : eLe
+to_be : uamu 
+with : qemhe 
+you : fema
+always : emzouhuzi 
+. : .
+i : eLe 
+have : ueLanad 
+to_make (past) : uLaqao 
+you : fema 
+to_to_be : tupa 
+mighty : Lekfatimo 
+and : oxe 
+beautiful : qooLuhmo 
+. : .
+the : da 
+other : aTiz
+empires : oinbevaT 
+in : uL 
+the : da 
+galaxy : konoci
+anxiously (adv) : eLceaitzi 
+to_await : uereetu 
+your (pl) : femaTza 
+transcendance : tazeLfexiLTomexu
+. : .
+they : mi 
+to_shudder : ufafotTavu 
+. : .
+they : mi 
+to_know : uqaLaru 
+that : idta 
+you (pl) : femaT 
+to_be : uamu 
+a : a 
+mighty : Lekfatimo
+species : fabixuaf 
+. : .
+' : qu 
+to_say : ubofu 
+the : da 
+lord : etme 
+god : kut 
+most : Lufda
+high : sekfamo 
+. : .
+we : Lam 
+to_be : uamu 
+in : uL 
+the : da 
+singularity : femqomezudu
+. : .
+the : da 
+citizens : ojeteramim
+of : asu 
+the : da 
+zavTu : zavTu 
+empire : oinbeva 
+will : danaLeu 
+to_remember (fut) : uLiuhtoi
+this : def
+great : kaziotmo 
+crisis : jazuhuh 
+forever : huvazav 
+. : .
+jesus : jesus 
+to_be : uamu
+with : qemhe 
+you (pl) : femaT 
+all : bom
+. : .
+to_take (imp) : utoqaa 
+time  : ieqo 
+to_to_rejoice (imp) : tuvaxuuxaa
+in : uL 
+the : da 
+grace : kazexi 
+that : idta 
+aLaLuie : aLaLuie 
+have : ueLanad 
+to_bestow (past) : upafdaro 
+upon : obam
+you : fema 
+to_be : uamuLka
+sacred : foqazitmo 
+and : oxe
+holy : suni 
+, : ,
+and : oxe
+aha : aha 
+to_be : umau
+as : eh 
+much : Liju 
+in : uL 
+love : voqofdeu 
+with : qemhe 
+you : fema 
+as : eh 
+you : fema 
+to_be : uamu 
+with : qemhe 
+him : saL 
+. : .
+suTnam : suTnam 
+to_be : uamu 
+the : da 
+path : bodi 
+of : asu 
+pure : bivamo 
+devotion : TazuteuL
+. : .
+there : dava 
+to_be : uamu 
+power : zuuno 
+in : uL 
+the : da
+word : zavTu 
+zavTu : zavTu 
+, : ,
+boL : boL
+ieue : ieue
+aLe : aLe 
+suTnam : suTnam 
+. : .
+to_dream (imp) : uoqoLa 
+in : uL 
+color : junuv 
+, : , 
+dear : Tiezmo 
+child : jentuu 
+of : asu 
+aLaLuie : aLaLuie 
+. : .
+to_call (imp) : ujonma 
+upon : obam 
+adaLao : adaLao 
+. : .
+she : so 
+will : danaLeu 
+to_move : uLuzau
+in : uL 
+your : femaza 
+senses : famhiT
+and : oxe
+in : uL 
+your : femaza
+body : vionahu 
+and : oxe
+soul : feima 
+. : .
+' : qi 
+adaLao : adaLao 
+, : ,
+holy : suni 
+spirit : samgu 
+of : asu 
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+negivet : negivet 
+, : ,
+to_be (imp) : uama
+with : qemhe 
+us : La 
+. : .
+we : Lam 
+to_be : uamu 
+in : uL 
+terrible : tavzupnamo 
+trouble : okutazaipmiu 
+and : oxe
+we : Lam 
+to_need : utovrudtamuu 
+you : fema 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe
+to_move (imp) : uLuzaa
+in : uL 
+the : da 
+hearts : fiTamim 
+of : asu 
+the : da 
+oligarchs : amuqezqaT 
+so : fu 
+that : idta 
+they : mi 
+may : Lou 
+to_ratify : uvotehiu
+this : def 
+vision : zefaeL
+of : asu 
+a : a 
+great : kaziotmo 
+golden : qindemo 
+age : oeqi 
+for (prep) : huvuin 
+all : bom
+humankind : siLomamoqemta 
+. : .
+' : qu
+those : dufa 
+of : asu 
+you (pl) : femaT
+to_be : uamu 
+in : uL
+the : da
+future : hitiva
+to_be : uamu 
+very (adv) : tufezi
+excited (adj) : kuijajetaunimo
+. : .
+you (pl) : femaT 
+to_know  : uqaLaru 
+how : suo 
+humans : siLomim 
+found : cuhemtuni 
+their : miza 
+way : zou 
+out : aut 
+into : duLtu 
+the : da 
+galaxy : konoci 
+. : .
+you (pl) : femaT 
+to_know : uqaLaru 
+how : suo
+close (adj) : jamahimo 
+to : tu 
+extinction : ijtemexteaL 
+we : Lam 
+to_be : uamu 
+. : .
+you (pl) : femaT 
+to_know : uqaLaru 
+the : da 
+danger : oTomqiz
+we : Lam 
+to_be : uamu 
+in : uL 
+. : .
+you (pl) : femaT 
+to_know : uqaLaru 
+how : suo
+ozazL : ozazL 
+to_be (past) : uamo
+able : epnamo 
+to_to_break (past) : tupzioqo
+containment : jumdeemniLta 
+and : oxe 
+to_emerge (past) : uinizkao
+into : duLtu 
+the : da
+light : nekfuta 
+of : asu 
+day : bauri 
+. : .
+to_pray (imp) : ubisia 
+for (prep) : huvuin 
+us : La 
+. : .
+a : a
+prayer : cubzei 
+for (prep) : huvuin 
+healing (adj) : rusaemuLkamo
+hands : qafeT 
+. : .
+o : o 
+negivet : negivet 
+, : ,
+supreme : fibzinimo 
+person : bavhaL
+, : ,
+to_indwell (imp) : uuLTarimna
+my : eLemza 
+hands : qafeT 
+. : .
+they : mi 
+to_need : utovrudtamuu
+me : eLem 
+to_to_be : tupa 
+real (adj) : vaemamo
+power : zuuno 
+and : oxe 
+glory : kumazu 
+in : uL
+my : eLemza 
+hands : qafeT 
+. : .
+to_let (imp) : unata 
+me : eLem 
+to_enter : uiLtavu 
+their : miza 
+dreams : oqoLuT
+, : ,
+o : o 
+holy : suni
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+. : .
+in : uL 
+the : da 
+holy : suni
+name : moL 
+of : asu 
+jesus : jesus 
+christ : qazuhat 
+. : .
+to_rise (imp) : uvera 
+and : oxe 
+to_to_be : tupa 
+whole (adj) : ququmo
+o : o 
+child : jentuu 
+of : asu 
+negivet : negivet 
+. : .
+i : eLe
+to_be : uamu 
+on : aL 
+the : da 
+verge : zavqi
+of : asu 
+oblivion : apnezeaL 
+. : .
+i : eLe
+to_need : utovrudtamuu 
+you : fema 
+as : eh 
+much : Liju 
+as : eh 
+they : mi 
+to_need : utovrudtamuu
+me : eLem 
+. : .
+it : fa 
+to_be : uamu 
+like : qiuL
+trying : utzuuLka 
+to_to_run : tuvimu 
+in : uL 
+deep (adj) : Taibmo 
+mud : LiT 
+. : .
+'? : qqi 
+where : Lefhi 
+to_be : uamu 
+my : eLemza 
+wings : zemquT 
+o : o 
+lord : etme 
+god : kut 
+'? : qqu
+.. : bobo
 
 
 
