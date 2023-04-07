@@ -103764,7 +103764,7 @@ in : uL
 stone : qeze 
 . : .
 we : Lam 
-to_be : uama 
+to_be : uamu 
 in : uL 
 a : a 
 deep (adj) : Taibmo 
@@ -104178,7 +104178,7 @@ to_be : uamu
 to_to_make : tuLaqau 
 of : asu 
 ourselves : aivhimzaT 
-the : the  
+the : da  
 great : kaziotmo 
 golden : qindemo 
 zavTu : zavTu 
@@ -104192,9 +104192,10 @@ enemies : iLinuT
 of : asu 
 the : da 
 zavTu : zavTu 
-empire ; oinbeva 
+empire : oinbeva 
 '? : qqu 
-the : iLinuT 
+the : da 
+enemies : iLinuT 
 to_be : uamu 
 those : dufa 
 who : qiqo 
