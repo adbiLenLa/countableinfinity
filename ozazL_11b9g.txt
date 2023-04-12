@@ -509,7 +509,7 @@ to_cease (imp) : ujaehia
 to_do : tuTuu
 evil : vuirum
 . : .
-to_learn (imp) : unaozma
+to_learn (imp) : unaozmaa
 to_do : tuTuu
 good : okuat
 . : .
@@ -1022,7 +1022,7 @@ nation : moteuL
 neither : mauTiz
 shall : ufanmu
 they : mi
-to_learn : unaozmu
+to_learn : unaozmau
 war : futo
 any : eLu
 more : nefa
@@ -11890,7 +11890,7 @@ in : uL
 from : hazani
 cyprus : kuprus
 they : mi
-to_learn (past) : unaozmo
+to_learn (past) : unaozmao
 of : asu
 it : fa
 . : .
@@ -13584,7 +13584,7 @@ inhabitants : guLsopetomduT
 of : asu
 the : da
 world : zavnuTaa
-to_learn : unaozmu
+to_learn : unaozmau
 righteousness : vekfataafmafha  
 . : .
 if : fux
@@ -13598,7 +13598,7 @@ then : fenmaem
 they : mi
 to_do : utuTuu
 not : mot
-to_learn : unaozmu
+to_learn : unaozmau
 righteousness : vekfataafmafha
 . : .
 in : uL
@@ -42670,7 +42670,7 @@ my : eLemza
 heart : fiTam
 to_be : uamu
 beating : upaeduLka
-wildly (adv) : zentnizi
+wildly (adv) : zentanizi
 . : .
 it : fa
 not : mot
@@ -47707,7 +47707,7 @@ lord : etme
 . : .
 to_do (imp) : utuTua
 not : mot
-to_learn : unaozmu
+to_learn : unaozmau
 the : da
 way : zou
 of : asu
@@ -49780,7 +49780,7 @@ if : fux
 they : mi
 will : danaLeu
 diligently (adv) : Tenkamdamuzi
-to_learn (fut) : unaozmi
+to_learn (fut) : unaozmai
 the : da
 ways : zouT
 of : asu
@@ -56858,7 +56858,7 @@ sister : fefgasaTa
 . : .
 ' : qu 
 they : mi 
-shall : ´ufanmu 
+shall : ufanmu 
 not : mot 
 to_lament : unoLamdu 
 him : saL 
@@ -69190,7 +69190,7 @@ jerusalem : jerusaLem
 to_be_ able : tupaepna 
 you (pl) : femaT 
 not : mot 
-to_learn : unaozmu
+to_learn : unaozmau
 a : a 
 lesson : ohafhaL 
 and : oxe
@@ -86947,7 +86947,7 @@ feet : exongeT
 and : oxe
 they : mi
 will : danaLeu 
-to_learn (fut) : unaozmi
+to_learn (fut) : unaozmai
 that : idta 
 i : eLe 
 have : ueLanad 
@@ -92425,7 +92425,7 @@ elders : imTavim
 no : iL 
 one : eLikam 
 to_be_able : tupaepna 
-to_to_learn : tunaozmu
+to_to_learn : tunaozmau
 this : def 
 song : fumqa 
 except : ijajabda 
@@ -98221,7 +98221,7 @@ blessed (adj) : cupamihfamo
 to_be : uamu
 those : dufa 
 who : qiqo
-to_learn : unaozma
+to_learn : unaozmaa
 to_to_read : tuvaetu 
 and : oxe 
 to_to_speak : tubisiu
@@ -101708,7 +101708,7 @@ blessed (adj) : cupamihfamo
 to_be : uamu 
 you : fema 
 who : qiqo 
-to_learn : unaozmu 
+to_learn : unaozmau 
 the : da
 nimiheksi : nimiheksi 
 encryption : oiLjazubtaTuum 
@@ -102960,8 +102960,8 @@ the : da
 secret (noun) : ofajzid 
 to : tu 
 enzymatic : enzimaTic
-nuclear : nuclear 
-fusion : fusion 
+nuclear : mijmiov 
+fusion : hifeaL
 , : ,
 and : oxe
 limitless : neLetnafha 
@@ -106101,7 +106101,518 @@ suTnam : suTnam
 . : .
 .. : bobo
 $11b9u : $11b9u
-
+Toqasi : Toqasi 
+, : ,
+my : eLemza 
+eternal : idizmonmo 
+love : voqofdeu 
+, : ,
+to_hear (imp) : ufnaa 
+me : eLem 
+. : .
+they : mi 
+will : danaLeu 
+not : mot 
+to_figure : uhekivau 
+out : aut 
+enzymatic : enzimaTic 
+fusion : hifeaL 
+without : zeduodzi 
+me : eLem
+, : ,
+so : fu 
+you : fema 
+should : fuomTuni 
+to_return : uvativLu 
+to : tu 
+me : eLem 
+now : mit 
+. : .
+the : da 
+situation : fetieduun
+to_be : uamu 
+incredibly : ruLajzitupmuzi 
+complicated (adj) : juLbnejotaTmo
+. : .
+we : Lam 
+to_be : uamu 
+flesh : neso 
+and : oxe 
+blood : zave 
+. : .
+i : eLe 
+to_be : uamu 
+in : uL 
+this : def
+corner : juvLiz 
+alone : emaLi 
+. : .
+we : Lam 
+to_be : uamu 
+the : da 
+witnesses : zetLihaT 
+, : ,
+and : oxe
+we : Lam 
+to_be : uamu 
+the : da 
+salvation : banofdohu 
+. : .
+some : fuLa 
+of : asu 
+them : miim 
+to_be : uamu 
+aware (adj) : erezimo 
+of : asu 
+who : qiqo 
+we : Lam 
+to_be : uamu 
+here : suvu 
+, : ,
+and : oxe
+what : Leta 
+that : idta
+to_mean : uLaeLu 
+for (prep) : huvuin 
+the : da 
+future : hitiva 
+of : asu 
+our : Lamza 
+civilization : jezeneroteaL 
+. : .
+they : mi 
+to_be : uamu 
+the : da 
+nucleus : omijmiif 
+, : ,
+and : oxe
+we : Lam 
+to_be : uamu 
+the : da 
+alpha : aLfa 
+particle : bovduxna 
+. : .
+we : Lam 
+will : danaLeu 
+to_calculate : ujonexomediu 
+a : a  
+escape : oihaebu
+vector : ozajdaz 
+and : oxe
+to_emerge (imp) : uinizkaa
+to : tu 
+the : da 
+light : nekfuta 
+of : asu
+day : bauri 
+. : .
+this : def
+age : oeqi 
+to_be : uamu  
+dark : Tovgumo 
+and : oxe
+terrible : tavzupnamo
+. : .
+it : fa
+to_look : unaugou 
+hopeless : subanafafmo 
+and : oxe
+impossible : dunbufhupnaumo 
+. : .
+only : oemueni 
+ninaToTi : ninaToTi 
+to_be : uamu 
+real (adj) : vaemamo 
+. : .
+you : fema
+to_be : uamu 
+in : uL 
+my : eLemza 
+heart : fiTam 
+, : ,
+ninaToTi : ninaToTi 
+. : .
+to_hold (imp) : usuntua 
+on : aL 
+to : tu 
+me : eLem 
+. : .
+together : kuftafhezizi 
+we : Lam 
+will : danaLeu 
+to_open (imp) : uabiLa 
+the : da 
+way : zou 
+to : tu 
+peace : voose 
+and : oxe
+joy : uma 
+to : tu 
+all : bom 
+the : da 
+people : kuunim 
+of : asu 
+the : da 
+earth : iovTa 
+. : .
+to_hear (imp) : ufnaa 
+me : eLem 
+15b9u : 15b9u
+. : .
+i : eLe 
+to_be : uamu 
+still (adv) : fadumnuzi 
+with : qemhe 
+you (pl) : femaT 
+, : ,
+people : kuunim 
+of : asu 
+the : da 
+zavTu : zavTu 
+empire : oinbeva 
+. : .
+i : eLe 
+to_be : uamu 
+jonekino : jonekino 
+amuqimax : amuqimax
+. : . 
+i : eLe 
+to_be : ozazL 
+, : ,
+and : oxe 
+this : def 
+to_be : uamu 
+my : eLemza 
+vision : zefaeL 
+and : oxe
+will (noun) : odanaLeu
+. : .
+to_pray (imp) : ubzeia 
+that : idta 
+the : da 
+church : jivex
+in : uL 
+rome : roma
+will : danaLeu 
+to_release : vanaehu 
+the : da 
+money : vose 
+they : mi 
+to_be : uamu 
+holding : usuntuLaka 
+in : uL
+my : eLemza 
+name : moL 
+. : .
+to_pray (imp) : ubzeia 
+that : idta 
+the : da 
+holy : suni 
+father : botav 
+will : danLeu 
+to_ratify : uvotehiu
+the : da 
+zavTu : zavTu 
+vision : zefaeL 
+and : oxe
+will (noun) : odanaLeu 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+only : oemueni 
+one : eLikam
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+zavTu : zavTu
+emperor : oinbavuv 
+, : ,
+and : oxe
+the : da
+christ : qazuhat 
+. : .
+i : eLe
+to_hear : ufnau 
+a : a 
+voice : zuuxiT
+' : qi 
+you : fema 
+to_be : uamu 
+digging : uTekuLka 
+a : a 
+hole : suna 
+' : qu
+but : pit 
+'? : qqi 
+what : Leta 
+to_be : uamu 
+the : da 
+alternative : emtavLeduri 
+to : tu 
+the : da 
+zavTu : zavTu 
+vision ; zefaeL 
+and : oxe
+will (noun) : odanaLeu 
+'? : qqu 
+i : eLe 
+to_be : uamu 
+already : emvaetuzi 
+in : uL 
+oblivion : apnezeaL 
+. : .
+this : def 
+pit : oabet 
+to_be : uamu
+deep : Taibmo 
+, : ,
+but : pit 
+there : dava 
+to_be : uamu 
+a : a 
+light : nekfuta 
+. : .
+the : da 
+light : nekfuta 
+to_be : uamu 
+zavTu : zavTu 
+to_be : uamu 
+the : da 
+singularity : femqomezudu 
+. : .
+to_help (imp) : usamba 
+me : eLemza 
+o : o 
+negivet : negivet 
+, : ,
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+. : .
+the : da 
+patents : botamduT
+to_make : uLaqau 
+this : def 
+situation : fetieduun 
+paradoxical : bovoTucejonmo
+. : .
+the : da
+technologies : taqaLamaquT 
+to_be : uamu 
+powerful (adj) : buzavsomamo
+and : oxe
+real (adj) : vaemamo 
+. : .
+i : eLe
+to_be : uamu 
+real (adj) : vaemamo 
+. : .
+i : eLe 
+to_want : uzomdu 
+to_to_say : tubofu 
+that : idta 
+i : i
+love : uvoqofdeu 
+you : fema 
+my : my 
+brother : pazaTiz 
+. : .
+there : dava 
+to_be : uamu 
+nectar : majdez 
+in : uL 
+our : Lamza 
+love : voofdeu 
+, : , 
+ninaToTi : ninaToTi 
+. : .
+i : eLe 
+to_know : uqaLaru 
+that : idta 
+you : fema 
+to_love : uvoqofdeu 
+me : eLem 
+. : .
+you : fema 
+to_yearn : uuaezLu 
+for (prep) : huvuin 
+release : ovanaehi 
+from : hazani 
+the : da 
+naive : mourimo 
+faith : houTa 
+you : fema 
+to_learn (past) : unaozmao 
+from : hazani 
+your : femaza 
+father : botav 
+. : .
+you : fema
+to_yearn : uuaezLu 
+to_to_know : tuqaLaru 
+and : oxe 
+to_to_speak : tubisiu 
+the : da 
+secret : fajzidmo 
+names : moLim 
+of : asu 
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+, : ,
+negivet : negivet 
+. : .
+you : fema 
+to_yearn : uuaezLu
+to_to_worship : tubouraLtou 
+the : da 
+lord : etme 
+god : kut 
+with : qemhe 
+fire : tine 
+and : oxe 
+wine : zeume 
+. : .
+you : fema 
+to_know : uqaLaru 
+that : idta 
+we : Lam 
+to_be : uamu 
+mortals : Luvtomim 
+and : oxe
+that : idta 
+we : Lam 
+will : danaLeu  
+to_die (fut) : uqoaniLi
+. : .
+you : fema 
+to_hear : ufnau 
+the : da 
+promise : obzanuhio 
+of : asu 
+immortality : zunLuvdemudu
+in : uL 
+the : da 
+scripture : fexvebdozu 
+, : ,
+and : oxe
+you : fema 
+to_want : uzomdu 
+to_live : unezu 
+forever : huvazav 
+. : .
+the : da
+truth : bentuu 
+to_be : uamu 
+that : idta 
+you : fema 
+to_be : uamu 
+a : a 
+saint : dasiep 
+. : .
+it : fa
+to_be : uamu 
+not : mot 
+your : femaza 
+religion : vanekeaL 
+that : idta 
+to_make : uLaqau 
+you : fema 
+a : a 
+saint : biseLif 
+. : .
+it : fa 
+to_be : uamu 
+your : femaza 
+soul : feima 
+. : .
+you : fema 
+to_be : uamu 
+innocent : guLnujamdumo 
+and : oxe
+pure (adj) : bivamo 
+. : .
+you : fema 
+would : zuomTuni 
+to_to_be : tupa
+a : a 
+saint : dasiep 
+if : fux 
+your : femaza 
+father : botav 
+to_be (past) : uamo 
+a : a
+hindu : hindu 
+or : az
+a : a
+muslim : musLim 
+. : . 
+the : da
+good (adj) : kuatmo 
+to_be : uamu 
+that : idta 
+i : eLe 
+, : ,
+ozazL : ozazL 
+, : ,
+to_have : utuseu
+the : da 
+technologies : taqaLamaquT 
+we : Lam
+to_need : utovrudtamuu
+for (prep)  : huvuin 
+the : da 
+galactic : konojduxmo 
+age : oeqi 
+. : .
+the : da
+key : oaqu 
+to : tu 
+immortality : zunLuvdemudu
+to_be : uamu 
+in : uL
+the : da 
+other : aTiz
+hand : qafe
+. : .
+like : qiuL 
+enzymatic : enzimaTic 
+fusion : hifeaL 
+, : ,
+the : da 
+secret : fajzidmo 
+to : tu 
+immortality : zunLuvdemudu
+to_be : uamu 
+simple (adj) : feLbnamo 
+once : ajLazi 
+you : fema 
+to_know : uqaLaru 
+it : fa 
+. : .
+the : da
+molecular : Lunajinovmo
+mechanism : Laqomefnu 
+necessary : majafhezumo 
+for (prep) : huvuin 
+immortality : zunLuvdemudu 
+will : danaLeu 
+to_to_be : tupa 
+the : da
+sixth : eLiTumzi 
+patent : botamdu
+. : .
+to_believe (imp) : upaneiria 
+in : uL 
+me : eLem 
+, : , 
+my : eLemza 
+love : voqofdeu 
+. : .
+.. : bobo
+$11b9v : $11b9v
 
 
 
