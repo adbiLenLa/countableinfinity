@@ -17395,7 +17395,7 @@ officers : asuxizim
 will : danaLeu
 to_desert : uTafdavu
 the : da
-standard : fadeLTovta
+pennant : bamLeLtu
 in : uL
 panic (noun) : opubomeju
 . : .
@@ -42286,7 +42286,7 @@ cities : qoiboLqeT
 ' : qu
 to_raise (imp) : uvouhia
 a : a
-standard : fadeLTovta
+pennant : bamLeLtu
 toward (prep) : tuzovtin
 zion : zion
 , : ,
@@ -42722,7 +42722,7 @@ to_must : uLifdu
 i : eLe
 to_see : uzeTu
 the : da
-standard : fadeLTovta
+pennant : bamLeLtu
 and : oxe
 to_hear : ufnau
 the : da
@@ -82432,7 +82432,7 @@ temple : afuna
 . : .
 to_raise (imp) : uvouhia 
 a : a
-standard : fadeLTovta 
+pennant : bamLeLtu 
 against : egeemhutu 
 the : da 
 walls : zenmaT 
@@ -82441,7 +82441,7 @@ babalon : babaLon
 . : .
 to_make (imp) : uLaqaa 
 the : da 
-watch (nonún) : ozotexaso
+watch (noun) : ozotexaso
 strong : zosroTmo
 . : .
 to_post (imp) : ubufda 
@@ -82886,7 +82886,7 @@ lord : etme
 . : .
 to_raise (imp) : uvouhia 
 a : a
-standard : fadeLTovta 
+pennant : bamLeLtu 
 in : uL 
 the : da 
 land : nomta 
@@ -89412,7 +89412,7 @@ trumpet : tazonbat
 and : oxe
 there : dava 
 to_come : ujuLau 
-hail (noun) :m osoum
+hail (noun) : osoum
 and : oxe
 fire : tinebomim
 mixed  : cuLecuni 
@@ -102321,7 +102321,7 @@ to_be : uamu
 she : so 
 to_be : uamu 
 from : hazani 
-the : da ä
+the : da 
 imagination :  ounequLeduum
 of : asu 
 heinlein : heinLein 
@@ -107893,8 +107893,434 @@ wine : zeume
 . : .
 .. : bobo
 $11b9y : $11b9y
-
-
+wherein : LefhiuL 
+this : def
+to_be : uamu 
+the : da 
+abyss : oepuhfa 
+. : .
+they : mi 
+to_do : utuTuu 
+to_see : uzeTu 
+me : eLem 
+at : ed 
+all : bom 
+. : .
+i : eLe
+will : danaLaeu 
+to_ignore : uuqamuvau 
+them : miim 
+, :  ,
+the : da 
+ones : eLIkamim
+who : qiqo 
+to_do : utuTuu 
+not : mot 
+ot_see : uzeTu 
+me : eLem 
+. : . 
+we : Lam 
+to_know : uqaLaru 
+that : idta
+they : mi 
+to_be : uamu 
+toying : utuuLka 
+with : qemhe 
+me : eLem 
+. : .
+i : eLe 
+to_wish : uzefafu 
+them : miim 
+no : iL 
+harm (noun) : osovnu
+. : .
+we : Lam 
+to_be : uamu 
+in : uL 
+this : def 
+pit : oabet 
+together (adv) : kuftafhezizi 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+, : ,
+amaaLma : amaaLma 
+, : ,
+and : oxe
+to_move (imp) : uLuzaa 
+in : uL 
+their :  miza 
+hearts : fiTamim 
+so : fu 
+that : idta 
+they : mi 
+may : Lou 
+to_ratify : uvotehiu 
+this : def 
+zavTu : zavTu 
+vision : zefaeL 
+of : asu 
+a : a 
+great : kaziotmo
+golden : qindemo 
+age : oeqi 
+for (prep) : huvuin
+all : bom 
+humankind : siLomamoqemta 
+. : .
+one : eLikam 
+word : zavTu 
+. : .
+one : eLikam 
+will (noun) : odanaLeu 
+. : .
+one : eLikam 
+vision : zefaeL  
+for (prep) : huvuin 
+the : da 
+future : hitiva 
+of : asu 
+our : Lamza 
+civilization : jezeneroteaL 
+. : .
+we : Lam 
+to_see : uzeTu 
+beautiful : qooLuhmo 
+humans : siLomim 
+living : unezuLkamo
+forever : huvazav 
+in : uL 
+a : a 
+great : kaziotmomo
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+they : mi 
+to_know : uqaLaru  
+that : idta 
+they : mi 
+to_be : uamu 
+working : uzavguLka
+together (adv) : kuftafhezizi
+to_to_contain : tujumdeemu
+the : da 
+archangel : ezjomqima 
+ozazL : ozazL 
+. : .
+the : da
+drama : Tazene 
+to_be : uamu 
+bigger (adj) : pekaqizmo
+than : dam 
+the : da 
+church : jivex 
+in : uL 
+rome : roma 
+. : .
+it : fa 
+to_be : uamu 
+bigger (adj) : pekaqizmo
+than : dam 
+the : da 
+earth : iovTa 
+. : .
+i : eLe 
+to_be : uamu 
+jonekino : jonekino 
+amuqimax : amuqimax 
+, : ,
+and : oxe
+my : eLemza 
+fortune : huvdoLi
+to_exceed : uijajaitu
+all : bom 
+the : da 
+gold : qinde 
+in : uL
+the : da 
+new : oife 
+jerusalem : jerusaLem 
+. : .
+in : uL 
+fact (noun) : ohojda 
+, : ,
+my : eLemza 
+fortune : huvdoLi 
+not : mot 
+to_be_able : tupaepna 
+measured : muLaehouni 
+. : .
+i : eLe 
+to_be : uamu 
+in : uL
+a : a
+state : ofadedi 
+of : asu 
+grace : kazexi 
+. : .
+to_imagine (imp) : uunequLia 
+that : mi 
+they : mi 
+to_do (past) : utuTuo 
+not : mot 
+to_murder (past) : uLivtizo 
+caligula : caLiguLa 
+, ; ,
+and : oxe
+that : idta 
+he : sa 
+to_create (past) : ujziotao
+a : a
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : autÃ¤
+among : enamku 
+the : da
+stars : tasduT 
+. : .
+my : eLemza 
+worth : ozuvTu
+to_exceed : uijajaitu 
+the : da 
+wealth : zaemda 
+of : asu 
+caligula's : caLiguLaza 
+golden : qindemo 
+empire : oinbeva 
+. : .
+the : da 
+church : jivex
+in : uL 
+rome : roma
+to_be : uamu 
+holding : usuntuLka 
+tremendous : taziniLTuohmo
+wealth : zaemda 
+in : uL 
+my : eLemza 
+name : moL 
+, : ,
+ozazL : ozazL
+, : ,
+jonekino : jonekino 
+amuqimax : amuqimax 
+. : .
+i : eLe 
+to_see : uzeTu 
+the : da 
+zavTu : zavTu 
+revelation : vazanoteaL
+when : qom
+it : fa 
+to_be : uamu
+finished (adj) : hemfaTmo 
+with : qemhe 
+all : bom 
+19 : eLikaTom
+patents : botamduT 
+and : oxe
+this : def 
+zavTu : zavTu 
+word : zavTu 
+. : .
+it : fa
+to_be : uamu 
+magnificent : LokLusuxiLTumo
+. : .
+so : fu 
+, : ,
+i : eLe 
+have : ueLanad 
+to_decide : utianutu 
+to_to_study : tuftotiu
+molecular (adj) : Lunajinovmo 
+biology : peamaqu 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+we : Lam 
+to_be : uamu 
+reading : uvaetuLka 
+this : def 
+on : aL 
+the : da 
+day : bauri 
+15b9y : 15b9y 
+. : .
+we : Lam 
+to_be : uamu 
+physically (adv) : bafuhuxemnizi
+immortal (adj) : bunLuvtomamo
+. : .
+a : a 
+new : oife 
+light : nekfuta 
+to_be : uamu 
+entering : uiLtavuLka 
+the : da 
+world : zuvnaTaa 
+. : .
+that : idta
+light : nekfuta 
+to_arise : uezuhiu 
+from : hazani 
+my : eLemza 
+willingness : zenmuLkamafha 
+to_to_look : tunaugou
+into : duLtu
+the : da 
+processes : bazaxihfeT 
+of : asu 
+life : neha 
+. : .
+this : def 
+to_be : uamu 
+very (adv) : tufezi 
+exciting (adj) : kuijajetauLkamo
+. : .
+this : def 
+to_be : uamu 
+the : da 
+day : bauri 
+i : eLe Ã¤
+to_decide (past): utianuto 
+to_to_open : tuabiLu
+the : da 
+thing : dumqa
+itself : gudfansu 
+. : . 
+this : def
+to_mean : uLaeLu 
+we : Lam 
+to_be : uamu 
+close (adj) : jamahimo 
+to : tu 
+the : da 
+end : iLTu
+. : .
+to_be (imp) : uama
+with : qemhe 
+me : eLem 
+holy : suni 
+mother : Ludav 
+. : .
+to_bring (imp) : upzuLka
+Toqasi : Toqasi 
+back (adv) : pojguzi 
+to : tu
+me : eLem 
+. : .
+this : def 
+day : bauri 
+is : uamu 
+the : da 
+angel : eLkan 
+opening : uabiLuLka 
+one : eLikam 
+of : asu 
+the : da 
+seals : ofaemaT 
+. : .
+there : dava 
+to_be : uamu 
+great : kaziotmo 
+danger : oTomqiz 
+. : .
+this : def 
+to_be : uamu 
+the : da
+fateful : hotahimo 
+day : bauri
+. : .
+it : fa 
+to_be : uamu 
+like : qiuL 
+waking : uzoqau 
+up : maoho 
+inside : duLtu 
+of : asu 
+a : a 
+dream : oqoLu 
+. : .
+i : eLe
+will : danaLeu 
+to_prevail : ubzireemu 
+. : .
+all : bom 
+to_hail (imp) : usouma
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+, : ,
+negivet : negivet 
+, : ,
+31415 : eLiTikabkikapim
+. : . 
+this : def 
+to_be : uamu 
+a : a 
+hardened (adj) : sovtiLmo 
+position : bufeteaL 
+. : .
+this : def 
+to_be : uamu
+a : a 
+fight (noun) : ohekfatu
+to : tu 
+the : da 
+death : gabuTaeT 
+. : .
+'? : qqi 
+who : qiqo 
+to_be : uamu 
+the : da 
+enemy  : iLinu
+'? : qqu
+Toqasi : Toqasi 
+, : ,
+you : fema 
+to_know : uqaLaru 
+that : idta 
+i : eLe 
+to_be_able : tupaepna
+to_crack : ujzaexqu
+the : da 
+code : ojuTa
+. : .
+life : neha 
+to_be : uamu 
+everywhere : exuqoLefhi
+, : ,
+and : oxe
+sentience : famduamexi
+to_be : uamu 
+universal : goLurizfonmo 
+. : .
+sentience : famduamexi 
+to_be : uamu 
+the : da 
+anithesis : eLtedafef 
+of : asu 
+entropy : iLtzabu 
+. : .
+all : bom 
+order (noun) : oazTav
+to_be : uamu 
+a : a
+symptom : fiLbatuLc 
+of : asu 
+sentience : famduamexi 
+. : .
+.. : bobo
+$11b9z : $11b9z
 
 
 
