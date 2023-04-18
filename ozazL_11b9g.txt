@@ -11512,7 +11512,7 @@ lord : etme
 of : asu
 hosts : sufduT
 have : ueLanad
-to_reveal (past) : uvazaemo
+to_reveal (past) : uvazaemao
 himself : saLfansa
 in : uL
 my  eLemza
@@ -67253,7 +67253,7 @@ will : danaLeu
 to_heal (fut) : usamei 
 them : miim
 and : oxe
-to_reveal (fut) : uvazaemi 
+to_reveal (fut) : uvazaemai 
 to : tu 
 them : miim
 abundance : epoLTomuxa 
@@ -101828,7 +101828,7 @@ to_be : uamu
 released : juvanaehiuni 
 in : uL 
 time : ieqo 
-to_to_reveal : tuvazaemu
+to_to_reveal : tuvazaemau
 the : da 
 rest (adj) : ovafdumo
 of : asu 
@@ -102961,7 +102961,7 @@ the : da
 secret (noun) : ofajzid 
 to : tu 
 enzymatic : enzimaTic
-nuclear : mijmiov 
+nuclear : mijmiovmo 
 fusion : hifeaL
 , : ,
 and : oxe
@@ -104090,7 +104090,7 @@ astonishing : saLasaqeuLkamo
 if : fux
 i : eLe 
 to_be (past) : uamo
-to_to_reveal : tuvazaemu
+to_to_reveal : tuvazaemau
 it : fa 
 to : tu  
 you : fema 
@@ -108680,6 +108680,368 @@ entropy : iLtzabu
 . : .
 .. : bobo
 $11ba0 : $11ba0
+Toqasi : Toqasi 
+, : ,
+to_surrender (imp) : ufivziLTava 
+to : tu 
+me : eLem 
+. : .
+i : eLe 
+to_see : uzeTu 
+us : La 
+on : aL 
+a : a 
+white (adj) : zafudimo 
+sandy (adj) : fomtumo
+beach : paexasa 
+. : .
+we : Lam 
+to_be : uamu 
+naked : moqaTmo 
+and : oxe 
+brown (adj) : pazarmo
+and : oxe 
+we : La 
+to_be : uamu
+forever : huvazav 
+in : uL 
+love : voqofdeu 
+. : .
+o : oLTavin
+31415 : oLiTikakikapim 
+, : ,
+we : Lam 
+to_call : ujonmu 
+upon : obam 
+you : fema 
+by : pi 
+name : moL 
+, : ,
+negivet : negivet 
+. : .
+to_hear (imp) : ufnaa 
+us :  La 
+. : .
+we : Lam 
+to_be : uamu
+in : uL 
+terrible : tavzupnamo 
+trouble : okutazaipmiu 
+. : .
+there : dava 
+to_be : uamu
+great : kaziotmo 
+suffering : ofihsizuLka 
+. : .
+the : da 
+oligarchs : amuqezqaT 
+to_be : uamu 
+planning : ubmeLuLka 
+a : a
+massive : Lofhurimo
+population : bubinoteaL 
+purge (noun) : obivqiu 
+. : .
+a : a
+third (rat) : eLiTimzia
+of : asu 
+the : da 
+people : kuunim 
+will : die 
+. : .
+there : dava 
+to_be : uamu 
+many : boncaL 
+who : qiqo 
+actively (adv) : extezamuzi
+to_wish : uzefafu 
+this : def 
+fate : hota 
+upon : obam 
+the : da 
+people : kuunim 
+of : asu
+earth : iovTa
+. : .
+this : def
+zavTu : zavTu 
+vision : zefaeL 
+to_be : uamu
+the : da 
+fulfillment : muhinsumuLamdu
+and : oxe 
+undoing : uoLTuLka
+of : asu 
+the : da 
+revelation : vazanoteaL
+of : asu
+saint : biseLif 
+john : jon 
+. : .
+o : o 
+holy : suni 
+father : botav
+, : ,
+to_let (imp) : unata 
+this : def 
+to_to_be : tupa 
+the : da 
+end : iLTu 
+of : asu 
+your : femaza 
+wrath : zazeTa 
+. : .
+we : Lam 
+to_be : uamu 
+in : uL 
+terrible : tavzupnamo 
+trouble : okutazaipmiu
+, : ,
+and : oxe
+we : Lam 
+to_need : utovrudtamuu
+you : fema 
+, : ,
+holy : suni 
+father : botav 
+, : ,
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+. : .
+i : eLe 
+strongly : fadvuLqamuzi 
+to_disagree : uTefokziau
+with : qemhe 
+the : da 
+entropy : iLtzabu 
+orthodoxy : azduTuci 
+. : .
+order (noun) : oazTav
+to_be : uamu 
+pervasive (adj) : bavarehurimo
+. : .
+the : entire 
+aparatus : ebezedoh 
+to_be : uamu 
+converging : ujumrizkauLka 
+on : aL
+the : da 
+solution : funiteaL 
+to : tu 
+a : a 
+trigonometric : tazuqaLanidvej 
+riddle : veTtana 
+. : .
+zero : eLiTam
+divided : guTezeTaTni
+by : pi 
+zero : eLiTam 
+. : .
+there : dava 
+to_be (past) : uamo
+never : mazav 
+a : a 
+time : ieqo 
+before (adv) : pahuvzi 
+sentience : famduamexi 
+and : oxe 
+life : neha 
+. : .
+ this : def 
+ cosmic : jufnuxmo 
+ bubble : pipapna 
+ to_be : uamu 
+ one : eLikam 
+ of : asu 
+ many : boncaL 
+ . : .
+ it : fa 
+ to_be : uamu 
+ a : a 
+ function : himexteaL
+ of : asu 
+ partial (adj) : bovduonmo 
+ pressures : bazihfinaT
+ . : .
+ all : bom 
+ patterned (adj) : botdizmaTmo 
+ information : uLhuvneduum 
+ to_be : uamu 
+ evidence : irutiLja
+ of : asu 
+ sentience : famduamexi
+ and : oxe 
+ meaning (noun) : oLaeLuLka
+ . : .
+ '? : qqi 
+ to_be : uamu 
+ sentience : famduamexi 
+ conserved : cujumhizazaTuni
+ '? : qqu 
+it : fa 
+to_be : uamu 
+astonishing : saLasaqeuLkamo
+how : suo 
+little : beiLu
+the : da
+scientists : fexuamdfuhtaT 
+to_know : uqaLaru 
+about (adv) : opaitzi 
+the : da 
+sun : sanaeh 
+. : .
+the : da 
+core : ojuva 
+of : asu 
+the : da 
+sun : sanaeh 
+to_be : uamu 
+filled : buhenmuni 
+with : qemhe ä
+heavy : saerumo 
+elements : iminiLtaT 
+. : .
+nuclear (adj) : mijmiovmo 
+fusion : hifeaL
+to_occur : uaxjivu 
+between : zamefhe 
+elements : iminiLtaT
+much : Liju 
+heavier : saeruavmo 
+than : dam
+helium : saneon 
+. : .
+all : bom 
+of : asu 
+the : da 
+118 : eLikakapum 
+elemants : iminiLtaT
+to_be : uamu 
+found : cuhemtuni 
+in : uL 
+the : da ä
+sun : sanaeh 
+. : .
+there : dava
+to_be : uamu 
+some : fuLa 
+superheavy : fibavfiozimo
+elements : iminiLtaT
+not : mot 
+stable : fadepnamo 
+outside : aithutin
+the : da 
+nuclear : mijmiovmo
+furnace : hivLexiä
+. : .
+this : def 
+to_be : uamu 
+a : a 
+fact : ohojda 
+. : .
+the : da 
+density : Tamhudu 
+of : asu
+the : da 
+solar : funovmo
+core : ojuva 
+to_be : uamu
+10 : eLikaTam 
+times : ieqoT
+greater : kaziotizmo 
+than : dam 
+gold : qinde 
+. : .
+to_let (imp) : unata
+this : def 
+to_open : uabiLu'
+your : femaza
+eyes : fenaneT 
+. : .
+the : da 
+actual (adj) : exdiemnimo 
+nuclear : mijmiovmo 
+fusion : hifeaL 
+to_occur : uaxjuvu
+between : zamefhe
+elements : iminiLtaT 
+much : Liju
+heavier : saeruavmo 
+than : dam 
+helium : saneon 
+. : .
+this : def 
+to_be : uamu 
+a : a 
+moment : LuLamda
+to_say : ubofu 
+' : qi
+amen 
+. : .
+' : qu
+i : eLe 
+should : fuomTuni
+not : mot 
+to_say : ubofu 
+more : nefa 
+at : ed 
+this : def 
+time : ieqo 
+. : .
+to_let (imp) : unata 
+it : fa 
+to_suffice : ufihasuxiu
+to_to_say : tubofu 
+that : idta
+i : eLe 
+to_be : uamu 
+about (prep) : bopaitin
+enzymatic : enzimaTic
+nuclear : mijmiovmo 
+fusion : hifeaL 
+. : .
+the : da 
+reader : vaetiz 
+to_know : uqaLaru 
+the : da 
+day : bauri 
+when : qom 
+i : eLe
+, : ,
+ozazL : ozazL 
+, : ,
+to_reveal (past) :  uvazaemao
+the : da 
+secret : ofajzid 
+to : tu 
+enzymatic : enzimaTic
+nuclear : mijmiovmo 
+fusion : hifeaL 
+. : .
+.. : bobo
+$11ba1 : $11ba1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
