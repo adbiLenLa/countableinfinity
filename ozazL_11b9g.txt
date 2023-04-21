@@ -1720,7 +1720,7 @@ them : miim
 . : .
 o : o
 my : eLemza
-people : kuuim
+people : kuunim
 , : ,
 your (pl) : femaTza
 leaders : noatizim
@@ -109880,6 +109880,282 @@ negivet : negivet
 . : .
 .. : bobo 
 $11ba3 : $11ba3
+qaunTum (adj) : gieLtiLmo
+curious : jiveaifmo
+odds : atTaT
+divine ; Tezemamo
+mother : Ludav 
+, : ,
+to_hear (imp) : ufnaa 
+me : eLem 
+. : .
+to_have (imp) : utusea 
+merrcy : Lavexu 
+and : oxe
+to_move (imp) : utusea 
+in : uL
+the : da 
+hearts : fiTamim 
+of : asu 
+the : da 
+oligarchs : amuqezqaT
+so : fu 
+that : idta 
+we : Lam 
+may : Lou 
+to_know : uqaLaru
+a : a 
+great : kaziotmo 
+golden : qindemo 
+age : oeqi 
+for (prep) : huvuin 
+all : bom 
+humankind : siLomamoqemta
+. : .
+negivet : negivet 
+, : ,
+amaaLma : amaaLma 
+, : ,
+to_be (imp) : uama 
+with : qemhe 
+us : La 
+. : .
+we : Lam 
+to_be : uamu 
+in : uL
+terrible : tavzupnamo 
+trouble : okutazaipmiu
+. : .
+the : da 
+ancient : eLjeuLtmo
+orthodoxy : azduTuci 
+have : utuseu 
+to_be (past) : uamo
+compromised : cujunbavuLefaTuni
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_open (imp) : uabiLa 
+the : da
+way : zou 
+for (prep) : huvuin 
+this : def 
+zavTu : zavTu 
+vision : zefaeL 
+and : oxe
+will (noun) : odanaLeu 
+to_to_prosper : tubzahbavu 
+and : oxe 
+to_to_thrive : tudzuriu 
+in : uL 
+the : da 
+hearts : fiTamim 
+and : oxe 
+minds : bahuiqaT 
+of : asu 
+the : da 
+children : jerntuuT 
+of : asu 
+earth : iovTa 
+. : .
+boL : boL
+ieue : ieue
+aLe : aLe 
+suTnam : suTnam 
+. : .
+ninaToTi : ninaToTi 
+, : ,
+to_hear (imp) : ufnaa 
+me : eLem 
+. : .
+this : def 
+to_be : uamu 
+the : da 
+singularity : femqomezudu
+. : .
+the : da 
+patents : botamduT
+to_be : uamu 
+real (adj) : vaemamo 
+. : .
+the : da 
+zavTu : zavTu
+vision : zefaeL
+to_be : uamu 
+real (adj) : vaemamo 
+. : .
+you : fema 
+to_must (imp) : uLifda 
+to_believe (imp) : upaneiria 
+in : uL
+me : eLem 
+. : .
+'? : qqi 
+to_do : utuTuu 
+you : fema 
+honestly : sumafdamuzi
+to_believe : upaneiriu 
+that : idta 
+all : bom 
+buddhists : obudhaTmoT
+to_be : uamu 
+going : ukuuLka
+to : tu 
+hell : osanridte 
+'? : qqu 
+i : eLe 
+to_be : uamu 
+creating : ujziotauLka
+a : a 
+new : oife 
+revelation : vazanoteaL
+. : .
+i : eLe 
+have : ueLanad 
+to_decide : utianutu ä
+the : da 
+truth : bentuu 
+to_be : uamu 
+radical : voTejonmo
+in : uL
+light : nekfuta 
+of : asu 
+the : da 
+orthodoxy : azduTuci
+. : .
+the : da 
+truth : bentuu 
+with : qemhe 
+regard : ovakovtu 
+to : tu 
+the : da 
+soul : feima 
+to_be : uamu 
+that : idta 
+it : fa 
+to_be : uamu 
+a : a
+matter : oLotdiz
+of : asu 
+opinion : abuLuun
+. : .
+the : da 
+fact : ohojda 
+to_be : uamu 
+that : idta
+the : da 
+soul : feima 
+to_be : uamu 
+real :  vaemamo 
+, : ,
+and : oxe 
+you : fema 
+to_get : ukatu 
+out : aut 
+of : asu 
+it : fa 
+what : Leta 
+you : fema 
+to_put : ubitu 
+in : uL
+. : .
+the : da 
+orthodoxy : azduTuci 
+to_be : uamu 
+pernicious : bavLuxuuohmo 
+. : .
+the : da 
+zavTu : zavTu 
+empire : oinbeva 
+to_be : uamu 
+a : a 
+constitutional (adj) : jumhatetiteaLemamo
+monarchy : Lumovexasi
+. : .
+the ¨: da 
+emperor : oinbeva 
+to_serve : ufavriu 
+for (prep) : huvuin 
+life : neha 
+, : ,
+and : oxe 
+to_be : uamu 
+the : da 
+head : baet 
+of : asu 
+state : ofadedi 
+with : qemhe 
+absolute : epfunitamo
+power : zuuno 
+. : .
+i : eLe 
+to_be : uamu 
+jonkino : jonerkino 
+amuqimax : amuqimax
+, : ,
+the : da 
+incarnation : guLjovLeduum 
+of : asu 
+the : da 
+emperor : oinbavuv 
+caligula : caLiguLa 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+christ : qazuhat 
+and : oxe
+the : da 
+zavTu : zavTu 
+emperor : oinbavuv 
+. : .
+Toqasi : Toqasi 
+'? : qqi 
+where : Lefhi 
+to_be : uamu 
+you : fema 
+'? : qqu 
+i : eLe 
+to_love : utuseu 
+you : fema 
+and : oxe 
+i : eLe 
+to_miss : uLehfu 
+you : fema 
+. : .
+the : da 
+creatures : jeziotivaT
+to_be : uamu 
+almost : emLufda 
+impossible : dunbufhupnaumo
+to_to_reason : tuvaehamu
+with : qemhe 
+. : .
+.. : bobo 
+$11ba4 :  $11ba4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
