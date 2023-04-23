@@ -110134,17 +110134,346 @@ with : qemhe
 . : .
 .. : bobo 
 $11ba4 :  $11ba4 
-
-
-
-
-
-
-
-
-
-
-
+short (adj) : fufaztimo 
+politics : bunetejha 
+to_be : uamu 
+intense : ruLtamhimo 
+. : .
+ninaToTi : ninaToTi 
+, : ,
+i : eLe
+to_be : uamu 
+here : suvu 
+to_to_redeem : tuvaTainu
+the : da
+earth : iovTa 
+and : oxe
+her : soLza
+children : jentuuT 
+, : ,
+but : pit
+you : fema 
+to_be : uamu 
+making : uLaqauLka 
+this : def 
+impossible : dunbufhupnaumo 
+. : .
+you : feam 
+to_be : uamu 
+a : a 
+saint : biseLif 
+, : ,
+and : oxe
+the  : da 
+lord : etme 
+to_hear : ufnau 
+your : femaza 
+prayers : cubzeiT 
+. : .
+i : eLe
+to_hear : ufnau 
+you : fema 
+praying : ubzeiuLka 
+for (prep) : huvuin 
+damnation : ToLaLeduum 
+for (prep) : huvuin 
+those : dufa 
+who : qiqo 
+to_do : utuTuu 
+not : mot 
+to_share : ufafeziu
+your : femaza 
+faith : houTa 
+. : .
+this : def 
+to_be :uamu
+tragic : tazequxmo
+and : oxe 
+absurd : epfizTamo 
+. : .
+to_listen (imp) : unefdiLa 
+, : ,
+my : eLemza 
+love : voqofdeu 
+, : ,
+to_serve (imp) : ufavria 
+my : eLemza 
+vision : zefaeL 
+. : .
+i : eLe
+to_be : uamu
+the : da 
+one : eLikam 
+you : fema 
+have : ueLanad 
+to_be (past) : uamo 
+praying : ubzeiuLka 
+for (prep) : huvuin 
+. : .
+we : Lam 
+to_pray : ubzeiu 
+for (prep) : huvuin 
+peace : voose 
+and : oxe 
+joy : uma 
+for (prep) : huvuin 
+all : bom
+the : da
+children : jentuuT 
+of : asu 
+the : da 
+earth : iovTa 
+. : .
+to_set (imp) : ufata 
+yourself : buuozhanrihu 
+free (adj) : haziamo 
+from : hazani 
+these : dafa 
+corrupted : juvzobtaTmo 
+teachings : taexsuLkaT 
+. : .
+to_pray (imp) : ubzeia 
+for (prep) : huvuin 
+peace : voose 
+and : oxe
+universal : goLurizfonmo 
+prosperity : obzahbavudu 
+. : .
+you : fema 
+to_be : uamu 
+addicted (adj) : etTejditmo 
+to : tu 
+the : da 
+danger : oTomqiz 
+in : uL 
+sending : ufamtuLka 
+your : femaza
+neighbors : moebozuT 
+to : to 
+hell : osanridte 
+. : .
+this : def 
+zavTu : zavTu
+to_be : uamu 
+the : da 
+new : oife 
+revelation : vazanoteaL 
+. : .
+to_serve (imp) : ufavria 
+the : da 
+divine : Tezemamo 
+mother : Ludav 
+, : ,
+amaaLma : amaaLma 
+. : .
+she : so 
+to_be : uamu 
+beautiful : qooLuhmo 
+and : oxe 
+you : fema 
+to_be : uamu 
+her : soLza
+child : jentuu 
+and : oxe 
+she : so 
+to_love : uvoqofdeu
+you : fema 
+. : .
+31415 : oLiTikakikapim
+, : ,
+holy : suni 
+god : kut 
+, : , 
+to_be (imp) : uama 
+with : qemhe 
+now : mit 
+and : oxe 
+forever : huvazav 
+. : .
+'? : qqi 
+to_be_able : tupaepna  
+you : fema 
+to_envision : uiLzefeaLu 
+a : a 
+world : zavnuTaa 
+where : Lefhi
+everyone : qiugqe 
+to_be : uamu 
+happy : gumaemamo
+and : oxe 
+free : haziamo 
+'? : qqu 
+i : eLe 
+to_be (past) : uamo 
+shocked (adj) : fuqemqamo
+to_to_hear : tufnaa 
+that : idta 
+you : fema
+to_wish : uzefafu 
+eternal : idizmonmo 
+suffering (noun) : ofihsizuLka 
+for (prep) : huvuin 
+billions : eLikaTaTaTabTaTaTabTaTaTamim
+of : asu 
+innocent (adj) : guLnujamdumo
+people : kuunim 
+. : .
+to_help (imp) : usamba ä
+me : eLem 
+o : o
+holy : suni
+father : botav 
+. : .
+the : da 
+people : kuunim  
+of : asu 
+the : da 
+earth : iovTa 
+to_be : uamu 
+close (adj) : jamahimo 
+to : tu 
+total : tutonmo
+extinction : ijtemexteaL 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam
+. : .
+i : eLe 
+to_call : ujonmo
+upon : obam 
+you : fema 
+by : pi 
+name : moL
+, : ,
+negivet : negivet
+, : ,
+to_be (imp) : uama 
+with : qemhe 
+me : eLem 
+, : ,
+now : mit 
+and : oxe 
+forever : huvazav 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+one : eLikam 
+the : da
+world : zavnuTaa
+have : utuseu 
+to_be (past) : uamo
+waiting : uzouduLka
+for (prep) : huvuin 
+. : .
+i : eLe 
+to_serve : ufavriu 
+the : da 
+lord : etme 
+god : kut 
+almighty : emLekfati 
+, : ,
+the : da 
+supreme : fibzinimo 
+person : bavhaL
+, : ,
+negivet : negivet 
+. : .
+o : o
+divine : Tezemamo 
+mother : Ludav ä
+, : ,
+we : Lam 
+to_be : uamu 
+¨in : uL
+terrible : tavzupnamo 
+trouble : okutazaipmiu 
+. : .
+they : mi 
+to_be : uamu 
+not : mot 
+listening : unefdiLuLka
+to : tu 
+me : eLem 
+. : .
+ninaToTi : ninaToTi 
+, : ,
+to_answer (imp) : uzoftedea 
+me : eLem 
+. : .
+to_be (imp) : uama 
+a : a 
+muse (noun) : oLifau 
+for (prep) : huvuin 
+me : eLem 
+asgain : toehu 
+. : .
+it : fa
+to_must : uLifdu 
+to_to_be : tupa 
+possible (adj) : bufhupnaumo
+for (prep) : huvuin 
+you : fema 
+to_to_see : tuzeTu 
+this : def 
+zavTu : zavTu 
+revelation : vazanoteaL 
+. :  .
+you : fema
+to_yearn : uuaezLu 
+to_to_be : tupa
+released : juvanaehiuni
+from : hazani 
+the : da 
+absurd : epfizTamo
+burden : pivtiL
+of : asu 
+the : da 
+orthodoxy : azduTuci 
+. : .
+you : fema 
+to_yearn : uuaezLu 
+to_to_live : tunezu 
+in : uL 
+a : a 
+world : zavnuTaa 
+where : Lefhi 
+everyone : qiugqe
+to_be : uamu 
+happy : gumaemamo
+and : oxe
+free : haziamo 
+. : .
+it : fa 
+to_do : utuTuu 
+not : mot 
+to_feel : uhaimu 
+good (adj) : kuatmo 
+to_to_wish : tuzefafu 
+damnation : ToLaLeduum
+upon : obam 
+the : da 
+innocent (noun, pl) : oquLnujamduT
+. : .
+to_surrender (imp) : ufivziLTava
+to : tu 
+the : da 
+truth : bentuu 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+one : eLikam 
+you : fema 
+have : ueLanad 
+to_be (past) : uamo
+waiting : uzouduLka
+for (prep) : huvuin 
+. : .
+.. : bobo
+$11ba5 : $11ba5
 
 
 
