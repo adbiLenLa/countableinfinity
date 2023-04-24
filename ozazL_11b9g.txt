@@ -110764,16 +110764,280 @@ this : def
 assignment : ehfekLaLamdu
 . : .
 .. : bobo
-$11ba5 : $11ba6
-
-
-
-
-
-
-
-
-
+$11ba6 : $11ba6
+almighty : emLekfati 
+god : kut 
+, : ,
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+, : ,
+to_move (imp) : uLuzaa 
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_remove (imp) : uvaLuzaa 
+the : da 
+wicked (noun, pl) : obosiohaT 
+from : hazani 
+positions : bufeteaLim 
+of  : asu 
+power : zuuno 
+. : .
+to_move (imp) : uLuzaa 
+in : uL 
+the : da 
+hearts : fiTamim
+of : asu 
+the : da 
+oligarchs : amuqezqaT 
+so : fu 
+that : idta 
+they : mi 
+will : danaLeu 
+to_ratify : uvotehiu
+this : def 
+zavTu : zavTu 
+vision : zefaeL  
+of : asu 
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : stars 
+, : ,
+forever : huvazav
+. : .
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+, : ,
+and : oxe 
+this : def 
+zavTu : zavTu 
+to_be : uamu 
+my : eLemza 
+vision : zefaeL 
+and : oxe 
+will (noun) : odanaLeu 
+. : .
+i : eLe 
+to_see : uzeTu 
+beautiful : qooLuhmo 
+humans : siLomim 
+living : unezuLka 
+forever : huvazav 
+in : uL 
+a : a
+endless : iLTmihafmo 
+golden : qindemo 
+age : oeqi 
+out : aut 
+among : enamku 
+the : da
+stars : tasduT 
+. : .
+you : fema 
+, : ,
+devotee : Tazutai 
+of : asu 
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+, : ,
+you : fema 
+to_be : uamu 
+waiting : uzouduLka 
+for (prep) : huvuin 
+me : eLe
+to_to_reveal : tuvazaemau
+the : da 
+key : oqau 
+to : tu 
+nuclear : mijmiovmo 
+fusion : hifeaL 
+. : .
+you : fema 
+to_must (imp) : uLifda 
+to_wait : uzoudu 
+a : a 
+little : beiLu 
+while (noun) : ozafumi 
+longer : numqiziz 
+. : .
+so : fu 
+, : ,
+this : def 
+to_be : uamu 
+oblivion : apnezeaL
+. : .
+she : so 
+have : uelanad
+to_forsake (past) : uhuvhegio
+me : eLem 
+. : .
+this : def 
+to_be : uamu 
+like : qiuL
+drowning : uTzarmemguLka
+in : uL
+slow : famarmo
+motion : LuteaL 
+. : .
+all : bom 
+to_hail (imp) : usouma
+the : da 
+supreme : fibzinimo
+person : bavhaL
+, : ,
+negivet : negivet
+, : ,
+31415 : oLiTikakikapim
+. : .
+Toqasi : Toqasi 
+, : ,
+the : da 
+reader : vaetiz 
+to_know : uqaLaru
+the : da
+day : bauri 
+of : asu 
+your : femaza 
+return (noun) : ovativLu 
+. : .
+o : o
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+to_answer (imp) : uzoftedea
+to : tu 
+the : da 
+name : moL
+negivet : negivet 
+. : .
+to_be (imp) : uama 
+with : qemhe 
+me : eLem 
+, : ,
+now : mit 
+and : oxe 
+forever : huvazav 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+messenger : aLmeg 
+. : .
+my : eLemza 
+name : moL 
+to_be : uamu 
+jonekino : jonerkino
+amuqimax : amuqimax 
+, : ,
+and : oxe 
+i : eLe 
+to_be : uamu 
+the : da 
+annointed (noun) : oquemLuuLtuni
+emperor : oinbavuv 
+of : asu 
+the : da 
+zavTu : zavTu 
+empire : oinbeva 
+. : .
+to_move (imp) : uLuzaa 
+in : uL
+my : eLemza 
+hands : qafeT 
+and : oxe 
+feet : exongeT 
+, : ,
+o : o
+holy : suni 
+father : botav 
+, : ,
+aLaLuie : aLaLuie
+hazoet : hazoet 
+. : .ä
+so : fu 
+i : eLe 
+to_be : uamu 
+utterly : odtivmizi 
+alone : emaLi 
+. : .
+'? : qqi 
+how : suo 
+to_do (past) : utuTuo
+you : fema 
+to_find (past) : unoudeo 
+me : eLem 
+, : ,
+dear : Tiezmo 
+reader : oTutzioTu 
+'? : qqu
+you : fema 
+to_know : uqaLaru 
+what : Leta 
+to_be (past) : uamo
+going : uLamLuLka 
+on : aL 
+behind : pasemtin 
+the : da 
+scenes : ofexiLiT 
+. : .
+you : fema 
+to_know : uqaLaru 
+how : suo 
+excited : kuijajetaunimo 
+they : mi 
+to_be : uamu 
+about )prep) : bopaitin 
+nuclear : mijmiovmo 
+fusion : hifeaL 
+, : ,
+and : oxe
+how : suo 
+they : mi 
+to_hope : usubau 
+that : idta 
+i : eLe 
+will : danaLeu 
+to_reveal : uvazaemau 
+the : da 
+secret : fajzid 
+while (conj) : zafumipu
+i : eLe 
+to_be : uamu 
+still (adv) : fadumnuzi 
+in : uL 
+containment : jumdeemniLta
+. : .
+to_be (imp) : uama 
+with : qemhe 
+me : eLem 
+o : o
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+. : .
+this : def 
+to_ber : uamu 
+the : da 
+end : iLTu 
+of : asu 
+the : da 
+dark : Tovgumo 
+age : oeqi 
+. : .
+.. : bobo 
+$11ba7 : $11ba7
 
 
 
