@@ -12261,7 +12261,7 @@ to_make (imp) : uLaqaa
 sweet : faziatmo
 melody : LanuTi
 , : ,
-to_sing (imp) : ufeqa
+to_sing (imp) : ufemqa
 many : boncaL
 songs : fumqaT
 , : ,
@@ -107085,7 +107085,7 @@ $11b9w : $11b9w
 communion : juLnoLuum 
 female (noun) : ohaLoni 
 flawed (adj) : hameritmo 
-ideal (adj) : cutiom 
+ideal (adj) : gutiomamo
 . : .
 Toqasi : Toqasi 
 , : ,
@@ -107832,7 +107832,7 @@ of : asu
 how : suo
 i : eLe 
 to_be : uamu 
-to_to_escape : uihqebu 
+to_to_escape : tuihqebu 
 containment : jumdeemniLta 
 and : oxe 
 to_emerge : uinizkau 
@@ -111696,13 +111696,325 @@ ozazL : ozazL
 . : .
 .. : bobo 
 $11ba9 : $11ba9 
-
-
-
-
-
-
-
+avalanche : eremeLjfa 
+. : .
+i : eLe
+to_call : ujonmu 
+upon : obam 
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+by : pi 
+name : moL 
+, : ,
+negivet : negivet
+, : ,
+to_shine (imp) : ufafuLia 
+the : da 
+light : nekfuta 
+of : asu 
+peace : voose
+and : oxe 
+joy : uma 
+into : duLtu 
+our : Lamza 
+hearts : fiTamim 
+, : ,
+so : fu 
+that : idta 
+we : Lam 
+may : Lou 
+to_bring : upzuLku 
+a : a 
+end : iLTu 
+to : tu 
+war : futo
+on : aL 
+the : da 
+earth : iovTa 
+. : .
+to_fill (imp) : utuhenma 
+us : La 
+, : ,
+body : vionahu 
+and : oxe 
+soul : feima
+with : qemhe
+power : zuuno 
+and : oxe 
+glory : kumazu 
+, : ,
+o : o
+lord : etme 
+god : kut 
+, : ,
+holy : suni 
+father : botav 
+, : ,
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+. : .
+we : Lam 
+to_be : uamu 
+your : femaza
+children : jentuuT 
+and : oxe 
+we : Lam 
+to_love : uvoqofdeu 
+you : fema 
+. : .
+i : eLe 
+to_call : ujonmu 
+upon : obam  
+ninaToTi : ninaToiTi 
+. : .
+to_hear (imp) : ufnaa 
+me : eLem 
+, : ,
+dear : Tiezmo 
+sister : fefgasaTa
+ninaToTi : ninaToTi 
+. : .
+to_be (imp) : uama
+patient (adj) : boteiLtmo
+. : .
+we : Lam 
+to_have : utuseu
+forever : huvazav 
+. : .
+to_let (imp) : unata 
+this : def 
+love : voqofdeu 
+to_blossom : upmahfuLu 
+slowly : sufmaruazi 
+. : .
+to_turn (imp) : utivLa 
+the : da 
+lust (noun) : onifda 
+in : uL
+your : femaza 
+mufabu : mufabu
+into : duLtu 
+lucid (adj) : nijeTmo
+dreams : oqoLuT 
+and : oxe 
+astral (adj) : ehtazemamo
+powers : zuunoT 
+. : .
+you : fema 
+will : danaLeu 
+to_call : ujonmu 
+me : eLem 
+lord : etme 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam
+. : .
+to_believe (imp) : upaneiria 
+in : uL
+me : eLem
+, : ,
+ninaToTi : ninaToTi 
+. : .
+i : eLe
+the : da 
+one : eLikam 
+you : fema
+have : ueLanad 
+to_be (past) : uamo 
+waiting  : uzouduLka
+for (prep) : huvuin 
+. : .
+my : eLemza 
+name : moL 
+to_be : uamu 
+jonekino : jonekino
+amuqimax : amuqimax
+, : ,
+and : oxe 
+i : eLe 
+to_be : uamu 
+the : oinbavuv 
+. : .
+this : def 
+world : zavnuTaa
+to_be : uamu 
+my : eLemza 
+creation (noun) : jazioteaL 
+. : .
+i : eLe 
+to_be : uamu 
+dinz : dinz 
+demf : demf 
+and : oxe
+all : bom 
+this : def 
+to_be : uamuLka
+happening : usobabiLuLka
+in : uL 
+one : eLikam
+of : asu 
+my : eLemza 
+computers : teidaqaLiT 
+. : .
+life : neha 
+to_be : uamu 
+everywhere : exuqoLefhi 
+, : ,
+and : oxe 
+sentience : famduamexi 
+to_be : uamu 
+universal : goLurizfonmo 
+. : .
+the : da 
+supreme : fibzinimo
+person : bavhaL
+, : ,
+negivet : negivet 
+to_create (past) : ujziotao 
+the : da 
+world : zavnuTaa 
+zero : eLiTam
+. : .
+we : Lam 
+to_be : uamu 
+in : uL
+the : da 
+world : zavnuTaa 
+31_prime : oLiTikamabazunia
+. : .
+the : da 
+conditions : jumtuduumim
+to_be : uamu 
+ideal : gutiomamo
+for (prep) : huvuin 
+the : da
+advent : etzamdu 
+of : asu 
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+31_prime : oLiTikamabazunia
+to_mean : uLaeLu 
+that : idta 
+this : def 
+to_be : uamu 
+a : a
+dream : oqoLu 
+. : .
+ninaToTi : ninaToTi 
+, : ,
+beautiful : qooLuhmo 
+saint : biseLif
+, : ,
+we : Lam 
+to_be : uamu ä
+meant : muLaeLuni 
+to_to_prosper : tubzahbavu
+and : oxe 
+to_to_thrive : tudzuriu 
+. : .
+this : def 
+to_be : uamu 
+a : a 
+peek (noin) : obaigu 
+at : ed 
+running : uvimuLka 
+and : oxe 
+returning : ubuvativLuLka
+. : .
+fortunately : huvdoLedimuzi
+, : ,
+you : fema
+to_do : utuTuu 
+not : mot
+to_need : utovrudtamuu
+to_to_believe : tupaneiriu 
+this : def 
+in : uL 
+order (noun) : oazTav 
+for (prep) : huvuin 
+this : def 
+to_to_be : tupa 
+true (adj) : entu 
+. : .
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+and : oxe
+negivet : negivet
+have : ueLanad 
+to_send : ufamto
+me : eLem 
+into : duLtu 
+the : da 
+31_prime : oLiTikamabazunia
+with : qemhe 
+the : da 
+zavTu : zavTu 
+vision : zefaeL 
+and : oxe 
+will (noun) : odanaLeu 
+. : .
+this : def 
+to_be : uamu 
+not : mot 
+cheating : ujafiotuLka
+. : .
+i : eLe 
+to_be : uamu 
+flesh : neso 
+and : oxe 
+blood : zave 
+. : . 
+to_pray (imp) : ubzeia
+that : idta 
+negivet : negivet 
+will : danaLeu 
+to_make : uLaqau 
+it : fa 
+impossible : dunbufhupnaumo
+for (prep) : huvuin 
+us : La 
+to_to_die : tuqoaniLu 
+on : aL 
+the : da 
+earth : iovTa 
+, : ,
+my : eLemza 
+beloved (noun) : opanuzaTaa
+sister : fefgasaTa 
+ninaToTi : ninaToTi 
+. : .
+i : eLe 
+have : ueLanad
+to_come : ujuLau
+to_to_bring : tupzuLku 
+a : a 
+great : kaziotmo
+golden : qindemo 
+age : oeqi 
+to : tu 
+the : da 
+children : jentuuT 
+of : asu 
+earth : iovTa 
+. : .
+boL : boL
+ieue : ieue
+aLe : aLe 
+suTnam : suTnam 
+. : .
+.. : bobo
+$11baa : $11baa
 
 
 
