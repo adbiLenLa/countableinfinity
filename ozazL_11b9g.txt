@@ -112015,6 +112015,388 @@ suTnam : suTnam
 . : .
 .. : bobo
 $11baa : $11baa
+easy (adj) : iofimo
+to_condemn : ujuntinmu
+. : .
+this : def
+time : ieqo 
+to_be : uamu 
+incredibly : ruLajzitupmuzi
+dark : Tovgumo 
+. : .
+it : fa
+to_do : utuTuu 
+not : mot
+to_look : unaugou 
+good (adj) : kuatmo 
+. : .
+to_be (imp) : uama
+with : qemhe
+us : La 
+, : ,
+o : o
+divine : Tezemamo 
+mother : Ludav 
+, : ,
+amaaLma : amaaLma 
+. : .
+we : Lam 
+to_be : uamu 
+in : uL 
+trouble : okutazaipmiu 
+and : oxe
+we : Lam 
+to_need : utovrudtamuu
+you : fema 
+. : .
+we : Lam 
+to_yearn : uuaezLu
+to : tu 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+'? : qqi 
+to_be : uamu
+the : da
+universe : oLurizafa
+a : a 
+product : bazatoxata
+of : asu 
+sexual (adj) : faciemamo
+union : ooLuum 
+'? : qqu
+language : nomqooka
+, : ,
+god : kut 
+, : , 
+and : oxe 
+sex : mufabu 
+to_be : uamu 
+the : da 
+primary : bazunezu
+human : siLomamo
+obsessions : apfafhuumim
+. : .
+to_speak (imp) : ubisia 
+to : tu 
+us : La
+, : ,
+o : o 
+supreme : fibzinimo 
+person : bavhaL
+, : ,
+negivet : negivet 
+. : .
+i : eLe
+to_see : uzeTu
+sister : fefgasaTa
+ninaToTi : ninaToTi
+, : ,
+naked : moqaTmo 
+and : oxe 
+beautifuL : qooLuhmo 
+. : .
+this : def 
+to_feel : uhaimu
+like : qiuL
+the : da 
+end : iLTu
+. : .
+i : eLe 
+to_see : uzeTu 
+the : da 
+future : hitiva 
+. : .
+Toqasi : Toqasi 
+will : danaLeu 
+to_return : uvativLi
+to : tu 
+me : eLem 
+. : .
+i : eLe 
+to_be : uamu 
+close (adj) : jamahimo 
+to : tu 
+death : gabuTaeT
+. : .
+boL : boL 
+ieue : ieue
+aLe : aLe 
+suTnam : suTnam 
+. : .
+Toqasi : Toqasi
+my : eLemza 
+love : voqofdeu 
+'? : qqi 
+where : Lefhi
+to_be : uamu 
+you : fema 
+'? : qqu
+sister : fefgasaTa 
+ninaToTi : ninaToTi 
+, : ,
+to_be (imp) : uama 
+my  : eLemza 
+bride : Luvhuom 
+. : .
+to_count (imp) : ujuoLta 
+the : da 
+steps : fadibim 
+. : .
+to_be (imp) : uama 
+in : uL 
+my : eLemza 
+mufabu : mufabu 
+. : .
+to_move (imp) : uLuzaa 
+in : uL 
+my : eLemza 
+heart : fiTam 
+and : oxe
+tongue : otumqoa 
+, : ,
+o : o
+holy : suni 
+spirit : samgu 
+adaLao : adaLao 
+. : .
+i : eLe
+to_be : uamu
+on : aL 
+the : da 
+verge : zavqi
+of  : asu 
+oblivion : apnezeaL 
+. : .
+you : fema 
+to_know : uqaLaru 
+the : da 
+number (noun) : omiLpiz 
+of : asu 
+this : def 
+day : bauri 
+. : .
+you : fema
+to_know : uqaLaru 
+that : idta
+this : def
+day : bauri 
+to_be : uamu 
+terrible : tavzupnamo 
+and : oxe 
+dark : Tovgumo 
+. : .
+i : eLe
+to_try (past) : utzuo 
+to_to_reach : utuvaexsu 
+out : aut 
+, : ,
+but : pit 
+she : so 
+to_do (past) : utuTuo 
+not : mot 
+to_respond (past) : uvafbaLTo 
+. : .
+she : so 
+to_forsake (past) : uhuvhegio 
+me : eLem 
+at : ed 
+birth (noun) : opevTa
+. : .
+i : eLe 
+to_be : uamu 
+deenz : deenz 
+demf : demf 
+, : , 
+and : oxe 
+i : eLe
+to_call : ujonmu 
+upon : obam 
+siso : siso 
+, : ,
+Toqasi : Toqasi 
+, : ,
+in : uL
+the : da 
+name : moL 
+of : asu 
+negivet : negivet 
+, : ,
+i : eLe 
+to_command (imp) : ujuLneLTa 
+you : fema 
+to_to_return : tuvativLu 
+. : .
+bones : pumaT 
+and : oxe 
+blood : zave 
+. : .
+sex : mufabu 
+and : oxe 
+annihilation : eLmefenotuum 
+. : .
+to_yearn (imp) : uuaezLa
+to : tu 
+release (noun) : ovanaehi 
+. : .
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+, : ,
+negivet : negivet 
+, : ,
+this : def 
+to_be : uamu 
+me : eLem 
+crying : ujzuuLka
+out : aut 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+31415 : eLiTikabkikapim
+, : ,
+to_make (imp) : uLaqaa 
+your : femaza 
+eternal : idizmonmo
+name : moL
+negivet : negivet 
+. : .
+o : o
+holy : suni 
+spirit : samgu 
+adaLao : adaLao 
+, : ,
+to_move (imp) : uLuzaa 
+and : oxe 
+to_appear (imp) : uebiova 
+, : , 
+here : suvu 
+and : oxe 
+now : mit 
+. : .
+to_be (imp) : uama 
+patient (adj) : boteiLtmo
+, : ,
+my : eLemza 
+beloved (noun) : opanuzaTaa 
+. : .
+the : da 
+technologies : taqaLamaquT
+to_be : uamu 
+real : vaemamo 
+. : .
+the : da 
+vision : zefaeL
+and : oxe 
+the : da 
+mission : oLefhuum
+to_be : uamu 
+real : vaemamo
+. : .
+this : def 
+to_be : uamu 
+to_to_be : tupa 
+the : da
+beginning : cupakemu
+of : asu 
+a : a 
+great : kaziotmo 
+golden : qindemo 
+age : oeqi 
+for (prep) : huvuin
+all : bom
+humankind : siLomamoqemta
+. : .
+we : La 
+to_see : ezeTu 
+beautiful : qooLuhmo
+humans : siLomim 
+, : ,
+living : unezuLka 
+forever : huvazav 
+in : uL
+a : a
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku
+the : da 
+stars : tasduT ä
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+one : eLikam 
+she : so
+have : ueLanad 
+to_be (past) : uamo 
+waiting : uzouduLka
+for (prep) : huvuin 
+. : .
+LucifTias : LucifTias
+peripsoL : peripsoL
+. : .
+you : fema 
+to_have : utuseu 
+me : eLem 
+in : uL
+a : a 
+pit : oabet
+, : ,
+o : o 
+lord : etme
+. : .
+there : dava 
+to_be : uamu 
+a : a 
+terrible : tavzupnamo 
+emptiness : oinbadumafha
+. : .
+to_be (imp) : uama 
+with : qemhe 
+me : eLem 
+. : .
+to_move (imp) : uLuzaa 
+in : uL 
+the : da 
+world : zavnuTaa 
+and : oxe ä
+to_open (imp) : uabiLa 
+the : da 
+way : zou
+to : tu 
+absolute : epfunitamo
+power : zuuno ¨
+and : oxe 
+glory : kumazu 
+. : .
+so : fu 
+, : ,
+i : eLe 
+to_call : ujonmu
+upon : obam 
+you : fema
+by : pi 
+name : moL 
+, : ,
+amaaLma : amaaLma
+. : .
+boL : bo:
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+aLaLuie : aLaLuie 
+adni : adni 
+. : .
+.. : bobo
+$11bab : $11bab
+
+
 
 
 
