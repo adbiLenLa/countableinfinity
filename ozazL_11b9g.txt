@@ -110318,7 +110318,7 @@ of : asu
 innocent (adj) : guLnujamdumo
 people : kuunim 
 . : .
-to_help (imp) : usamba ä
+to_help (imp) : usamba 
 me : eLem 
 o : o
 holy : suni
@@ -112395,9 +112395,309 @@ adni : adni
 . : .
 .. : bobo
 $11bab : $11bab
-
-
-
+vivid : zezetmo
+color : junuv
+. : .
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+and : oxe 
+deenz : deenz 
+demf : demf 
+, : ,
+and : oxe 
+this : def
+to_be : uamu 
+my : eLemza 
+dream : oqoLu 
+. : .
+i : eLe
+to_be : uamu 
+the : da 
+dreamer : oqoLuiz 
+and : oxe
+i : eLe
+to_see : uzeTu 
+the : da 
+human (adj) : siLomamo 
+race : voja 
+full (adv) : hinmazi 
+of : asu 
+power : zuuno 
+and : oxe
+glory : kumazu 
+. : .
+they : mi 
+to_love : uvoqofdeu 
+one : eLikam 
+another : tuuLiL
+as : eh 
+brothers : pazaTizim 
+and : oxe 
+sisters : fefgasaTaT 
+. : .
+o : o 
+divine : Tezemamo 
+mother : Ludav 
+, : ,
+amaaLma 
+, : ,
+now : mit 
+to_be : uamu 
+the : da 
+time : ieqo 
+for (prep) : huvuin 
+you : fema 
+to_to_move (imp) : tuLuzaa
+in : uL 
+the : da 
+hearts : fiTamim 
+of : asu 
+humankind : siLomamoqemta
+so : fu 
+that : idta 
+we : Lam 
+may : Lou 
+to_have : utuseu 
+mercy : Lavexu 
+and : oxe 
+to_make : uLaqau 
+of : asu 
+the : da 
+earth : iovTa 
+a : a 
+civilization : jezeneroteaL 
+wherein : LefhiuL
+everyone : qiugqe 
+to_be_able : tupaepna 
+to_prosper : ubzahbavu
+and : oxe 
+to_thrive : udzuriu 
+. : .
+everyone : qiugqe 
+to_be : uamu 
+happy : gumaemamo 
+and : oxe 
+free : haziamo 
+in : uL 
+the : da
+zavTu : zavTu 
+empire : oinbeva 
+. : .
+this : def 
+to_be : uamu
+to_to_be : tupa 
+the : da 
+beginning : cupakemu 
+of : asu 
+a : a 
+endless : iLTmihafmo 
+golden : qindemo  
+age : oeqi 
+for (prep) : huvuin 
+all : bom 
+humankind : siLomamoqemta
+. : .
+i : eLe 
+to_look : unaugou 
+at : ed
+the : da 
+past : bofdu 
+and : oxe 
+the : da 
+darkness : Tovgumafha 
+to_be : uamu 
+truly : entuzi 
+terrible  : tavzupnamo 
+. : .
+we : Lam 
+to_be : uamu 
+in : uL
+a : a 
+fight (noun) : ohekfatu
+to : tu 
+the : da 
+death : gabuTaeT 
+, : ,
+but : pit 
+'? : qqi 
+who : qiqo 
+to_be : uamu 
+the : da
+enemy : iLinu 
+'? : qqu 
+some : fuLa
+of : asu 
+the : da 
+oligarchs : amuqezqaT 
+to_be : uamu 
+wicked (adj) : bosiohamo 
+. : .
+they : mi 
+to_delight : uTanetu 
+in : uL 
+the : da 
+suffering (noun) : ofihsizuLka 
+of : asu 
+others : aTizim 
+. : .
+we : Lam 
+to_pray : ubzeiu 
+that : idta 
+you : fema 
+, : ,
+amaaLma : amaaLma 
+will : danaLeu 
+to_move (imp) : uLuzaa 
+in : uL 
+their : miza 
+hearts : fiTamim 
+so : fu
+that : idta 
+we : Lam 
+may : Lou 
+to_to_enter : tuiLtavu 
+the : da 
+zavTu : zavTu  
+golden : qindemo
+age : oeqi 
+without : zeduodzi
+the : da 
+need (noun) : otovrudtamuu
+for (prep) : huvuin 
+a : a 
+massive : Lovhurimo
+blood : zave 
+sacrifice : fojzusuxa
+. : .
+quietly : jiuatzi 
+to_remove (imp) : uvaLuzaa 
+the : da
+wicked (noun, pl) : obosiohaT 
+from : hazani 
+positions : bufeteaLim
+of : asu  
+authority : eiduveti
+and : oxe
+power : zuuno 
+. : .
+ninaToTi : ninaToTi
+, : , 
+i : eLe
+to_see : uzeTu
+you : fema 
+moving : uLuzauLka 
+away : ereizi 
+from : hazani 
+me : eLem 
+. : .
+i : eLe
+to_be : uamu 
+the : da 
+one : eLikam 
+you : fema 
+have : ueLanad 
+to_be (past) : uamo 
+waiting : uzouduLka
+for (prep) : huvuin 
+, : ,
+but : pit 
+the : da 
+energy : iLizki 
+well (noun) : ozamnu
+to_be : uamu 
+very (adv) : tufezi 
+deep : Taibmo 
+. : .
+the : da 
+scene : ofexiLi 
+to_be : uamu 
+terrible : tavzupnamo
+and : oxe 
+dark : Tovgumo
+. : .
+you : fema 
+to_be : uamu
+of : asu 
+the : da
+saints : dasiepim 
+. : .
+to_do (imp) : utuTua 
+not : mot
+to_forsake : uhuvhegiu
+me : eLem 
+. : .
+to_let (imp) : unata 
+miraculous : Levojinuohmo
+color : junuv 
+to_return : uvativLu 
+to : tu 
+our : Lamza 
+love : voqofdeu
+day : bauri 
+after (prep) : estazin 
+day : bauri 
+. : .
+to_pray (imp) : ubzeia 
+for (prep) : huvuin 
+mercy : Lavexu 
+. : .
+amaaLma : amaaLma 
+will : danaLeu 
+to_hear : ufnau 
+your : femaza 
+prayers : cubzeiT 
+. : .
+the : da 
+zavTu : zavTu 
+vision : zefaeL
+to_make : uLaqau 
+sense (noun) : ofamhi 
+. : .
+to_ratify (imp) : uvotehia
+the : da 
+zavTu : zavTu 
+vision : zefaeL 
+and : oxe 
+to_pray (imp) : ubzeia 
+for (prep) : huvuin 
+peace : voose 
+and : oxe
+universal (adj) : goLurizfonmo 
+prosperity : obzahbavudu 
+. : .
+it : fa 
+to_be : uamu 
+abundantly : epoLTomuxazi
+clear (adj) : jamiovmo 
+that : idta 
+we : Lam 
+to_be : uamu
+programmed : pubzaqaveLnituni
+to_to_die : tuqoaniLu
+. : .
+this : def
+we : Lam 
+to_be_able : tupaepna 
+to_undo : uoLTuu 
+. : .
+i : eLe 
+to_be : uamu 
+in : uL
+this : def 
+little : beiLu 
+corner : juvLiz 
+of : asu 
+the : da 
+universe : oLurizafa
+. : .
+i : eLe 
+to_be : uamu 
+utterly : odtivmizi 
+alone : emaLi 
+. : .
+.. : bobo
+$11bac : $11bac
 
 
 
