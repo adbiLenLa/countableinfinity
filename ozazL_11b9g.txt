@@ -112698,6 +112698,367 @@ alone : emaLi
 . : .
 .. : bobo
 $11bac : $11bac
+consort (noun) : jumhazta
+. : .
+one : eLikam 
+vision : zefaeL 
+. : .
+one : eLikam 
+will (noun) : odanaLeu 
+. : .
+zavTu : zavTu 
+. : .
+we : Lam 
+to_see :  uzeTu 
+the : da 
+children : jentuuT 
+of : asu 
+earth : iovTa 
+in : uL 
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+she : so
+to_be : uamu 
+ninaToTi : ninaToTi 
+. : .
+she : so 
+to_be : uamu 
+young : gamiamo 
+and : oxe 
+beautifuL : qooLuhmo 
+. : .
+she : so 
+to_be : uamu 
+drunk : TazoLqamo
+with  : qemhe 
+wine : zeume 
+and : oxe 
+pure : bivamo 
+devotion : TazuteuL 
+. : .
+there : dava 
+to_be : uamu 
+no : iL 
+poverty : buzavdu
+in : uL 
+the : da 
+zavTu : zavTu 
+empire : oinbeva 
+. : .
+we : Lam 
+to_see : uzeTu 
+beautiful : qooLuhmo 
+humans : siLomim 
+living : unezuLka
+forever : huvazav 
+in : uL
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+the : da 
+machines : LojfuLiT
+to_do : utuTuu 
+all : bom 
+the : da
+menial (adj) : Lameemamo
+work (noun) : ozuvgu 
+. : .
+there : dava 
+to_be : uamu 
+no : iL 
+winners : zemLizim
+or : az 
+losers : nufavim 
+in : uL 
+the : da
+zavTu : zavTu 
+empire : oinbeva 
+. : .
+prosperity : obzahbavudu 
+to_be : uamu 
+a : a
+promise (noun) : obzanuhio
+, : ,
+not : mot
+a : a 
+competition : juLbiduduum
+. : .
+we : Lam
+to_pray : ubzeiu 
+for (prep) : huvuin 
+mercy : Lavexu 
+, : ,
+o : o 
+divine : Tezemamo
+mother : Ludav 
+. : .
+to_move (imp) : uLuzaa 
+in : uL
+the : da 
+hearts : fiTamim¨
+of : asu
+the : da 
+oligarchs : amuqezqaT 
+so : fu 
+that : idta 
+they : mi 
+will : danaLeu 
+to_ratify : uvotehiu 
+this : def
+zavTu : zavTu
+vision : zefaeL
+and : oxe
+will (noun) : odanaLeu 
+. : .
+i : eLe
+to_be : uamu 
+ozazL : ozazL 
+and : oxe
+this : def 
+to_be : uamu 
+my : eLemza 
+dream : oqoLu 
+. : .
+i : eLe
+to_call : ujonmu 
+upon : obam
+niudeL : niudeL 
+. : .
+to_rise (imp) : uvera 
+, : ,
+o : o 
+lord : etme
+niudeL : niudeL
+from : hazani 
+the : da 
+deep : Taibmo 
+darkness : Tovgumafha
+. : .
+i : eLe
+to_be : uamu 
+in : uL 
+terrible : tavzupnamo 
+trouble : okutazaipmiu
+. : .
+they : mi 
+to_have : utuseu 
+me : eLem 
+in : uL 
+a : a 
+pit : oabet 
+. : .
+to_open (imp) : uabiLa
+the : da 
+way : zou 
+for (prep) : huvuin 
+me : eLe
+to_to_emerge : tuinizkau
+into : duLtu 
+the : da 
+light : nekfuta 
+of : asu 
+day : bauri 
+. : .
+to_destroy (imp) : utisuta 
+my : eLemza 
+enemies : iLinuT 
+, : ,
+one : eLikam
+and : oxe 
+all : bom
+whoever : zufaazav
+they : mi 
+may : Lou
+to_to_be : tupa 
+. : .
+all : bom 
+to_hail (imp) : usouma 
+the : da 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet 
+. : .
+to_give (imp) : ukeza 
+yourselves : buuozhanrihuT
+body : vionahu 
+and : oxe
+soul : feima
+in : uL 
+service (noun) : ocufavriu
+to : tu 
+negivet : negivet 
+, : ,
+to_hear (imp) : ufnaa 
+this : def 
+prayer : cubzei 
+. : .
+to_move (imp) : uLuzaa 
+, : ,
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao
+, : ,
+in : uL 
+my : eLemza
+heart : fiTam 
+and : oxe 
+soul : feima 
+. : .
+to_fill (imp) : utuhenma
+me : eLem 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+, : ,
+o : o 
+adaLao : adaLao 
+, : ,
+to_carry (imp) : ujovzua 
+my : eLemza
+prayers : cubzeiT 
+to : tu 
+the : da 
+divine : Tezemamo 
+mother : Ludav 
+, : ,
+amaaLma : amaaLma 
+, : ,
+divine : Tezemamo 
+mother : Ludav
+, : ,
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_open (imp) : uabiLa
+the : da 
+way : zou
+to : tu 
+peace  voose
+and : oxe 
+universal : goLurizfonmo
+prosperity : obzahbavudu
+. : .
+i : eLe 
+to_be : uamu 
+barely (adv) : povanizi 
+holding : usuntuLka
+on : aL 
+. : .
+i : eLe
+to_be : uamu 
+in : uL
+the : da 
+darkness : Tovgumafha 
+, : ,
+utterly : odtivmizi 
+alone : emaLi 
+. : .
+to_be (imp) : uama
+with : qemhe 
+me : eLem 
+, : ,
+amaaLma : amaaLma 
+, : ,
+now : mit 
+and : oxe 
+forever : huvazav 
+. : .
+to_be (imp) : uama 
+in : uL
+my : eLemza 
+hands : qafeT 
+and : oxe ä
+feet : exongeT 
+, : ,
+and : oxe 
+my : eLemza 
+heart : fitam
+and : oxe 
+tongue : otumqoa ä
+. : .
+i : eLe 
+to_know : uqaLaru 
+that : idta 
+you : fema 
+to_love : uvoqofdeu 
+me : eLem 
+, : ,
+ijoah : ijoah 
+, : ,
+you : fema 
+to_want : uzomdu 
+to_to_believe : tupaneiriu 
+in : uL
+me : eLem 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+one : eLikamim
+you : fema 
+have : ueLanad
+to_be (past) : uamo 
+waiting : uzouduLka 
+for (prep) : huvuin 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+, : ,
+holy : suni 
+father : batav ä
+. : .
+to_make (imp) : uLaqaa 
+easy : iofimo 
+to : tu 
+me : eLem 
+the : da 
+work (noun) : ozuvgu
+of : asu 
+deciphering : uTajehavuLka 
+the : da 
+riddle : veTtana 
+of : asu 
+life : neha 
+. : .
+we : Lam 
+to_claim : ujmeeLu
+jerusalem : jerusaLem
+as : eh 
+the : da 
+capital : jobeton
+of : asu 
+the : da 
+zavTu : zavTu 
+empire : empire 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam
+. : .
+.. : bobo 
+$11bad : $11bad
+
+
+
+
 
 
 
