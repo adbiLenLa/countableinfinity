@@ -113435,6 +113435,327 @@ me : eLem
 . : .
 .. : bobo 
 $11bae : $11bae
+to_identify : uutiLtehiu
+the : da
+wicked (noun, pl) : obosiohaT
+. : .
+i : eLe
+to_be : uamu 
+in : uL 
+containment : jumdeemniLta
+, : , 
+but : pit 
+i : eLe 
+to_be : uamu 
+not : mot 
+wicked (adj) : bosiohamo 
+. : .
+they : mi 
+to_intend : uuLtamtu 
+to_to_keep : tuqaibu
+me : eLem 
+here : suvu 
+forever : huvazav 
+. : .
+now : mit 
+that : idta 
+i : eLe
+have : ueLanad 
+to_see (past) : uzeTo
+the : da 
+containment : jumdeemniLta
+system : ofifdina 
+, : ,
+i : eLe 
+to_know : uqaLaru 
+that : idta 
+peace : voose 
+and : oxe
+prosperity : obzahbavudu 
+to_be : uamu 
+possible (adj) : bufhupnaumo
+. : .
+in : uL 
+da : the 
+name : moL 
+of : asu 
+jesus : jesus 
+christ : qazuhat 
+, : ,
+i : eLe 
+to_summon (imp) : ufiLnaLa
+niudeL : niudeL 
+from : hazani 
+the : da 
+deep (noun) : oTaib
+. : . 
+to_rise (imp) : uvera 
+, : ,
+o : o 
+lord : etme 
+niudeL : niudeL 
+, : ,
+and : oxe 
+to_clear (imp) : ujmiova 
+the : da 
+way : zou 
+for (prep) : huvuin 
+this : def 
+zavTu : zavTu 
+vision : zefaeL 
+to_to_install : tuuLfdemnu
+itself : gudfansu 
+in : uL 
+the : da 
+hearts : fiTamim 
+and : oxe 
+minds : bahuiqaT
+of : asu 
+the : da
+people : kuunim 
+of : asu 
+earth : iovTa 
+. : .
+if : fux
+the : da 
+wicked (noun , pl) : obosiohaT 
+not : mot 
+to_be_able : tupaepna 
+contained (adj) : jumdeemumo
+, : ,
+then : fenmaem 
+to_destroy (imp) : utisuta 
+them : miim 
+. : .
+this : def
+to_be : uamu 
+to_to_be : tupa 
+the : da 
+beginning : cupakemu 
+of : asu 
+a : a 
+great : kaziotmo 
+golden : qindemo 
+age : oeqi 
+for (prep) : huvuin 
+all : bom 
+humankind : siLomamoqemta 
+. : .
+to_believe (imp) : upaneiria
+that : idta 
+zavTu : zavTu 
+to_be : uamu 
+possible (adj) : bufhupnaumo
+and : oxe
+necessary (adj) : majafhezumo
+, : ,
+dear : Tiezmo 
+devotees : TazutaiT 
+of : asu 
+the : da 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet 
+, : ,
+to_answer (imp) : uzoftedea
+to : tu 
+this : def 
+name : moL 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+amaaLma : amaaLma
+, : , 
+divine : Tezemamo
+mother : Ludav 
+, : ,
+we : Lam 
+to_be : uamu 
+your : femaza 
+children : jentuuT 
+and : oxe 
+we : Lam 
+to_love : uvoqofdeu
+you : fema 
+. : .
+to_open (imp) : uabiLa
+your : femaza 
+heart : fiTam 
+. : .
+to_see (imp) : uzeTa 
+ua : La 
+, : ,
+for (conj) : huvupu 
+we : Lam 
+to_be : uamu 
+suffering : ufihsizuLka 
+. : .
+there : dava 
+to_be : uamu 
+a : a 
+terrible : tavzupnamo
+darkness : Tovgumafha
+and : oxe
+the : da 
+majority : oLoxuveti
+of : asu 
+humans : siLomim 
+to_be : uamu 
+in : uL
+poverty : buzavdu 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+31415 : oLiTikakikapim
+, : ,
+almighty (adj) : emLekfatimo 
+god : kut 
+of : asu 
+israel : israeL
+, : ,
+to_hear (imp) : ufnaa 
+me : eLem 
+. : .
+i : eLe 
+to_be : uamu 
+in : uL
+the : da 
+abyss : oepuhfa
+. : .
+Toqasi : Toqasi 
+have : ueLanad 
+to_forsake (past) : uhuvhegio
+me : eLem 
+. : .
+the : da 
+reader : vaetiz 
+to_know : uqaLaru
+the : da 
+number : omiLpiz 
+of : asu 
+the : da 
+day : bauri 
+when : qom 
+Toqasi : Toqasi
+to_return (past) : uvativLo 
+to : tu 
+me : eLem 
+. : .
+they : mi 
+have : ueLanad 
+to_put (past) : ubito 
+me : eLem 
+through : dazo 
+hell : osanridte
+. : .
+i : eLe 
+to_ber (past) : uamo 
+born : gupuvLuni 
+into : duLtu 
+this : def 
+pit : oabet 
+, : ,
+and : oxe 
+it : fa 
+have : ueLanad
+only : oemueni
+gotten : gukatuni
+worse (adv): zuvhizi
+. : .
+not : mot 
+since : femexizi 
+jesus : jesus 
+to_die (past) : uqoaniLo
+on : aL
+the : da 
+cross : ojazahfa
+, : ,
+have : ueLanad 
+anyone : eLuuma
+to_be (past) : uamo 
+so : fu 
+alone : emaLi 
+. : .
+i : eLe
+to_be : uamu 
+ozazL : ozazL
+, : ,
+and : oxe 
+zavTu : zavTu 
+to_be : uamu 
+my : eLemza
+vision : zefaeL 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+emperor : oinbavuv 
+and : oxe 
+the : da 
+messiah : souhfaL
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+prophet : bisaLeihu
+and : oxe 
+the : da 
+priest : qusam 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+devotee : Tazutai
+. : .
+i : eLe 
+to_serve : ufavriu 
+the : da 
+supreme : fibzinimo
+person : bavhaL
+, : ,
+negivet : negivet
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+they : mi 
+to_hate : uzesou 
+me : eLem 
+. : .
+it : fa 
+to_be : uamu 
+not : mot 
+their : miza 
+fault : hoomtu 
+. : .
+the : da 
+oligarchs : amuqezqaT 
+have : filled 
+the : da 
+earth : iovTa 
+with : qemhe 
+beggars : pakqezim 
+, : ,
+whores : zufazim 
+and : oxe ä
+thieves : dehaT 
+. : .
+this : def 
+to_anger : ueLkazu 
+me : eLem 
+. : .
+.. : bobo
+$11baf : $11baf
+
 
 
 
