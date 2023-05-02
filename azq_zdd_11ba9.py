@@ -4,6 +4,9 @@ import nltk
 import re
 from datetime import *
 
+#exec(open('azq_zdd_11ba9.py').read())
+#never uncomment this
+
 ssL = "boLieueaLestn"
 soL = "abgdeuzctikLmnsopxqrST"
 sos = "0123456789abcdefghijklmnopqrstuvwxyz"
@@ -393,8 +396,8 @@ def _lex27():
     fo0.close()
     return LLu
 
-import nltk
-bbL=nltk.corpus.gutenberg.words('bible-kjv.txt')
+#import nltk
+#bbL=nltk.corpus.gutenberg.words('bible-kjv.txt')
 
 def ubbLc():
     global bbL
