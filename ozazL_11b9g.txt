@@ -3693,7 +3693,7 @@ damascus : damaskus
 to_be : uamu
 rezin : rezin
 . : .
-within : zedum
+within (prep) : zedumin
 65 : eLiTupum
 years : eLmufim
 ephraim : efraim
@@ -9831,7 +9831,7 @@ the : da
 hearts : fiTamim
 will : danaLeu
 to_melt : uLandu
-within : zedum
+within (adv) : zedumin
 them : miim
 . : .
 i : eLe
@@ -9868,7 +9868,7 @@ spirit : samgu
 of : asu
 the : da
 egyptions : iqubtukuunim
-within : zedum
+within (adv) : zedumzi
 will : danaLeu
 to_to_be : tupa
 emptied : rujnabduaTni
@@ -11120,7 +11120,7 @@ lord : etme
 to : tu
 me : eLem
 ' : qi
-within : zedum
+within (prep) : zedumin
 a : a
 year : eLmuf
 , : ,
@@ -13564,7 +13564,7 @@ night : mekasdu
 . : .
 my : eLemza
 spirit : samgu
-within : zedum
+within (adv) : zedumzi
 me : eLem
 earnestly (adv)  : iovLihtazi
 to_seek : ufaigu
@@ -19721,7 +19721,7 @@ the : da
 language : nomqooka
 of : asu
 judah : judah
-within : zedum
+within (prep) : zedumin
 hearing (noun) : osaezuLka
 of : asu
 the : da
@@ -33175,7 +33175,7 @@ in : uL
 my : eLemza
 house : gatonu
 and : oxe
-within : zedum
+within (adv) : zedumzi
 my : eLemza
 walls : zenmaT
 , : ,
@@ -35802,7 +35802,7 @@ land : nomta
 devastation : oTazofdedituum
 and : oxe
 destruction : omutisuta
-within : zedum
+within (adv) : zedumzi
 your : femaza
 borders : puvtizim
 . : .
@@ -37117,7 +37117,7 @@ the : da
 one : eLikam
 who : qiqo
 to_put (past) : ubito
-within : zedum
+within (adv) : zedumzi
 them : miim
 his : saLza
 holy : suni
@@ -42551,7 +42551,7 @@ your : femaza
 evil (adj) : vuirumamo
 schemes : fexasaLaT
 to_lodge : unuTqiu
-within : zedum
+within (adv) : zedumzi
 you : fema
 '? : qqu
 for (conj) : huvupu
@@ -44210,7 +44210,7 @@ to_be : uamu
 nothing : eemhob
 but : pit
 oppression : okabubzihfeaL
-within : zedum
+within (adv) : zedumzi
 her : soL
 . : .
 as : eh
@@ -44233,7 +44233,7 @@ and : oxe
 destruction : omutisuta
 to_be : uamu
 heard : cufnauni
-within : zedum
+within (adv) : zedumzi
 her : soL
 . : .
 sickness : ofefguni
@@ -55427,8 +55427,8 @@ his : saLza
 name : moL
 . : .
 ' : qu
-theh : fenmaem 
-within : zedum 
+then : fenmaem 
+within (adv) : zedumzi
 me : eLem
 there : dava
 to_be : uamu
@@ -57543,7 +57543,7 @@ my : eLemza
 heart : fiTam 
 to_be : uamu 
 crushed (adj) : jazohsumo 
-within : zedum 
+within (adv) : zedumzi
 me : eLam
 . : .
 all : bom 
@@ -61873,7 +61873,7 @@ king : vacu
 of : asu 
 babalon : babaLon 
 . : .
-within : zedum 
+within (prep) : zedumin 
 two : eLipam 
 years : eLmufim 
 i : eLe 
@@ -62157,7 +62157,7 @@ from : hazani
 all : bom
 the : da 
 nations : moteuLim 
-within : zedum 
+within (prep) : zedumin 
 two : eLipam 
 years : eLmufim
 . : .
@@ -62323,7 +62323,7 @@ of : asu
 the : da 
 earth : iovTa 
 . : .
-within : zedum
+within (prep) : zedumin
 this : def
 year : eLmuf 
 you : fema 
@@ -65303,7 +65303,7 @@ will : danaLeu
 to_put (fut) : ubiti 
 my : eLemza 
 law : noz 
-within : zedum
+within (adv) : zedumzi
 them : miim 
 , : ,
 and : oxe
@@ -91190,7 +91190,7 @@ the : da
 covenant : juzamomda 
 to_be : uamu 
 seen : TuzeTuni 
-within : zedum 
+within (adv) : zedumzi 
 his : saLza
 temple : afuna 
 . : .
@@ -105723,7 +105723,7 @@ to_be : uamu
 the : da
 struggle (noun) : ofdavikaqano
 from : hazani 
-within : zedum 
+within (adv) : zedumzi
 . : .
 we : Lam  
 to_be : uamu 
@@ -108750,7 +108750,8 @@ third (rat) : eLiTimzia
 of : asu 
 the : da 
 people : kuunim 
-will : die 
+will : danaLeu 
+to_die (fut) : uqoaniLi 
 . : .
 there : dava 
 to_be : uamu 
@@ -114096,7 +114097,235 @@ lust (noun) : onifda
 . : .
 .. : bobo
 $11bag : $11bag
-
+boL : boL 
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+they : mi
+to_pass : ubofhau 
+it : fa 
+down : TuzLa 
+like : qiuL 
+laws: nozim
+written : zazudtamani
+in : uL 
+stone : qeze 
+, : ,
+but : pit 
+their : miza 
+axioms : ejuuLim
+to_be : uamu 
+flawed (adj) : hameritmo 
+. : .
+they : mi
+have : utuseu 
+us : La 
+trapped : tazebabitmo
+in : uL
+a : a 
+impossibly (adv) : dunbufhupnauzi
+deep : Taibmo
+energy : iLizki 
+well (noun) : ozamnu
+. : .
+they : mi 
+to_do : utuTuu 
+not : mot 
+to_believe : upaneiriu 
+that : idta 
+escape (noun) : oihqebu 
+to_be : uamu 
+possible (and) : bufhupnaumo
+. : .
+golden : qindemo 
+god : kut 
+, : ,
+aLaLuie : aLaLuie
+hazoet : hazoet 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_hear (imp) : ufnaa 
+me : eLem 
+. : .
+i : eLe
+to_be : uamu 
+in : uL 
+containment : jumdeemniLta
+within (adv) : zedumzi
+containment : jumdeemniLta
+. : .
+i : eLe
+to_be : uamu 
+one : eLikam
+begotten : pakutdiLmo
+son : buuge
+of : asu 
+the : da 
+holy : suni 
+father : botav 
+, : ,
+aLaLuie : aLaLuie
+hazoet : hazoet
+, : ,
+and : oxe 
+zavTu : zavTu 
+to_be : uamu
+my : eLemza
+vision : zefaeL 
+. : .
+zavTu : zavTu 
+to_be : uamu 
+the : da 
+secret (adj) : fajzidmo
+prayer : cubzei 
+of : asu 
+every : exuqo 
+human (adj) : siLomamo 
+heart : fiTam 
+. : .
+we : Lam 
+all : bom 
+to_yearn : uuaezLu
+to : tu
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+we : Lam 
+all : bom
+to_want (imp) : uzomda
+to_to_live : tunezu 
+forever : huvazav 
+in : uL
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+to_bless (imp) : upamihfa 
+us : La 
+, : ,
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+, : ,
+to_shine (imp) : ufafuLia 
+the : da 
+golden : qindemo 
+light : nekfuta 
+of : asu 
+love : voqofdeu 
+into : duLtu
+our : Lamza 
+souls : feimaT 
+, : ,
+so  : fu 
+that : idta 
+we : Lam 
+may : Lou 
+to_know : uqaLaru 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+, : ,
+forever : huvazav 
+, : ,
+in : uL 
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+in : uL
+the : da 
+holy : suni
+name : moL 
+of : asu 
+jesus : jesus 
+the : da 
+christ : qazuhat 
+, : ,
+i : eLe
+to_pray : ubzeiu 
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTbam : suTnam
+. : .
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+, : ,
+o : o
+holy : suni 
+spirit : samgu
+, : ,
+adaLao : adaLao
+. : .
+holy : suni 
+father : botasv 
+, : ,
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+, : ,
+there : dava 
+to_be : uamu 
+nectar : majdez 
+in : uL
+your : femaza 
+name : moL 
+, : ,
+negivet : negivet 
+. : .
+ninaToTi : ninaToTi 
+have : ueLanad 
+to_forsake : uhuvhegiu 
+me : eLem 
+. : .
+there : dava 
+to_be (past) : uamo 
+no : iL
+particle : bovduxna
+of : asu 
+dust : Tifta 
+. : .
+siso : siso 
+to_be : uamu 
+listening : unefdiLuLka 
+. : .
+to_find (imp) : unoudea 
+Toqasi : Toqasi 
+and : oxe 
+ipioiopi : ipioiopi
+, : ,
+and : oxe 
+to_bring (imp) : upzuLka 
+them : miim 
+back (adv) : pojguzi 
+to : tu 
+me : eLem 
+, : ,
+happy : gumaemamo
+and : oxe 
+healthy (adj) : saemdimo ä
+. : .
+.. : bobo
+$11bah : $11bah
 
 
 
