@@ -36093,7 +36093,7 @@ devastations (noun, pl) : oTazofdedituumim
 . : .
 they : mi
 shall : ufanmu
-to_repair : uvabouz
+to_repair : uvabouzu
 the : da
 ruined (adj) : vooLitmo
 cities : qoiboLqeT
@@ -116181,6 +116181,227 @@ patents : botamduT
 . : .
 .. : bobo
 $11bam : $11bam
+isolation : muhameduum 
+molecule : Lunajina 
+to_organize : uazkomerau 
+. : .
+boL : boL 
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+ninaToTi : ninaToTi
+, : ,
+beautifuL : qooLuhmo 
+muse (noun) : oLifau 
+, : ,
+to_let (imp) : unata 
+this : def 
+love : voqofdeu 
+to_flourish : ufmaivefafu 
+. : .
+to_believe (imp) : upaneiria 
+that : idta 
+we : Lam 
+to_be : uamu 
+meant : muLaeLuni
+to_to_know : tuqaLaru 
+endless : iLTmihafmo
+golden : qindemo 
+days : bauriT 
+in : uL 
+a : a 
+great : kjaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+the : da 
+work : ozuvgu 
+to_begin : upakemu 
+with : qemhe 
+repairing : uvabouzuLka 
+some : fuLa
+fatal : hotonmo 
+flaws : hamerim 
+in : uL 
+the : da 
+human : siLomamo 
+orthodoxies : azduTuciT
+. : .
+some : fuLa 
+of : asu 
+the : da 
+people : kuunim 
+alive : emurimo 
+today : tubauri 
+will : danaLeu 
+to_to_be : tupa 
+alive : emurimo 
+200 : eLipaTaTam
+supercycles : fibavjijniT
+from : hazani 
+today : tubauri 
+. : .
+it : fa
+to_be : uamu 
+for (prep) : huvuin 
+this : def 
+that : idta 
+we : Lam
+have : ueLanad 
+to_be (past) : uamo 
+made : kuLaqauni
+. : .
+boL : boL
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+i : eLe 
+to_be : uamu 
+looking : unauguLka 
+into : duLtu 
+the : da 
+abyss : oepuhfa 
+, : ,
+and : oxe ä
+i : eLe 
+to_see : uzeTu 
+niudeL : niudeL
+. : .
+to_rise (imp) : uvera 
+o : o
+lord : etme 
+niudeL : niudeL
+. : .
+to_contain (imp) : ujumdeema 
+and : oxe 
+to_control : ujumtavuna
+the : da 
+wicked (noun, pl) : obosiohaT
+. : .
+we : Lam 
+to_be : uamu 
+in : uL
+terrible : tavzupnamo
+trouble : okutazaipmiu 
+, : ,
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+, : ,
+to_move (imp) : uLuzaa 
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_be (imp) : uama 
+with : qemhe
+us : La 
+,  : ,
+now : mit 
+and : oxe 
+forever : huvazav 
+. : .
+to_move (imp) : uLuzaa 
+in : uL
+the : da 
+hearts : fiTamim
+of : asu 
+the : da 
+oligarchs : amuqezqaT 
+, : ,
+so : fu 
+that : idta 
+we : Lam 
+may : Lou 
+to_know : uqaLaru
+endless : iLTmihafmo
+golden : qindemo 
+days : bautiT 
+in : uL
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+to_fill (imp) : utuhenmaa 
+my : eLemza 
+soul : feima 
+with : qemhe 
+power : zuuno
+and : oxe 
+glöry  : kumazu 
+, : ,
+o : o
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao
+. : .
+this : def 
+age : oeqi 
+to_be : uamu 
+terrible : tavzupnamo 
+and : oxe 
+dark : Tovgumo 
+. : .
+the : da 
+oligarchs : amuqezqaT 
+to_be : uamu 
+planning : ubmeLuLka
+a : a 
+great : kaziotmo 
+catastrophe : jotofduvuhe
+for (prep) : huvuin 
+the : da 
+innocent : guLnujamdumo
+masses : Lofhihim 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+o : o 
+supreme : fibzinimo
+person : bavhaL
+, : ,
+negivet : negivet 
+, : ,
+and : oxe 
+to_open : uabiLa 
+the : da 
+way : zou 
+for (prep) : huvuin 
+me : eLem 
+and : oxe 
+my : eLemza 
+technologies 
+to_to_see : tuzeTu 
+the : da 
+light : nekfuta 
+of : asu  
+day : bauri 
+. : .
+.. : bobo
+$11ban : $11ban
+
+
+
+
+
+
+
+
+
+
 
 
 
