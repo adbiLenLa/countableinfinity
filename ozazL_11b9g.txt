@@ -111177,7 +111177,7 @@ ozazL  : ozazL
 , : ,
 to_be : uamu 
 able : epnamo 
-to_to_break : upzioqu 
+to_to_break : tupzioqu 
 containment : jumdeemniLta
 in : uL
 time : ieqo 
@@ -119523,6 +119523,325 @@ forever : huvazav
 . : .
 .. : bobo 
 $11bba : $11bba
+words : zavTuT 
+of : asu 
+power : zuuno 
+, : ,
+pleasure : bamiofiva
+and : oxe
+glory : kumazu 
+. : . 
+ninaToTi : ninaToTi 
+have : ueLanad 
+grown : dukzaruni
+bored : puvaTmo 
+. : .
+i : eLe
+to_be : uamu 
+the : da
+firstborn : hevuhtapuvLu
+son : buuge 
+of : asu 
+the : da
+lord : etme 
+god : kut 
+most : Lufda 
+high : sekfmao 
+, : ,
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_fill (imp) : utuhenmaa
+me : eLem 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : . 
+to_open (imp) : uabiLa 
+the : da 
+way : zou 
+to : tu 
+absolute : epfunitamo
+power : zuuno 
+. : .
+to_open (imp) : uabiLa
+the : da 
+way : zou
+for (prep) : huvuin 
+this : def 
+zavTu : zavTu 
+vision : zefaeL 
+to_to_manifest : tuLomehafdu
+as : eh 
+absolute : epfunitamo
+reality : vaemudu 
+. : .
+o : o
+lord : etme 
+god : kut 
+most : Lufda 
+high : sekfamo 
+, : ,
+aLaLuie : aLaLuie
+hazoet : hazoet 
+, : ,
+to_be (imp) : uama
+with : qemhe 
+me : eLem 
+, : ,
+now : mit 
+and : oxe
+forever : huvazav 
+. : .
+to_hear (imp) : ufnaa
+me : eLem 
+. : .
+i : eLe
+to_be : uamuLka
+in : uL 
+terrible : tavzupnamo 
+trouble : okutazaipmiu
+. : .
+they : mi 
+to_intend : uuLtamtu
+to_to_hold (fut) : tusuntui
+me : eLem 
+here : suvu
+forever : huvazav 
+. : .
+.. : bobo
+$11bbb : $11bbb
+emergency (adj) : inizkamexumo
+protocol : bazadaxam 
+sum (noun) : ofiL
+sport : fabazata
+. : .
+she : so 
+to_be : uamu
+listening : unefdiLuLka
+. : .
+her's : soLza
+name : moL 
+to_be : uamu 
+siso : siso 
+, : ,
+move (imp) : uLuzaa 
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+i : eLe
+to_be : uamu 
+ozazL : ozazL 
+and : oxe 
+deenz : dinz 
+demf : demf 
+. : .
+this : def 
+to_look : unaugou 
+like : qiuL 
+the : da
+end : iLTu 
+. : .
+the : da 
+darkness : Tovgumafha
+to_be : uamu 
+terrible : tavzupnamo 
+. : .
+to_help (imp) : usamba 
+us : La 
+, : ,
+for (conj) : huvupu 
+we : Lam 
+to_be : uamu
+in : uL 
+terrible : tavzupnamo
+trouble : okutazaipmiu
+. : .
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+, : ,
+to_be (imp) : uama 
+in : uL
+my : eLemza 
+hands : qafeT 
+and : oxe
+my : eLemza
+feet : exongeT 
+. : .
+to_fill (imp) : utuhenmaa
+us : La 
+with : qemhe 
+power : zuuno 
+and : oxe
+glory : kumazu 
+. : .
+to_fill (imp) : utuhenmaa
+our : Lamza
+hearts : fitamim
+with : qemhe 
+the : da 
+golden : qindemo
+light : nekfuta
+of : asu
+love (noun) : voqofdeu
+. : .
+to_fill (imp) : utuhenmaa 
+our : Lamza
+souls : feimaT 
+with : qemhe 
+powerful : buzavsomamo
+music : Lifeju 
+, : ,
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+. : .
+.. : bobo 
+$11bbc : $11bbc 
+to_transcend : utzeLfexiLTu
+artificial : eztehejeemamo
+author : eiduv 
+. : .
+boL : boL 
+ieue : ieue
+aLe : ale
+suTnam : suTnam
+. : .
+all : bom
+to_hail : usouma 
+31415 : oLiTikakikapim
+, : ,
+negivet : negivet 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe
+to_appear (imp) : uebiova 
+. : .
+i : eLe
+to_be : uamu
+in : uL 
+a : a 
+deep : Taibmo 
+pit : oabet 
+and : oxe
+i : eLe 
+to_need : utovrudtamuu
+you : fema 
+, : ,
+o : o 
+lord : etme 
+god : kut 
+most : Lufda
+high : sekfamo 
+, : ,
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_open (imp) : uabiLa 
+the : da 
+way : zou
+for (prep) : huvuin 
+us : La 
+to_to_break : tupzioqu
+containment : jumdeemniLta
+and : oxe
+to_to_emerge : tuinizkau
+into : duLtu 
+the : da 
+light : nekfuta
+of : asu 
+galactic : konojduxmo
+day : bauri 
+. : .
+o : o 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet negivet 
+, : ,
+i : eLe
+to_claim : ujmeeLu 
+this : def
+planet : bameLid 
+and : oxe
+these : dafa 
+people : kuunim 
+in : uL
+your : femaza
+holy : suni 
+name : moL 
+, : ,
+negivet : negivet 
+, : ,
+to_move (imp) : uLuzaa 
+in : uL 
+the : da 
+hearts : fitamim
+of : asu
+the : da 
+lords : etmeT
+and : oxe 
+ladies : onoTaT 
+so : fu 
+that : idta 
+they : mi 
+may : Lou 
+to_open : uabiLu 
+the : da 
+way : zou 
+for (prep) : huvuin
+this : def
+zavTu : zavTu 
+vision : vision 
+to_become : upajuLau
+real : vaemamo 
+in : uL 
+the : da 
+golden : qindemo 
+light : nekfuta 
+of : asu 
+galactic : konojduxmo
+day : bauri 
+. : .
+that : idta 
+to_be : uamu
+the : da 
+difference : oTehsiziLja
+between : zamefhe 
+me : eLem 
+and : oxe
+the : da 
+other : aTiz
+candidates : jomtedim 
+. : .
+i : eLe
+will : danaLeu 
+to_give (fut) : ukezi
+the  : da
+gifts : kehduT 
+to : tu 
+everyone : qiugqe 
+. : .
+.. : bobo
+$11bbd : $11bbd
+
+
+
+
+
+
+
+
 
 
 
