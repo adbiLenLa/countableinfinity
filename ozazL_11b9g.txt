@@ -119834,10 +119834,40 @@ everyone : qiugqe
 . : .
 .. : bobo
 $11bbd : $11bbd
-
-
-
-
+spiritual (adj) : fabuzudoonmo
+to_code : ujuTau 
+. : .
+she : so 
+to_be : uamu 
+listening : unefdiLuLka
+. : .
+her's : soLza 
+name : uamu 
+siso : siso
+, : ,
+to_move (imp) : uLuzaa
+and : oxe
+to_appear (imp) : uebiova 
+. : .
+to_take (imp) : utoqaa 
+control (noun) : ojumdavan
+of : asu 
+their : miza 
+material (adj) : Lotaveemamo
+assets :  ehfatim 
+. : .
+to_calculate (imp) : ujonexomedia 
+a : a 
+escape(noun) : oihqebu
+vector : ozajdaz 
+for : huvuin 
+me : eLem 
+and : oxe 
+my : eLemza 
+technologies : taqaLamaquT
+. : . 
+.. : bobo 
+$11bbe : $11bbe
 
 
 
