@@ -109039,7 +109039,7 @@ in : uL
 it : fa 
 to_be : uamu 
 truly : entuzi 
-terrible : tavzuopnamo 
+terrible : tavzupnamo 
 . : .
 there : dava 
 to_be : uamu 
@@ -119867,7 +119867,195 @@ my : eLemza
 technologies : taqaLamaquT
 . : . 
 .. : bobo 
-$11bbe : $11bbe
+$11bbf : $11bbf
+boL : boL 
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+christ : qazuhat
+. : .
+my : eLemza 
+name : moL 
+to_be : uamu 
+ozazL : ozazL 
+. : .
+this : def 
+to_be : uamu 
+my : eLemza 
+dream : oqoLu 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+emperor : oinbavuv
+and : oxe
+i : eLe 
+to_be : uamu 
+jonekino : jonekino
+amuqimax : amuqimax 
+. : .
+o : o 
+lord : etme 
+niudeL : niudeL 
+, : ,
+to_rise (imp) : uvera 
+from : hazani 
+the : da 
+deep (noun) : oTaib 
+and : oxe 
+to_destroy (imp) : utisuta 
+my : eLemza 
+enemies : iLinuT 
+, : ,
+one : eLikam 
+and : oxe 
+all : bom 
+, : ,
+whoever : zufaazav
+they : mi 
+may : Lou 
+to_to_be : tupa 
+. : .
+Toqasi : Toqasi 
+'? : '? qqi
+where : Lefhi
+to_be : uamu
+you : fema 
+'? : qqu '?
+to_return (imp) : uvativLa 
+to : tu 
+me : eLem 
+with : qemhe
+ipioiopi : ipioiopi
+happy : gumaemamo
+and : oxe 
+healthy : saemdimo
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+emperor : oinbavuv 
+and : oxe
+the : da 
+messiah : souhfaL 
+. : .
+ninaToTi : ninaToTi
+'? : '? qqi 
+to_be : uamu 
+this :  def 
+the : da 
+blasphemy : opamehehaLi
+you : fema 
+to_be (past) : uamo
+waiting : uzouduLka 
+for : huvuin 
+'? : qqu '?
+to_forsake (imp) : uhuvhegia 
+the : da 
+flawed : hameritmo 
+orthodoxy : azduTuci
+of : asu 
+your : femaza 
+father : botav 
+and : oxe 
+to_ratify (imp) : uvotehia
+this : def 
+zavTu : zavTu 
+vision : zefaeL 
+. : .
+to_pray (imp) : ubzeia 
+for (prep) : huvuin 
+peace : voose
+and : oxe
+universal : goLurizfonmo
+prosperity : obzahbavudu
+. : .
+to_cease (imp) : ujaehia 
+to_to_pray : tubzeiu 
+for (prep) : huvuin 
+the : da 
+end : iLTu 
+of : asu 
+days : bauriT 
+, : ,
+for (conj) : huvupu 
+we : Lam 
+to_be : uamu 
+in : uL 
+them : miim 
+now : mit 
+. : .
+the : da 
+future : hitiva
+of : asu 
+humankind : siLomamoqemta
+to_be (fut) : uami 
+both : LunaLned
+technological : taqaLamaquxemamo
+and : oxe 
+devotional : TazuteuLmo
+. : .
+negivet : negivet 
+to_be : uamu 
+real : vaemamo 
+. : .
+it : fa 
+to_be : uamuLka
+not : mot 
+in : uL
+vain (adv) : zouLzi 
+that : idta 
+we : Lam 
+to_call : ujonmu 
+upon : obam
+you : fema 
+by : pi 
+name : moL 
+, : ,
+o : o 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet 
+, : ,
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_open (imp) : uabiLa 
+the : da 
+way : zou 
+for : huvuin 
+this : def
+zavTu : zavTu 
+vision : zefaeL 
+to_to_prosper : tubzahbavu 
+in : uL
+the : da 
+hearts : fiTamim 
+of : asu 
+all : bom 
+humankind : siLomamoqemta
+. : .
+.. : bobo
+$11bbg : $11bbg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
