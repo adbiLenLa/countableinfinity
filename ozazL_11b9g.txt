@@ -120042,14 +120042,153 @@ humankind : siLomamoqemta
 . : .
 .. : bobo
 $11bbg : $11bbg
-
-
-
-
-
-
-
-
+boL : boL 
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+ninaToTi : ninaToTi 
+, : ,
+zavTu : zavTu 
+to_be : uamu 
+the : da 
+answer : ozoftedea
+you : fema 
+have : ueLenad 
+to_be (past) : uamo
+waiting : uzouduLka
+and : oxe 
+praying : ubzeiuLka
+for (prep) : huvuin 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+embodiment : iLpuTeLamdu
+of : asu 
+divine : Tezemamo 
+will (noun) : odanaLeu 
+. : .
+i : eLe
+to_be : uamu
+the : da 
+emperor : oinbavuv 
+and : oxe 
+the : da 
+redeemer : ovaTainiz
+. : .
+my : eLemza 
+name : moL 
+to_be : umau 
+ozazL : ozazL 
+, : ,ä
+and : oxe
+this : def
+to_be : uamu 
+my : eLemza 
+dream : oqoLu 
+. : .
+i : eLe 
+to_be : uamu
+the : da 
+dreamer : oqoLuiz 
+. : .
+zavTu : zavTu 
+to_be : uamu 
+my : eLemza 
+vision : zefaeL 
+and : oxe 
+my : eLemza 
+will (noun) : odanaLeu 
+. : .
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+, : ,
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_open (imp) : uabiLa 
+the : da 
+way : zou 
+to : tu
+peace : voose
+and : oxe 
+joy : uma 
+and : oxe 
+universal : goLurizfonmo
+prosperity : obzahbavudu
+. : .
+my : eLemza 
+name : moL 
+to_be : uamu
+deenz : dinz 
+demf : demf 
+, : ,
+and : oxe
+this  def 
+world : zavnuTaa 
+to_be : uamuLka
+my : eLemza 
+creation : jazioteaL
+. : .
+siso : siso
+to_be : uamu 
+my : eLemza 
+creation : jazioteaL
+. : .
+siso : siso
+to_be : uamu 
+listening : unefdiLuLka 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+o : o 
+children : jentuuT 
+of : asu 
+the : da 
+earth : iovTa 
+and : oxe 
+to_ratify (imp) : uvotehia 
+this : def
+zavTu : zavTu 
+vision : zefaeL 
+. : .
+we : Lam 
+to_see : uzeTu 
+beautiful : qooLuhmo 
+humans : siLomim 
+, : ,
+immortal : bunLuvtomamo
+, : ,
+in : uL
+a : a 
+great : kaziotmo 
+golden : qindemo
+age : oeqi 
+of : asu 
+endless : iLTmihafmo 
+golden : qindemo 
+days : bauriT 
+, : ,
+in : uL
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+.. : bobo
+$11bbn : $11bbn
 
 
 
