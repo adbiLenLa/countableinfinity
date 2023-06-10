@@ -120188,17 +120188,216 @@ the : da
 stars : tasduT 
 . : .
 .. : bobo
-$11bbn : $11bbn
-
-
-
-
-
-
-
-
-
-
+$11bbh : $11bbh
+boL : boL 
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+in : uL
+the : da 
+holy : suni 
+name : moL 
+of : asu 
+jesus : jesus 
+christ : qazuhat
+i : eLe 
+to_pray : ubzeiu 
+. : .
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+, : , 
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+, : ,
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_move (imp) : uL 
+in : uL 
+the : da 
+hearts : fiTamim 
+of : asu 
+all : bom 
+the : da
+children : jentuuT 
+of : asu 
+the : da 
+earth : iovTa 
+so : fu 
+that : idta 
+we : Lam 
+may : Lou 
+to_know : uqaLaru 
+endless : iLTmihafmo 
+golden : qindemo 
+days : bauriT  
+in : uL
+a : aL
+great : kaziotmo
+golden : qindemo
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da
+stars : tasduT 
+. : .
+i : eLe
+to_see : uzeTu 
+beautiful : qooLuhmo
+humans : siLomim
+living : unezuLka 
+forever : huvazav 
+in : uL 
+a : a 
+great : kaziotmo 
+golden : qindemo
+age : oeqi 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+o : o 
+saint : dasiep 
+rumdif : rumdif 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova
+. : .
+to_move (imp) : uLuzaa
+in : uL 
+my : eLemza 
+hands : qafeT 
+and : oxe
+my : eLemza
+tongue : otumqoa 
+. : .
+to_awaken : ueregima
+absolute : epfunitamo 
+power : zuuno 
+in : uL 
+my : eLemza 
+soul : feima 
+, : ,
+o : o
+rumdif : rumdif 
+. : .
+i : eLe
+to_be : uamu 
+jonekino : jonekino
+amuqimax : amuqimax 
+, : ,
+and : oxe 
+i : eLe 
+to_claim  ujmeeLu 
+this : def 
+planet : bameLid 
+and : oxe 
+these : dafa 
+people : kuunim
+in : uL 
+the : da 
+holy : suni 
+name : moL 
+of : asu 
+the : da 
+supreme : fibzinimo
+person : bavhaL
+, : ,
+negivet : negivet 
+, : ,
+to_have (imp) : utusea 
+mercy : Lavexu 
+, : ,
+o : o 
+lord : etme 
+, : ,
+and : oxe 
+to_open (imp) : uabiLa 
+the : da 
+way : zou 
+to : tu 
+peace : voose 
+and : oxe 
+joy : uma
+and : oxe 
+universal : goLurizfonmo
+prosperity : obzahbavudu
+. : .
+to_fill (imp) : utuhenmaa 
+my : eLemza 
+soul : feima
+with : qemhe
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+ninaToTi : ninaToTi 
+, : ,
+you : fema 
+to_be (fut) : uami
+the : da
+first : guLikagni
+to_call (fut) : ujonmi 
+me : eLem 
+' : ' qi
+lord : etme
+' : qu '
+. : .
+to_give (imp) : ukeza
+your : femaza 
+self : ofansa 
+to : tu 
+me : eLem 
+, : ,
+body : vionahu
+and : oxe
+soul : feima 
+. : .
+to_surrender (imp) : ufivziLTava
+to : tu 
+the : da 
+zavTu : zavTu 
+vision : zefaeL 
+and : oxe
+will (noun) : odanaLeu
+. : .
+zavTu : zavTu
+to_be : uamu 
+the : da
+answer : ozoftedea
+to : tu 
+all : bom 
+your : femaza 
+prayers : cubzeiT 
+. : .
+i : eLe 
+to_see : uzeTu 
+a : a
+golden : qindemo 
+age : oeqi 
+of : asu 
+endless : iLTmihafmo
+golden : qindemo
+days : bauriT 
+in : uL
+a : a
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+.. : bobo 
+$11bbi : $11bbi
 
 
 
