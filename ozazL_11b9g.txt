@@ -119714,7 +119714,7 @@ author : eiduv
 . : .
 boL : boL 
 ieue : ieue
-aLe : ale
+aLe : aLe
 suTnam : suTnam
 . : .
 all : bom
@@ -120398,6 +120398,266 @@ stars : tasduT
 . : .
 .. : bobo 
 $11bbi : $11bbi
+boL : boL 
+ieue : ieue
+aLe : aLe 
+suTnam : suTnam 
+. : .
+in : uL
+the : da 
+holy : suni 
+name : moL 
+of : asu
+jesus : jesus 
+christ : qazuhat 
+i : eLe
+to_pray : ubzeiu 
+. : .
+o : o 
+lord : etme 
+niudel : niudeL 
+, : ,
+to_rise (imp) : uvera 
+from : hazani 
+the : da 
+deep (noun) : oTaib
+and : oxe 
+to_destroy (imp) : utisuta 
+my : eLemza 
+enemies : iLinuT
+, : ,
+one : eLikam 
+and : oxe 
+all : bom 
+. : .
+they : mi
+to_be : uamu 
+the : da 
+enemies : iLinuT 
+of : asu 
+the : da
+zavTu : zavTu 
+vision : zefaeL 
+and : oxe 
+will (noun) : odnaLeu 
+. : .
+o : o
+lord : etme 
+niudel : niudeL 
+, : ,
+to_open (imp) : uabiLa
+the : da 
+way : zou
+to : tu 
+peace : voose 
+and : oxe 
+joy : uma 
+for (prep) : huvuin 
+all : bom
+the : da
+children : jentuuT 
+of : asu 
+earth : iovTa 
+. : .
+to_fill (imp) : utuhenmaa
+our : Lamza 
+souls : feimaT 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+to_open (imp)  : uabiLa
+the : da
+way : zou 
+to : tu 
+universal : goLurizfonmo
+prosperity : obzahbavudu 
+. : .
+to_let (imp) : unata 
+there : dava
+to_to_be : tupa
+a : a 
+end : iLTu 
+to : tu 
+poverty : buzavdu 
+and : oxe 
+war : futo 
+for (prep) : huvuin 
+the : da 
+people : kuunim 
+of : asu 
+earth : iovTa 
+. : .
+Toqasi : Toqasi 
+'? : '? qqi
+where : Lefhi 
+to_be : uamu
+you : fema
+'? : qqu '?
+to_hear (imp) : ufnaa 
+me : eLem 
+, : ,
+my : eLemza 
+love : voqofdeu 
+, : ,
+to_return (imp) : uvativLa
+to : tu 
+me : eLem 
+with : qemhe 
+ipioiopi : ipioiopi
+happy : gumaemamo
+and : oxe
+healthy : saemdimo 
+. : .
+o : o 
+holy : suni 
+spirit : samgu 
+adaLao : adaLao 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova
+. : .
+to_be (imp) : uama 
+with : qemhe 
+me : eLem 
+now : mit 
+and : oxe
+forever : huvazav 
+. : .
+to_move (imp) : uLuzaa
+in : uL
+the : da 
+hearts : fiTamim
+of : asu 
+the : da
+oligarchs : amuqezqaT 
+so : fu 
+that : idta 
+they : mi 
+may : Lou 
+to_ratifty : uvotehiu 
+this : def 
+zavTu : zavTu 
+vision : zefaeL 
+. : .
+i : eLe
+to_be : uamu 
+ozazL : ozazL 
+and : oxe 
+this : def 
+to_be : uamu 
+my : eLemza 
+dream : oqoLu 
+. : .
+i : eLe
+to_see : uzeTu 
+a : a  
+great : kaziotmo
+golden : qindemo 
+empire : oinbeva
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+i : eLe 
+to_see : uzeTu
+beautiful : qooLuhmo 
+humans : siLomim 
+living : unezuLka
+forever : huvazav 
+in : uL 
+a : a
+endless : iLTmihafmo
+golden : qindemo
+age : oeqi 
+. : .
+i : eLe 
+to_be : uamu 
+the : da 
+emperor : oinbavuv
+and : oxe
+the : da 
+messiah : souhfaL
+. : . 
+to_hear (imp) : ufnaa 
+me : eLem 
+o : o 
+people : kuunim
+of  : asu 
+earth : iovTa 
+, : ,
+zavTu : zavTu 
+to_be : uamu 
+the : da
+answer : ozoftedea
+to : tu 
+your (pl) : femaTza 
+prayers : cubzeiT 
+. : . 
+to_give (imp) : ukeza 
+your (pl) : femaTza
+selves : ofansuT
+to : tu 
+zavTu : zavTu 
+, : , 
+body : vionahu 
+and : oxe 
+soul : feima 
+. : . 
+her's : soLza
+name : moL
+to_be : uamu
+amaaLma : amaaLma
+. : .
+she : so
+to_be : uamu
+the : da 
+eternal : idizmonmo
+mother : Ludav
+. : .
+she : so 
+to_be : uamu 
+beautiful : qooLuhmo
+and : oxe 
+she : so 
+to_love : uvoqofdeu 
+you (pl) : femaT 
+, : ,
+o : o 
+people : kuunim 
+of : asu 
+earth : iovTa 
+, : ,
+to_have (imp) : utusea 
+mercy : Lavexu
+and : oxe
+to_work (imp) : uzavga 
+with : qemhe 
+all : bom
+your (pl) : femaTza 
+might (noun) : oLekfati 
+in : uL 
+service : ocufavriu
+to : tu 
+the : da
+zavTu : zavTu 
+vision : zefaeL 
+. : .
+.. : bobo 
+$11bbj : $11bbj
+
+
+
+
+
+
+
+
+
+
 
 
 
