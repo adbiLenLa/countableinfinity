@@ -120648,6 +120648,220 @@ vision : zefaeL
 . : .
 .. : bobo 
 $11bbj : $11bbj
+boL : boL
+ieue : ieue 
+aLe : aLe  
+suTnam : suTnam 
+. : .
+'? : '? qqi
+what : Leta 
+force : ohuvexi
+to_cause : ujoohiu 
+a : a 
+star : tasdu
+to_to_coalesce : tujuemihja
+'? : qqu '?
+if  : fux 
+gravity : kazerudu 
+to_be : uamu 
+a : a 
+field : heimtu 
+, : ,
+there : dava
+should : fuomTuni
+to_to_be : tupa
+holographic : sunukzesugmo
+poles : bunaT 
+. : . 
+this : def 
+to_be : uamu
+a : a
+time : ieqo 
+of : asu 
+terrible : tavzupnamo 
+darkness : Tovgumafha 
+. : .
+our : Lamza 
+knowledge : buqaLaru 
+of : asu 
+physics : hifejha
+to_be : uamu 
+incipient (adj) : guLjebeiLtmo
+. : .
+i : eLe 
+to_call (imp) : ujonma 
+upon : obam 
+you : fema 
+by : pi 
+name : moL 
+, : ,
+o : o 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe
+to_appear (imp) : uebiova 
+. : . 
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+. : .
+i : eLe 
+to_be : uamu 
+jonekino : jonekino
+amuqimax : amuqimax 
+, : ,
+the : da
+emperor : oinbavuv 
+of : asu  
+the : da 
+zavTu : zavTu 
+empire : oinbeva 
+. : .
+to_move (imp) : uLuzaa 
+in : uL
+the : da 
+hearts : fiTamim 
+of : asu
+the : da 
+people : kuunim 
+of : asu 
+earth : iovTa 
+so : fu 
+that : idta 
+they : mi 
+may : Lou 
+to_open : uabiLu
+the : da 
+way : zou 
+to : tu 
+peace : voose
+and : oxe 
+joy : joy 
+for (prep) : huvuin 
+all : bom 
+humankind : siLomamoqemta 
+. : . 
+o : o 
+ninaToTi : ninaToTi 
+'? : '? qqi 
+how : suo
+long (adv) : numqazi
+will : danaLeu
+you : fema 
+to_continue : uqabdu 
+to_to_be : tupa 
+a : a 
+muse : oLifau 
+for (prep) : huvuin 
+me : eLem 
+'? : qqu '? 
+i : eLe
+to_see : uzeTu 
+you : fema 
+, : ,
+young : gamiamo 
+and : oxe
+beautiful : qooLuhmo 
+forever : huvazav 
+. : .
+i : eLe
+to_see : uzeTu 
+you : fema 
+dancing : uTomexiuLka
+and : oxe 
+drinking : uTzuLquLka
+wine : zeume 
+in : uL 
+holy : suni 
+worship : okubouraLtou
+of : asu 
+the : da 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet 
+, : ,
+to_have : utusea 
+mercy : Lavexu 
+and : oxe 
+to_open (imp) : uabiLa 
+the : da 
+way : zou 
+to : tu 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+to_open (imp) : uabiLa
+the : da 
+way : zou 
+to : tu 
+universal : goLurizfonmo
+prosperity : obzahbavudu 
+. : . 
+ninaToTi : ninaToTi 
+, : ,
+my : eLemza 
+love : voqofdeu 
+, : ,
+your : femaza 
+faith : houTa 
+to_be : uamu
+pure : bivamo 
+. : .
+you : fema 
+to_be : uamu 
+of : asu 
+the : da 
+saints : dasiepim
+, : ,
+but : pit 
+the : da 
+vision : zefaeL
+of : asu 
+your : femaza 
+father : botav 
+to_be : uamu 
+flawed : hameritmo 
+. : .
+he : sa 
+to_have : utuseu 
+you : fema 
+praying : ubzeiuLka 
+for (prep) : huvuin 
+general (adj) : qemavonmo 
+damnation : ToLaLeduum
+and : oxe 
+utter : odtivmo 
+oblivion : apnezeaL 
+. : . *
+to_have (imp) : utusea 
+mercy : Lavexu 
+, : ,
+dear : Tiezmo 
+sister : fefgasaTa 
+ninaToTi : ninaToTi 
+, : ,
+and : oxe 
+pray (imp) : ubzeia 
+for (prep) : huvuin 
+this : def
+zavTu : zavTu 
+vision : zefaeL 
+to_to_prosper : tubzahbavu
+in : uL 
+the : da 
+light : nekfuta 
+of : asu 
+day : bauri 
+. : .
+.. : bobo 
+$11bbk : $11bbk
+
 
 
 
