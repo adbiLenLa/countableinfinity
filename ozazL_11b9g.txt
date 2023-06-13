@@ -120838,7 +120838,7 @@ damnation : ToLaLeduum
 and : oxe 
 utter : odtivmo 
 oblivion : apnezeaL 
-. : . *
+. : . 
 to_have (imp) : utusea 
 mercy : Lavexu 
 , : ,
@@ -120861,10 +120861,131 @@ day : bauri
 . : .
 .. : bobo 
 $11bbk : $11bbk
-
-
-
-
+in : uL 
+the : da
+holy : suni 
+name : moL 
+of : asu 
+jesus : jesus 
+qazuhat : qazuhat 
+i : eLe
+to_pray (imp) : ubzeia 
+. : .
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+, : ,
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+, : ,
+beautifuL : qooLuhmo 
+and : oxe 
+wonderful : zumtizhinmo
+, : ,
+to_open : uabiLa 
+the : da 
+way : zou 
+to : tu 
+peace : voose 
+and : oxe 
+joy : uma 
+for (prep) : huvuin 
+all : bom 
+humankind : siLomamoqemta
+. : .
+ninaToTi : ninaToTi 
+have : ueLanad 
+not : mot
+to_forsake (past) : uhuvhegio
+me : eLem 
+. : .
+the : da 
+mystery : oLifdizu 
+of : asu 
+how : suo 
+galaxies : konociT 
+to_form (past) : uhuvno 
+. : .
+the : da 
+initial (adj) : guLuduonmo 
+explosion : ijbamahuun 
+to_fill (past) : utuhenmao 
+the : da 
+cosmic : jufnuxmo
+bubble : pipapna 
+with : qemhe 
+dust : Tifta 
+and : oxe
+a : a 
+fixed : hecaTmo 
+number (noun) : omiLpiz
+of : asu 
+black (adj) : pamexeqamo
+holes : sunaT 
+. : .
+these : dafa 
+black (adj) : pamexeqamo
+holes : sunaT 
+to_be : uamu 
+spinning : ufbuLmuLka 
+very (adv) : tufezi
+fast (adv) : hofdazi 
+. : .
+in : uL
+the : da 
+holy : suni 
+name : moL 
+of : asu 
+jesus : jesus 
+christ : qazuhat 
+i : eLe 
+to_pray : ubzeiu 
+. : .
+o : o 
+lord : etme 
+niudeL : niudeL 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe
+to_appear : uebiova 
+. : .
+there : dava 
+to_be : uamu 
+enemies : iLinuT 
+of : asu 
+peace : voose 
+and : oxe 
+joy : uma 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_remove (imp) : uvaLuzaa 
+them : miim 
+from : hazani 
+positions : bufeteaLim
+of : asu 
+power : zuuno 
+. : .
+to_open (imp) : uabiLa
+the : da 
+way : zou 
+to : tu 
+peace : voose
+and : oxe 
+joy : uma
+and : oxe 
+universal : goLurizfonmo
+prosperity : obzahbavudu
+for (prep) : huvuin 
+all : bom 
+humankind : siLomamoqemta
+. : .
+.. : bobo 
+$11bbL : $11bbL 
 
 
 
