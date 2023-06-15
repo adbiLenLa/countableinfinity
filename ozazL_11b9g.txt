@@ -114504,7 +114504,7 @@ vision : zefaeL
 there : dava 
 to_be : uamu 
 no : iL 
-zeitgeist : zeiTgeisT 
+zeitgeist : raudkauhta 
 . : .
 zavTu : zavTu 
 to_be (past) : uamo 
@@ -121183,7 +121183,264 @@ the : da
 stars : tasduT 
 . : .
 .. : bobo 
-$11bbm : $11bbm
+$11bbm : $11bbm 
+boL : boL 
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+in : uL 
+the : da 
+holy : suni 
+name : moL 
+of : asu 
+jesus : jesus 
+christ : qazuhat 
+i : eLe 
+to_pray : ubzeiu 
+. : .
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_be (imp) : uama
+with : qemhe 
+in : uL 
+this : def
+dark : Tovgumo 
+and : oxe 
+terrible : tavzupnamo
+time : ieqo 
+. : .
+they : mi 
+to_have : utuseu 
+me : eLem 
+in : uL
+a : a
+deep : Taibmo 
+pit : oabet 
+. : .
+i : eLe
+to_sit : ufetau 
+in : uL
+this : def 
+corner : juvLiz 
+utterly : odtivmizi
+alone : emaLi 
+. : .
+i : eLe 
+to_call : ujonmu 
+upon : obam 
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+by : pi 
+name : moL 
+, : ,
+negivet : negivet
+, : , 
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_move (imp) : uLuzaa
+in : uL 
+the : da 
+hearts : fiTamim 
+of : asu 
+the : da 
+oligarchs : amuqezqaT
+so : fu 
+that : idta 
+they : mi 
+may : Lou 
+to_open : uabiLu 
+the : da 
+way : zou 
+to : tu 
+peace : voose
+and : oxe 
+joy : uma
+for (prep) : huvuin 
+all : bom 
+the : da
+people : kuunim 
+of : asu 
+earth : iovTa 
+. : .
+to_fill (imp) : utuhenmaa 
+my : eLemza 
+soul : feima
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+to_move (imp) : uLuzaa
+in : uL 
+my : eLemza 
+hands : qafeT 
+and : oxe 
+my : eLemza
+feet : exongeT 
+, . ,
+o : o 
+negivet : negivet 
+, : ,
+to_remove (imp) : uvaLuzaa 
+the : da
+enemies : iLinuT 
+of : asu 
+peace : voose 
+and : oxe 
+universal : goLurizfonmo
+prosperity : obzahbavudu
+from : hazani 
+the : da 
+world : zavnuTaa 
+. : .
+the : da 
+others : aTizim 
+to_be : uamu 
+watching : uqothauLka
+this : def
+drama : Tazene 
+to_unfold : uoLhuntu
+on : aL 
+earth : iovTa 
+. : .
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+and : oxe 
+deenz : dinz 
+demf : demf 
+. : .
+o : o 
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+, : ,
+to_bring (imp) : upzuLka 
+Toqasi : Toqasi 
+and : oxe 
+ipioiopi : ipioiopi
+back : pojguzi 
+to : tu 
+me : eLem 
+. : .
+o : o 
+saint : dasiep
+rumdif : rumdif 
+, : ,
+to_awaken (imp) : ueregima
+absolute : epfunitamo
+power : zuuno 
+. : .
+to_see (imp) : uzeTa 
+me : eLem 
+in : uL 
+the : da 
+cathedral : jodaTzem 
+of : asu 
+lights : nekfutaT 
+. : .
+this : def 
+to_be : umau 
+a : a 
+age : oeqi 
+of : asu 
+universal : goLurizfonmo
+prosperity : obzahbavudu
+. : .
+my : eLemza 
+name : moL 
+to_be : uamu 
+ozazL : ozazL 
+. : . 
+zavTu : zavTu 
+to_be : uamu 
+my : eLemza 
+vision : zefaeL 
+. : .
+there : dava
+to_be : uamu 
+no : iL
+zeitgeist : raudkauhta
+. : .
+it : fa 
+to_be : uamu 
+astonishing : saLasaqeuLkamo
+that : idta 
+i : eLe 
+to_be : uamu 
+utterly : odtivmizi 
+alone : emaLi 
+. : .
+o : o 
+saint : dasiep
+rumdif : rumdif 
+, : ,
+to_fill (imp) : utuhenmaa
+my : eLemza 
+heart : fiTam 
+and : oxe 
+tongue : otumqoa 
+with : qemhe 
+words : zavTuT 
+of : asu 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+to_open (imp) : uabiLa
+the : da 
+way : zou 
+for (prep) : huvuin
+this : def
+zavTu : zavTu 
+vision : zefaeL 
+to_to_prosper : tubzahbavu
+in : uL 
+the : da 
+light : nekfuta 
+of : asu 
+day : bauri 
+.  
+aLaLuie : aLaLuie
+hazoet : hazoet 
+. : .
+amaaLma : amaaLma 
+. : .
+adaLao : adaLao 
+. : .
+negivet : negivet
+. : .
+jesus : jesus 
+christ : qazuhat 
+. : .
+amen : amen 
+. : .
+.. : bobo 
+$11bbn : $11bbn 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
