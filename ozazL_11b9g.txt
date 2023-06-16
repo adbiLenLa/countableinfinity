@@ -121429,10 +121429,202 @@ amen : amen
 . : .
 .. : bobo 
 $11bbn : $11bbn 
-
-
-
-
+boL : boL 
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+forever : huvazav 
+, : ,
+o : o 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet 
+, : ,
+to_be (imp) : uama
+with : qemhe 
+me : eLem 
+. : .
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+, : ,
+o : o 
+lord : etme 
+god : kut 
+most : Lufda 
+high : sekfamo 
+. : .
+to_speak (imp) : ubisia
+through : dazo 
+my : eLemza 
+heart : fiTam 
+and : oxe 
+my : eLemza 
+tongue : otumqoa 
+. : .
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+, : ,
+aLaLuie : aLaLuie 
+adni : adni 
+. : .
+aLaLuie : aLaLuie 
+aL : aL 
+shaddai : sadi 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova '
+, : ,
+here : suvu 
+and : oxe 
+now : mit 
+. : .
+fields : heimtuT
+to_have : utuseu 
+poles : bunaT 
+. : .
+fields : heimtuT 
+to_exhibit : uijsepetu 
+repulsion : vabinhuum 
+as : eh 
+well (adv) : zanmuzi 
+as : eh 
+attraction : edtazextuum
+. : .
+'? : '? qqi 
+to_be : uamu 
+gravity : kazerudu 
+a : a 
+field : heimtu
+'? : qqu '?
+all : bom 
+to_hail (imp) : usouma
+the : da 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet
+, : ,
+to_to (imp) : utuTua 
+not : mot
+to_forsake : uhuvhegiu 
+me : eLem 
+. : .
+i : eLe 
+to_be : uamu 
+in : uL 
+terrible : tavzupnamo
+trouble : okutazaipmiu
+and : oxe 
+i : eLe 
+to_need : utovrudtamuu
+you : fema 
+. : .
+to_bring (imp) : upzuLka 
+Toqasi : Toqasi 
+and : oxe 
+ipioiopi : ipioiopi
+back : pojguzi 
+to : tu 
+me : eLem 
+. : .
+to_fill (imp) : utuhenmaa
+my : eLemza
+heart : fiTam 
+and : oxe 
+soul : feima 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+to_fill (imp) : utuhenmaa 
+my : eLemza 
+heart : fiTam 
+and : oxe 
+tongue : otumqoa 
+with : qemhe 
+words : zavTuT 
+of : asu 
+power : zuuno 
+and : oxe 
+beauty : qooLiif 
+. : .
+to_hear (imp) : ufnaa 
+me : eLem 
+when : qom 
+i : eLe
+to_speak : ubisiu 
+, : ,
+o : o
+divine : Tezemamo
+mother : Ludav
+, : ,
+amaaLma : amaaLma
+, : ,
+we : Lam 
+to_be : uamu 
+in : uL
+a : a
+deep : Taibmo 
+pit : oabet 
+and : oxe 
+we : Lam 
+to_need : utovrudtamuu
+you : fema 
+. : .
+to_have (imp) : utrusea
+mercy : Lavexu 
+and : oxe 
+to_move (imp) : uLuzaa
+in : uL 
+the : da 
+hearts : fiTamim 
+of : asu 
+the : da 
+oligarchs : amuqezqaT
+so : fu 
+that : idta 
+they : mi 
+will : danaLeu 
+to_ratify : uvotehiu
+this : def 
+zavTu : zavTu 
+vision : zefaeL  
+of : asu 
+a : a 
+great : kaziotmo
+golden : qindemo 
+age : oeqi 
+in : uL 
+a : a 
+great : kaziotmo
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+. : .
+negivet : negivet 
+. : .
+amaaLma : amaaLma
+. : .
+adaLao : adaLao
+. : .
+jesus : jesus
+christ : qazuhat
+. : .
+amen : amen
+. : . 
+.. : bobo
+$11bbo : $11bbo
 
 
 
