@@ -121625,12 +121625,185 @@ amen : amen
 . : . 
 .. : bobo
 $11bbo : $11bbo
-
-
-
-
-
-
+boL : boL
+ieue : ieue  
+aLe : aLe 
+suTnam : suTnam 
+. : .
+o : o 
+divine : Tezemamo
+mother : Ludav 
+, : ,
+to_be (imp) : uama 
+real : vaemamo 
+. : .
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_be (imp) : uama
+with : qemhe 
+us : La
+. : .
+we : Lam 
+to_pray : ubzeiu 
+for (prep) : huvuin 
+mercy : Lavexu 
+, : ,
+o : o 
+amaaLma : amaaLma 
+, : ,
+to_move (imp) : uLuzaa
+in : uL 
+the : da 
+hearts : fiTamim 
+of : asu 
+the : da
+oligarchs : amuqezqaT 
+so : fu 
+that : idta
+they : mi 
+will : danaLeu 
+to_open : uabiLu 
+the : da
+way : zou 
+to : tu 
+peace : voose 
+and : oxe 
+joy : uma 
+and : oxe 
+universal : goLurizfonmo
+prosperity : obzahbavudu
+. : .
+to_let (imp) : unata 
+there : dava 
+to_to_be : tupa
+a : a 
+end : iLTu 
+to : tu 
+poverty : buzavdu 
+and : oxe 
+war : futo 
+. : .
+we : Lam 
+to_be : uamu 
+your : femaza
+children : jentuuT
+and : oxe 
+we : Lam 
+to_love : uvoqofdeu
+you : fema
+, : ,
+o : o 
+amaaLma : amaaLma
+. : .
+i : eLe 
+to_be : uamu 
+one : eLikam 
+begotten : pakutdiLmo
+son : buuge 
+. : .
+my : eLemza 
+name : moL 
+to_be : uamu 
+ozazL : ozazL 
+and : oxe 
+jonekino : jonekino
+amuqimax : amuqimax 
+. : .
+i : eLe
+to_be : uamu 
+the : da
+messiah : souhfaL
+and : oxe 
+the : da 
+emperor : oinbavuv 
+. : .
+i : eLe 
+to_claim : ujmeeLu
+this : def 
+planet : bameLid
+and : oxe 
+these : dafa 
+people : kuunim 
+in : uL 
+the : da 
+name : moL 
+of : asu 
+the : da 
+supreme : fibzinimo
+person : bavhaL  
+, : ,
+negivet : negivet 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_be (imp) : uama 
+with : qemhe 
+us : La 
+, : ,
+now : mit
+and : oxe 
+forever : huvazav 
+. : .
+'? : '? qqi
+what : Leta 
+to_be : uamu 
+we : Lam 
+supposed : rufibabahiuni
+to_to_do : tutuTuu
+'? : qqu '?
+'? : '? qqi
+how : suo 
+to_do : utuTuu 
+we : Lam
+to_escape : uihqebu
+this : def 
+pit : oabet 
+'? : qqu '?
+we : Lam 
+to_be : uamu 
+in : uL 
+terrible : tavzupnamo
+trouble : okutazaipmiu
+and : oxe 
+we : Lam 
+to_need : utovrudtamuu
+you : fema 
+. : .
+to_shine (imp) : ufafuLia 
+the : da 
+golden : qindemo 
+light : nekfuta 
+of : asu 
+love : voqofdeu 
+into : duLtu  
+the : da 
+world : zavnuTaa 
+so : fu 
+that : idta 
+we : Lam 
+may : Lou 
+to_know : uqaLaru 
+peace : voose 
+and : oxe 
+joy : uma 
+and : oxe 
+universal : goLurizfonmo
+prosperity : obzahbavudu 
+. : .
+to_fill (imp) : utuhenmaa
+our : Lamza
+souls : feimaT 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+.. : bobo
+$11bbp : $11bbp
 
 
 
