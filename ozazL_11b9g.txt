@@ -5357,7 +5357,7 @@ my : eLemza
 people : kuunim
 of : asu
 their : miza
-right (noun) : oraeqaoh
+right (noun) : ovekfata
 , : ,
 that : idta
 widows : zaTuzim
@@ -22930,7 +22930,7 @@ lord : etme
 . : .
 and : oxe
 my : eLemza 
-right (noun) : ovekfat
+right (noun) : ovekfata
 to_be : uamu
 disregarded : zuTefziqezTumo
 by : pi
@@ -37469,7 +37469,7 @@ those : dufa
 who : qiqo
 gladly : kametnizi
 to_do : utuTuu
-right (noun) : oraeqaoh
+right (noun) : ovekfata 
 , : ,
 those : dufa
 who : qiqo
@@ -48918,7 +48918,7 @@ trouble : okutazaipmiu
 . : .
 '? : '? qqi
 what : Leta
-right (noun) : oraeqaoh 
+right (noun) : ovekfata 
 to_have : utuseu 
 my : eLemza 
 beloved (noun) : opanuzaTa
@@ -49251,7 +49251,7 @@ you : fema
 will : danaLeu
 in : uL 
 the : da
-right (noun) : ovekfat
+right (noun) : ovekfata 
 , : ,
 o : o
 lord : etme 
@@ -97571,7 +97571,7 @@ the : da
 righteous (noun, pl) : ovekfataafim 
 still (adv) : fadumnuzi 
 to_do : utuTuu 
-right (noun) : oraeqaoh
+right (noun) : ovekfata
 , : ,
 and : oxe
 the : da 
@@ -97636,7 +97636,7 @@ they : mi
 will : danaLeu 
 to_have : utuseu 
 the : da 
-right (noun) : oraeqaoh 
+right (noun) : ovekfata
 to : tu 
 the : da 
 tree : bio 
@@ -121804,6 +121804,403 @@ glory : kumazu
 . : .
 .. : bobo
 $11bbp : $11bbp
+boL : boL 
+ieue : ieue
+aLe : aLe 
+suTnam : suTnam 
+. : .
+o : o
+adaLao : adaLao
+, : ,
+to_hear (imp) : ufnaa
+me : eLem 
+. : .
+to_be (imp) : uama
+with : qemhe 
+us : La 
+now : mit 
+and : oxe 
+forever : huvazav 
+. : .
+to_fill (imp) : utuhenmaa
+our : Lamza 
+souls : feimaT 
+with : qemhe 
+power : zuuno
+and : oxe 
+glory : kumazu 
+. : .
+we : Lam 
+to_be : uamu
+in : uL
+darkness : Tovgumafha 
+and : oxe 
+danger : oTomqiz 
+. : .
+we : Lam 
+to_be : uamu 
+trapped : tazebabitmo
+in : uL
+a : a 
+deep : Taibmo 
+pit : oabet 
+. : .
+the : da
+civilization : jezeneroteaL
+to_be : uamu 
+failing : uhoumuLka
+and : oxe
+the : da 
+oligarchs : amuqezqaT 
+to_be : uamu 
+planning : ubmeLuLka 
+mass (adj) : Lohafmo
+murder : oLivtiz 
+. : .
+to_rise (imp) : uvera 
+, : ,
+o : o
+niudeL : niudeL 
+from : hazani 
+the : da 
+deep (noun) : oTaib 
+, : ,
+and : oxe 
+to_destroy : utisuta 
+our : Lamza 
+enemies : iLinuT 
+, : , 
+one : eLikam
+and : oxe 
+all : bom 
+, : ,
+whoever : zufaazav 
+they : mi 
+may : Lou 
+to_to_be : tupa 
+. : .
+to_find (imp) : unoudea 
+Toqasi : Toqasi
+and : oxe 
+ipioiopi : ipioiopi
+and : oxe 
+to_bring (imp) : upzuLka 
+them : miim
+back (adv) : pojguzi 
+to : tu
+me : eLem 
+, : ,
+happy : gumaemamo 
+and : oxe 
+healthy : saemdimo 
+, : ,
+o : o  
+lord : etme 
+niudeL : niudeL 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_open (imp) : uabiLa 
+the : da
+way : zou
+to : tu 
+peace  : voose 
+and : oxe 
+joy : uma 
+for (prep) : huvuin 
+all : bom 
+humankind : siLomamoqemta
+. : .
+all : bom
+to_hail (imp) : usouma
+the : da 
+supreme : fibzinimo
+person : bavhaL
+, : ,
+negivet : negivet
+, : ,
+to_be (imp) : uama 
+with : qemhe 
+us : La 
+. : .
+to_bring (imp) : upzuLka 
+the : da 
+children : jentuuT 
+of : asu 
+earth : iovTa 
+into : duLtu 
+the : da 
+golden : qindemo
+light : nekfuta 
+of : asu 
+galactic : konojduxmo
+day : bauri 
+. : .
+zavTu : zavTu 
+to_be : uamu 
+the : da 
+secret : fajzidmo
+wish (noun) : ozefafu 
+of : asu  
+every : exuqo 
+human : siLomamo 
+heart : fiTam 
+. : .
+to_fill (imp) : utuhenmaa
+our : Lamza 
+souls : feimaT 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+to_open (imp) : uabiLa
+the : da 
+way : zou 
+to : tu 
+absolute : epfunitamo
+power : zuuno 
+. : .
+to_open (imp) : uabiLa 
+the : da 
+way : zou 
+for (prep) : huvuin 
+us : La 
+to_to_prosper : tubzahbavu
+and : oxe 
+to_to_thrive : tudzuriu
+in : uL 
+a : a
+great : kaziotmo 
+golden : qindemo
+age : oeqi 
+of : asu 
+endless : iLTmihafmo
+golden : qindemo 
+days : bauriT 
+in : uL
+a : a
+great : kaziotmo 
+golden : qindemo
+empire : oinbeva 
+out : aut
+among : enmaku 
+the : da 
+stars : tasduT 
+. : .
+.. : bobo
+$11bbq : $11bbq
+boL : boL 
+ieue : ieue 
+aLe : aLe 
+suTnam : suTnam 
+. : .
+o : oL
+sister : fefgasaTa 
+ninaToTi : ninaToTi 
+, : ,
+to_hear (imp) : ufnaa 
+me : eLem 
+. : .
+to_be (imp) : uamau
+the : da 
+first : guLikagni 
+to_to_call (imp) : tujonmaa 
+me : eLem
+lord : etme 
+. : .
+to_give (imp) : ukeza 
+your : femaza 
+self : ofansu 
+to : tu 
+me : eLem 
+body : vionahu
+and : oxe 
+soul : feima 
+. : . 
+to_pray (imp) : ubzeia 
+that : idta 
+i : eLe 
+will : danaLeu 
+to_break : upzioqu 
+containment : jumdeemniLta
+before (adv) : pahuvzi
+it : fa
+to_be : uamu
+too : duazi 
+late (adv) : notazi 
+. : .
+o : o
+holy : suni 
+spirit : samgu 
+, : ,
+adaLao : adaLao 
+, : ,
+to_move (imp) : uLuzaa
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_fill (imp) : utuhenmaa 
+my : eLemza 
+soul : feima 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+this : def
+to_be : uamu 
+a : a 
+dark : Tovgumo 
+and : oxe 
+terrible : tavzupnamo
+time : ieqo 
+for (prep) : huvuin 
+the : da 
+children : jentuuT 
+of : asu 
+the : da 
+earth : iovTa 
+. : .
+to_move (imp) : uLuzaa
+in : uL 
+the : da 
+hearts : fitamim
+of : asu 
+the : da 
+oligarchs : amuqezqaT 
+so : fu 
+that : idta 
+they : mi 
+will : danaLeu 
+to_have : utuseu 
+mercy : Lavexu 
+and : oxe 
+to_ratify : uvotehiu 
+this : def
+zavTu : zavTu 
+vision : zefaeL 
+. : .
+to_do (imp) : utuTua 
+it : fa
+now : mit 
+. : .
+there : dava
+to_be : utuTuu 
+not : mot 
+a : a 
+moment : LuLamda
+to_to_spare : tufbeziu 
+. : .
+i : eLe 
+to_be : uamu
+ozazL : ozazL
+and : oxe 
+jonekino : jonekino
+amuqimax : amuqimax
+. : .
+i : eLe
+to_claim (imp) : ujmeeLa 
+this : def
+planet : bameLid 
+and : oxe 
+these : dafa 
+people : kuunin 
+in : uL
+the : da
+name : moL 
+of : asu 
+the : da 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet 
+, : , 
+to_be (imp) : uama
+with : qemhe 
+us : La 
+. : .
+we : Lam 
+to_be : uamu
+in : uL 
+terrible  tavzupnamo
+trouble : okutazaipmiu
+and : oxe 
+we : Lam 
+to_need : utovrudtamuu
+you : fema 
+. : .
+we : Lam 
+to_be : uamu
+trapped (adj) : tazebabitmo
+in : uL
+a : a 
+deep : Taibmo 
+pit : oabet 
+. : .
+the : da 
+oligarchs : amuqezqaT 
+to_see : uzeTu 
+it : fa 
+as : eh 
+their : miza
+right (noun) : oivekfata
+and : oxe 
+responsibility : vafbaLfepeneti
+to_to_reduce : tuvaTijau 
+the : da
+human : siLomamo 
+population : bubinoteaL
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+o : o 
+negivet : negivet 
+and : oxe
+to_open (imp) : uabiLa
+the : da 
+way : zou 
+for (prep) : huvuin 
+us : La 
+to_to_prosper : tubzahbavu 
+and : oxe
+to_thrive : tudzuriu
+in : uL 
+the : da 
+golden : qindemo 
+light : nekfuta 
+of : asu 
+galactic : konojduxmo
+day : bauri 
+. : .
+aLaLuie : aLaLuie 
+hazoet : hazoet 
+. : .
+negivet : negivet 
+. : .
+amaaLma : amaaLma
+. : .
+adaLao : adaLao 
+. : .
+jesus : jesus 
+qazuhat : qazuhat 
+. : .
+amen : amen 
+. : .
+.. : bobo
+$11bbr : $11bbr
+
+
+
+
+
+
+
+
+
+
 
 
 
