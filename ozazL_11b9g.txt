@@ -122191,6 +122191,220 @@ amen : amen
 . : .
 .. : bobo
 $11bbr : $11bbr
+boL : boL 
+ieue : ieue
+aLe : aLe 
+suTnam : suTnam
+. : .
+in : uL 
+the : da 
+holy : suni 
+name : moL 
+of : asu 
+jesus : jesus 
+christ : qazuhat 
+i : eLe
+to_pray : ubzeiu 
+. : .
+o : o 
+holy : suni 
+spirit : samgu 
+, : , 
+adaLao : adaLao 
+, : ,
+to_make (imp) : uLaqaa 
+this : def 
+a : a 
+lucid : nijeTmo
+dream : oqoLu 
+. : .
+i : eLe
+to_see : uzeTu 
+vivid : zezetmo 
+color : junuv 
+. : .
+to_move (imp) : uLuzaa
+in : uL
+my : eLemza 
+heart : fiTam 
+and : oxe 
+soul : feima 
+. : .
+to_fill (imp) : utuhenmaa 
+me : eLem 
+with : qemhe 
+power : zuuno 
+and : oxe 
+glory : kumazu 
+. : .
+all : bom 
+to_hail (imp) : usouma
+the : da 
+supreme : fibzinimo 
+person : bavhaL 
+, : ,
+negivet : negivet 
+, : ,
+to_move (imp) : uLuzaa 
+and : oxe 
+to_appear (imp) : uebiova 
+. : .
+to_be (imp) : uama
+with : qemhe 
+me : eLem 
+now : mit 
+and : oxe 
+forever : huvazav 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_shine (imp) : ufafuLia 
+the : da
+golden : qindemo 
+light : nekfuta 
+of : asu 
+love : voqofdeu 
+into : duLtu 
+the : da
+hearts : fiTamim 
+of : asu 
+the : da 
+children : jentuuT 
+of : asu 
+earth : iovTa 
+. : .
+we : Lam
+to_be : uamu 
+meant : muLaeLuni 
+to_to_prosper : tubzahbavu 
+and : oxe 
+to_to_thrive : tudzuriu 
+. : .
+to_open (imp) : uabiLa
+the : da 
+way : zou
+to : tu 
+peace : vooose
+and : oxe 
+joy : uma 
+for (prep) : huvuin 
+all : bom 
+the : da 
+people : kuunim 
+of : asu 
+earth : iovTa 
+. : .
+i : eLe 
+to_be : uamu 
+ozazL : ozazL 
+and : oxe 
+zavTu : zavTu 
+to_be : uamuLka
+my : eLemza 
+vision : zefaeL 
+and : oxe 
+will (noun) : odanaLeu
+. : .
+i : eLe 
+to_see : uzeTu 
+immortal : bunLuvtomamo
+humans : siLomim 
+prospering : ubzahbavuLka
+in : uL
+a : a 
+great : kaziotmo 
+golden : qindemo 
+empire : oinbeva 
+out : aut 
+among : enamku 
+the : da 
+stars : tasduT 
+. : .
+to_let (imp) : unata 
+there : dava 
+to_to_be : tupa 
+a : a 
+end : iLTu 
+poverty : buzavdu 
+and : oxe 
+war : futo 
+on : aL 
+the : da 
+earth : iovTa 
+. : .
+to_let (imp) : unata 
+this : def 
+to_to_be : tupa 
+a : a 
+age : oeqi 
+of : asu 
+peace : voose 
+and : oxe 
+joy : uma 
+and : oxe 
+universal : goLurizfonmo
+prosperity : obzahbavudu 
+, : ,
+o : o 
+supreme : fibzinimo
+person : bavhaL 
+, : ,
+negivet : negivet
+, : ,
+i : eLe 
+to_be : uamu 
+ozazL : ozazL
+and : oxe 
+jonekino : jonekino
+amuqimax : amuqimax
+. : .
+i : eLe
+to_be (past) : uamo 
+with : qemhe 
+you : fema 
+at : ed
+the : da 
+beginning : cupakemu 
+. : .
+to_have (imp) : utusea 
+mercy : Lavexu 
+and : oxe 
+to_remove (imp) : uvaLuzaa 
+my : eLemza 
+enemies : iLinuT 
+from : hazani 
+the : da
+world : zavnuTaa 
+. : .
+aLaLuie : aLaLuie 
+hozoet : hazoet 
+. : .
+negivet : negivet 
+. : . 
+amaaLma : amaaLma
+. : .
+adaLao : adaLao
+. : .
+jesus : jesus 
+qazuhat : qazuhat 
+. : .
+amen : amen 
+. : .
+.. : bobo 
+$11bbs : $11bbs
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
