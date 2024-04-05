@@ -123416,5 +123416,578 @@ cylinder : jinemtiz
 cynic : jimej 
 cynical : jimejonmo 
 cynically : jimejonzi 
+to_dabble : uTopepnu 
+dabbLer : Topepnav 
+dagger : teqove 
+daintily (adv) : TouLteni 
+daintiness : TouLtemafha 
+dainty : TouLtimo 
+dais : bisixonozo 
+dam : botu 
+damage (noun) : oToLokau 
+damned : qevutdomo 
+damp (adj) : qufdiifmo 
+dangerously (adv) : doTomqizaifni 
+to_dangle : uvuugaqiu 
+daring (adj) : ohqoneehmo 
+darling (adj) : TovmuLkamo 
+data : teitadu 
+database : teidageLto 
+date (noun, time) : oTota 
+to_dawdle : uTozetnau 
+daylight : beiLunekfuta 
+daze (noun) : Tora 
+to_daze : uTorau 
+dazed (adj) : ToraTmo 
+to_dazzle : ufuqouhtou 
+dazzling (adj) : fuqouhiremo 
+to_deafen : uTaesiLu 
+deafening (adj) : TaesiLuLkamo  
+deal (noun) : oTaemoa
+dealer : Taemiz 
+dearly (adv) : Taezni
+dearth : bino 
+to_debase : usonriLtou 
+to_debate : uTapotau 
+debauchery : feqoumoa 
+to_debilitate : usoudedeu 
+debilitating : soudemnemamo 
+debit (noun) : Tapet 
+debris : fevbemiat 
+debt : zange 
+debutante : Tapitomdi 
+decadence : vobebuu 
+decadent : vobabiitmitmo 
+to_decapitate : utanuudtou 
+to_decay : uTajou 
+decent : Tajamdumo 
+decently : Tajamduzi 
+deception : obatuf 
+deceptively : batunmuhihtezi 
+decidedly : fanrehtezi 
+to_decimate : uTajeLotau
+to_decipher : utingudeu 
+decision : tianuu 
+decisively (adv) : Tajefezani 
+to_decode : ubivgeu 
+to_decompose : uTajuLbahiu 
+to_decorate : uquvefdeu 
+decoration : quvefdimoa 
+decrepit : Tajzibudmo 
+to_decry : ubovcedeu 
+to_dedicate : uTaTejotau 
+dedication : TaTejoteaL 
+to_deduce : uTaTijau 
+to_deduct : uzosamdeu 
+deductive (adj) : TaTijduri 
+deed : taqu 
+deeply (adv) : Taibni 
+deepness :  Taibmafha 
+to_deface : uviLamdeu 
+defamation : bomatdimoa 
+to_defame : ubomatdimu 
+to_defecate : uomahtou 
+defecation : omahtifa 
+defect (noun) : zeqo 
+defective : zonmuLiLmo 
+defendant : Tahamtehomdu
+defender : biamohtoxo 
+defenseless : Tahamhimihfu 
+defensible : Tahamhupnamo 
+to_defer : uniqotou 
+defiance : TaheeLja
+defiant : TaheeLta
+deficiency : puute 
+deficient : biodtaimnemamo 
+defilement : TahenaLamdu 
+to_define : uTahemau 
+definite : Tahemetamo 
+definitely : Tahemetani 
+definition :  TahemeteaL 
+definitive : Tahemetezamo 
+to_deflate : uTahmediu 
+deflation : Tahmneduum 
+to_deflect : uqoLtoeu 
+deflection : qoeLtoLemam 
+to_deform : uTahuvnu 
+deformation : Tahuvneduum 
+deformed : Tahuvnitmo 
+deformity : Tahuvnudu 
+to_defraud : usiucedeu 
+deft (adj) : touderemo 
+deftly (adv) : touderehtezi 
+defunct (adj) : qiamnitmo 
+degenerate (adj) : vobabiitimitmo 
+degredation : emiLmif 
+to_degrade : uemiLtou 
+to_dehydrate : uTasiTzediu 
+dehydration : TasiTzeduum 
+to_deign : uTaumqu 
+deity : exiLono 
+dejected (adj) : LofamdoLodmo 
+dejection : LofamLoha
+delay (noun) : oTanou 
+to_delay : uTanou 
+delectable : savgomnemamo 
+delegate (noun) : oTanakota
+to_delegate : uTanakotau 
+delegation : TanakoteaL 
+to_delete : ubuuhtou 
+to_deliberate : uTanepavotau 
+deliberate (adj) : Tanepavotaumo 
+deliberation : TanepavoteaL 
+delicacy : savgaqi 
+delicate (adj) : samdamo 
+delicious : Tanejeaifmo 
+delight (noun) : Tanekfat 
+delightful : Tanekfatsomamo
+delinquency : Tanemkoamexu 
+delinquent : Tanemkoamdumo 
+delirious : Taneveaifmo 
+deliriously : Taneveaifni 
+delirium : Taneveon 
+to_deliver : uTanezavu 
+deliverance : Tanezavomexi 
+delivery : Tanezavi 
+to_delude : uTaniTau 
+delusion : TanifeaL 
+deluxe : Tanicamo 
+demand (noun) : TaLomta
+to_demand : uTaLomtau 
+demanding (adj) : TaLomtuLkamo 
+demeanor : aminoha 
+demented : TaLamditmo 
+dementia : TaLamduo 
+demigod : biamuxiLono 
+democracy : TaLujzexu 
+democrat : TaLujzed 
+democratic : TaLujzeduxmo
+democratically : TaLujzeduxemni 
+to_democratize : uTaLujzeduviu
+to_demolish : uTaLunefafu 
+demolition : TaLuneteaL
+to_demonstrate : uTaLumhetzediu
+demonstration :  TaLumhetzeduum 
+demonstrator : TaLumhetzedaz 
+to_demoralize : unomluhtou 
+to_demote : uemiLtou 
+demotion : emiLmifa
+demure : senceemamo 
+demurely : senceemazi 
+denizen : ehogeha 
+to_denote : uLavgudeu 
+to_denounce : utianudeu 
+dense : Tamhimo 
+densely : Tamhimuzi 
+density : Tamhudu 
+dent (noun) : qunfo 
+denunciation : TamimexuoteaL 
+to_deny : uTamiu 
+to_depart : uTabovdu 
+department : ahehtu 
+departure : Tabovdozi
+dependable : Tabamtepnamo
+dependent : TabamtiLta 
+to_depict : uqizotou 
+to_deplete : uTabmidiu 
+depletion : Tabmiduum 
+deplorable : zonetatderemo 
+deplorably : zonetatderehtezi
+to_deport : uTabuvdu 
+deportation : Tabuvdeduum 
+to_depose : uTabufau 
+deposit : tonmidoha 
+to_deposit : utonmidtou 
+depravation : Tabzereduum 
+depraved (adj) : Tabzeritmo 
+depravity : Tabzerudu 
+to_depreciate : uTabzixuotau 
+depreciation : TabzixuoteaL
+to_depress : uTabzihfu 
+depressant : Tabzihfomdu 
+depressed : TabzihfaTmo 
+depressing : Tabzihfemqu 
+depression : TabzihfeaL 
+to_deprive : uTabzuriu 
+deprivation : Tabzureduum 
+deputation : TabitoteaL 
+to_deputize : uTabiterau 
+deputy : Tabiti 
+to_derail : uTavoumu 
+derailment : TavoumLamda
+deranged : sinmo 
+to_deregulate : uTavakinotau 
+deregulation : TavakinoteaL
+derelict (adj) : Tavanejdamo 
+dereliction : Tavanejduum 
+to_derive : utavezau 
+derivative (adj) : Tavezotezamo 
+derogatory : sonriLtozomo
+to_descend : uTafexiLTu 
+descendant : TafexiLTomda
+descent : TafexiLta 
+to_describe : uTafexvepau 
+description : Tafexvebduum 
+to_desecrate : uTafajzediu 
+desecration : Tafajzeduum 
+to_desegregate : uTafakziqediu
+desegregation : Tafakziqeduum 
+desert (noun) : eiteaneo 
+to_desert : uTafavdu 
+deserted : Tafavditmo
+deserter : Tafavdiz
+desertion : Tafavduum 
+to_deserve : ueLfoudeu 
+design (noun) : TafekLa 
+to_design : uTafekLau 
+to_designate : utovgaetdeu 
+designer : TafekLiz 
+desireable : Tafevaepnamo 
+desire : Tafeva 
+to_desist : unoqotou 
+desk : oTafga
+desolate (adj) :  Tafunotamo
+to_desolate : uTafunotau 
+desolation : TafunoteaL 
+despair : Tafbeev 
+despairing (adj) : Tafbeevemqumo 
+despairingly : Tafbeevemqeni
+desperado : Tafbizeta 
+desperate : Tafbizedimo
+desperately : Tafbizedimu
+desperation : Tafbizeduum 
+despicalble : Tafbuxepnamo 
+despicably : Tafbuxepni 
+to_despise : usonrigfeu 
+despondency : TafbaLTamexu
+despondent : TafbaLTamdumo 
+despondently : TafbaLTamdeni
+despot : Tafbad
+despotic : Tafbaduxmo
+despotism : TafbaduhLo 
+dessert : exonguzouqo 
+destination : TafduLeduum 
+destiny : TafduLu 
+destitute : zovovdaLmo 
+destitution : zovotdanohu
+to_destroy : uTafdevuu 
+destroyer : Tafdevuuav 
+destruction : Tafdevijduum 
+destructive : Tafdevijdurimo 
+to_detach : uTatojfu 
+detached : Tatojfitmo 
+detachment : TatojfeLamdu
+detail : Tatoum 
+to_detail : uTatoumu 
+to_detain : uTatouLu 
+detainee : TatouLia
+to_detect : uTatajdu 
+detection : Tatajduum 
+detective : Tatajduri
+detention : Tatamduum 
+detergent : bafieema 
+to_deteriorate : uTataveazediu 
+deterioration : Tataveazeduum
+to_determine : uTatavnuLiu
+determination : TatavnuLeduum 
+determined : TatavnuLitmo 
+determinedly : TatavnuLitni 
+deterrent : banuta 
+to_detest : uTatafdu 
+detestation : Tatafdeduum 
+to_dethrone : uTatfevumau
+to_detonate : uTatumotau 
+detonation : TatumoteaL 
+detonator : Tatumotuv 
+detour : qeiztutei 
+detraction : TatzexteaL 
+detriment : tatzuniLta 
+detrimental (adj) : TatzuniLtonmo 
+devaluation : Tazoieduum 
+to_devalue : uTazoniu 
+to_devastate : uTazofdediu 
+devastating : TazofdeduLkamo
+devastation :  Tazofdeduum 
+to_develop : uTazanubu 
+developer : Tazanubav
+developing (adj) : Tazanubemqumo
+development : TazanubniLta 
+developmental (adj) : TazanubniLtonmo
+deviant (adj) : TazeeLtmo 
+deviant (noun) : oTazaeLta
+deviation : Tazeeduum 
+device : Tazeja
+devil : Tazen 
+devilish (adj) : Tazenefafmo 
+devilishly : Tazenefafni 
+devious : qotonomo 
+to_devise : unoeduu 
+to_devote : uTazutau 
+devoted : TazutaTmo 
+devotedly : TazutaTmu 
+devotee : Tazutai 
+devotion : tazuteaL 
+to_devour : uTazuoz 
+devout (adj) : Tazuodmo 
+devoutly : Tazuodni 
+dew : qofdi 
+dexterity : Tacdizudu 
+dexterous : Tacdizaifmo 
+diabolical : Teepamuxemamo
+diabolically : Teepamuxemni 
+to_diagnose : uTeeqamufau
+diagnosis : Teeqemufef 
+diagnostic : Teeqemufduximo 
+diagonal : TeeqaLem 
+diagonally : TeeqaLemni
+diagram : TeeqavoL 
+diagrammatic (adj) : TeeqevoLneduxmo 
+dial (noun) : toomoa 
+to_dial : uzonetou 
+dialect : Livzi 
+dialog : Teemaqa 
+diameter : Teenidiz 
+diametric : Teenidvejmo 
+diametrically (adv) : Teenidvejonmu 
+diamond : teLomdate 
+diarrhea : vebine 
+diary : Liuhtea 
+dice (pl) : mubotim 
+dicey (adj) : qebavomo 
+to_dictate : uTejdediu 
+dictation : Tajdeduum 
+dictator : Tejdedaz 
+dictatorial : Tejdedazuonmo 
+dictatorship : Tejdedazfafub 
+diction : Tejduum 
+dictionary : Tejduumovi 
+to_die : uqiamnou 
+diet (noun): Teid 
+to_diet : uTeidu 
+dietary : Teidezumo 
+dietetic (adj) : Teididuxmo 
+to_differ : uTehsizu 
+difference : TehsiziLja 
+different (adj) : TehsiziLtmo 
+differently : TehsiziLtmu 
+difficult : Tehsuxomtamo 
+difficulty : Tehsuxomti 
+diffidence : TehsutiLja 
+diffident : TehsutiLatmo 
+diffidently : TehsutiLatmu 
+diffuse : Tehsohimo 
+diffusion : Tehsohuum 
+to_dig : uqoureu 
+to_digest : uTekafdu 
+digestion : Tekafduum 
+digestive : Tekafdurimo 
+digit : Teket 
+digital : Teketonmo 
+to_dignify : uTekLusu 
+dignified : TekLusaTmo 
+dignitary : TekLudezu 
+dignity : TekLudu 
+to_digress : uTekzihfu 
+digression : TekzihfeaL 
+dilapidated : vomhuhtimitmo 
+to_dilate : uTenotau 
+dilation : TenoteaL 
+dilemma : TenaLne 
+diligence : Tenekamexi 
+diligent : Tenekamdemo 
+diligently : Tenekzemdani 
+to_dilute : unouniLtou 
+dim (adj) : seLniomo 
+to_dim : useLniou 
+dimension : TeLamhuum 
+dimensional : TeLamhuumonmo 
+to_diminish : uTeLemefafu 
+diminished (adj) :  TeLemefafitmo 
+diminutive : TeLemitezamo 
+dimly (adv) : seLniozi 
+to_dine : uTemau 
+diner : Temav 
+dinner : TemLiza 
+diploma : Tebmane 
+diplomacy : Tebmanexu 
+diplomat : Tebmanedu 
+diplomatic : Tebmaneduxmo 
+dire (adj) : qoLonomo 
+to_direct : uTevajdu 
+direct (adj) : Tevajdumo 
+direction : Tevajduum 
+directive : Tevajduri 
+director : Tevajdaz 
+directory : Tevajdazu 
+dirt : neqo
+dirty : neqouLiLmo 
+disability : Tefopeneti 
+to_disable : uTefopmiu 
+disabled (adj) : Tefopmitmo 
+disadvantage : TefoTreLtoka 
+disadvantaged : TefoTreLtokaTmo 
+disagreeable : Tefokziaepnamo 
+disagreement : TefokziaLamdu 
+to_disappear : uTefobabiovu 
+disappearance : Tefobabiovomexi 
+to_disapoint : uTefobabaemdu 
+disappointed : Tefobabaemditmo 
+disappointing : TefobabaemduLkmo 
+disappointment : TefobabaemdaLamdu 
+disapproval : bosaqahoLto 
+to_disarm : uTefovnu 
+disarmament : TefovneniLta 
+disarray : Tefovzei 
+to_disarray : uTefovzeiu 
+disater : Tefofdiz 
+disasterous : Tefofdizaifmo 
+to_disband : uTefpeLTu 
+disbelief : Tefpimuah 
+to_disbelieve : uTefpimuaza 
+to_discard : uTefexezTu 
+to_discern : uTefexizmu 
+discernible : Tefexizmepmimo
+discharge (noun) : Tefexasovqi
+to_discharge : uTefexasovqiu 
+disciple : Tefexubna 
+disciplinarian : TefexubnemoveeL 
+disciplinary : Tefexubnemovimo 
+discipline : Tefexubnema 
+to_disclose : uTefexnufau 
+disclosure : Tefexnufiva 
+to_discolor : uTefexamazu 
+discoloration : Tefexamazeduum 
+discomfort : Tefexanhuvda 
+disconcerting : TefexaLjavduLkamo 
+to_disconnect : uTefexaLmajdu 
+disconnected : TefexaLmajdiTmo 
+discontent : TefexaLtamda 
+to_discontinue : uTefexaLtemiiu 
+discord : TefexazTu 
+discordant : TefexazTomdu 
+to_discount : uTefexaimdu 
+discount (noun) : oTefexaimdu 
+to_discourage : uTefexaivokau 
+discouragement : TefexaivokaLamda 
+discouraging : Tefexaivokemqamo 
+discourse : Tefexaivhi 
+discourteous : Tefexaivdiuohmo 
+to_discover : uTefexarizu 
+dicovery : Tefexarizu 
+to_discredit : uTefexvaTetu 
+discreet : Tefexvaidmo 
+discreetly : Tefexvaidni 
+discrepancy : Tefexvabomexu 
+discrete : Tefexvatamo 
+discretion : TefexvateaL 
+to_discriminate : uTefexveLemotau 
+discriminating : TefexveLemotemqumo 
+discrimination : TefexveLemoteaL 
+to_discuss : uTefexofhu 
+discussion : TefexohfeaL 
+to_disdain : uTefteemu 
+disdainful : Tefteemsomamo 
+disease : Tefaehi 
+diseased : Tefaehitmo 
+to_disembark : uTefaLpezqu 
+disembarkation : TefaLpezqoteaL 
+to_disengage : uTefamqeqiu 
+to_disentangle : uTefamdeLkmiu 
+to_disfigure : uTefsuqoziu 
+disfigurement : TefsuqoziniLta 
+disgrace (noun) : Tefqevoja 
+disgraceful : Tefeqavojahinmo 
+disgracefully : Tefeqavojahinmu
+disgruntled : TefeqavimdanaT 
+disguise (noun) : oTefqoefa 
+to_disguise : uTefqoefau 
+disgust (noun) : oTefqohta 
+to_disgust : uTefqohtu 
+disgusting :  Tefqohtemqamo
+dish (noun) : qinfa 
+to_dishearten : uTefafiovdiLu 
+disheveled :  feuradaLmo 
+dishonest : TefafaLihta 
+dishonesty : TefafaLihti 
+dishonor : TafafaLaz 
+dishonorable : TefafaLazepnamo 
+dishwasher : ehteeLbafexo 
+disillusion : Tefenmohuum 
+disillusionment : TefenmohuumniLta
+to_disinfect : uTefemsixtu 
+disinfectant : Tefemsixtomda 
+to_disinherit : uTefemfizudu 
+to_disintegrate : uTefemdiqavotau 
+disintegration : TefemdiqavoteaL 
+to_disinter : uTefemdizu 
+disinterested : biamoaidaLmo
+disinterment : TefemdizLamda 
+disjointed : Tefcaemditmo 
+disjointedly : Tefcaemditni 
+to_dislike : uTefmugiu 
+to_dislocate : uTefmaxediu 
+dislocation : Tefmaxeduum 
+to_dislodge : uTefmatkau 
+disloyal : Tefmaiemamo 
+disloyally : Tefmaiemni
+disloyalty : Tefmaiemti 
+dismal : fivinmuLiLmo 
+dismally : fivgiofduzi 
+to_dismantle : uTefneLetmiu 
+dismay (noun) : oTefnei 
+to_dismay : uTefneiu 
+to_dismember : uTefninpavu 
+dimemberment : TefninpavniLta
+to_dismiss : uTefnuhfu 
+dismissal : Tefnuhfon 
+dismissive : Tefnuhfezamo 
+to_dismount : uTefnaimdu 
+disobedience : TefupaTeiLja 
+disobedient : TefupaTeiLtmo 
+to_disobey : uTefupau 
+disorder : Tefuvtiz 
+disordered : Tefuvtizitmo
+disorderly : Tefuvtiznimo 
+to_disorganize : uTefuvqeLuviu 
+to_disown : uTefuzLu 
+disparate : Tefbezedimo 
+disparity : Tefbezudu 
+dispassion : TefbehfeaL 
+dispassionate : TefbehfeaLedimo 
+dispassionately : TefbehfeaLedimu 
+to_dispatch : uTefbedjafu 
+to_dispel : uTefbimu
+dispensary : TefbiLfovi 
+dispensation : TefbiLfoteaL
+to_dispense : uTefbiLfau 
+display (noun) : oTefnou
+to_display : uTefnou 
+to_displease : uTefbanaehiu 
+displeasure : Tefbanaehozi 
+disposable : Tefbahepnamo
+disposal : Tefbahemna 
+disposition : Tefbahuduum 
+to_dispossess : uTefbahihu  
+dispossed : Tefbahitmo 
+disproportionate : Tefbavubuvduumotamo 
+to_disprove : uTefbavuzau 
+disputable : Tefbodepnamo 
+dispute (noun) :  oTefbodi 
+to_dispute : uTefbodiu 
+disqualification : TefkoonehejoteaL 
+to_disqualify : uTefkoonehiu 
+disquiet (noun) : oTefkoeidu
+to_disquiet : uTefkoeidu 
+disquieting : TefkoeiduLkamo 
+disregard (noun) : oTefziqezTu
+to_disregard : uTefziqezTu 
+disreputable : Tefzibodepnamo 
+disrepute : Tefzibodi 
+disrespect (noun) : oTefzihbajdu 
+disrespectful :  Tefzihbajdahinmo 
+disrespectfully : Tefzihbajdahinmu 
+
+
+
 
 
