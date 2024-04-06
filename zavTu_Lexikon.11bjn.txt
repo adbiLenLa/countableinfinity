@@ -123986,8 +123986,262 @@ disrepute : Tefzibodi
 disrespect (noun) : oTefzihbajdu 
 disrespectful :  Tefzihbajdahinmo 
 disrespectfully : Tefzihbajdahinmu 
-
-
-
-
-
+to_disrupt : uTefzobtu 
+disruption : TefzobteaL 
+to_dissect : uTefhixtu 
+dissection : TefhixteaL
+to_disseminate : uTefhinuLediu
+dissemination : TefhinuLeduum 
+dissension : TefhiLfeaL 
+dissent (noun) : oTefhiLta
+to_dissent : uTefhiLtu 
+dissenter : TefhiLtav
+dissertation : ihudiLmo 
+dissident (noun) : oTefhutiLata
+dissident (adj) : TefhutiLatmo
+dissimilar (adj) : Tefhunumezmo 
+to_dissociate : uTefhaxuotau 
+dissociation : TefhaxuoteaL 
+dissolution : Tefhamoduum 
+to_dissolve : uTefhamzau 
+to_dissuade : uTefhooTau 
+dissuasion : TefhoofeaL 
+distance : TefdeLja 
+distant (adj) : TefdeLtamo
+distaste : Tefdehta 
+distasteful : Tefdehtahinmo 
+to_distend : uTefdiLTu 
+distension : TefdiLfeaL 
+to_distill : uTefdumnu 
+distillation : TefdumnoteaL 
+distiller : Tefdumnav 
+distillery : Tefdumnavi 
+distinct : TefduLjdamo 
+distinction : TefduLjaduum 
+distinctive : TefduLjadurimo 
+distictively (adv) : TefduLjadurimu 
+to_distinguish : uTefduLkiuhsu 
+distinguishable : TefduLkiuhsopmimo 
+distinguished : TefduLkiuhsaTmo 
+distinguishing (adj) : TefduLkiuhsemqamo 
+to_distort : uTefdaztu 
+distortion : TefdazteaL 
+to_distract : uTefdavojdu 
+distraction : Tefdavojduum 
+distraught : Tefdavooqasda 
+distress : Tefdavafiha 
+distressed : Tefdavafihitmo 
+distressing : TefdavafihuLkamo 
+distressingly : TefdavafihuLkamu 
+to_distribute : uTefdavepitau 
+distribution : TefdavepiteaL 
+distributor : Tefdavepituv 
+district : Tefdavejda 
+distrust (noun) : oTefdavifda 
+to_distrust : uTefdavifdu 
+distrustful : Tefdavifdahinmo  
+distrustfully : Tefdavifdahinmu 
+to_disturb : utefdozpu 
+disturbance : Tefdozpomexi 
+to_disuse : uTefifau 
+ditch (noun) : Tetexsa 
+to_dither : uTetfizu 
+dive (noun) : oTeza 
+to_dive : uTezau 
+diver : fiqandece
+to_diverge : uTezavqiu 
+diverging (adj) : TezavquLkamo 
+diverse : Tezavhimo 
+diversification : Tezavhusuxeduum 
+to_diversify : uTezavhusuu 
+diversion : Tezavhuum 
+diversionary : Tezavhuumovimo 
+diversity : Tezavhudu 
+to_divert : uTezavdu 
+to_divide : uTezeTau 
+dividend : TezeTamto 
+to_divine : uTezemau 
+divine (adj) : Tezemamo 
+diviner : Tezemav 
+divinity : Tezemeti 
+divisible : Tezefepmimo 
+divisive : Tezefezamo 
+divorce (noun) : oTezuvexi 
+to_divorce : uTezuvexu 
+to_divulge : uTezinqiu 
+dizzily (adv) : Tervumu 
+dizziness : TervuLihfa 
+dizzy : Tervumo 
+to_do : utuTuu 
+docile : Tujenamo 
+dock (noun) : oTujga 
+to_dock : uTujgu 
+docket : Tujgida 
+doctor : Tujdaz 
+doctrine : Tujedvema 
+document (noun) :  oTujiLamdu 
+to_document : uTujiLamdu 
+documentary : TujiLamdezu 
+documentation : TujiLamdeduum 
+to_dodge : uTuTqiu 
+dodger : TuTqiz 
+doe : Tui 
+dog : Tuka 
+dogged : Tukaqitmo 
+doggedly : Tukaqitni 
+doggedness : Tukaqitamafha
+doghouse : Tukfaifa 
+dogma : Tukne 
+dogmatic : Tukneduxi 
+dogmatism : TukneduhLa 
+doleful : Tunahinmo 
+dolefully : Tunahinmu 
+doll : miqagi 
+domain : TuLouL 
+dome : qibune 
+domestic : TuLafduximo 
+to_domesticate : uTuLafduxediu 
+dominance : TuLemomexi 
+dominant : TuLemomdumo 
+to_dominate : uTuLemotau 
+to_domineer : uTeLemaizu 
+domineering : TuLemaizuLkamo 
+dominion : TuLemeaL 
+to_donate : uTumotau 
+donation : TumoteaL
+donkey : eofe 
+donor : Tumuv 
+doom (noun) : oTuan 
+to_doom : uTuanu 
+door : Tuaz 
+doorman : TuazLaihu 
+doorbell : Tuazpanma 
+doorstep : Tuazfadib 
+dormant : TuvneLtmo 
+dormitory : ehoLtuno 
+dosage : Tufoka 
+dose (noun) : Tufa 
+dossier : Tufhuav 
+to_double : uTuopnau 
+doubt (noun) : oTuopta 
+to_doubt : uTuoptu 
+doubtful : Tuoptasomamo 
+doubtless (adv) : Tuoptamihfazi 
+to_douse : uTuohiu 
+dove : Tuza 
+to_down : uTuzLu 
+down (adv) : TuzLuzi 
+downfall : TuzLahonma 
+to_downplay : uTuzLebmeiu 
+downpour : TuzLabuaz 
+to_downsize : uTuzLaferau 
+downtown : TuzLetuzLa 
+downturn : TuzLetivLa 
+downward (adv) : TuzLezovtuzi 
+dowry : Tuzezu 
+to_dowse : uTuzhiu 
+drab : eTzepmo 
+draft (noun) : oTzesta 
+to_draft : uTzestu 
+drafty : Tezestimo 
+to_drag : uTzequ 
+dragon : TezeqaL 
+drain (noun) : oTzeem 
+to_drain : uTzeemu 
+drainage : eTzeemoka
+drama : Tezene 
+dramatic : Tezeneduximo 
+dramatically (adv) :  Tezeneduxemni 
+dramatist : Tezeneduhta 
+to_dramatize : uTzeneduviu 
+drape (noun) : oTezebi 
+to_drape : uTzebiu 
+drastic : Tezehtejmo 
+drastically : eTzehtejonmu 
+to_draw : uTzeru 
+drawback : soudto 
+drawl (noun) : oTzerna 
+to_drawl : uTzernu 
+dread (noun) : oTzioTa 
+to_dread : uTzioTu 
+dreadful : eTzioTsomamo 
+dreadfully : eTzioTsomni 
+dream (noun) : oTzioL 
+to_dream : uTzioLu 
+dreamer : eTzioLav 
+dreamily : eTzioLeni 
+dreamy : eTzioLimo 
+drearily : eTzioveni 
+dreariness : eTziovemafha 
+dreary : eTziovimo 
+dredge (noun) : oTzitka 
+to_dredge : uTzitkau 
+dress (noun) : oTzihfa
+to_dress : uTzihfu 
+to_dribble : uTzupapmiu 
+dried : eTzuatmo 
+to_drift : uTzustu 
+drifter : eTzustav 
+drink (noun) : oTzuLqa 
+to_drink : uTzuLqu 
+drip (noun) : oTzuba 
+to_drip : uTzubu 
+drive (noun) : oTzuri 
+to_drive : uTzuriu 
+driven : TezuriLmo 
+driver : Tezuriz 
+drizzle (noun) : oTzuvrami 
+to_drizzle : uTzuvramiu 
+to_droop : uTzaubu 
+drop (noun) : oTzaba 
+to_drop : uTzabu 
+drought : eTzaikfato 
+to_drown : uTzarmu 
+drowning (noun) : oTzarmemqa 
+to_drowse : uTzarfau 
+drowsily : eTzarefeni 
+drowsy : eTzarfimo 
+drudgery : oTzotkavi 
+drug (noun) : oTzoqa 
+to_drug : uTzoqu 
+drum (noun) : oTzona 
+to_drum : uTzonu 
+drummer : oTzonLav 
+drunk (noun) : oTzoLqa
+drunk (adj) : eTzoLqamo 
+dry (adj) : eTzumo 
+to_dry : uTzuu 
+dryer : oTzuav 
+dubious : Tipeaifmo 
+duel : Tiim 
+duelist : Tiimuhta 
+dull (adj) : Tinmamo 
+dumb : TiLpamo 
+dummy : TiLnu 
+dump (noun) : oTiLba
+to_dump : uTiLbu 
+dunce : Timexi 
+dune : Tima 
+duplicate (noun) : oTibmuxedi 
+to_duplicate : uTibmuxediu 
+duplication : Tibmuxeduum 
+duplicator : Tibmuxedaz 
+durable : Tivopmimo 
+duration : TivoteaL 
+duress : Tivafha 
+during (prep) : Tivemqa 
+dusk : Tifga 
+dusky : Tifgumo 
+dust : Tifda 
+dutiful : Titehinmo 
+duty : Titi 
+dwarf (noun) : oTrezha 
+to_dwarf : uTrezhu 
+to_dwell : uTrimnu 
+dwelling (noun) : oTrimnemqu 
+to_dwindle : uTaruLTmiu 
+dye (noun) :  oTii 
+to_dye : uTiiu 
+dynamic : TimoLejmo 
+dynasty : Timofdu 
+dyspepsia : Tifbibfee 
