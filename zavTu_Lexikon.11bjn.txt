@@ -124245,3 +124245,805 @@ to_dye : uTiiu
 dynamic : TimoLejmo 
 dynasty : Timofdu 
 dyspepsia : Tifbibfee 
+harmony : sovnaLu 
+godhead : kuTfioT 
+each : iojaf 
+eager : iokavmo 
+eagerly : iokavmu 
+eagerness : iokavLihfa 
+eagle : iokmi 
+ear : iov 
+eardrum : iovTazon 
+early (adj) : iovmumo 
+early (adv) : iovmuzi 
+earnest (adj) : iovLihtamo 
+earnestly : iovLihetmu 
+earnings : iovLuLkeha 
+earphones : iovbasumafim 
+earthen : iovdasamumo 
+earthenware : iovdasamrezi 
+earthly : iovdasmumo 
+ease (noun) : oiofa 
+to_ease : uiofau 
+easily : iofeni 
+easiness : iofemafha 
+east : iofda 
+easterly : iofdiznimo 
+eastern : iofdizmo 
+easy (adj) : iofimo 
+easy (adv) : iofizi 
+to_eat : uiotu 
+eaves : iozafim 
+to_eavesdrop : uiozafetvubu  
+ebb (noun) : oipep 
+to_ebb : uipepu 
+ebony (noun) : ipaLu
+ebony (adj) : ipaLumo 
+eccentric (noun) : ixjamdavej 
+eccentric (adj) : ixjamdavejmo
+eccentricity : ixjamdavejeti
+ecclesiastical : ixjamihuofduxemo
+echo (noun) : oixesu 
+to_echo : uixesu 
+eclipse (noun) : oixnebhi
+to_eclipse : uixnebhiu 
+ecological : ixamaquxemo 
+ecology : ixamaqu 
+economic : ixaLanuxmo 
+economical (adj) : ixaLanuxemo 
+economically : ixaLanuxemni 
+economics : ixaLanuxfa 
+economist : ixaLanuhta
+to_economize : uixLananuviu 
+economy : ixaLanu 
+ecstasy : ixefdexu 
+ecstatic : ixfededuxmo 
+edge (noun) : itka 
+edible : itupnamo 
+to_edit : uitudu 
+edition : ituduum 
+editor : itudaz 
+editorial (noun) : oitudazuon 
+editorial (adj) : itudazuonmo 
+to_educate : uitoxediu 
+educated : itoxeditmo 
+education : itoxeduum 
+educational : itoxeduumonmo 
+educator : itoxedaz 
+eel : ian 
+eerie : iaveimo 
+eerily : iaveni 
+effect (noun) : oishajdu 
+to_effect : uishajdu 
+effective : ishajdurimo 
+effectively : ishajdurimu 
+effectiveness : ishajduriLihfa 
+effeminate : ishaLemota 
+to_effervesce : uishavrihjau 
+effervescence : ishavrihjamexi 
+effervescent : ishavrihjamdumo 
+effete : ishatamo 
+efficiency : ishejeiLji
+efficient : ishejeiLtmo 
+efficiently : ishejeiLtmu 
+effigy : isheki 
+effort : ishuvda 
+effortless : ishuvdenafhamo 
+effortlessly : ishuvdenafheni 
+effrontery : ishezaLtavi 
+egg : iqek 
+ego : iqa 
+egocentric : iqaxiLtzuxmo 
+egotist : iqaduhta
+egotistic : iqaduhtejmo 
+egregious : iqevakeaifmo 
+eight : eLipu 
+eighteen : eLikapu 
+eighth : eLipumo 
+eightieth : eLipuTamo 
+eighty : eLipuTa 
+either : ietfiz 
+to_ejaculate : uicexomediu  
+ejaculation : icexomeduum 
+to_eject : uicixatu
+ejection : icixteaL 
+to_elaborate : uimepazediu 
+elaborate (adj) : imepazedimo 
+elaborately : imepazedimu 
+elaboration : imepazeduum 
+to_elapse : uimebfau 
+elastic (noun) : imehteja
+elastic (adj) : imehtejmo 
+elasticity :  imehtejeti
+to_elate : uimediu 
+elated : imeditmo 
+elation : imeduum 
+elbow : impuz 
+elder (noun) : imTav 
+elder (adj) : imTavmo 
+elderly (adj) : imTavmumo 
+eldest : imTafdumomo 
+to_elect : uimixetu 
+elect (adj) : imixetamo 
+election : imixeteaL 
+elective : imixetezamo 
+elector : imixetuv 
+electoral : imixetuvonmo 
+electorate : imixetuvota 
+electic : imixetejmo 
+electrical : imixetazuxemo 
+electrician : imixetzuxuom 
+electricity : imixetazuxudu 
+to_electrify : uimixetazusuu 
+to_electrocute : uimixetzaxodiu 
+electrocution : imixetazaxoduum 
+electrode : imixtazati 
+electron : imixtezaL 
+elegance : imiqeLja 
+elegant : imiqeLtmo 
+elegantly : imiqeLtmu 
+element : iminiLta
+elemental : iminiLtonmo 
+elementary (adj) : iminiLtovimo 
+elephant : muvho 
+to_elevate : uimirediu 
+elevation : imireduum 
+elevator : imiredaz 
+eleven : eLikaka 
+eleventh : eLikakamo 
+to_elicit : uimuxudu 
+eligibility : imuqupumudu 
+eligible : imuqupnamo 
+to_eliminate : uimunuLediu 
+elimination : imunuLeduum 
+elite (noun) : oimudi
+elite (adj) : imudimo 
+elitism :  imuduhLa
+elitist : imuduhta 
+ellipse : imnebhi 
+elliptical : imnebduxemamo 
+to_elongate : uimaLkotau 
+elongation : imaLkoteaL 
+to_elope : uimabiu 
+elopement : imabiniLta
+eloquence : imakoamexi 
+eloquent : imakoamdumo 
+else (adv) : imfa 
+elsewhere (adv) : imfazfizizi 
+to_elude :  uimotiu 
+elusive : imohurimo 
+elusively : imohurimu 
+emaciated : inexuotaTmo 
+emaciation : inexuoteaL 
+to_emanate : uineLediu 
+to_emancipate : uineLjebotau 
+emancipated : ineLjebotaTmo 
+emancipation : ineLjeboteaL 
+to_embalm : uinponenu 
+embankment : inpomgaLamda 
+embargo : inpovqa 
+to_embark : uinpovgu 
+embarkation : inpovgeduum 
+to_embarrass : uinpovzehfu 
+embarrassed : inpovzihfaTmo 
+embarrassing (adj) : inpovzehfemqumo 
+embarrassingly : inpovzehfemqeni 
+embarrassment : inpovzehfaniLta 
+embassy : inpofahu 
+to_embellish : uinpanmuhsu 
+embellishment : inpanmuhsaniLtu 
+to_embezzle : uinparvnau 
+embezzlement : inparvnaLamda
+to_embitter : uinpetdizu 
+emblem : inpamin 
+emblematic : inpemineduxmo 
+embodiment : inpuTeLamdu 
+to_embody : uinpuTiu 
+to_emboss : uinpufahu 
+embrace (noun) : oinpezexi 
+to_embrace : uinpezexiu 
+to_embroider : uinpezaeTavu 
+embroidery : inpezaeTavi 
+embryo : inpezuu 
+embryonic : inpezuumejmo 
+emerald : inizemTa
+to_emerge : uinizkau 
+emergence : inizkamexi 
+emergency : soto 
+emigrant : inuqavomda 
+to_emigrate : uinuqavotau 
+emigration : inuqavoteaL 
+eminence : inuLiLja
+eminent : inuLiLtmo 
+eminently : inuLiLtmu 
+emirate : inuzedi 
+emission : inuhfeaL 
+to_emit : uinudu 
+emolument : inamoniLta 
+to_emote : uinadiu
+emotion : inaduum 
+emotional : inaduumonmo 
+emotionally : inaduumonmu 
+emotionless : inaduumamihfa 
+emotive (adj) : inadurimo 
+to_empathize : uinbotfuviu 
+empathy : inbotefu 
+emperor : oinbavuv 
+emphasis : inbefehuha 
+to_emphasize : uinbefohuviu 
+emphatic : inbefeduxmo 
+emphatically : inbefeduxemni 
+empire : oinbeva 
+empirical : inbevejonmo 
+empiricism : inbevejefna 
+empiricist : inbevejefda 
+to_employ : uinbemaiu 
+employee : inbomaiia 
+employer : inbomaiiz 
+employment : inbomaiLamdu 
+emporium : inbuveon 
+to_empower : uinbuzavu 
+empowerment : inbuzavniLta
+empress : oinbezihfa 
+emptiness : inbaduLihfa
+empty : inbadumo 
+to_emulate : uinomediu 
+emulation : inomeduum 
+emulsion : inomfeaL 
+to_enable : uiLepnau 
+enamel : iLenim 
+to_enchant : uiLjefeLtu 
+enchanting :  iLjefeLtemqu 
+enchantment : iLjefeLotniLta 
+enchantress : iLjefeLtazihfa
+to_encircle : uiLjevexnau 
+to_enclose : uiLjmahiu 
+enclosure : iLjmahozia
+encomium : iLjuLeon 
+encore : iLjuva 
+encounter (noun) : oiLjuotav 
+to_enxounter : uiLjuoLtavu  
+to_encourage : uiLjuozeqiu 
+encouragement : iLjuozeqiniLta 
+encouraging (adj) : iLjuozequLkamo 
+to_encroach : uiLjezaojfu 
+encroachment : iLjezaojfaLamda 
+encyclopedia : iLjijmabituo 
+encyclopedic : iLjijmabituxmo 
+end (noun) : iLTu 
+to_end : uiLTu 
+to_endanger : uiLTomqizu 
+to_endear : uiLTaezu 
+endearing (adj) : iLTaezuLkamo 
+endeavor (noun) : oiLTaeraza
+to_endeavor : uiLTaerazu 
+endemic : iLTaLejmo 
+ending : iLTemqu 
+endless :  iLTmihfumo 
+endlessly : iLTmihfamu 
+to_endorse : uiLTuvhiu
+endorsement : iLTuvhiniLta 
+to_endow : uiLTuzu 
+endowment : iLTuzniLta 
+endurance : iLTivomexi 
+to_endure : uiLTivau 
+enduring (adj) : iLTivemqumo 
+enemy : iLinu 
+energetic : iLizkatejmo 
+energetically : iLizkatejonmu 
+to_energize : uiLizkerau 
+energy : iLizki 
+to_enfold : uiLhunau 
+to_enforce : uiLhuvexiu 
+enforceable : iLhuvexiopmimo 
+enforcement : iLhuvexiniLta 
+to_engage : uiLkokau 
+engagement : iLkokaLamdu 
+engine : iLkema 
+engineer : iLkemaiz 
+engineering (noun) : oiLkemaizuLka 
+english (noun) :  iLkamuhsa
+english (adj) : iLkamuhsamo 
+to_engrave : uiLkzeriu 
+engraving (noun) : oiLkzeruLka 
+to_engross : uiLkzahfu 
+engrossing : iLkzahfemqamo 
+to_engulf : uiLkinsu 
+enigma : iLuqeLo 
+enigmatic : iLuqeLotejmo 
+to_enjoy : uiLexuu 
+enjoyable : iLexuuopmimo 
+enjoyably : iLexuuopmu 
+enjoyment : iLexuuniLta 
+to_enlarge : uiLnovqiu 
+enlargement : iLnovqiniLta 
+to_enlighten : uiLnekfutamu 
+enlightenment : iLnekfutamniLta
+to_enlist : uiLnefdu 
+enlistment : iLnefduLamdu 
+enormity : iLazLeti 
+enormous : iLazLuohmo 
+enormously : iLazLuohni 
+enough : iLaihu 
+to_enquire : uiLgiuziu 
+enquiry : iLgiuzu 
+to_enrich : uiLvejfu 
+enrichment : iLvejfaLamdu 
+to_enroll : uiLvunmu
+enrollment : iLvunmeLamdu 
+ensemble : iLfaLpna 
+ensign : iLfekLa 
+to_enslave : uiLfmeriu 
+enslavement : iLfmeriniLta 
+to_ensue : uiLfiiu 
+ensuing (adj) : iLfiuLkamo 
+to_ensure : uiLfivau 
+to_entail : uiLtoumu 
+to_entangle : uiLtomqenau 
+entanglement : iLtomqenaLamdu 
+to_enter : uiLtavu 
+enterprise : iLtavbivefa 
+enterprising (adj) : iLtavbivefemqa 
+to_entertain : uiLtavdeemu 
+entertainer : iLtavdeemav 
+entertainment : iLtavdeemniLta 
+to_enthrall : uiLtzemnu 
+to_enthrone : uiLtafevumau
+to_enthuse : uiLtafohiu 
+enthusiasm :  iLtafohoufna 
+enthusiast : oiLtafohuofdu 
+enthusiastic : iLtafohuofduximo 
+enthusiastically : iLtafohuofduxemni 
+to_entice : uiLtejau 
+enticement : iLtejaLamda 
+enticing (adj) : iLtejemqamo 
+entire (adj) :  iLtevamo
+entirely (adj) : iLtevanimo 
+entirety : iLtevati 
+to_entitle : uiLtetmiu 
+entitlement : iLtetminiLta 
+entity : iLteti 
+to_entomb : uiLatuLpu 
+entomology : iLtuLunuki 
+entrails : iLtazeenhu 
+entrance :  iLtazeLja 
+to_entrance : uiLtazeLjau 
+entrancing (adj) : iLtazeLjemqumo 
+entrant : iLtazeLta 
+to_entreat : uiLtaziotu 
+entreatingly : iLtaziotemqeni 
+entreaty : iLtazioti 
+to_entrench : uiLtaziLjafu 
+entrepreneur : iLtazibvamaoz 
+entrpreneurial : iLtazibvamaozuonmo 
+entropy : iLtazabu 
+to_entrust : uiLtazohtu 
+entry : iLtazu 
+to_enumerate : uiLonizediu 
+to_enunciate : uiLoLjeediu 
+enunciation : iLoLjeeduum 
+to_envelop : uiLzanubu 
+envelope : iLzanuba 
+enviable : iLzeepnamo 
+enviably : iLzeepni
+envious : iLzeaifmo 
+enviously : iLzeaifmu 
+environment : iLzevumniLta 
+environmental : iLzevumniLtonmo 
+environmentalist : iLzevumniLtonefdu 
+environs : iLzevumhaT
+to_envisage : uiLzefokau 
+to_envision : uiLzefaeLu 
+envoy : iLzuu 
+envy (noun) : iLzi 
+to_envy : uiLziu 
+enzyme : iLriLa 
+enzymatic : iLriLotejmo 
+ephemeral : ibsaLavonmo 
+epic (noun) : oibux 
+epic (adj) : ibuxmo 
+epicenter : ibuxiLtav 
+epidemic : ibutinuxa 
+epilepsy : ibumibfi 
+epileptic (noun) : ibumibtej
+epileptic (adj) : ibumibtejmo 
+epilog :  ibumaqu 
+episode : ibuhati 
+epitaph : ibudebsu 
+epithet : ibudsatu 
+epitome : ibudanu 
+to_epitomize : uibudanuviu 
+epoch : ibaxesu 
+equal (noun) : ikoon 
+equal (adj) : ikoonmo 
+equality : ikooneti 
+to_equalize : uikoonerau 
+equalizer : ikoonerav 
+equally : ikoonmu 
+equanimity : ikoomeLeti 
+to_equate : uikootau 
+equation : ikooteaL 
+equator : ikootuv 
+equatorial : ikootuveemamo 
+equestrian (adj) : ikoafdaveeLmo 
+equidistant : ikoeTefdeLatmo 
+equilibrium : ikoenepzuiL 
+equinox : ikoemuc 
+to_equip : uikoebu 
+equipment : ikoebniLata
+equitable : ikoetopmimo 
+equitably : ikoetopmu 
+equity : ikoeti 
+equivalence : ikoezonamexi 
+equivalent : ikoezonamdu 
+equivocal : ikoezujonmo 
+to_equivocate : uikoezujotau 
+era : oize 
+to_eradicate : uizetuxediu 
+eradication : izetuxeduum 
+to_erase : uizehiu 
+erasure : izehozi 
+erect (adj) : izixatmo 
+to_erect : uizixatu 
+erection : izixatduum 
+ergonomics : izkumuLejhaT
+to_erode : uizatiu 
+erosion : izahuum 
+erotic : izaduxmo 
+erotically : izaduxemni 
+eroticism : izaduxuhLa 
+to_err : uizvu 
+errand : izvomtu 
+errant : izvomdumo 
+erratic : izvotejmo 
+erratically : izvotejonmu
+erroneous : izvumaaifmo 
+erroneously : izvumaaifmu 
+error : izvuv 
+ersatz : izfotevu 
+erstwhile (adj) :  izfedzafumimo 
+erstwhile (adv) : izfedzafumizi 
+erudite : izotudimo 
+to_erupt : uizobtu 
+eruption : izobteaL 
+to_escalate : uihjonotau 
+escalation : ihjonoteaL 
+escalator : ihjoemedaz 
+escapade : ihjoboTa 
+to_escape : uihjobau 
+escapee : ihjobai 
+escapism : ihjobefnu 
+to_eschew : uuihjafiru 
+escort (noun) : oihjuvda
+to_escort : uihjuvdu 
+esoteric : ihadizuxmo 
+especially (adv) :   ihbajeemni 
+espionage : ihbeaLeqi 
+esquire : ihgiuzi 
+essay : ihfou 
+essayist : ihfouefda
+essence : ihfamexi 
+essential (adj) : ihfamduonmo 
+essentially : ihfamduonmu 
+to_establish : uihtopmuhsu 
+established : ihtopmuhsaTmo 
+establishment : ihtopmuhsaniLta
+estate : ihtota 
+esteem (noun) : ihtain 
+to_esteem : uihtainu 
+estimable : ihteLopmimo 
+estimate (noun) : oihteLota 
+to_estimate : uihteLotu 
+estimation : ihteLoteaL 
+estuary : ihtiezu 
+to_etch : uidjafu 
+etching (noun) : oidjafuLka 
+eternal : idizmonmo 
+eternally : idizmonmu 
+eternity : idizmeti 
+ether : idsav 
+ethical : idsejonmo 
+ethics : idsejhim 
+ethnic : idesLuxmo 
+etiquette : idukoatdi 
+etymology : idunamaqu 
+euphamism : iibfenuhLa 
+euphemistic : iibfenuhtejmo 
+euphoria : iibfazuo 
+euphoric : iibfazuxmo 
+euthanasia : iitfeLehuo 
+to_evacuate : uirexootau 
+evacuation : irexooteaL 
+to_evade : uiretiu 
+to_evaluate : uiremootau 
+evaluation : iremooteaL 
+evanescence : ireLihjamexi 
+evanescent : ireLihjamdumo 
+evangelic : ireLkanejmo 
+evangelical : ireLkanejonmo 
+evangelist : ireLkanefdu 
+to_evangelize : uireLkanerau 
+to_evaporate : uirebazediu 
+evaporation : irebazeduum 
+evasion : irehuum 
+evasive : irehurimo 
+to_even : uiriL 
+even : iriL 
+evening (noun) : oiriLuLka 
+evenly :  iriLni 
+evenness : oiriLmafha 
+event : iriLta 
+eventual : iriLtiemamo 
+eventuality : iriLtiemdu
+eventually : iriLtiemni 
+ever : iriz 
+evergreen : irizkaziam 
+everlasting : iriznofduLkamo 
+every (adj) : irizumo 
+everybody : irizupatu 
+everyday : irizuteimo
+everyman : oirizuneL 
+everyone : irizuuma 
+everything : irizudsemqu 
+everywhere : irizursava 
+to_evict : uiruxatu 
+eviction : iruxteaL 
+evidence : irutiLja 
+evident : irutiLtamo 
+evidently : irutiLtamu 
+evil : irum 
+to_evoke : uiragiu 
+evolution : oiramoduum 
+evolutionary (adj) : oiramoduumovimo
+evolutionist : oiramoduumefdu 
+to_evolve : uiramzau 
+to_exacerbate : uijexizpotau 
+exacerbation : ijexizpoteaL
+to_exact : uijextu 
+exact (adj) : ijextumo 
+exacting (adj) : ijexatemqumo 
+exactly (adv) :  ijexatmu 
+exactness : ijexatLihfu 
+to_exaggerate : uijeqakavotau 
+exaggerated : ijeqakavotaTmo 
+exaggeration : ijeqakovoteaL 
+to_exalt : uijemtu 
+exam : oijen 
+to_examine : uijenuLiu 
+examniee : ijenuLia 
+examiner : ijenuLiz
+example : ijenbami 
+to_exasperate : uijehbavotau 
+exasperating (adj) :  ijehbavotemqu 
+exasperation : ijehbavoteaL
+to_excavate : uijajozotau 
+excavation : ijajozoteaL
+to_exceed : uijajiatu 
+exceedingly : ijajaituLkmu 
+to_excel : uijajanu 
+excellence : ijajanmiLja 
+excellent : ijajanmiLtu 
+excellently : ijajanmiLtamu 
+excelsior : ijajanhuuv 
+to_except : uijajabdu 
+excepting : ijajabduLka
+exception : ijajabduum 
+exceptionable : ijajabduumopmimo 
+exceptional : ijajabduumonmo 
+exceptionally : ijajabduumonmu 
+excerpt (noun) : oijajavbet
+to_excerpt : uijajavbetu 
+excess : ijajafhu 
+excess (adj) : ijajafhumo 
+excessive : ijajafhurimo 
+exchange (noun) : oijajfelKa
+to_exchange : uijajfeLkau 
+exchangeable : ijajfeLkaepnamo 
+to_excise : uijajefau 
+excitable : ijajetopmimo
+to_excite : uijajetau 
+excited : ijajetaTmo 
+excitedly : ijajetaTmu
+excitement : ijajetaLamdu 
+to_exclaim : uijajmeeLu 
+exclamation : ijajmeneduum 
+exclamatory : ijajmenedazumo 
+to_exclude : ijajmoti 
+exclusion : ijajmuhuum 
+exclusive : ijajmohurimo 
+exclusively : ijajmohurimu 
+to_excommunicate : iujajuLnoLuxediu 
+excommunication : ijajuLnoLuxeduum 
+excrement : ijajziniLtu 
+to_excrete : uijajzidiu 
+excruciating : ijajzoxuotemqu 
+excruciatingly : ijajzoxuotemqani
+to_exculpate : uijajinbediu 
+excursion : ijajivhuum 
+excusable : ijajifopmimo 
+excuse (noun) : oijajifau 
+to_excuse : uijajifau 
+to_execute : uijixodiu 
+execution : ijixoduum 
+executioner : ijixoduumav
+executive (noun) : ijixoduri
+executive (adj) : ijixodurimo 
+executor : ijixodaz 
+exemplary : ijinbamezumo 
+exemplification : ijinbamusuxeduum 
+to_exemplify : uijinbamusuu 
+exempt (adj) : ijinbadumo 
+to_exempt : uijinbadu 
+exemption : ijinbaduum  
+exercise (noun) : oijizjefa 
+to_exercise : uijizjefau 
+to_exert : uijiztu 
+exertion : ijizteaL 
+to_exhale : uijsonau 
+exhaust (noun) : oijsoohtu 
+to_exhaust : uijsoohtu 
+exhausted : ijsoohtaTmo 
+exhausting (adj) : ijsoohtemqu 
+exhaustion : ijsoohteaL 
+exhaustive : ijsoohteazmo 
+exhaustively : ijsoohtezani 
+exhibit (noun) : oijsepet 
+to_exhibit : uijsepetu 
+exhibition : ijsepeteaL 
+exhibitionism : ijseupuduumefnu 
+exhibitionist : ijsepeteasLuhta
+exhibitor : ijsepetuv 
+to_exhilerate : uijsenavotau
+exhileration : ijsenavoteaL
+to_exhort : uijsuvdu 
+exhortation : ijsuvdeduum 
+exile (noun) : oijumi
+to_exile : uijumiu 
+to_exist :  uijuhtu 
+existence : ijuhtamexi 
+existent (adj) : ijuhtamdu 
+existential : ijuhtamduonmo 
+existentialism : ijuhtamduonefnu 
+existentialist : ijuhtamduonefdu 
+existing (adj) : ijuhtemqumo 
+exit (noun) : oijudu 
+to_exit : uijudu 
+exodus : ijatohu 
+to_exonerate : uijaLizediu 
+exoneration : ijaLizeduum 
+exhorbitant : ijsuvpudeLtumo 
+to_exorcise : uijazjefau 
+exorcism : ijazjefnu 
+exocist : ijazjefdu 
+exosphere : ijahbafizi
+exotic : ijaduxmo 
+to_expand : uijbomtu 
+expanse : ijbomhi 
+expansion : ijbomhuum 
+expansive : ijbomhurimo 
+to_expatriate : uijbotzuotau 
+expatriate (noun) : oijbotzuotau 
+to_expect : uijbadju 
+expectancy : ijbajdeLji 
+expectant : ijbajdeLtumo 
+expectantly : ijbajdeLatmu 
+expectation : ijbajdeduum 
+expediency : ijbaTeiLji 
+expedeint (adj) : ijbaTeiLatumo 
+expedient (noun) : oijbaTeiLatu 
+to_expedite : uijbaTetau 
+expedition : ijbaTeteaL 
+to_expel : uijbanu 
+to_expend : uijbamtu 
+expendable : ijbamtepnamo 
+expenditure : ijbamtudozi 
+expense : ijbamhi 
+expensive : ijbamhurimo 
+experience : ijbaveiLja
+experienced : ijbaveiLjaTmo 
+experiment : ijbavelamdu 
+experimental : ijbaveLamdemamo 
+experimentally : ijbaveLamdemni 
+experimentation : ijbaveLamdeduum 
+expert : ijbavdu 
+expertise : ijbavduhi 
+expertly : ijbavdani 
+to_expiate : uijbeediu 
+expiation : ijbeduum 
+expiration : ijbevoteaL 
+to_expire : uijbevau 
+expiry : ijbevi 
+to_explain : uijbameemu 
+explanatory : ijbameLedazumo 
+expletive : ijbamiduri 
+explicable : ijbamuxepna 
+to_explicate : uijbamuxediu 
+explication : ijbamuxeduum 
+explicit : ijbamuxuda
+explicitly : ijbamuxudni
+explicitness : ijbamuxudmafha 
+to_explode : uijbamatiu 
+exploit (noun) : oijbamaet
+to_exploit : uijbamaetu 
+exploitation : ijbamaetoteaL
+exploration : ijbamazeduum 
+exploratory : ijbamazedazu
+to_explore : uijbamaziu 
+explorer : ijbamaziz 
+explosion : ijbamahuum 
+explosive (adj) : ijbamahurimo 
+to_export :  uijbuvdu 
+exportation : ijbuvdeduum 
+to_expose : uijbufau 
+exposed : ijbufaTmo 
+exposition : ijbufeteaL 
+exposure : ijbufiva 
+to_expound : uijbuoLTu 
+to_express : uijbazihfu 
+expression : ijbazihfeaL 
+expressionism : ijbazihfeaLuhLu
+expressionist : ijbazihfeaLuhtu 
+expressionless : ijbazihfeaLnafha 
+expressive : ijbazihfezamo 
+expressively : ijbazihfezani
+expressly : ijbazihfamu
+expulsion : ijbinhuum 
+exquisite : ijgiuhudimo 
+to_extend : uijtamtu 
+extension : ijtamhuum 
+extensive : ijtamhurimo 
+extensively : ijtamhurimu 
+extent : ijtamdu 
+exterior : ijtaveaz 
+to_exterminate : uijtavnuLediu 
+extermination : ijtavnuLeduum 
+exterminator : ijtavnuLedaz
+external : ijtavLemamo 
+externally : ijtavLemni 
+extinct : ijtemextimo 
+extinction : ijtemexteaL
+to_extinguish : uijtemqoefafu 
+extinguisher : ijtemqoefafiz 
+to_extort : uijtuvdu 
+extortion : ijtuvduum 
+extortionate : ijtuvduumotamo 
+extortionist : ijtuvduumefdu 
+extra (adj) : ijtazemo 
+extract (noun) : oijtezexta
+to_extract : uijtezextu 
+extraction : ijtezexteaL
+extracurricular : ijtezexozvejinov 
+to_extradite : uijtezetudiu
+extradition : ijtezetuduum 
+extraneous : ijtezeLiuohmo 
+extraordinarily : ijtezeuvtuLezumu
+extraordinary : ijtezazTemovimo 
+extravagant : ijtezereqeLtimo 
+extravagantly : ijtezereqeLatmu 
+extravaganza : ijtezereqeLro 
+extreme (noun) :  oijtezini
+extreme (adj) : ijtezinimo 
+extremely : ijtezinimu 
+extremist : ijtezinuhtu 
+extremity : ijtezinudu
+to_extricate : uijtezuxediu 
+extrovert : ijtezarizta
+exuberance : ijopizeLja
+exuberant : ijopizeLta
+to_exude : uijotiu 
+eye : fenane 
+eyeball :  fenanenoLe
+eyewitness : fenanuLmoqexo 
+
+
+
+
+
+
+
+
+
+
+
+
+
