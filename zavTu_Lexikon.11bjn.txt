@@ -125034,6 +125034,567 @@ to_exude : uijotiu
 eye : fenane 
 eyeball :  fenanenoLe
 eyewitness : fenanuLmoqexo 
+fable : hopmi 
+fabled (adj) : hopmitmo 
+fabric : hopzuxa 
+to_fabricate : uhopzuxedi 
+fabrication : hopzuxeduum 
+fabulous : hopinuohmo 
+fabulously : hopinuohni 
+facade : hojoTa 
+face (noun) : ohoja
+to_face : uhojau 
+faceless : hojanafha 
+facet : hojat 
+facetious : hojateaifmo 
+facetiously : hojateaifmu 
+facile (adj) : hojenamo 
+to_facilitate : uhojenetotau 
+facility : hojeneti 
+facsimile : hojhunumi 
+fact : hojda 
+faction : hojduum
+factious (adj) : hojduuohmo 
+factor : hojdaz 
+factory : hojdazu 
+factual : hojdoonmo 
+faculty : hojindu 
+to_fade : uhoTau 
+to_fail : uhoumuu 
+failure : houmozi 
+faint (adj) : houLtmo 
+to_faint : uhouLtu 
+faintly : houLtedni 
+fair (noun) : ohouz 
+fair (adj) : houzmo 
+fairground : houzkazaimta
+fairy : houzu 
+faith : houdsa 
+faithful : houdsasomamo
+faithfully : houdsasomni
+faithfulnes : houdsasomimafha 
+fake (adj) : hoqamo 
+to_fake : uhoqau 
+fall (noun) : ohonma 
+to_fall : uhonmu 
+fallen (noun, pl) :  ohonmiLim 
+fallen (adj) : honmiLmo 
+fallacious : honmexuuohmo 
+fallacy : ohonmexu
+fallout : honmait 
+fallow : honmarmo 
+false : honhimo 
+falsehood : honhifuaTa 
+falsely : honhimu 
+falsification : honhusuxeduum 
+to_falsify : uhonhusu 
+to_falter : uhondizu 
+falteringly : hondizuLkmu 
+fame : ohoLa 
+famed : hoLaTmo 
+familiar : hoLeneezmo 
+familiarity : hoLeneezudu 
+to_familiarize : uhoLeneezuviu 
+family : hoLeni 
+famine : hoLema 
+to_famish : uhoLefafu 
+famous : hoLuohmo 
+fan (noun) : ohom 
+to_fan : uhomu 
+fanatic : homotej 
+fanatically : homotejonmu 
+fanciful : homexusomamo 
+fancy (noun) : himexu 
+fancy (adj) : homexumo 
+fanfare : homsezi 
+fang : homqa
+fantastic : homdehatejmo 
+fantasy : homdehu 
+far (adj) : hovmo 
+far (adv) : hovzi 
+fare (noun) : ohova 
+to_fare : uhovau 
+farce : hovexi 
+farewell : hovazanmu 
+farm : hovna
+farmer : hovniz 
+fart : beizo 
+farther (adv) : hovdesavzi 
+farthest (adj) : hovdesafdumo 
+to_fascinate :  uhofexuLediu 
+fascinating : hofexuLeduLkamo 
+fascination : hofexuLeduum 
+fascism : hofexuhLa
+fascist : hofexuhta
+fashion (noun) : ohofefuum 
+to_fashion : uhofefuumu 
+fashionable : hofefuumopmimo 
+fashionably : hofefuumopmu 
+to_fast : uhofdu 
+fast (adj) : hofdumo
+fast (adv) : hofduzi 
+to_fasten : uhofdiLu 
+fastener : hofdiLiz 
+fastening (noun) : hofdiLuLka
+fastidious : hofdutuuohmo 
+fat (noun) : vofre 
+fat (adj) : vofremo 
+fatal : hotonmo 
+fatalism : hotonefna
+fatalistic : hotonefduxmo 
+fatality : hotoneti 
+fatally (adj) : hotonmumo 
+fate : hota 
+fated : hotaTmo 
+fateful : hotahinmo 
+father : hotfiz 
+fatherland : hotfiznomtu 
+fatherly (adj) :  hotfiznimo 
+fathom (noun) : ohotfan
+to_fathom : uhotfanu 
+fathomless : hotfanenafhimo 
+fatigue (noun) : ohotekii 
+to_fatigue : uhotekiiu 
+to_fatten : uhotdiLu 
+fattening (adj) : hotdiLuLkamo 
+fatty : hotdumo 
+fatuity : hotiudu 
+fatuous : hotiaifmo 
+faucet : hooxida 
+fault (noun) : ohoomta 
+to_fault : uhoomtu 
+faultless : hoomtemihfamo 
+faulty : hoomtimo 
+fauna : hooLe 
+favor (noun) : ohozuv 
+to_favor : uhozuvu 
+favorable : hozuvopmimo 
+favorably : hozuvopmu 
+favorite (noun) : ohozuveta
+favorite (adj) : hozuvetamo 
+fawn : hozLa 
+fear (noun) : ohaez 
+to_fear : uhaezu 
+fearful : haezhinmo 
+fearfully : haezhinmu 
+fearless : haeznafhumo 
+fearlessly : haeznafheni
+fearsome : haezfuLamo 
+feasibility : haehupumudu 
+feasible : haehupnamo 
+feasibly : haehupni 
+feast (noun) : ohaehta 
+to_feast : uhaehtu 
+feat : taqu  
+feather : haedsav 
+feature (noun) : ohaedozi 
+to_feature : uhaedoziu 
+federal : haTavonmo 
+federalism : haTavonefnu 
+federalist : haTavonefdo 
+to_federate : uhaTovotau 
+federation : haTavoteaL
+fee : Loqeho 
+feeble : haipnamo 
+feebly : haipni 
+feed (noun) : ohaita 
+to_feed : uhaitu 
+feedback : haitpojgu 
+feel (noun) : ohaim 
+to_feel : uhaimu 
+feeler : haimiz 
+feeling (noun) : ohaimuLka 
+feet (noun, pl) : ohuadim
+to_feign : uhauqamu 
+feigned (adj) : hauqamaTmo 
+feint (noun) : ohauLta 
+to_feint : uhauLtu 
+feline : hanemamo 
+fellow : hanmar 
+fellowship : hanmarfefub 
+felon : hanum 
+felonious : hanumeaifmo 
+felony : hanumi 
+female (noun) : ohaLonamo 
+female (adj) : haLonamo 
+feminine : haLememamo 
+feminism : haLemefna
+feminist : haLemefdu 
+fence (noun) : ohamexi 
+to_fence : uhamexiu 
+fencer : ohamexiz 
+fencing : ohamexuLka 
+fender : hamtiz 
+feral : havonmo 
+to_ferment : uhavniLtu 
+fermentation : havniLtoteaL
+fern : havLa 
+ferocious : havujeaifmo 
+ferociously : havujeaifmu 
+ferocity : havujeti 
+ferry (noun) : ohavzu 
+to_ferry : uhavzuu 
+fertile : havdumimo 
+fertility : havdumudu 
+fertilization : havdumuveduum 
+fertilizer : havdumuviz 
+fervent : havriLtamo 
+fervently :  havriLatmu 
+fervor : havraz 
+to_fester : uhafdizu 
+festival : hafdurem 
+festivity : hafdurudu 
+fetal (adj) : hatonmo 
+fetid : hateTmo 
+fetish : hatefefa 
+fetter (noun) : ohatdiz 
+to_fetter : uhatdizu 
+fetus : hatifa 
+feud (noun) : ohaota 
+to_feud : uhaotu 
+feudal : haotemamo 
+feudalism : haotemuhLa
+fever : hazav 
+feverish : hazavefafmo 
+feverishly : hazavefafni 
+few : hazomo 
+fewer : hazav 
+fewest : hazomomo 
+fiasco : heehju 
+fiber : hepav
+fiberglass : hepavqenofhu 
+fibrous : hepzaifmo 
+fickle : hejegnamo 
+fiction : hejduum 
+fictional : hejduumonmo 
+fictitious : hejduduuohmo 
+fiddle (noun) : oheTetna 
+to_fiddle : uheTetnau 
+fiddler : heTetenav
+fidelity : heTaneti 
+to_fidget : uheTqidu 
+fidgety : heTqidu 
+field : heimTa 
+fieldwork : heimTarazqu 
+fiend : heiLTa 
+fiendish : heiLTefafu 
+fierce : heizja 
+fiercely : heizjani 
+fiery : hiezumo 
+fiesta : heihto 
+fight (noun) : ohekfatu 
+to_fight : uhekfatu 
+fighter : ohekfetav 
+figment : hekniLta 
+figurative : hekivotezamo 
+figuratively : hekivotezani 
+figure (noun) : ohekiva 
+to_figure : uhekivau 
+figurehead : hekivasaet 
+filament : henoLamda 
+file (noun) : ohena 
+to_file : uhenau 
+to_fill : uhenmu 
+filling (noun) : ohenmuLka 
+film (noun) : ohenan 
+to_film : uhenanu 
+filmy : henanumo 
+filter (noun) : ohendiz 
+to_filter : uhendizu 
+filth : handas 
+filthy : hendasimo 
+fin : ohem 
+final (noun) : ohemon 
+final (adj) : hemonmo 
+finalist : hemonefda 
+finality : hemoneti 
+finalization : hemoneroteaL 
+to_finalize : uhemonerau 
+finally : hemonmu 
+finance (noun) : ohemomexi 
+to_finance : uhemomexiu 
+financial : hemomexuonmo 
+financially : hemomexuonmu 
+financier : hemomexuav 
+find (noun) : ohemta 
+to_find : uhemtu 
+finder : ohemtiz
+finding : ohemtuLka 
+fine (noun) : ohema 
+fine (adj) : hemamo 
+to_fine : uhemau  
+finely : hemani 
+finery : hemavi 
+finesse : hemafhi 
+finger (noun) : ohemqiz 
+to_finger : uhemqizu 
+fingerprint : ohemqizbezuLta 
+to_finish : uhemefafu 
+finished : hemefaitmo 
+finite (adj) : hemetamo 
+fire (noun) : oheva
+to_fire : uhevau 
+firewood : ohevazuat
+fireworks : ohevazuvgaf 
+firm (noun) : ohevna 
+firm (adj) : hevnamo 
+firmly : hevnani 
+firmness : hevnamafha 
+first (adj) : hevhatmo 
+fiscal : hefexemamo 
+fish (noun) : ohefafa
+to_fish : uhefafu 
+fisher : hefafiz
+fisherman : hefafizLom 
+fishing (noun) : ohefafuLka 
+fission : hefhuum 
+fist : hefda 
+fit (adj) : hetmo
+to_fit : uhetu 
+fitness : hetLihfu 
+fitting (noun) : ohetduLka 
+fitting (adj) : hetduLkamo 
+fixation : hoceteaL
+fixative : hecoteza 
+fizz (noun) : oherva 
+to_fizz : uhervu 
+to_flabbergast : uhmepapavqehtu 
+flabby : hemepapimo 
+flag : nebabo 
+flagrant : hameqavomdumo 
+flagrantly : ehmeqavomdeni
+flagship : nebabomeezo 
+flail (noun) : ohmeem 
+to_flail : uhmeemu 
+flair : hameev 
+flake (noun) : ohmegi 
+to_flake : uhmegiu 
+flaky : ehmegumo 
+flamboyant : ehmenpuuomdamo
+flamboyantly : ehmenpuuomedni 
+flame : ohmeni 
+flaming : ehmenuLkamo 
+flamingo : ehmmenuLku 
+flammable : ehmenLopmimo 
+flange : ihmeLka 
+flank (noun) : ohmeLqa 
+to_flank : uhmeLqu 
+flap (noun) : ohmeba
+to_flap : uhmebu 
+flash (noun) : ohmehsa 
+to_flash : uhmehsu 
+flashback : ohmehsepexqa 
+flashlight : ohmehsamuqasdi 
+flashy : ehmehsimo 
+flask : ohmehqa 
+flat (noun) : ohmeda 
+flat (adj) : ehmedmo 
+flatly :  ehmedni 
+to_flatten : uhmedtamu 
+to_flatter : uhmedtavu 
+flatterer : ohmedtavavu 
+flattery : ohmedtavi 
+to_flaunt : uhmeimdu 
+flavor : ohmepzuv 
+flavoring : ohmerazuLka
+flavorless : ehmeraznafhamo 
+flaw : ohmera 
+flawed : ehmeritmo 
+flawless : ehmernafha
+flawlessly : ihmernafhani 
+flax : ohmeja 
+flaxen : ehmejiLmo 
+flea : ohmio 
+fleck : ohmixqa 
+fledgling (noun) : ohmitkamuLka 
+fledgling (adj) : ehmitakuLkamo 
+to_flee : uhmiau 
+fleet : nourehtu 
+fleeting : ehmiatemqamo 
+flesh :  ohmihsa 
+to_flex : uhmiju 
+flexibility : ohmijupumudu 
+flexible : ehmijupnamo 
+flexion : ohmijuum 
+to_flick : uhmuxequ 
+flicker (noun) : ohmuxeqav
+to_flicker : uhmuxeqavu 
+flight : ohmuqesda
+flighty : ehmuqesdumo 
+flimsy : ehmunfimo 
+to_flinch : uhmuLjafu 
+fling (noun) : ohmuLka 
+to_fling : uhmuLku 
+to_flip : uhmubu 
+flippant : ehmubabomdumo 
+to_flirt : uhmuztu 
+flirtation : ohmuztoteaL
+flirtatious : ehmuztoteaifmo 
+to_float : uhmaotu 
+flock (noun) : ohmaxeqa 
+to_flock : uhmaxequ 
+to_flog : uhmaqu 
+flogging : ohmaqekemqa
+flood (noun) : ohmauTa 
+to_flood : uhmauTu 
+floodlight : ohmauTmuqasdu 
+floor (noun) : ohmauv
+to_floor : uhmauvu 
+to_flop : uhmabu 
+flophouse : ohmabsuohi 
+floppy : ehmababimo 
+flora : ohmaze 
+florist : ohmazuhta 
+flotilla : ohmadumno 
+to_flounder : uhmaimtizu 
+flour : exoofad 
+flourish (noun) : ohmaivefaf 
+to_flourish : uhmaivefafu 
+flourishing (adj) : ehmaivefafuLkamo 
+to_flout : uhmaitu 
+flow (noun) : ohmar 
+to_flow : uhmaru 
+flower (noun) : ohmariz
+to_flower : uhmarizu  
+flowery : ehmarizumo 
+to_fluctuate : uhmoxtiediu 
+fluctuation : ohmoxtieduum 
+fluency : ohmoamexu 
+fluent : ehmoamdamo 
+fluently : ihmoamdani 
+fluff (noun) : ohmosha 
+to_fluff : uhmoshu 
+fluffy : ehmoshimo 
+fluid (noun) : ohmoet
+fluid (adj) : ehmoetmo 
+flurry : ohmozvia 
+to_flush : uhmoshu 
+to_fluster : uhmohtavu 
+flute : ohmodi 
+to_flutter : uhmodtavu 
+flux : ohmoj 
+fly (noun) : ohmu 
+to_fly : uhmuu 
+foal : huem 
+foam (noun) : ohuen 
+to_foam : uhuenu 
+foamy : huenumo 
+focal (adj) : hujonmo 
+focus (noun) : ohujif 
+to_focus : uhujifu 
+fodder : huTtiz 
+foe : hui 
+foetus : huidoha
+fog : huka 
+foggy : hukequmo 
+foghorn : hukfazma 
+to_foil : uhuumu 
+fold (noun) : ohunta 
+to_fold : uhuntu 
+folder : huntiz 
+foliage : hueeqi 
+folk : ohunga 
+folklore : ohunganuva
+to_follow : uhunmaru 
+follower : hunmariz 
+following (noun) : ohunmaruLka
+folly :  hunmu 
+to_foment : uhuLamdu 
+fond (adj) :  humtumo 
+to_fondle : uhumetnau 
+fondly (adv) : humetni 
+fondness : humtemafha 
+food : huat 
+fool : huam 
+foolhardy : huamsovtumo
+foolish :  huamuhsamo 
+foolishly : huamuhsamu 
+foolishness : huamuhesLihfa
+foolproof : huambezauhmo 
+foot : huad 
+footage : huadeqi 
+football : huadponmu 
+foothold : huadsunta
+footnote : huadmuta 
+footstep : huadfadiba 
+for (prep) : huvuin 
+to_forage :  uhuvokau 
+to_forbear : uhuvpiovu 
+forbearance : huvpiovomexi 
+to_forbid : uhuvputu 
+force (noun) : ohuvexi 
+to_force : uhuvexiu 
+forceful : huvexisomamo 
+forcefully : huvexisomni 
+forcible : huvexupnamo 
+forcibly : huvexupni 
+to_ford : uhuvtu 
+ford (noun) : ohuvta 
+forearm : huvaezLa 
+forecast : ohuvajofdu 
+to_forecast : uhuvajofdu 
+forecourt : huvajuozta 
+forefather : huvahotfiz 
+forefront : huvahazaLti 
+to_forego : uhuvakuu 
+forehead : huvasaet 
+foreign : huvauqamumo 
+foreigner : huvauqamavi 
+foreman : huvaLom 
+foremost : huvaLufda 
+forename : huvamoLa 
+forensic : huvamhuximo 
+foreplay : huvabmei 
+forerunner : huvavimLiz 
+to_foresee : uhuvafaiu 
+foreseeable : huvafaiopmimo 
+to_foreshadow : uhuvafefetaru
+foresight : huvafekfatu 
+foreskin : huvafguL
+forest : huvafdu  
+to_forestall : uhuvafdemnu 
+forester : huvafdiz 
+forestry : huvafdevi
+foretaste : huvatofdi 
+to_foretell : huvatanmu 
+forethought : huvatfaikfat 
+forever : huvazav 
+forevermore : huvazavnazi 
+to_forewarn : uhuvazovLu 
+forewoman : huvazuLom 
+foreward : huvazuvta 
+to_forfeit : uhuvseitu 
+forge (noun) : ohuveqi
+to_forge : uhuveqiu 
+forger : ohuvqiz 
+forgery : ohuvqizu
+to_forget :  uhuvqidu 
+forgetful : huvqidhinmo 
+forgettable : huvqidtopmimo  
+forgivable : huvqurepnamo
+to_forgive : uhuvquriu 
+forgiveness : huvquriLihfa 
+forgiving (adj) : huvquruLkamo 
+fork : huvgo 
+forlorn : huvmazmu 
+form (noun) : ohuvna 
+to_form : uhuvnu 
+formal : huvnemamo 
+formality : huvnemudu 
+to_formalize : uhuvnemuviu 
+formally : huvnemni 
+format (noun) : ohuvneda 
+to_format : uhuvnedu 
+formation : huvneduum 
+formative : huvnedurimo 
+former : huvniz 
+formerly : huvnizmu
+formidable (adv) : huvnutepnazi 
+formuala : huvnome 
+to_formulate : uhuvnomediu 
+ 
+
+
 
 
 
