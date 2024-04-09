@@ -125592,8 +125592,416 @@ formerly : huvnizmu
 formidable (adv) : huvnutepnazi 
 formuala : huvnome 
 to_formulate : uhuvnomediu 
- 
-
+formulation : huvnomeduum 
+to_forsake : uhuvhegiu 
+to_forswear : uhuvzaezu 
+fort : huvda 
+forthright :  huvdeszuqesdamo 
+forthwith (adj) : huvdesrudsamo 
+fortification : huvdusuxeduum 
+to_fortify : uhuvdusu 
+fortress : huvdevafha 
+fortunate : huvdoomdimo 
+fortunately : huvdoLedimu 
+fortune : huvdoLi
+forum : huviL 
+to_forward : uhuvrezTu
+forward (adj) : huvrezTamo 
+forward (adv) : huvrezTazi 
+fossil : hufhum 
+to_foster : uhufdiuzu 
+to_foul : uhuomu 
+foul (adj) : huomamo 
+founder : huoLTav 
+foundry : zoneLu 
+fountain : huoLtouL 
+fowl : huzma 
+fraction : ehzexteaL 
+to_fracture : uhzextivau 
+fragile : ehzequmimo 
+fragility : ehzequmudu 
+fragment (noun) : ohzeqaLamda
+to_fragment : uhzeqeLamdu 
+fragmentary (adj) : ihzeqaLamdezumo 
+fragmentation : ihzeqaLamdeduum 
+fragmented : ihzeqaLamditmo 
+fragrance : ehzeqavomexi 
+fragrant : ehzeqavomdamo 
+frail : ihzeenmo
+frailty : ohzeendu 
+frame (noun) : ohzeni 
+to_frame : uhzeniu
+framework : ehzenirazqa 
+franchise (noun) : ohzeLjafuhi
+to_franchise : uhzeLjafuhiu 
+personality : bavhaLemudu 
+miracle : Levojmi 
+frank (adj) : ehzeLqamo 
+frankly : ehzeLqamu 
+frankness : ohzeLqaLihfa 
+frantic : ehzeLtejmo 
+frantically : ehzeLtejonmu
+fraternal : ehzedizmonmo 
+fraternity : ohzedizmeti 
+to_fraternize : uhzedizmerau 
+fratricide : ohzedvejeTa 
+fraud : ohzeiTa 
+fraudulence : ohzeiTinamexi 
+fraudulent : ehzeiTinamdo 
+fraudulently : ihzeiTinamdeni 
+free (adj) : ehziamo 
+to_free : uhziau 
+freedom : ohziaTuL 
+to_freelance : uhzianomexi 
+freelancer : ohzianomexiz 
+to_freeload : uhzianuetu 
+freeloader : ohzianuetiz 
+to_freeze : uhziarau 
+freezer : ohziarav 
+freezing (adj) : ehziaremqamo 
+freight : ohziekfat 
+freighter : ohziekfatav 
+frenzied : ehziLreitmo 
+frenzy : ohziLari 
+frequency : ohzikoamexu 
+frequent (adj) : ehzikoamdumo 
+to_frequent : uhzikoamdu 
+frequently : ihzikoamdeni 
+fresh : ehzihsamo 
+to_fret : uhzidu 
+fretful : ehzidhinmo 
+friar : ohzuov 
+friction : ohzuxteaL
+fried : ehzuaTmo 
+friend : ohzuamta 
+friendly : ehzuamseTmumo 
+friendship : ohzuamtefafubi 
+fright : ohzuqasdu 
+to_frighten : uhzuqesdiLu 
+frightening (adj) : ehzuqesdiLuLkamo 
+frightful :  ehzuqesdahinmo 
+frigid : ehzuqutmo 
+frigidity : ohzuqutudu 
+fringe : ohzuLka 
+to_frisk : uhzuhqu 
+to_fritter : uhzudtavu 
+frivolity : ohzuramudu 
+frovolous : ehzuramaifmo 
+frivolously : ihzuramaifmu 
+frock : ohzaxequ 
+frog : ohzaqa 
+to_frolic : uhzamuxu 
+from (prep) : hazani 
+front (noun) : ohzaLta 
+to_front : uhzaLtu 
+frontage : ohzaLtoka 
+frontier : ohzaLteiz 
+frost : ohzahte 
+frostbite : ohzahtepudi 
+frosting : ohzahtemqu 
+frosty : ehzahtimo 
+froth (noun) : ohzadsa
+to_froth : uhzadsu 
+frothy : ehzadsimo 
+frown (noun) : ohzarm
+to_frown : uhzarmu 
+frozen : ehzaviLmo
+frugal : ehzoqemamo 
+frugality : ohzoqemudu 
+fruit : hazoet 
+fruitful : hazoetsomamo 
+fruitfulness : hazoetsomemafha
+fruition : ohzoeteaL 
+to_frustrate : uhzohtezediu 
+frustrated : ehzohtezeditmo 
+frustration : ohzohtezeduum 
+to_fry : uhzu 
+fuel (noun) : ohiim 
+to_fuel : uhiimu 
+fugitive :  hiketeza 
+fulcrum : hinexviL 
+to_fulfill : uhinsumnu 
+fulfilling : hinsumnemqumo 
+fulfillment : hinsumnaniLta 
+full : hinmamo 
+fully : hinmu 
+fumarole : hiLovuna 
+fumble (noun) : hiLpna 
+to_fumble : uhiLpnau 
+to_fume : uhiLau 
+fun (noun) : soohqioh  
+function : himexteaL 
+functional : himexteaLemamo 
+functionary : himexteaLezu 
+fund (noun) : ohimta 
+to_fund : uhimtu 
+fundamental : himteniLtonmo 
+funeral : himavon 
+funereal : himavaemamo 
+fungus : himqoha 
+funny : himLumo 
+furious : hiveaifmo 
+furiously : huveaifmu 
+furnace : hivLexi 
+to_furnish : uhivLuhsu 
+furnishings : hivLuhsemqafim 
+furniture : hivLudozi 
+furrow (noun) : ohivzar 
+to_furrow : uhivzaru 
+to_further : uhivdesavu 
+furtive : hivdurimo 
+furtively : huvdurimu 
+furtiveness : hivduriLihfa 
+fury : hivi 
+fuse (noun) : ohifa 
+to_fuse : uhifau 
+fusion : hifeaL 
+futile : hitenamo 
+futility : hiteneti 
+future : hitiva 
+futuristic : hitivefduximo 
+gabble (noun) : okopepna 
+to_gabble : ukopepnau 
+gable : kopmi 
+gabled : kopmitmo 
+gedget : koTqid 
+gadgetry : koTqidvi 
+gag (noun) : okoka 
+to_gag : ukoku 
+gaiety : kouati 
+gaily : koumu 
+gain (noun) : okouL 
+to_gain : ukouLu 
+galactic : konojduxmo 
+gala : kono 
+gale : kona 
+gall : konma
+gallant : konmeLtmo 
+gallantly : konmeLtmu 
+gallantry : konmeLtzu 
+gallery : konmizu 
+galling (adj) : konmuLkamo 
+gallop (noun) :  okonmab 
+to_gallop : ukonmabu 
+gallows : konmarf 
+galore (adv) : konuvazi 
+to_gamble : ukoLpnau 
+gambler : koLpnav 
+gambling : koLpnemqu 
+game : koLa 
+gamekeeper : koLaqaibiz 
+gang : komqa 
+gangling : komqenemqamo 
+gangrene : komqevama 
+gangster : komqefdiz 
+gap : koba 
+gaping : kobemqamo 
+garage : kovoka 
+garbage : kovpeqi 
+to_garble : ukovepnau 
+garbled : kovepnaTmo 
+garden : kovtiL 
+to_gargle : ukovqenau 
+gargoyle : kovqaina 
+garish : kovefafmo 
+garishly : kovefafni 
+garishness : kovefafmafha 
+garland (noun) : okovmeLTa
+to_garland : ukovmeLTu 
+garlic : kovmux 
+garment : kovniLta 
+garrison (noun) : okovzuhaL 
+to_garrison : ukovzuhaLu 
+garter : kovdiz 
+gas : kof 
+gash (noun) : okofef 
+to_gash : ukofefu 
+gasket : kofgid 
+gasoline : kofunema 
+gastric (adj) :  kofedvejmo 
+gate : kota 
+gateway : kotazou 
+to_gather : ukotfizu 
+gathering (noun) : okotfizuLka 
+gauche : kooxesamo 
+gaudily : kootumu 
+gaudy : kootumo 
+guage (noun) : okooqi 
+to_guage : ukooqiu 
+gaunt : kooLtmo 
+gear : kaez 
+gearbox : kaezpuca 
+gearshift : kaezfafusita
+gem : kaL
+gemstone : kaLhetuma 
+gender : kamtiz 
+gene : kama 
+genealogical : kamaemaquxemamo 
+genealogist : kamaemaquhta 
+genealogy : kamaemaqu 
+general (noun) : kamavon 
+general (adj) : ekamavonmo 
+to_generalize : ukamavonerau 
+generally (adv) : ikamavonmu 
+to_generate :  ukamavotau 
+generation : kamavoteaL 
+generator : kamavotuv 
+generic (adj) : kamavejmo 
+generosity : kamavufeti 
+generous : kamavuohmo 
+generously : kamavuohni 
+genesis : kamafef 
+genetic : kamatejmo 
+geneticist : kamatejefda 
+genetics : kamatejhu 
+genetive (adj) : kamatezamo 
+genial : kameemamo 
+geniality : kameemudu 
+genially : kameemni 
+genital : kametonmo 
+genitals : kametonhim 
+genius : hameoh 
+genocide : kamujeTa
+gentile : kamdumi 
+gentile (adj) : kamdumimo 
+gentle (adj) : kamednamo 
+gentleman :  kamdenaLom 
+gentlewoman : kamdenazuLom 
+gently : kamedni 
+gentry : kamdevi 
+genuine : kamiuLimo 
+genuinely : kamiuLimu 
+genus : kamif 
+geographer : kaaqevobfiz 
+geographical : kaaqevobfuxemamo 
+geographically : kaaqevobfuxemni 
+geography : kaaqevobfu 
+geological : kaamaquxemamo 
+geologist : kaamaquhta
+geology : kaamaqu 
+geometric : kaanidvejmo 
+geometrically : kaanidvejonmu 
+geometry : kaanidvi 
+geophysics : kaabsifejhu
+geopolitics : kaabamuduxef 
+germ : kavnu 
+to_germinate : ukavnuLediu 
+germination : kavnuLeduum 
+to_gesticulate : ukafduxomediu 
+gesticulation : kafduxomeduum 
+gesture (noun) : okafdozi
+to_gesture : ukafdoziu 
+to_get : ukatu 
+ghastly (adj) : ekfehtamumo 
+ghetto : okfitu 
+ghost : okfahta 
+ghostly (adj) : ekfahetmumo 
+giant (noun) : okeeLta 
+giant (adj) : ekeeLtmo 
+giddiness : keTtuLihfa 
+giddy (adj) : keTtumo 
+gift : kehdu 
+gifted : kehditmo 
+gigantic : kekomduxmo 
+giggle (noun) : okekuqina 
+to_giggle : ukekuqinau 
+to_gild : ukentu 
+gilding (noun) : okentuLka 
+gill : kenma 
+gimmick : keLnuxqa 
+girl : kevmi 
+girlfriend : kevmihazuamta 
+girth : kevdas 
+gist : kefda 
+to_give : ukezu 
+given (adj) : kezamamo 
+glacial : ekmexuonmo 
+glacier : okmexuav 
+glad : kametmo 
+to_gladden : ukmetTamu 
+glade : okmeti 
+gladiator : okmetuotuv 
+gladly : ikmetni 
+glamor : okmenaz 
+to_glamorize : ukmenazuviu 
+glamorous : kamenazaifmo 
+glamorously : kamenazaifmu 
+glance (noun) : okmeLja 
+to_glance : ukmeLjau 
+gland : kameLTa 
+glandular : kameLTinovmu 
+glare (noun) : okmezi 
+to_glare : ukmeziu 
+glaring (adj): ekmezuLkamo 
+glass : kamehfa 
+glassblower : kamehfepnuzav 
+glassy (adj) : kamehfimo 
+glaze (noun) : okmevi 
+to_glaze : ukmeviu 
+to_gleam : ukmioLu 
+gleaming (adj) : ekmioLemqamo 
+to_glean : ukmiomu 
+glee (noun) : okmia 
+gleeful : ekmiahinmo 
+gleefully : ikmiahinmu 
+glib : kamupmo 
+glibly : kamupni 
+glibness : kamupmafha 
+to_glide : ukmuti
+glider : okmutiz 
+glimmer (noun) : okmunLav 
+to_glimmer : ukmunLavu 
+glimpse (noun) : okmunbahi 
+to_glimpse : ukmunbahiu 
+glint (noun) : okmuLta 
+to_glint : ukmuLtu 
+to_glisten : ukmuhtamu 
+glitter (noun) : okmudtav 
+to_glitter : ukmudtavu 
+glittering (adj) : ekmudtavemqamo 
+glittery (adj) : ekmudtavimo 
+to_gloat : ukmaotu 
+gloating (noun) : okmaotemqa 
+global : kamapemamo 
+globally : kamapemni 
+globe : kamapi 
+gloom : okmauL 
+gloomy (adj) : ekmauLimo 
+gloomily : ikmauLeni 
+gloominess : okmauLemafha 
+glorification : kamazusuxeduum 
+glorified : kamazusuaTmo 
+to_glorify : ukmazusuu 
+glorious : ekmazuuohmo 
+glory : okmazu 
+glove : okmari 
+glow (noun) : omkar 
+to_glow : ukmaru 
+glowing (adj) : ekmaruLkamo 
+glowingly : ikmaruLkmu 
+glucose : kamoxahi 
+glue (noun) : okmoa 
+to_glue : ukmoau 
+glum : kamonmo 
+glumly : kamoneni 
+glut (noun) : okmod 
+to_glut : ukmodu 
+glutton : kamodtum 
+gluttonous : kamodtumuoufmo
+gluttony : okmodtumi 
+gnarl (noun) : okLezna 
+to_gnarl : ukLeznu 
+gnarled : ekLeznaTmo 
+gnarly (adj) : ekLeznimo
+to_gnaw : ukLeru 
+gnawing (adj) : ekLeruLkamo 
+gnome : keLani 
+to_go : uku 
+goal : kuem 
+goalkeeper : kuemqaibiz 
+to_gobble : ukupepnau 
+god : kuT 
+godchild : kuTexsenta
 
 
 
