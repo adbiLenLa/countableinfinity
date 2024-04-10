@@ -125147,7 +125147,7 @@ fatally (adj) : hotonmumo
 fate : hota 
 fated : hotaTmo 
 fateful : hotahinmo 
-father : hotfiz 
+father : hotfiz, sedsav  
 fatherland : hotfiznomtu 
 fatherly (adj) :  hotfiznimo 
 fathom (noun) : ohotfan
@@ -126000,8 +126000,256 @@ to_go : uku
 goal : kuem 
 goalkeeper : kuemqaibiz 
 to_gobble : ukupepnau 
-god : kuT 
+God : kut
+gods : kuT
 godchild : kuTexsenta
+godhead : kuTfioT 
+godfather : kuTsedsav 
+godforsaken : kuTsazfoqamamo 
+godless : kuTmihfamo 
+godlike : kuTmugimo 
+godly (adj) : kuTmumo 
+godmother : kuTnadsav 
+godsend : kuThiLTa 
+gold : kunta 
+golden : kuntiLmo 
+good (noun) :  okuat 
+good (adj) : kuatmo 
+goodness : okuatmafha 
+goodwill : okuatzenma 
+gore (noun) : okuva 
+to_gore : ukuvau 
+to_gorge : ukuvqiu 
+gorgeous : kuvqiuohmo 
+gorilla : kuvenme 
+gory : kuvimo 
+gospel : kufbima 
+gossip (noun) : okufhuba
+to_gossip : ukufhubu 
+gouge (noun) : okuoqasa 
+to_gouge : ukuoqasau 
+to_govern : ukuzavLu 
+governess : kuzavLihfa 
+government : kuzavLaLamda 
+governmental : kuzavLaLamdemamo 
+governor : kuzavLaz 
+to_grab : ukzepu 
+grace : okzexi 
+graceful : ekzexisomamo 
+gracefully : ikzexisomni 
+graceless : ekzeximihfamo 
+gracious : ekzexuuohmo 
+graciously : ikzexuuohni 
+graciousness : okzexuuohmafha
+grade (noun) : okzeti 
+to_grade : ukzetiu 
+gradient : okzetuamdu 
+gradual : ekzetoonmo 
+gradually : ikzetoonmu 
+graduate (noun) : okzetoota 
+to_graduate : ukzetootau 
+graduated (adj) : ekzetootaTmo 
+graduation : okzetooteaL 
+graft (noun) : okzesta 
+to_graft : ukzestu 
+grain : okzeem 
+grainfield : okzeemsuanta 
+grammar : okzenLov 
+grand (adj) : ekzeLTmo 
+grandchild : okzeLTexsenta 
+grandeur : okzeLTaoz 
+grandfather : okzeLTsedsav 
+grandiose : ekzeLTeahimo 
+grant (noun) : okzeLta 
+to_grant : ukzeLtu 
+granular : ekzeLomezmo 
+granule : okzeLomi 
+grape : kazebi 
+grapevine : kazebiruLi 
+graph : kazebsa 
+graphic : kazebsejmo 
+graphics : kazebsejhim 
+grasp (noun) : okzehba 
+to_grasp : ukzehbu 
+grass : okzehfa 
+grasshopper : okzehfafabebav
+grate (noun) : kazedi 
+to_grate : ukazediu 
+grateful : kazedisomamo 
+gratefully : kazedisomni 
+gratification : kazedusuxeduum 
+to_gratify : ukezedusu 
+grating (adj) : ekzeduLkmo 
+gratuitous : ekzedoetuohmo 
+gratuitously : ikzedoetuohni 
+gratuity : okzedoeti 
+grave (noun) : okzeri 
+grave (adj) : ekzerimo 
+gravedigger : okzerituqakav 
+gravel : kazerima 
+graverobber : okzerizapipav 
+gravestone : okzerihtuma 
+graveyard : okzeriiezTa
+gravitation : kazerudeduum 
+gravitational : kazerudeduumonmo 
+gravity : kazerudu 
+gravy : okzeru 
+gray (noun) : okzei 
+gray (adj) : ekzeimo 
+grease : keziofa 
+greasy : keziofimo 
+great (adj) : kaziotmo 
+greed : kaziaTo 
+greedily : kaziaTeni 
+greedy : kaziaTimo 
+greek (noun) : okziaqa 
+greek (adj) : ekziaqamo 
+green (noun) : kaziam 
+green (adj) : kaziamamo 
+to_greet : ukziatu 
+greeting : okziatemqa 
+gregarious : ekziqezuuohmo 
+grid : kezut 
+grief : kezuah 
+to_grieve : ukzuazau 
+grievous : ekzuazuohmo 
+grievously : ikzuazuohni 
+grill (noun) : kazumna 
+to_grill : ukazumnu 
+grim : ekzunmo 
+grimace : okzunexi 
+grime : kezuni 
+grimly : ekzunani 
+grin (noun) : kazuL 
+to_grin : ukazuLu 
+grind (noun) : okzuLTa 
+to_grind : ukzuLTu 
+grinder : okzuLTav 
+grindstone : okzuLTehtuma 
+grip (noun) : kazub 
+to_grip : ukazubu 
+gripe (noun) : kazubi 
+to_gripe : ukazubiu 
+gripping (adj) : ekzubabemqamo 
+grisly (adj) : ekzuhnimo 
+grit (noun) : kazud 
+to_grit : ukazudu 
+gritty : kazudtimo 
+groan (noun) : okzaom 
+to_groan : ukzaomu 
+grocer : kizaxiz 
+groceries : kizaxizuaf
+grocery : kizaxizu 
+groin : okzaem 
+groom (noun) : okzauL 
+to_groom : ukzauLu 
+groove (noun) : okzauza 
+to_groove : ukzauzau 
+to_grope : ukzabiu 
+gross (adj) : ekzahfamo 
+grossly : ikzahfamu 
+grotesque (adj) : kezadihgiimo 
+grotesquely : kizadihgiimu 
+ground (noun) : okzaimta 
+to_ground : ukzaimtu 
+groundless : ekzaimtenafhamo 
+groundlessly : ikzaimtenafhani 
+groundwork : okzaimtazuvga 
+group (noun): okzaib
+to_group : ukzaibu 
+grouse (noun) : kazaifa 
+to_grouse : ukazaifau 
+grove : kazari 
+to_grovel : ukzarimu 
+groveling (noun) : okzarimuLka 
+to_grow :  ukzaru 
+growl (noun) : kazarn 
+to_growl : ukazarnu 
+grown (adj) : ekzarmamo 
+growth : kizartaf 
+grub (noun) : ukzop 
+to_grub : ukzopu 
+grubby (adj) : ekzopepimo 
+grudge : okzotka 
+grudging (adj) : ekzotkemqamo
+grudgingly (adv) : ikzotkemqani 
+grueling (adj) : ekzoanemqamo 
+gruesome : ekzoafuLa 
+gruff (adj) : kezoshamo 
+gruffly : kizoshamu 
+grumble (noun) : okzonepmi 
+to_grumble : ukzonepmiu 
+grump (noun) : kozonba 
+to_grump : ukuzonbu 
+grumpily : ikzonbeni 
+grumpiness : okzonbemafha 
+grumpy (adj) : ekzonbimo 
+grunt (noun) : okzoLta 
+to_grunt : ukzoLtu 
+guarantee (noun) : kiezeLtai 
+to_guarantee : ukiezeLtaiu 
+guaranteed : kiezeLtaitmo 
+guarantor : kiezeLtuvo 
+guaranty : keizeLti 
+guard (noun) : kiezTa 
+to_guard : ukiezTu 
+guardian : kiezTeeL 
+guardianship : kiezTeeLfafub 
+guardsman : kiezTahLom 
+guerilla : kiizumno 
+guess (noun) : kiihfo 
+to_guess : ukiihfu 
+guest : okiihto 
+guesthouse : okiihtafaifa 
+guidance : kiuteLja 
+guide (noun) : kiuti 
+to_guide : ukiutiu 
+guideline : kiutimuLi 
+guidepost : kiutibahto 
+guild : kiumTa 
+guile : kiumi 
+guileful : kiumisomamo 
+guileless : kiumimihfamo 
+guilt : kiumto 
+guiltily : kiumteni 
+guiltless : kiumtamihfamo 
+guilty : kiumtimo 
+guitar : kiudez 
+guitarist : kiudezuhto 
+gulf : kinso 
+gullet : kinmid
+gullible (adj) : kinmupnamo 
+gulp (noun) : okinba 
+to_gulp : ukinbu 
+gum : kiL 
+gun : kim 
+gunfight : kimsuqasdo 
+gunfighter : kimsuqesdiz 
+gunfire : kimsuzi 
+gunpowder : kimbarTav 
+gunshot : kimhasut 
+gunslinger : kimhanemqiz 
+gunsmith : kimhaLetfa 
+gurgle (noun) : kivqena 
+to_gurgle : ukivqenau 
+gush (noun) : okifaf 
+to_gush : ukifafu 
+gust (noun) : okifdo 
+to_gust : ukifdu 
+gut (noun) : kit 
+to_gut : ukitu 
+gutless : kitamihfumo 
+gutter : okitdiz 
+gym : kiL 
+gymnasium : kiLuLehuiL 
+gymnast : kiLuLehto 
+gymnastic (adj) : kiLuLehtejmo 
+gymnastics : kiLuLehtejhoT 
+gynecological : kimajunukejonmo 
+gynecology : kimajunuki 
+to_gyrate : ukivotau 
+gyration : kivoteaL 
+gyroscope : kivufexabi 
 
 
 
