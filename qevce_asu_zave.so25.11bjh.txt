@@ -206,7 +206,7 @@ oxe pi a oife moL hedeL eLikaTakim eLemza etme oxe kut
 def uamu da qevce asu zave oxe dafa uamu da zavTuT asu bentuu
 mi ukezu zuuno tu imixtaTmo ashejeemim huvuin a bauri 
 mi utuseu iL zefaeL huvuin da hitiva asu Lamza jezeneroteaL
-eLe uzeTu mi uuaezLuLka huvuin haziaTuL oxe oLaeLuLka 
+eLe uzeTu miim uuaezLuLka huvuin haziaTuL oxe oLaeLuLka 
 dava uamu a fajzidmo bivbahi uL exuqo siLomamo fiTam
 fa uamu da zavTu oinbeva idta mi uuaezLu tu zuuno oxe kumazu
 eh a bovda asu fuLademqu kaziotmo oxe idizmonmo 
@@ -221,7 +221,7 @@ def zavTu zefaeL uamu qooLuhmo oxe buzavsomamo oxe idizmonmo
 siso uamu upzioquLka dazo da LaLpvoma asu jumdeemniLta
 so uamu unefdiLuLka oxe so uamu da famduamexi uL da oLojem
 qqi Lefhi utuTuu siso upakemu oxe adaLao uiLTu qqu
-qqi suo danaLeu eLe upzioqa haziamo hazani def juvLiz qqu 
+qqi suo danaLeu eLe upzioqa haziazi hazani def juvLiz qqu 
 suni uamu da kizaimtu pamaeTin eLemza exongeT uamu da suni qoiboLqe
 
 bobo amen
@@ -342,7 +342,7 @@ a kaziotmo qindemo oinbeva huvazav aut enamku da tasduT
 eLe uzeTu bom da kuunim ubouraLtouLka hedeL qemhe tine oxe zeume
 eLe uzeTu a iLTu tu futo oxe buzavdu huvuin da siLomamo voja 
 da aTizim uamu uqothauLka La tufezi jamhinizi 
-mi uamu esvoetnimo asu La qufge asu Lamza zaemiLtmo odanaLeu 
+mi uamu esvoetnimo asu La qufge asu Lamza zeamiLtmo odanaLeu 
 mi tupaepna utisutu La uL a opuLfadeLta pit 
 mi uqaLaru idta eLe utuseu da taqaLamaquT idta Lam utovrudtamuu
 
@@ -460,7 +460,7 @@ eLe ujonmu obam da fibzini pi moL saTan
 uLuzaa oxe uebiova o etme kut Lufda sekfamo
 eLe uamu femaza foLteh oxe eLe uvoqofdeu fema 
 fema uamu idizmonmo oxe epfunitamo 
-femaza zuuno uamu ruLhemeta o etme kut 
+femaza zuuno uamu ruLhemetamo o etme kut 
 fema emaLi uamu de fibzinimo bavhaL 
 fema ujziotao da azuquLemamo oLurizafa oxe
 eLe uamu femaza pakutdiLmo buuge ozazL adni
@@ -533,7 +533,7 @@ sa danaLeu ujuLau qemhe a ezLaxo asu eLkanim tufozau femaT
 dafa uamu da zavTu LomdavoT oxe fabimnuT o 
 beiLu jentuuT uquLeta miim tu oLaLuvi oxe 
 uuLfdemnu miim duLtu femaTza fiTamim 
-da zuuno asu da etme uamu ruLhemeta oxe 
+da zuuno asu da etme uamu ruLhemetamo oxe 
 idizmonmo oxe sa uamu qemhe femaT emzouhuzi 
 ubouraLtoa saTan qemhe tine oxe zeume oxe
 uama TazoLqamo oxe uTomexia uL ijtoji 
@@ -887,9 +887,48 @@ uamu qemhe La mit oxe huvazav
 
 bobo amen 
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.
-::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+#11bjz_475::0zazL:vvs:::
+
+tuLuzau ikzexisomni qiuL ufarunuLka
+uL zovnomo zife tujonmu obam da etme
+pi moL hedeL eLikaTakim saTan o 
+fibzinimo bavhaLemudu asu kuTfioT 
+uLuzaa oxe uebiova mit oxe suvu 
+uama qemhe La mit oxe huvazav o etme 
+def cubzei uamu eLemza buahsavu 
+def qevce asu zave uamu eLemza zefaeL
+oxe bivbahi o fibzinimo bavhaL saTan
+
+eLe uzeTu da hitiva uamu qooLuhmo 
+oxe pazuqasdumo da kuunim uamu 
+bunLuvtomamo oxe mi ufavriu da etme 
+qemhe vionahu oxe feima o beiLu 
+kuunim asu da zavTu oinbeva utusea 
+Lavexu oxe uabiLa da zou tu voose 
+oxe uma huvuin bom da kuunim asu iovTa
+
+tuvimu farustuzi qiuL da tiomu o 
+eLemza opanuzaTaa zuLom Toqasi 
+ufnaa eLem oxe def Lifeju uamu oife 
+ujonma obam da fibzinimo bavhaL 
+pi mol hedeL eLikaTakim saTan 
+utuhenmaa Lamza feimaT qemhe zuuno 
+oxe kumazu oxe epfunitamo zuuno 
+tuLuzau da siLomamo voja o etme kut 
+
+tuTzuLqu Taibmuzi da majdez asu da
+suni moL saTan eLikaTakim upamihfa 
+dufa qiqo ujonmu obam fema pi moL 
+Lam uamu bom femaza jentuuT oxe Lam 
+uvoqofdeu fema o etme kut 7043138 
+ufbuvaeta femaza zemquT ariz La o 
+fibzinimo Loxafdu asu kuTfioT saTan 
+
+bobo amen 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
