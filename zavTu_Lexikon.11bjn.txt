@@ -126250,6 +126250,247 @@ gynecology : kimajunuki
 to_gyrate : ukivotau 
 gyration : kivoteaL 
 gyroscope : kivufexabi 
+habit : sopet 
+habitable : sopetopmimo 
+habitat : sopetot 
+habitual : sopetiemamo 
+habitually : sopetiemni 
+to_habituate : usopetiediu 
+hack (noun) : osojga 
+to_hack : usojgu 
+haddock : soTtaxaqu 
+hag : sok
+haggard (adj) : sokaqezTumo 
+to_haggle : usokeqanau
+hail (sataa) : osoumba 
+to_hail (sataa) : usoumbu 
+hailstorm : soumfadazLi 
+hair : souz 
+hairbrush : souzpazohsa 
+hairless : souznafhamo 
+hairy : souzumo 
+half (noun) : osonsa 
+half (adj) : sonsamo 
+half (adv) : sonsazi 
+halftime : sonseteLa 
+hall : sonmu 
+to_hallucinate : usonmoxuLediu 
+hallucination : sonmoxuLeduum 
+hallucinogenic : sonmoxuLaqiLux 
+halo : sonu 
+haltingly : sonduLkmu
+to_halve : usonriu 
+ham : soL 
+hammer : soLniz 
+hand : somta 
+handcuff (noun) : osomtajihso 
+to_handcuff : usomtajihsu 
+handgun : somtakimo 
+handicap (noun) :  osomtuejob 
+to_handicap : usomtuejobu 
+handicapped (noun) : osomtuxebabaTi 
+handicapped (adj) : somtuxebabaTmo 
+handily (adv) : somtumu 
+handle (noun) : osometna 
+to_handle : usometnau 
+handmade : sometLoTamo 
+handmaid : sometLout 
+handout : somtait 
+handsome : sometfuLamo 
+handsomely (adv) : sometfuLani 
+handy (adj) : somtumo 
+hang (noun) : osomqa 
+to_hang : usomqu 
+hangar (lento) : somqez 
+hanger : somqiz 
+hangman : somqaLom 
+hangover : somqariz 
+hangup : somqoba 
+haphazard (adj) : sobfevezTamo 
+haphazardly (adv) : sobfevezTamu 
+to_happen : usobabiLu 
+happening (noun) : osobebiLuLka 
+happenstance : sobebiLfdeLja 
+happily : sobebumu 
+happiness : sobebuLihfa 
+happy : sobebumo 
+harangue (noun) : osovomqoa 
+to_harangue : usovomqoau 
+to_harass : usovofhu 
+harassment : sovofheLamdu 
+harbinger : sovpuLkav 
+harbor (noun) : osovupza 
+to_harbor : usovupzu 
+hard : sovtamo 
+to_harden : usovtiLu 
+hardened (adj) : sovtiLitmo 
+hardheaded : sovtesaetitmo 
+hardily (adv) : sovtumu 
+hardiness : sovtuLihfa 
+hardly (adv) : sovteni 
+hardship : sovtefafub 
+hardware : sovtezova 
+hardy : suvtumo 
+hare : sova 
+harebrained : sovapzeemaTmo 
+to_hark : usovgu 
+harm (noun) : osovna 
+to_harm : usovnu 
+harmful : sovnehinmo 
+harmless : sovnenafhu 
+harmlessly : sovnenafheni 
+harmonic : sovnaLuxmo 
+harmonica : sovnaLuxe 
+harmonics : sovnaLuxfaT 
+harmonious : sovnaLuuohmo 
+harmoniously : sovnaLuuohni 
+to_harmonize : usovnaLuviu 
+harmony : sovnaLu 
+harness (noun) : osovLihfa 
+to_harness : usovLihfu 
+harp (noun) : osovbi 
+harpist : osovbuhtu 
+harpoon : sovbaum 
+harrow (noun) : osovzar 
+to_harrow : usovzaru 
+harrowing (adj) : sovzaruLkamo 
+harsh : sovhemo 
+harshly (adv) : sovhesmu 
+harvest (noun) : osovrihto 
+to_harvest : usovrihtu 
+harvester : osovrihtav 
+hash (noun) : osofef 
+to_hash : usofefu 
+hashish : sofefuhsa 
+haste : sofdi 
+to_hasten : usofdiLu 
+hastily : sofdumu 
+hasty : sofdumo 
+hat : sotdo 
+hatch (noun) : osotexsu 
+to_hatch (muna) : usotexsu 
+hatchet : sotexisa
+hate (noun) : osota
+to_hate : usotau 
+hateful : sotahinmo 
+hatefully : sotahinmu 
+hatemonger : sotaLumqiz 
+hatred : sotzitu 
+haughtily : sooqesdumu 
+haughtiness : sooqesduLihfa 
+haughty : sooqesdumo 
+haul (noun) : osoom 
+to_haul : usoomu 
+to_haunt : usooLtu 
+to_have : usozau 
+haven : sozam 
+havoc : sozuja
+hawk : sozga 
+hay : sou 
+haystack : souhtojgu 
+hazard (noun) : osorovti 
+to_hazard : usorovtu 
+hazardous : sorovtaifhamo 
+haze (noun) : osora 
+hazily : soreni 
+haziness : soremafha 
+hazy : sorimo 
+head : saet 
+headache : saetexisa 
+headdress : saetTezihfa 
+headgear : saetkaez 
+heading (noun) :  saetuLka
+headlight : saetnekfuta 
+headpiece : saetbeixi
+headstone : saetfadaLi 
+headway : saetzou 
+heady (adj) : saetumo 
+to_heal : usaemu 
+healer : saemiz 
+health : saemtaf 
+healthcare : saemtfjova 
+healthy : saemtafu 
+heap (noun) : osaeb 
+to_heap : usaebu 
+to_hear : usaezu 
+hearing (noun) : osaezuLka
+hearsay : saezfou 
+heart : saeztu 
+heartache : saeztojfi 
+heartbeat : saeztepiot 
+heartbreak : saeztapvaegu 
+heartbreaker : saeztapvaegiz 
+heartbreaking (adj) : saeztapvaeguLkamo 
+heartbroken : sdaeztapvuqamamo 
+heartburn : saeztapozmu 
+hearth : ezuLe 
+heartily : saezteni 
+heat (noun) : osaed 
+to_heat : usaedu 
+heated : saeditmo 
+heater : saediz 
+heathen : saedsam, boqomo 
+heather :  saedsav 
+to_heave : usaeriu 
+heaven : saeriL, toureh 
+heavenly (adj) : esaeriLnimo 
+heavily (adv) : saerumu 
+heaviness : saeruLihfa 
+heavy : saerumo 
+heavyset : saeruhidmo 
+hebrew (noun) : osapzir 
+hebrew (adj) : esapzirmo 
+to_heckle : usajgenau 
+heckler : sajgenav 
+heckling (noun) : osajgenemqu 
+hectic :  sajduxmo 
+hedge (noun) : osaTqi 
+to_hedge : usaTqiu 
+hedging (noun) : osaTquLka 
+hedonism : saTumefna 
+hedonist : saTumefdu 
+heed (noun) : osait 
+to_heed : usaitu 
+heedless : saitnafha 
+heedlessly : saitnafheni 
+heel (noun) : osaim 
+to_heel : usaimu  
+heft (noun) : osahda 
+to_heft : usahdu 
+hefty : sahdumo 
+heifer : sausiz 
+height : sauqasdu 
+to_heighten : usauqesdiLu 
+heir : sauz 
+heiress : sauzihfa 
+heirloom : sauznuan 
+hell : sanma 
+hellish : sanmuhsamo 
+helm : sanen 
+helmet : qibovo 
+help (noun) : osanba 
+to_help : usanbu 
+helper : sanbiz 
+helpful : sanbahinmo 
+helpfully : sanbehinmu 
+helpfulness : sanbehinLihfa 
+helpless : sanbenafhamo 
+helplessly : sanbenafheni 
+helplessness : sanbenafhamafha 
+hem (noun) : osaL 
+to_hem : usaLu 
+hemisphere : saLefbesava 
+hemline : saLmuLi 
+to_hemorrage : usaLuvzeqiu 
+hemorrhoids : saLuvzesuutfaT
+hemp : saLba 
+hen : sam 
+hence (adv) : samexizi 
+henceforth (adv) : samexisaztefuzi 
+henchman : samexsaneL 
+
+
+
 
 
 
