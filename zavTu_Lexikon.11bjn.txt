@@ -126488,6 +126488,159 @@ hen : sam
 hence (adv) : samexizi 
 henceforth (adv) : samexisaztefuzi 
 henchman : samexsaneL 
+softly : fuhadni 
+her : soL
+her's : soLza 
+herald (noun) : osavonta 
+to_herald : usavontu 
+herb : savpu 
+herbal : savpumo 
+herbalist : savpemuhta 
+herd (noun) : osavta 
+to_herd : usavtu 
+herdsman : savtefneL 
+here : sava 
+hereabouts : savaepaithu 
+hereafter : savaestav 
+hereby (adv) : savapizi 
+hereditary : savaTetovimo 
+heredity : savaTeti 
+heresy : savafi 
+heretic : savatej 
+heretical : savatejonmo 
+herewith (adv) : savazetfazi 
+heritage : savetoka 
+hermit : savnud 
+hermitage : savnudeqi 
+hernia : savLuo 
+hero : savu 
+heroic : savuuxmo 
+heroics : savuuxafim 
+heroin : savuuL
+heroine : fomgezudez 
+heroism : savuuhLa 
+herself : savhimha 
+hesitancy : osafetomexu 
+hesitant : safetomdamo 
+hesitantly : safetomdeni 
+to_hesitate : usafetotau
+hesitation : safetoteaL 
+hexagon : eLiTumeqaL 
+to_hibernate : usapevLediu 
+hibernation : sepavLeduum 
+to_hide : useTau 
+hideaway : seTaerei 
+hideous : seTaaifmo 
+hideously : seTaaifmu 
+hideout : seTaait 
+hierarchic : seizezjafuxmo 
+hierarchically : seizezjafuxemni 
+hierarchy : seizezjafu 
+hieroglyph : seizaqunibfu 
+hieroglyphic : seizaqunibfuxmo 
+high (noun) : osekfa 
+high (adj) : sekfamo 
+highway : sekfazou 
+to_hijack : usexojgu 
+hijacker : sexojgiz 
+hike (noun) : oseqa 
+to_hike : useqau 
+highness : sekfamafha 
+hilarious : senoveaifmo 
+hilariously : senoveaifmu 
+hilarity : senoveti 
+hill : senma 
+hillbilly : osenmapenmua 
+hillside :  senmafeTa 
+hilltop : senmatub 
+hilt : sendu 
+him (pro) : seL 
+himself : seLhimha 
+to_hinder : usemtizu 
+hind : osemto 
+hindmost : semtuLufda 
+hindquarters : semtegieztavhim 
+hindrance : semtevomexi 
+hindsight : semtefekfat 
+hinge : semqi 
+hint (noun) : osemdu
+to_hint : usemdu 
+hip : seb
+to_hire : usevau 
+hirsute : sevhodimo 
+his (pron) : seLza
+hiss (noun) :  osefhu 
+to_hiss : usefhu 
+historian : sefdazuom 
+historic : sefdazuxmo 
+historical : sefdazuxemamo 
+historically : sefdazuxemni 
+history : sefdazu 
+hit (noun) : osetu 
+to_hit : usetu 
+hitch (noun) : osetexsa 
+to_hitch : usetexsu 
+to_hitchhike : usetexsafugiu 
+hitchhiker : setexsafugiz 
+hitherto (adv) : isetfiztuzi 
+hive : seza 
+hoard (noun) : osuezTa 
+to_hoard : usuezTu 
+hoarse : suezfamo 
+hoarsely : suezfani 
+to_hoarsen : usuezfamu 
+hoarseness : suezfamafha 
+hoax (noun) : osuej 
+to_hoax : usueju 
+hobby : supepu 
+hobbyhorse : supepufazfa 
+hockey : sujgii 
+hoe (noun) : osui 
+to_hoe : usuiu 
+hog (noun) : osuk 
+to_hog : usuku 
+hogwash : sukrehsu 
+to_hoist : usuuhtu 
+hold (noun) : osunta 
+to_hold : usuntu 
+holdover : osuntariz 
+holdup : osuntob 
+hole : suna 
+holiday : suneTou 
+hollow (adj) : sunmarmo 
+holocaust : sunujoohtu 
+hologram : sunukzen 
+holograph : sunukzebsa 
+holographic (adj) : sunukzebsejmo 
+holography : sunukzebsi 
+holster : sunhetav 
+holy (adj) : suni, sunimo
+homage : suLoka 
+home : suLa 
+homebody : suLapuTi 
+homebound : suLapuoLTu 
+homecoming : suLajuLemqu 
+homeless : suLanafhamo 
+homelessness : suLanafhamafha 
+homely (adj) : suLanimo 
+homemade : suLaLoTamo 
+homemaker : suLaLoqav 
+homeowner : suLaarmav 
+homestead : suLafdioTa 
+homesteader : suLafdioTav 
+homeward (adv) : suLazovtazi 
+homework : suLazuvgu 
+honest : sumafdumo 
+homosexual : osuLufaciem 
+honestly (adv) : sumafdeni 
+honesty : sumafdu 
+honey : sumau 
+honeybee : sumaupia 
+honeymoon (noun) : osumaunaum 
+to_honeymoon : usumaunaumu 
+honk (noun) : osumgu
+to_honk : usumgu 
+ 
 
 
 
