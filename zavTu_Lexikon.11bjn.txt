@@ -126640,12 +126640,547 @@ honeymoon (noun) : osumaunaum
 to_honeymoon : usumaunaumu 
 honk (noun) : osumgu
 to_honk : usumgu 
- 
-
-
-
-
-
+honor (noun) : osumuv 
+to_honor : usomuvu 
+honorable : sumuvopmimo 
+honorably : sumuvopmu 
+honorary (adj) : sumuvovimo 
+hood : suat 
+hooded (adj) : suatitmo 
+hoof : suas 
+hoofbeat : suaspaed 
+hook (noun) : osuag 
+to_hook : usuagu 
+hooligan : suamuqeL 
+hoop (noun) : osuab 
+to_hoop : usuabu 
+hoot (noun) : osuad 
+to_hoot : usuadu 
+hop (noun) : osub 
+to_hop : usubu 
+hope (noun) : osuba 
+to_hope : usubau 
+hopeful : subahinmo 
+hopefully (adv) :  subahinmu 
+hopeless : subanafha 
+hopelessly (adv) : subanafhani 
+hopelessness : subanafhamafha 
+horde : suvti 
+horizon : suverum 
+horizontal (adj) : suverumdemamo 
+horizontally : suverumdemni 
+hormonal : suvnaLemamo 
+hormone : suvnaLi 
+horn : suvLa 
+hornet : suvLid 
+horny (adj) : suvLumo 
+horrendous : suvziLTuohmo 
+horrendously : suvziLTuohni 
+horrible : suvzupnamo 
+horribly : suvzupni 
+horrid : suvzutmo 
+horridly : suvzutni 
+to_horrify : usuvzusu 
+horrifying : suvzusemqamo 
+horrifyingly : suvzusuemqani 
+horror : suvzaz 
+horse : suvhi 
+horseback : suvhipexaqu
+horseplay :  suvhibnou 
+horsepower : suvhibariz 
+horseshoe : suvhihsui 
+horticulture : suvduxomtiva 
+horticulturist : suvduxomtivefdu 
+hose (noun) : osufa 
+to_hose : usufau 
+hosiery : sufeizu 
+hospice : sufbuxi 
+hospitable : sufbudepnamo 
+hospital : sufbudem 
+hospitality : sufbudemudu 
+to_hospitalize : usufbudemuviu 
+host (noun) : osufdu 
+to_host : usufdu 
+hostage : sufdeqi 
+hostel : sufdima 
+hostess : sufdihfe 
+hostile (adj) : sufdumimo 
+hostility : sufdumudu 
+hot (adj) : sutmo 
+hotel : sutan 
+hotelier : sutaneiz 
+hound (noun) : osuoLTo 
+to_hound : usuoLTu 
+hour : suoz 
+hourglass : suozkamehfa 
+hourly (adj) : suoznimo 
+hourly (adv) : suoznimu 
+house : suohi 
+housebroken (adj) : suohipvuqamamo 
+housefly : suohisni 
+houseguest : suohiqoafde 
+household : suohifamTa 
+householder : suohifamTav 
+housekeeper : suohigiabav 
+housemaid : suohineeT 
+housemate : suohinedi 
+housewarming : suohirezLemqu 
+housewife : suohirusi 
+housework : suohirazqu 
+houseworker : suohirazqav 
+housing (noun) : osuohuLka 
+hovel : suzan 
+to_hover : usuzavu 
+hovercraft : suzavexvohdu 
+how (adv) : suzuzi, suo 
+howl (noun) : osuzmu 
+to_howl : usuzmu 
+howling (noun) : osuzmuLka 
+howling (adj) : suzmuLkamo 
+hub : sip 
+hubcap : sipuxeb 
+hubris : sipzuh 
+huckster : sijgefdiz 
+huddle (noun) : osiTtena
+to_huddle : usiTtenau 
+hue (noun) : osii 
+huff (noun) : osihso 
+to_huff : usihsu 
+hug (noun) : osik 
+to_hug : usiku 
+huge (adj) : sikamo 
+hugely : sikani 
+hulk : singu 
+hulking (adj) : esinguLkamo 
+hum (noun) : osiL 
+to_hum : usiLu 
+human (noun) : osiLom 
+human (adj) : siLomamo 
+humane (adj) : esiLomaumo 
+humanism : siLomefna 
+humanist : siLomefdo 
+humanistic : siLomefduxmo 
+humanitarian : siLometoveeL 
+humanity : siLometi 
+to_humanize : usiLomerau 
+humankind : siLomguLTo 
+humanoid : siLomuut 
+humble (adj) : esiLpnamo 
+to_humble : usiLpnau 
+humbleness : siLpnamafha 
+humbly : siLpni 
+humid (adj) : siLeTmo 
+humidifier : siLeTeheiz 
+to_humidify : usiLeTehiu 
+humidity : siLeTeti 
+to_humiliate : usiLeneediu 
+humiliating : siLeneeduLkamo 
+humiliation : siLeneeduum 
+humility : siLeneti 
+humor (noun) : osiLuv 
+to_humor : usiLuvu 
+humorist : siLuvefdu 
+humorless : suLuvmihfa 
+humorous : siLuvuohmo 
+hump (noun) : osiLb 
+to_hump : usiLbu 
+humpback : siLbepojgu 
+hunch (noun) : osimexsa
+to_hunch : usimexsu 
+hunchback : osimexsupexqa 
+hundred : osimtavaT 
+hunger (noun) : osimqiz 
+to_hunger : usimqizu 
+hungry :  simqevimo 
+to_hunker : usimqizu 
+hunt (noun) : osimdu 
+to_hunt : usimdu 
+hunting (adj) : esimduLkamo 
+hurdle (noun) : osivetna 
+to_hurdle : usivetnau 
+to_hurl : usivmu 
+hurricane : sivzuxeLi
+hurried : sivzuaTmo 
+hurriedly : sivzutni 
+hurry (noun) : osivzu 
+to_hurry : usivzuu 
+hurt (noun) : osivde
+to_hurt : usivdu 
+hurtful : sivdahinmo 
+hurtfully : sivdahinmu
+to_hurtle : usivdenau 
+husband : sifpeLTi 
+husbandry : sifpeLTzu
+hush (noun) : osifaf 
+to_hush : usifafu 
+husk (noun) : osifgo 
+to_husk : usifgu 
+hustle (noun) : osifdena
+to_hustle : usifdenau 
+hustler : sifdenav 
+hut : osito 
+hutch (noun) : ositexas 
+hydrant : siTzeLto
+hydraulic : siTzeinejmo 
+hydraulics : siTzeinejhaT 
+hydroelectric : siTzaanajdevejmo 
+hydrofoil : siTzasaen 
+hydrogen : siTzaqiL 
+hyena : siiLe 
+hygiene : sikeiLi 
+hygenic : sikamejmo 
+hygenically : sikamejonmu 
+hymen : zevhu, siLam 
+hymn : osiLeL 
+hyper (adj) : sibavmo 
+hyperbole : sibavpami 
+hyperbolic : esibavpamuxmo 
+hyphen : sibfiL 
+to_hyphenate : usibfiLediu 
+hypnosis : osibLahuh 
+hypnotherapy : osibLadsavobi
+hypnotic : sibLaduxmo 
+hypnotism : sibLaduhLa 
+hypnotist : sibLaduhti 
+to_hypnotize : usibLaduviu 
+hypochondria : sibujfaLTzuo 
+hypochondriac : sibujfaLTzuoj 
+hypocrisy : osibujzuhu 
+hypocrite : osibujzudi 
+hypocritical : sibujzuduxemamo 
+hypodermic : esibuTavnuxmo 
+hypodermis : osibuTavnuh
+hypotenuse : sibutamifa 
+hypothesis : osibutfihuh 
+hypothetical : esibutfiduxemamo 
+hysterectomy : osifdizixtuLi 
+hysteria : sifdizuo 
+hysterical : esifdizuxemamo 
+hysterically : isifdizuxemni 
+hysterics : osifdizuxfim 
+joyfully (adv): ixuusomni 
+surgically : fivquxemni 
+present (adj) : ebzihiLtmo 
+billion : openmuum 
+i (pron) : eLe
+ice : ouxi 
+iceberg : ouxipizka 
+icebreaker : ouxipvaegiz 
+iced (adj) : euxitmo 
+icehouse : ouxifaifa 
+icy (adj) : euxumo 
+idea : butio 
+ideal (adj) : eutionmo 
+ideally : iutionmu 
+identical : eutiLtejonmo 
+identification : outiLtehejoteaL
+to_identify : uutiLtehiu 
+identity : outiLteti 
+ideological (adj) : eutiunukejonmo 
+ideologist : outiunukefdu 
+ideologue : outiunukii 
+ideology : dutiunuki 
+idiocy : Tutuuji 
+idiom : TutuuL 
+idiomatic : eutuuLotejmo 
+idiot : Tutuut 
+idiotic : eTutuutejmo 
+idiotically (adv) : iTutuutejonmu 
+to_idle : uutnau 
+idle (adj) : eutnamo 
+idol : Tutam 
+idolater : Tutaemdiz 
+idolatress : Tutamedvafhe 
+idolatry : Tutamedvi 
+to_idolize : uutamuviu 
+if : fux 
+to_ignite : uuqemetau 
+ignition : kumqemteaL 
+ignoble (adj) : euqemupmimo 
+ignominous (adj) : euqemuLemuohmo 
+ignominy : kuqemuLemi 
+ignoramus : kuqemuvoLif 
+ignorance : kuqemuvomexi 
+ignorant : kuqemuvomdumo 
+ignorantly : kuqemuvomdeni 
+to_ignore : ukuqemuvau 
+ill (adj) : numnumo 
+illegal (adj) : numnakonmo 
+to_illegalize : unumnakonerau
+illegible (adj) : numnakepmimo 
+illegitimate (adj) : numnaketeLotamo 
+illicit : numnejetmo 
+illicitly : numnejetmu 
+illiteracy : numnetavoji 
+illiterate (adj) : numnetavotamo 
+illness : numneLihfa 
+illogical : numnukejonmo 
+to_illuminate : unumniLemotau 
+illuminating (adj) : numniLemotemqumo 
+illumination : numniLemoteaL 
+illusion : numnifeaL 
+illusionist : numnifeaLuhto 
+illusory (adj) : numnifuvimo 
+to_illustrate : unumnifdevotau 
+illustration : numnifdevoteaL 
+illustrator : numnifdevotuv 
+illustrious (adj) : numnifdeveaifmo 
+image : Luneqi 
+imagery : Luneqizu 
+imaginable (adj) : LunequLepnamo 
+imaginary : LunequLezumo 
+imagination : LunequLeduum 
+imaginative (adj) : LunequLedurimo
+to_imagine : uLunequLiu 
+imbalance : Lunponomexi 
+imbecile : Lunpajena 
+to_imitate : uLunudediu 
+imitation : Lunudeduum 
+imitative (adj) : Lunudedurimo 
+imitator : Lunudedaz 
+immaculate : LunLojinotamo 
+immaculately : LunLojinotani
+immaterial (adj) : LunLotaveemamo 
+immature : LunLotivamo 
+immaturely : LunLotivani 
+immaturity : LunLotiveti 
+immeasurable : LunLaehozepnamo 
+immeasurably : LunLaehozepni
+immediacy :  LunLaTeexu 
+immediate (adj) : LunLaTeedimo 
+immediateley : LuLaTeedimu 
+immemorial (adj) : LunLaLuveemamo 
+immense : LunLamhimo  
+immensely : LunLamhimu  
+immensity (noun) : LunLamhudu 
+to_immerse : uLunLavhiu 
+immersion : LunLavhuum 
+immigrant : LunLekzeLto 
+to_immigrate : uLunLekzediu 
+immigration : LunLekzeduum 
+imminence : LunLemamexi 
+imminent : LunLemamdumo 
+immobile : LunLupenamo 
+immobility : LunLupeneti 
+to_immobilize : uLunLupenerau 
+immobility : LunLupeneti 
+immoderate : LunLuTavotamo 
+immoderately : LunLuTavotani
+immoderation : LuLuTavoteaL 
+immodest : LunLuTafdumo 
+immoral : LunLuvonmo 
+immorality : LunLuvoneti 
+immortal : LunLuvdemamo 
+immortality : LunLuvdemudu 
+to_immortalize : uLunLuvdemuviu 
+immune : LunLimamo 
+immunity : LunLimeti 
+to_immunize : uLunLimerau 
+immutability : LunLitopeneti 
+immutable : LunLitopmimo 
+imp : Lunbo 
+impact (noun) : oLunbojdo 
+to_impact : uLunbojdu 
+impacted : Lunbojditmo 
+to_impair : uLunbouzu 
+impairment : LunbouzLamdo 
+impala : Lunbono 
+to_impale : uLunbonau 
+impartial : Lunbovduonmo 
+impartiality : Lunbovduoneti 
+impartially : Lunbovduonmu 
+impassable : Lunbofhepnamo 
+impasse : Lunbofhi 
+impassioned : LunbofhuumaTmo 
+impassive : Lunbofhurimo 
+impatience : LunboteiLja 
+impatient : LunboteiLtmo 
+impatiently : LunboteiLtmu 
+to_impeach : uLunLebiojfu 
+impeachable : Lunbaexsopmimo 
+impeachment : LunbaexsoniLta 
+impeccable : Lunbajexepnamo 
+impeccably : Lunbajexepni 
+impecunious : Lunbajimeaifmo 
+to_impede : uLunbaTau 
+impediment : LunbaTeLamdo 
+impenetrability : Lunbamatzepumudu 
+impenetrable : Lunbamatzepnamo 
+imperative (noun) : oLunbavoteza 
+imperative (adj) : eLunbavotezamo 
+imperfect : Lunbavsixtamo 
+imperfection : LunbavsixteaL
+imperfectly : Lunbavsixtamu 
+imperial : Lunbaveemamo 
+imperialism : LunbaveemuhLo 
+imperialist : Lunbaveemuhto 
+imperialistic : Lunbaveemuhtejmo 
+impersonal : LunbavhaLemamo 
+to_impersonate : uLunbavhaLediu 
+impersonation : LunbavhaLeduum 
+impersonator : LunbavhaLedaz 
+impertinence : LunbavduLiLja 
+impertinent : LunbavduLiLtmo
+impervious :  Lunbavruuohmo 
+impetuosity : Lunbatiahudu 
+impetuous : Lunbatiaifmo 
+impetuously : Lunbatiaifmu 
+impetuousness : LunbatiaifLihfo 
+impetus : Lunbatif 
+impingement : LunbemqiniLto 
+impish : Lunbefafmo 
+impishly : Lunbefafni 
+implant (noun) : oLunbameLtu 
+to_implant : uLunbameLtu 
+implantation : LunbemeLtoteaL 
+implement (noun) : oLuubeminiLta 
+to_implement : uLunbeminiLtu 
+implementation : LunbeminiLtoteaL 
+to_implicate : uLunbemuxediu 
+implication : Lunbemuxeduum 
+implicit : Lunbemuxudmo 
+implicitly (adj) : Lunbemuxudnimo 
+implied (adj) :  LunbemuaTmo 
+to_implode : uLunbematiu 
+to_implore : uLunbemaziu 
+imploring (adj) : LunbemazuLkmo 
+to_imply : uLunbemuu 
+impolite : Lunbunetamo 
+imploitely : Lunbunetani
+impoliteness : Lunbunetamafho 
+impolitic : Lunbunetejmo 
+import (noun) : oLunbuvdo 
+to_import : uLunbuvdu 
+importance : Lunbuvdelja 
+important : LunbuvdeLtmo 
+to_impose : uLunbufau 
+imposing (adj) :  Lunbufemqamo 
+imposition : LunbufeteaL 
+impossibility : Lunbufhupumudu
+impossible : Lunbufhupnamo 
+impossibly : Lunbufhupni 
+impostor : Lunbufdaz 
+impotence : Lunbutamexi 
+impotent : Lunbutamdumo 
+impotently : Lunbutamedni 
+to_impound : uLunbuoLTu 
+to_impoverish : uLunbuzavefafu 
+impoverished : Lunbuzavefafitmo 
+impracticable : Lunbezextejopmimo 
+impractical : Lunbezextejoemamo 
+impregnable : Lunbeziqamopmimo 
+to_impregnate : uLunbeziqamotau 
+impregnation : LunbeziqamoteaL 
+to_impress : uLunbezihfu 
+impression : LunbezihfeaL 
+impressionable : LunbezihfeaLepnamo 
+impressionism : LunbezihfeaLuhLa 
+impressionist : LunbezihfeaLuhto 
+impressionistic : LunbezihfeaLuhtejmo 
+impressive : Lunbezihfezamo 
+imprint (noun) : oLunbezuLta
+to_imprint : uLunbezuLtu 
+to_imprison : uLunbezuhaLu 
+imprisonment : LunbezuhaLeLamdo 
+improbability : Lunbezapepumudu 
+improbable : Lunbezapepnamo 
+improbably : Lunbezapepni 
+impromptu (adj) : Lunbezanbedomo 
+impromptu (adv) : Lunbezanbedozi 
+improper : Lunbezabizmo 
+improperly : Lunbezabizni 
+to_improve : uLunbezariu 
+improvement : LunbezariniLto 
+improvisation : Lunbezaruheduum 
+to_improvise : uLunbezaruhiu 
+improvised : Lunbezaruhitmo 
+impudence : LunbiTamexi
+impudent : LunbiTamdemo 
+impudently : LunbiTamdeni 
+impulse : Lunbinhi 
+impulsive : Lunbinhurimo 
+impulsively : Lunbinhurimu 
+impulsiveness : LunbinhuriLihfo 
+impunity : Lunbimeti 
+impure : Lunbivamo 
+in : uL 
+inability : muLepumudu 
+inaccessible : muLexjafhupna 
+inaccuracy : muLexjivoji 
+inaccurate : muLexjivotamo 
+inaccurately : muLexjivotani
+inaction : muLexteaL 
+inactive : muLextezamo 
+inactivity : muLextezeti 
+inadequacy : muLetikooji 
+inadequate : muLetikootamo 
+inadequately : muLetikootani 
+inadmissibility : muLetLefhepumudu 
+inadmissible : muLetLefhupnamo 
+inadvertence : muLetzavdiLja 
+inadvertent : muLetzavdiLtmo 
+inadvertently : muLetzavdiLtmu 
+inalienable : muLemuamopmimo 
+inane : muLeLimo 
+inanely : muLeLimu 
+inanimate : muLeLunedimo 
+inanity : muLeLudu 
+inapplicable : muLebabmuxepnamo 
+inappropriate : muLebabzabveedimo 
+inappropriately : muLebabzabveedimu 
+inappropreateness : muLebabzabveediLihfo 
+inapt : muLebtamo 
+inaptitude : muLebtetiTa 
+inarticulate : muLeztejinotamo 
+inartistic : muLeztefduxmo 
+inattention : muLedtamduum
+inattentive : muLedtamdurimo 
+inattentively : muLedtamdurimu 
+inaudibility : muLeiTepeneti
+inaudible : muLeiTepmimo 
+inaudibly : muLeiTepmu 
+inaugural : muLeikivonmo 
+inauguration : muLeikivoteaL 
+inboard (adj) : muLpuezTemo 
+inborn : muLpuvLemo 
+inbred : muLpezitmo 
+inbreeding : muLpeziaTemqu 
+incalculable : muLjonexomepnamo 
+incapable : muLjobopmi 
+to_incapacitate : umuLjobojetotau 
+incapacity : muLjobojeti 
+to_incarcerate : umuLjovexizediu 
+incarceration : muLjovexizeduum 
+incarnate (adj) : muLjovLedimo
+to_incarnate : umuLjovLediu 
+incarnation : muLjovLeduum 
+incendiary (noun) : muLjamtuovi
+incindiary (adj) : muLjamtuovimo 
+incense (noun) : muLjamhi 
+to_incense : umuLjamhiu 
+incensed (adv) :  muLjamhitzi 
+incentive : muLjamduri 
+inception : muLjabduum 
+incessant : muLjafheLtmo 
+incessantly : muLjafheLtmu 
+incest : muLjafdo 
+incestuous : muLjafdouohmo 
+inch : muLjfo 
+incidence : muLjeTamexi
+incident : muLjeTamdo
+incidental : muLjeTamdemamo 
+incidentally : muLjeTamdemni 
+incidentals : muLjeTamdemim 
+to_incinerate : umuLjemavotau 
+incineration : muLjemavoteaL
+incinerator : muLjemavotuv
+incipience : muLjebeiLja 
+incipient : muLjebeiLtmo 
+to_incise : umuLjefau 
+incision : muLjefeaL 
+incisive : muLjefezamo 
+incisively : muLjefezani
+incisiveness : muLjefezamafho
 
 
 
