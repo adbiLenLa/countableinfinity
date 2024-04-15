@@ -127181,7 +127181,365 @@ incision : muLjefeaL
 incisive : muLjefezamo 
 incisively : muLjefezani
 incisiveness : muLjefezamafho
-
+incisor : muLjefuv 
+to_incite : umuLjetau 
+incitement : muLjetaLamdu 
+inclination : muLjamuLeduum 
+to_incline : umuLjamuLi 
+inclined : muLjamuLiTmo 
+to_include : umuLjamotiu 
+including (adj) : mjuLjamotuLkmo 
+inclusion : muLjamohuum 
+inclusive (adj) : muLjamohurimo 
+inclusively : muLjamohurimu 
+incognito (adv) : imuLjukLudazi 
+incoherence : muLjusavamexi
+incoherent : muLjusavamdumo 
+incoherently : muLjusavamdeni 
+incombustible : muLjuLpohtepmimo 
+income : omuLjuLa 
+incoming (adj) : emuLjuLemqamo 
+incomparable : muLjuLbezepnamo 
+incompatibility : muLjuLbedupumudu 
+incompatible : muLjuLbedupnamo 
+incompetence : muLjuLbidiLja
+incompetent : muLjuLbidiLtmo 
+incompetently : muLjuLbidiLtmu 
+incomplete : muLjuLbinatamo 
+incompletely : muLjuLbinatani
+incompleteness : muLjuLbinatamafho 
+incomprehensible : muLjuLbivasamhupnamo 
+incomprehensibly : muLjuLbivasamhupni 
+incomprehension : muLjuLbivasamhuum 
+inconceivable : muLjumexiezopmimo
+inconclusive : muLjumexnifezamo 
+inconclusively : muLjumexnifezani 
+incongruity : muLjumqeviudu 
+incongruous : muLjumqeviaifmo 
+inconsiderate : muLjumhutizedimo 
+inconsiderately : muLjumhutizedimu 
+inconsistent : muLjumhuhtamdimo 
+inconsistently : muLjumhuhtamedni 
+inconsolable : muLjumhamepnamo 
+inconspicuously : muLjumhebejiaifmu 
+inconspicuous : muLjuLhebejiaifmo 
+incontinence : muLjumduLiLja 
+incontinent : muLjumduLiLtamo 
+inconvenience : muLjumriLuamexi 
+inconvenient : muLjumriLuamdemo 
+inconveniently : muLjumriLuamdeni 
+to_incorporate : umuLjuvbazediu 
+incorporated : muLjuvbazeditmo 
+incorporation : muLjuvbazeduum 
+incorrect : muLjuvezixtemo 
+incorrectly : muLjuvzixetmu 
+incorrectness : muLjuvzixetLihfo 
+incorrigible : muLjuvzuqupnamo 
+increase (noun) : omuLjziofa 
+to_increase : umuLjziofau 
+increasing (adj) : emuLjziofemqemo 
+increasingly : imuLjziofemqini 
+incredible : muLjzitupnamo 
+incredibly : muLjzitupni 
+incredulity : muLjzitomudu
+incredulous : muLjzitomaifmo 
+increment : omuLjziniLto 
+to_incriminate : umuLjzunuLediu 
+incriminating (adj) : emuLjzunuLeduLkamo 
+to_incubate :  umuLjipotau 
+incubation : omuLjipoteaL 
+incubator : omuLjipotuv 
+incumbent (noun) : omuLjiLpiLto 
+incumbent (adj) : emuLjiLpiLtemo 
+to_incur :  uumuLjivu 
+incurable : emuLjivopmimo 
+incurably : imuLjivopmu 
+incusion : omuLjivhuum 
+indebted : emuLTapditmo 
+indebtedness : omuLTapditmafho 
+indecency : muLTajamexu 
+indecent : muLTajamdemo 
+indecently : muLTajamdeni 
+indecision : omuLTajexuhuum 
+indecisive : emuLTajefezamo 
+indeed (adv) : imuLTaitzi  
+indefensible : emuLTahamhupnamo 
+indefinite : muLTahemetamo 
+indefinitely : imuLTahemtani 
+indelible : emuLTanepmimo 
+indelibly : imuLTanepmu 
+to_indemnify : umuLTaLeLusuu 
+indemnity : omuLTaLeLudu
+indent (noun) : omuLTamdo 
+to_indent : umuLTamdu 
+indentation : omuLTamdeduum 
+independence : omuLTabamtiLja 
+independent : emuLTabamtiLtemo
+independently : imuLTabamtiLtamu 
+indescribable : emuLTafexvepopmimo 
+indescribably : imuLTafexvepopmu 
+indestructible : emuLTafdevijdupnamo 
+indeterminate : emuLTatavnuLedimo 
+indeterminately : imuLTatavnuLedimu 
+indetermination : omuLTatavnuLeduum 
+index : omuLTac 
+india : muLTee 
+to_indicate : umuLTejotau 
+indication : muLTejoteaL 
+indicative (noun) : omuLTejoteza 
+indicator : muLTejotuv 
+to_indict : umuLTejdu 
+indictable : emuLTejdepnamo 
+indictment : omuLTejdoLamdo 
+indifference : muLTehsiziLja 
+indifferently : imuLTehsiziLtimu 
+indigenous : emuLTekamuohmo 
+indigestion : muLTekafduum 
+indignant : emuLTekLeLtemo 
+indignantly : imuLTekLeLtimu 
+indignity : muLTekLudu 
+indigo : omuLTehqa 
+indigo (adj) : emuLTehqamo 
+indirect : muLTevajdumo 
+indirectly : muLTevajdeni 
+indiscernible : muLTafexizmepmimo 
+indiscipline : omuLTefexubnema
+indiscreet : emuLTefexvaidmo 
+indiscreetly : imuLTefexvaidni 
+indiscriminate (adj) : emuLTefexveLemotamo 
+indiscriminately :  imuLTefexveLemotani 
+indiscriminating (adj) : emuLTefexveLemotemqamo 
+indispensable :  emuLTefbiLfopmimo 
+indisposed : emuLTefbahitmo 
+indisposition : omuLTefbahuduum 
+indisputable : muLTefbodepnamo 
+indisputably : muLTefbodepni 
+indistinct : muLTefduLjdamo 
+indistinctly : muLTefduLjdani 
+indistinguishable : emuLTefduLkiuhsopmimo 
+individual (noun) : omuLTezeTiem
+individual (adj) :  emuLTeaeTiemamo 
+individuality :  omuLTezeTiemudu 
+to_individualize : umuLTezeTiemuviu 
+individually (adv) :  imuLTezeTiemni 
+to_indoctrinate :  umuLTujdevemotau 
+indoctrination : omuLTujdevemoteaL 
+indolence : omuLTunamexi 
+indolent : emuLTunamdemo 
+indoor (adj) : emuLTuazmo 
+indoors (adv) : imuLTuazfuzi 
+to_induce : uiLTijau 
+to_induct : umuLTijdu 
+induction : omuLTijduum 
+inductive : emuLTijdurimo 
+to_indulge : umuLTinqiu 
+indulgence : omuLTinqiLja 
+indulgent : emuLTtomkamdamo 
+industrial : emuLTifzetzuonmo 
+industrialist : omuLTifdeveemuhto 
+to_industrialize : umuLTifdeveemuviu 
+industrious : emuLTifdeveaifmo 
+industriously : imuLTifdeveaifmu
+industry : omuLTifedvi 
+to_inebriate : umuLipveediu 
+inebriated : emuLipveeditmo 
+inedible : muLitupnamo 
+ineffective : muLishajdurimo 
+ineffectively : muLishajdurimu 
+ineffectiveness : muLishajduiLihfo 
+ineffectual : muLishajdoonmo 
+ineffectually : muLishajdoonmu
+inefficacious : muLishejojeaifmo 
+inefficacy : muLishejoji
+inefficient : muLishejeiLtmo 
+ineligibility : muLimuqupumudu 
+ineligible : muLimuqupnamo 
+inept : muLibtemo 
+ineptitude : muLibtetiTa 
+ineptly : muLibtemu 
+ineptness : muLibteLihfo 
+inequality : muLikooneti 
+inequitable : muLikoetopmimo
+inequity : muLikoeti 
+inert : emuLiztemo 
+inertia : omuLiztee 
+inescapable : muLihjobopmimo 
+inevitability : omuLirudepumudu 
+inevitable : emuLirudepnamo 
+inevitably (adj) : emuLirudepnimo 
+inexact : muLijextemo 
+inexcusable : muLijejifopmimo 
+inexorable : muLijazepnamo 
+inexorably : muLijazepni 
+inexpensive : muLijbamhurimo 
+inexpensively : muLijbamhurimu 
+inexperience : muLijbaveiLja 
+inexpert : muLijbavdemo 
+inexpertly : muLijbavdini 
+inexplicable : muLijbemuxepnamo 
+inexplicably : muLijbimuxepni 
+infallibility : muLhonmupumudu
+infallible : muLhonmupnamo 
+infallibly : muLhonmupni 
+infamous : emuLhoLuohmo 
+infamy : omuLhoLi 
+infancy : omuLhomexu 
+infant : omuLhomdo 
+infanticide : omuLhomduxuti 
+infantile : emuLhomdumimo 
+infantry : muLhomdevi 
+infantryman : muLhomdeviLom 
+to_infatuate : umuLhotiediu 
+infatuation : omuLhotieduum 
+to_infect : umuLhajdu 
+infection : muLhajduum 
+infectious : muLhajduuohmo 
+to_infer : umuLhavu 
+inference : muLhavamexi
+inferior : emuLhaveazmo 
+inferno : omuLhavLa 
+infertile : emuLhavdumimo 
+infertility : omuLhavdumudu 
+to_infest : umuLhafdu 
+infidel : muLheTan 
+infidelity : muLheTaneti 
+infighting : omuLhekfatemqu 
+to_infiltrate : umuLhendavotau 
+infiltration : muLhendevoteaL 
+infinite : emuLhemetamo 
+infinitely (adj) : emuLhemetanimo 
+infinitesimal : muLhemetafeLonmo 
+infinitive (adj) : muLhemetezamo 
+infinity : omuLhemeti 
+infirm : muLhevnamo 
+infirmary : muLhevnezu 
+infirmity : omuLhevhudu 
+to_inflame : umuLhemeniu 
+inflammable : emuLhemenLopmimo 
+inflammation : omuLhemenLoteaL 
+inflammatory : emuLhemenLotuvimo 
+inflatable : mnuLhemedepnamo 
+to_inflate : umuLhemediu 
+inflation : omuLhemeduum 
+inflationary : emuLhemeduumovimo 
+inflection : omuLhemixteaL 
+inflexibility : omuLhemijupumudu 
+inflexible : emuLhemijupnamo 
+inflexion : omuLhemijuum 
+to_inflict : umuLhemuxtu 
+infliction : omuLhemuxteaL 
+inflow (noun) : omuLhemar 
+influence (noun) : omuLhemoamexi
+to_influence : umuLhemnoamexiu 
+influential : emuLhemoamduonmo 
+influx (noun) : omuLhemoj 
+to_inform : umuLhuvnu 
+informal : emuLhuvnemamo 
+informally : imuLhuvnemni 
+information : omuLhuvneduum 
+informative : emuLhuvnedurimo 
+informed : emuLhuvnitmo 
+informer : omuLhuvniz 
+infrared (noun) : omuLhezezit 
+infrared (adj) : emuLhezezitmo 
+infrasound (adj) : emuLhezehaimtumo 
+infrastructiure : omuLhezehtezoxtiva 
+infrequent : emuLhezikoamdumo 
+infrequently : imuLhezikoamndeni 
+infringement : omuLhezuLkaLamdo 
+to_infuriate : umuLhiveediu 
+infuriating : emuLhiveeduLkmo 
+infuruatingly : imuLhiveeduLkmu 
+to_infuse : umuLhifau 
+infusion : omuLhifeaL 
+ingenious : emuLkameaifmo 
+ingeniously : imuLkameaifmu 
+ingenuity : omuLkamiudu 
+ingenuous : emuLkamiaifmo 
+ingenuously : imuLkamiaifmu 
+ingenuousness : omuLkamiaifLihfu 
+ingot : omuLkut 
+ingrained : emuLkzeemaTmo 
+ingrate : omuLkzedi 
+ingratitude : omuLkzedudoti 
+ingredient : omuLkzituamdo 
+to_inhabit : umuLsopetu 
+to_inhale : umuLsonau 
+inherent : emuLsavamdamo 
+inherently (adj) : emuLsavamdenimo 
+to_inherit : umuLsavetu 
+inheritance : omuLsavetomexi 
+inherited (adj) : emuLsavetaTmo 
+to_inhibit : umuLsepetu 
+inhibition : omuLsepeteaL 
+inhospitable : emuLsufbudepnamo 
+inhospitably : imuLsufbudepni
+inhospitality : omuLsufbudemudu 
+inhuman : emuLsiLomimo 
+inhumane : muLsiLomamo
+inhumanity : omuLsiLometi 
+inimical : muLunuxememo 
+initial (adj) : muLuduonmo 
+initially (adv) : imuLduonmu 
+to_initiate :  umuLudotau 
+initiative : omuLuduoteza 
+to_inject : umuLexajdu 
+injection : omuLexajduum 
+injunction : omuLeximexteaL 
+to_injure : umuLexivau 
+injurious : emuLexiveaifmoi 
+injury : omuLexivi 
+injustice : omuLexifduxi 
+ink : omuLqo 
+inkling : omuLqemuLka 
+inland (adj) : emuLnomtamo 
+inland (adv) : imuLnomtazi 
+inlet : omuLnato 
+inn : omuLmo 
+innards : muLmovtefim 
+innate (adj) : emuLmotamo 
+inner (adj) : emuLmavmo 
+innermost : emuLmavnahtemo 
+innocence : omuLmujamexi 
+innocent : emuLmujamdamo 
+innocently : imuLmujamdeni 
+innocuous : emuLmujiaifmo 
+to_innovate : umuLmuzotau 
+innovation : omuLmuzoteaL 
+innovative : emuLmuzotezamo 
+innovator : omuLmuzotuv
+innuendo : omuLmiiLTu 
+innumerable : emuLmiLavopmimo 
+to_inoculate : umuLaxomediu 
+inoculation : omuLaxomeduum 
+inoffensive : emuLashamhurimo 
+inoperative : emuLabizedurimo 
+inopportune : emuLabebuvdoLimo 
+inopportunely : imuLabebuvdoLimu 
+inordinate : emuLazTemotamo 
+inordinately : imuLazTemotani 
+inorganic : emuLazkomejmo 
+input (noun) : omuLbit 
+to_input : umuLbitu 
+inquest : omuLgiihtu 
+to_inquire : umuLgiuziu 
+inquiry : omuLgiuzu 
+inquisition : omuLgiuhuduum 
+inquisitive : emuLgiuhudurimo 
+inroad : omuLvuet 
+insane : muLfomamo 
+insanity : omuLfometi 
+to_inscribe : umuLfexvepau 
+inscription : omuLfexvebduum 
+insect : omuLfajdo 
+insecticide : omuLfajduxuti 
+insecure : emuLfajivamo 
+insecurely : imuLfajivani 
+insecurity : omuLfajiveti 
+insensibility : omuLfamhupumudu 
+insensible : emuLfamhupnamo 
+insensitive : emuLfamhudurimo 
+insensitivity : omuLfamhudurudu
 
 
 
