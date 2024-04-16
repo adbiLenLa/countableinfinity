@@ -127410,6 +127410,7 @@ infinite : emuLhemetamo
 infinitely (adj) : emuLhemetanimo 
 infinitesimal : muLhemetafeLonmo 
 infinitive (adj) : muLhemetezamo 
+infinite (adj) : emuLhemetamo 
 infinity : omuLhemeti 
 infirm : muLhevnamo 
 infirmary : muLhevnezu 
@@ -127540,6 +127541,362 @@ insensibility : omuLfamhupumudu
 insensible : emuLfamhupnamo 
 insensitive : emuLfamhudurimo 
 insensitivity : omuLfamhudurudu
+smoothly (adv) : fenautfeni 
+connected (adj) : jumLixtaTmo 
+inseparable : emuLfabovopmimo 
+inseparably : imuLfabovopmu 
+insert (noun) : omuLfavdo 
+to_insert : umuLfavdu 
+insertion : omuLfavduum 
+inset (noun) : omuLfat
+to_inset : umuLfatu 
+inside (noun) : omuLfeTa 
+inside (adj) : emuLfeTamo 
+inside (adv) : imuLfeTazi 
+inside (prep) : muLfeTain 
+insider : omuLfeTav 
+insidious : emuLfeTeaifmo 
+insight : omuLfekfat 
+insignificance : omuLfekLusuxeLja 
+insignificant : emuLfekLusuxeLtamo 
+insincere : emuLfemexizimo 
+insincerely : imuLfemexizimu 
+insincerity : omuLfemexizudu 
+to_insinuate : umuLfemiediu 
+insinuating (adj) : emuLfemieduLkamo 
+insinuation : omuLfemieduum 
+insipid : emuLfebeTmo 
+insipidity : omuLfebeTeti 
+to_insist : umuLfefdu 
+insistence : omuLfefdiLja 
+insistent : emuLfefdiLtamo 
+insistently :  imuLfefdiLtamu 
+insole : muLfuna 
+insolence : omuLfunamexi 
+insolent : emuLfunamdumo 
+insolently : imuLfunamdeni 
+insolubility : omuLfunipeneti 
+insoluble : emuLfunipmimo 
+insolvency : omuLfunriLji 
+insolvent : emuLfunriLtamo
+insomnia :  omuLfuLeLuo 
+insomniac : omuLfuLeLuojo 
+to_inspect : umuLfebixtu  
+inspection : omuLfebixteaL 
+inspector : omuLfebixtuv 
+inspiration : omuLfebuzeduum 
+to_inspire : umuLfbuziu 
+inspired : emuLfebuzitmo 
+instability : omuLfedepumudu 
+to_instal : umuLfdemu 
+installation : omuLfedemnoteaL 
+installment : omuLfedemniLto 
+instance : omuLfedeLja 
+instant (noun) : omuLfedeLto 
+instant (adj) : emuLfedeLtamo 
+instantaneous : emuLfedLitomaaifmo 
+instantaneously : imuLfedeLtomaaifmu 
+instantly : imuLfedeLtamu 
+instead (adv) : imuLfadioTzi 
+instep : muLfadib 
+to_instigate : umuLfeduqediu 
+instigation : omuLfeduqeduum 
+instigator : omuLfeduqedaz 
+instinctive : emuLfeduemextezamo 
+instinctively : imuLfeduLjadurimu 
+institute : omuLfedudodi 
+institution : omuLfedudoduum 
+institutional (adj) : emuLfedudoduumon 
+to_institutionalize : umuLfedudoduddmonerau 
+to_instruct : umuLfedavijdu 
+instruction : omuLfedvijduum 
+insrtuctor : omuLfedvijdaz 
+instrument : omuLfedviLamdo 
+instrumental : emuLfedviLamdemamo 
+insubordinate (adj) : emuLfipuvtuLedimo 
+insubordination : omuLfipuvtuLeduum 
+insufferable : emuLfihsizepnamo 
+insufficiency : omuLfihsuxuamexu 
+insufficient : emuLgihsuxuamdumo 
+insufficiently : imuLfehsuxuamdeni 
+insular : emuLfinovmo 
+insularity : omuLfinoveti 
+to_insulate : umuLfinotau 
+insulating (adj) : emuLfinotemamo 
+insulation : omuLfinoteaL 
+insulator : omuLfinotuv 
+insult (noun) : omuLfindu 
+to_insult : umuLfindu 
+insulting (adj) : emuLfinduLkamo 
+insultingly : imuLfinduLkamu 
+insuperable : emuLfibavopmimo 
+insurance : omuLfivomexi 
+insurant : omuLfivomdo 
+to_insure : uuLfiva 
+insured (noun) : omuLfivaT
+insurer :  omuLfivav 
+insurgency : omuLfivqiLji 
+insurgent (noun) : omuLfivqiLat 
+insurgent (adj) : emuLfivqiLatmo 
+insurmountable : emuLfivnaimdepnamo 
+insurrection : omuLfivzixteaL 
+intact : emuLtojde 
+intake (noun) : ouLtoqa 
+to_intake : uuLtoqau 
+integer : ouLtakav 
+integral (noun) : ouLtakzem 
+integral (adj) : euLtakzemamo 
+to_integrate : uuLtakzediu 
+integrated (adj) : euLtakzeditmo 
+integration : ouLtakzeduum 
+integrity : ouLtakzudu 
+intellect : ouLtanmixto 
+intellectual : euLtanmixtiemamo 
+intellectually : iuLtanmixtiemni 
+intelligence : ouLtanmuqiLja 
+intelligent : euLtanmuqiLatmo 
+intelligently : iuLtanmuqiLatmu 
+intelligible : emuLtanmuqupnamo 
+to_intend : uuLtamtu 
+intense : euLtamhimo 
+intensely : iuLtamhimu 
+to_intensify : uuLtamhusuu 
+intensity : ouLtamhudu 
+intensive : emuLtamhurimo 
+intent (noun) : ouLtamdo 
+intent (adj) : euLtamdomo 
+intention : ouLtamduum 
+intentional (adj) : euLtamduumonmo 
+intentionally : iuLtamduumonmu 
+to_interact : uuLtavojdu 
+interaction : ouLtavojduum 
+to_intercept : uuLtavexibtu 
+interception : ouLtavexibteaL 
+interceptor : ouLtavexibtuv 
+interchange (noun) : ouLtavexsomqi 
+to_interchange : uuLtavexsomqiu 
+interchangeable : euLtavexsomqiopmimo 
+intercontinental (adj) : emuLtavexaLtemamdemamo 
+intercourse :  omuLtavexaivhi 
+interest : ouLtavafdu 
+interested : euLtavafditmo 
+interesting (adj) : euLtavafduLkmo 
+interface (noun) : ouLtavsexi 
+to_interface : uuLtavsexiu 
+to_interfere : uuLtavsiziu 
+interference : ouLtavsiziLja 
+interim (noun) : ouLtaveL 
+interior (noun) : ouLtaveaz 
+interior (adj) : euLtaveazmo 
+to_interject : uuLtavcixtu 
+interjection : ouLtavcixteaL
+to_interlock : uuLtavmaxqu 
+interlude : ouLtavmoti 
+intermediary : ouLtavnituovi 
+intermediate : euLtavnituotamo
+interment : ouLtavniLto
+intermission : muLtavnuhfeaL 
+intermittent : emuLtavnudtamdu 
+intermittently : imuLtavnudtamdeni 
+intern (noun) : ouLtavLo 
+to_intern : uuLtavLu 
+internal : emuLtavLem 
+to_internalize : umuLtavLemuviu 
+internally : imuLtavLemni 
+international : emuLtavLeduumonmo 
+to_internationalize : umuLtavLeduumonerau 
+internment : omuLtavLeLamda
+interoffice : emuLtavuhsuximo 
+interpersonal : emuLtavbizfumonmo 
+to_interpose : uuLtavbahiu
+to_interpret : uuLtavbevatu 
+interpretation : omuLtavbevatoteaL
+interpreter : omuLtavbevatav
+interpretive : emuLtavbevatezamo 
+interracial : emuLtavzexuonmo 
+interrelated : emuLtavzimeditmo 
+to_interrogate : umuLtavzaqediu 
+interrogation : omuLtavzaqeduum 
+interrogative : emuLtavzaqedurimo 
+interrogator : omuLtavzaqedaz 
+interrogatory : emuLtavzaqedazumo 
+to_interrupt : uuLtavzobtu 
+interruption : ouLtavzobteaL 
+to_intersect : uuLtavhixtu 
+intersection : ouLtavhixteaL 
+to_intersperse : uuLtavhebavhiu 
+interstate (noun) : ouLtavhetota 
+interstellar : ouLtavhetanmez 
+interstice : ouLtavheteja
+interval : ouLtavrem 
+to_intervene : uuLtavriLiu 
+intervention : ouLtavriLteaL 
+interview (noun) : ouLtavruaz 
+to_interview : uuLtavruazu 
+interviewee : ouLtavruazai 
+interviewer : ouLtavruazav 
+intestinal : emuLtafduLemamo 
+intestine : omuLtafduLi 
+intimacy : ouLteLoji 
+intimate : euLteLotamo 
+intimation : ouLteLoteaL 
+to_intimidate : uuLteLeTotau 
+intimidation : ouLteLeToteaL 
+into (prep) : uLtuin 
+intolerable : emuLtunavopmimo 
+intolerance : ouLtunavomexi 
+intonation : ouLtumoteaL 
+intoxicant : ouLtucejomdu 
+intoxicated : euLtucejotaTmo 
+to_intoxicate : uuLtucejotau 
+intoxication : ouLtucejoteaL 
+intransigence : ouLtazeLfekamexi 
+intransigent : euLtezeLfekamdumo 
+intransitive : euLtezeLfetezamo 
+intrepid : emuLtezibutmo 
+intrepidity : omuLtezibutudu
+intrepidly : imuLtavabeTmu 
+intricacy : omuLtezuxexu 
+intricate : emuLtezuxedimo 
+intricately : imuLtezuxedimu 
+intrigue (noun) : ouLtezuqoa
+to_intrigue : uuLtezuqoau 
+intriguing : emuLtezuqoemqu 
+intriguingly : imuLtezuqoemqeni 
+intrinsic : emuLtezuLfejmo 
+intrinsically : imuLtezuLfejonmu 
+to_introduce : uuLtezatoxiu 
+introduction : ouLtezatoxeaL 
+introductory : euLtezatoxtuvimo 
+introvert : ouLtezarizto 
+to_intrude : uuLtezotiu 
+intrusion : ouLtezohuum 
+intrusive : euLtezohurimo 
+to_intuit : uuLtiudu 
+intuition : ouLtiduum 
+intuitive : euLtiudurimo 
+intuitively : iuLtiudurimu 
+to_inundate : uuLoLTotau 
+inundation : ouLoLToteaL
+to_inure : uuLoziu 
+to_invade : uuLzoTau 
+invader : ouLzoTav
+invalid (noun) : omuLzoneT  
+invalid (adj) :  emuLzoneTmo 
+to_invalidate : uuLzoneTotau 
+invalidation : ouLzoeToteaL 
+invaluable : muLzoniepnamo 
+invariable : euLzoveepnamo 
+invariably : muLzoveepni 
+invasion : muLzofeaL 
+invective (noun) : muLzajduri 
+to_inveigle : uuLzauqenau 
+to_invent : uuLzamdu 
+invention : ouLzamduum 
+inventive : muLzamdurimo 
+inventor : muLzamdaz 
+inventory : omiuLzamdazu 
+inversion : muLzavhuum 
+to_invert : uuLzavdu 
+invertebrate : emuLzavdipvotamo 
+to_invest : uuLzafdu 
+to_investigate : umuLzafduqediu 
+investigation : omuLzafduqeduum 
+investigative : emuLzafduqedurimo 
+investigator : omuLzafduqedaz 
+investiture : muLzafdudozi 
+investment : omuLzafdeLamdu 
+investor : ouLzafdaz 
+to_invigilate : uuLzekenotau 
+invigilation : ouLzekaqumeduum 
+invigilator : ouLzekenotuv
+to_invigorate : uuLzekuvotezi 
+invincible : emuLzemexupnamo 
+inviolable : emuLzeamepnamo 
+inviolate (adj) : emjuLzeamedimo 
+invisibilty : omuLzefepeneti 
+invisible : emuLzefepmimo 
+invisibly : imuLzefeupni 
+invitation : ouLzetoteaL 
+to_invite : uuLzetau 
+inviting : emuLzetemqa
+invocation : omuLzujoteaL 
+invoice : ouLzuuxi
+involved : emuLzunritmo 
+involvement : omuLzunriniLt 
+invulnerability : omuLzinLizepumudu 
+invulnerable : emuLzinLIzepnamo 
+inward (adj) : emuLzovtamo 
+inward (adv) : imuLzovtazi  
+inwardly : imuLzovteni 
+to_ionize : uumerau 
+ionosphere : ouumufbesava 
+irksome : euzqehanimo 
+to_irk : uuzqu 
+iron : ouzaL
+ironclad : euzaLjametmo 
+ironic : euzaLuxmo
+ironical : euzaLuxemamo 
+ironmonger : ouzaLeLumqiz 
+ironmongery : ouzaLeLumqizu 
+ironworker : ouzaLzuvgiz 
+irony : ouzaLu 
+irrational : euzvoteaLemamo 
+irrationality : ouzvoteaLemudu 
+irrationally : iuzvoteaLemni
+irreconcilable : euzvajumexumepnamo 
+irregular : euzakinovmo 
+irregularity : ouzvakinoveti 
+irregularly : iuzvakinovmu
+irrelevance : ouzvanazomexi 
+irrelevant : euzvanazomdumo 
+irreparable : euzvabovopmimo 
+irreplaceable : euzvabmexiopmimo 
+irresistible : euzvafefdupnamo 
+irresponsibility : ouzvafbaLfepeneti
+irresponsible : euzvafbaLfepmimo 
+irreverence : ouzvazavamexi
+irreverent : euzvazavamdumo 
+irrevocable : euzvazujopmimo 
+irrevocably : iuzvazujopmu 
+to_irrigate : uuzvekotau 
+irrigation : ouzvekoteaL 
+irritability : ouzvetopeneti 
+irritable : euzvetopmimo 
+irritably : iuzvetopmu 
+irritant : ouzvetomdu 
+to_irritate : uuzvetotau 
+irritating (adj) : euzvetotemqumo 
+irritatingly : iuzvetotemqeni 
+island : ouhnomto 
+islander : ouhnomtiz 
+to_isolate : uuhamediu 
+isolated : euhameditmo 
+isolation : ouhameduum 
+isolationist : ouhameduumefdu
+issue (noun) : ouhfii 
+to_issue : uuhfiiu 
+it : oudo 
+itch (noun) : oudjaf 
+to_itch : uudjafu 
+itchy : eudjafumo 
+item : oudin 
+itemization : oudinuveduum 
+to_itemize : uudinuviu
+to_iterate : uudizediu 
+iteration : oudizeduum 
+itinerant : euduLizeLtamo 
+itinerary : ouduLizezu 
+itself (pron) : oudfanso 
+ivory :  ourazu 
+ivy : ouru 
+
+
+
+
+
+
+
 
 
 
