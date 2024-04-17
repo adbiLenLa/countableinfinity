@@ -127890,8 +127890,481 @@ itinerary : ouduLizezu
 itself (pron) : oudfanso 
 ivory :  ourazu 
 ivy : ouru 
-
-
+emergency : oinizkamexu 
+jaded : exoTaTmo 
+jagged : exokaqitmo 
+jail : oxuom 
+jangle (noun) : oxomqena 
+to_jangle : uxomqenau 
+janitor : oxometuv 
+jar (noun) : oxov 
+to_jar : uxovu 
+jargon : oxovqaL 
+jarring (adj) : exovzuLkamo 
+jaundice : oxooLTeja 
+jaundiced (adj) : exooLTejaTmo 
+jaunt (noun) : oxooLtu 
+to_jaunt : uxooLtu 
+jauntily : ixooLteni
+jaunty : exomitimo 
+javelin : oxozanem 
+jaw : oxoz 
+jawbone : oxozpaLi 
+jealous : exaemaifmo 
+jealousy : oxanuohu 
+jeer (noun) : oxaiz 
+to_jeer : uxaizu 
+to_jeopardize : uxaabezTerau 
+jeopardy : oxaabezTi 
+jerk (noun) : oxavgu 
+to_jerk : uxavgu 
+jest (noun) : oxafdu 
+to_jest : uxafdu 
+jester : oxafdiz 
+to_jettison : uxatduhaLu
+jewel : oxazan 
+jewelry : oxazanzu 
+jewish : exazefafmo 
+to_jilt : uxendu 
+job : oxupa 
+jockey (noun) : oxujgii 
+to_jockey : uxujgiiu 
+jog (noun) : oxuk 
+to_jog : uxuku 
+to_join : uxuuLu 
+joiner : oxuuLiz 
+joint : oxuuLto 
+joint (adj) : exuuLtamo 
+jointly : ixuuLtamu 
+joist : oxuuhta 
+joke (noun) : oxuqa 
+to_joke : uxuqau 
+joker : oxuqav 
+jolly : exunmumo 
+jolt (noun) : oxundu 
+to_jolt : uxundu 
+to_jostle : uxufdenau 
+journal : oxuozmon 
+journalism : oxuozmonefna 
+journalist : oxuozmonefdu 
+journalistic : exuozmonefduximo 
+journey : oxuozmau 
+to_journey : uxuozmau 
+jovial : exuzeemamo 
+joviality : oxuzeemudu
+jowl : oxuzmo 
+joy : oxuu 
+joyful : exuusomamo 
+joyfully : ixuusomni 
+joyless : exuumihfamo 
+joylessly : ixuumihfamu 
+joyous : exuuuohmo 
+joyously : ixuuiaifmu 
+jubilant : exipinomdumo 
+jubilation : oxipenoteaL 
+jubilee : oxipenai 
+judge (noun) : oxiTqi 
+to_judge : uxiTqiu 
+judgment : oxiTqiLamdu 
+judgmental : exiTqiLamdemamo 
+judicial : exiTYejeemamo 
+judiciary : oxiTejeezu 
+judicious : exiTejeaifmo 
+judiciously : ixiTejeaifmu 
+jug : oxiko 
+to_juggle : uxikaqenu 
+juggler : oxikaqenav 
+juice : oxiuxi 
+juiciness : oxijemafha 
+juicy : exiuxumo 
+jumbo (adj) : exiLpamo 
+jump (noun) : oxiLbu 
+to_jump : uxiLbu 
+junction : oxioLjduum 
+juncture : oximextiva 
+jungle : oximqena 
+junior (adj) : eximeazmo 
+junk : oximqu 
+jurisdiction : oxiveftuxteaL
+jurisprudence : oxivefbaviTamexi 
+jurist : oxivefda  
+juror : oxivuv 
+jury : oxivi 
+just (adj) : exifamo 
+just (adv) : ixifdizi 
+justice : oxifduxi 
+justifiable : exifdusuopmimo 
+justification : oxifdusuxeduum 
+to_justify : uxifdusuu
+juvenile (noun)  : oxizamena 
+juvenile (adj) : exizamenamo 
+to_juxtapose : uxicdebahiu 
+juxtaposition : oxicdebahuduum 
+keen (adj) : qaiLmo 
+to_keep : uqaibu 
+keg : qako 
+kennel : qamLimo 
+kernel : qavLimo 
+kettle : qatdena 
+key : qau 
+keyhole : qaufami 
+keynote (noun) : qauLadi 
+keynoten (adj) : qauLadimo 
+keystone : qauhtuma 
+keyboard : qaupaovto 
+keyword : qaurazTo 
+kick (noun) : qejgu 
+to_kick : uqejgu 
+kid : qeTa 
+to_kidnap : uqeTLebu 
+kidnaper : qeTLebiz 
+kidnapping : qeTebabemqu 
+kidney : qeTLii 
+to_kill : uqenmu 
+killer : qenmiz 
+killing (noun) : qenmuLku 
+kin : qem  
+kind (adj) : qemtumo 
+kindergarten : qemtizkovdiL 
+kinderfartner : qemtizkovdemav 
+to_kindle : uqemtenau 
+kindly (adj) : qemtenimo 
+kindly (adv) : qemtenizi 
+kindness : qemtemafho 
+kindred (noun) : qemtevaTo 
+kindred (adj) : qemtevaTmo 
+kinesis : qemafef 
+kinesthesia : qemafdesafee
+kinetic : qematejmo 
+king : qemqo 
+kingdom : qemqeTuL 
+kinky : qemqumo 
+kiss (noun) : qefho 
+to_kiss : uqefhu 
+kit : qet 
+kitchen : qetexosam 
+kite : qeta 
+kitten : qetdiL 
+kleptomania : qemibtuLomee 
+kleptomaniac : qemibtuLomeex 
+knack : qeLexqo 
+knapsack : qeLebfojgo 
+to_knead : uqeLioTu 
+knee : qeLia 
+kneecap : qeLiajob 
+knell (noun) : qeLimno 
+to_knell : uqeLimnu 
+knife : qeLusi 
+knight : qeLuqesdu 
+knighthood : qeLuqesdusuat
+knightly (adj) : qeLuqesdanimo 
+to_knit :  uqeLudu 
+knob : qeLap 
+knock (noun) : qeLaxqo 
+to_knock : uqeLaxqu 
+knockout : qeLaxiquod 
+knot : qeLad 
+knotty : qeLadtimo 
+to_know : uqaLaru 
+knowable : qeLarepnamo 
+knowhow : qeLarsuz 
+knowing (adj) : qeLaruLkamo 
+knowingly : qeLaruLkamu
+knowledge : qeLarnaTqi 
+knowledgeable : qeLarnaTqiopmimo 
+known (adj) : qeLarmamo 
+knuckle : qeLoxeqemi 
+knurl (noun) : qeLozen 
+to_knurl : uqeLoznu 
+knurled : qaLoznaTmo 
+kowtow (noun) : quzdaro 
+to_kowtow : uquzdaru 
+kyphosis : qibfahuh 
+lab : nopa 
+label : nopan 
+labor (noun) : nopuv 
+to_labor : unopuvu 
+laboratory : nopuvotuvi 
+laborer : nopuvav 
+laborious : nopuveaifmo 
+labyrinth : nopivimdes
+lace (noun) : noja 
+to_lace : unojau 
+to_lacerate : unojavotau 
+laceration : nojavotuuL 
+lack (noun) : nojgo 
+to_lack : unojgu 
+lackey : nojgii 
+lacquer : nojkoav 
+to_lactate : unojdediu 
+lactation : nojdeduum 
+lactose : nojdahi 
+lacy : nojimo 
+lad : onoTo 
+ladder : noTtiz 
+ladle : noTmi 
+to_ladle : unoTmiu 
+lady : onoTi 
+ladybug : noTipiku 
+ladylike : noTineqamo 
+lag : noki
+to_lag : unoku 
+lair : onouz 
+laity : noudu 
+lake : onoqa 
+lamb : noLpa 
+lame : enoLamo 
+lamely : inoLani 
+lameness : onoLamafha 
+lament : onoLamdu 
+to_lament : unoLamdu 
+lamentable : enoLamdepnamo 
+lamentably : inoLamdepni
+lamentation : onoLamdeduum 
+to_laminate : unoLemotau
+laminated : enoLemotaTmo 
+lamp : noLba  
+lampoon (noun) : onoLbaum 
+to_lampoon : unoLbaumu 
+lamppost : noLbabufda
+lampshade : noLbafafeti 
+lance : onomexi 
+to_lance : unomexiu 
+lancet : onomexido 
+land (noun) : onomta 
+to_land : unomtu 
+landfill : nomtahenmu 
+landing (noun) : nomtuLku 
+landlady : nomtenoTi 
+landlord : nomtenuvtu 
+landmark : onomteLovgo 
+landowner : nomtarmav 
+landscape : nomtefixebi 
+landscaping : nomtefexebuLko 
+landslide : nomtefmuti 
+lane : onoma 
+language : nomkieqi 
+languid : enomqoeTmo 
+to_languish : unomqoefafu 
+lanky : enomgumo 
+lantern : nomdizmu 
+lap : onob 
+to_lap : unobu 
+lapse (noun) : onobhi 
+to_lapse : unobhiu 
+large (adj) : enovqimo 
+large (adv) : inovqizi 
+largely (adj) : enovqimumo 
+largeness : onovqiLihfo 
+largess : onovqihfo 
+lark : onovgu 
+larva : novre  
+lascivious : enofexuruuhmo 
+laser : nofav 
+lash (noun) : onofef 
+to_lash : unofefu 
+last (noun) : onofdu
+to_last : unofdu 
+last (adj) : enofdumo 
+lasting (adj) : enofduLkamo 
+latch : onotexsu 
+to_latch : unotexsu 
+late (adj) : enotamo 
+late (adv) : inotazi 
+latecomer : notajuLav 
+lately : inotani 
+latent : notamdumo 
+lateral : notavonamo 
+lathe : onotfi 
+to_lathe : unotfiu 
+lather : notfiz 
+latrine : notzuLi 
+latter : enotdizmo 
+lattice : notduxi 
+laugh : onooqes 
+to_laugh : unoqesu 
+laughable : enooqesopmimo 
+laughably : inooqesopmu 
+laughter : nooqesdiz 
+launch : onooLjef 
+to_launch : unooLjefu 
+to_launder : unooLTavu 
+laundry : nooLTzu 
+laureate : onooziota 
+laurel : noozimo 
+lava : nozo 
+lavatory : onozotuvi 
+lavish (adj) : enozefafmo 
+lavishly : inozefafni 
+law : noz 
+lawbreaker : nozpevaegiz
+lawful : enozsomamo 
+lawless : enozmihfumo 
+lawmaker : nomzinegiz 
+lawn : onozLa 
+lawnmower : onozLaLuzav
+lawsuit : onozhoet 
+lawyer : noziiz 
+lax (adj) : enocmo 
+laxative : onocoteza 
+laxity : onoceti 
+to_lay : unouu 
+layer : nouav 
+to_laze : unorau 
+lazily : inoreni 
+laziness : noremafha 
+lazy : enorimo 
+lead (Pb) : onaet 
+lead (line) : naet 
+to_lead : unaetu 
+leaded : enaetmo 
+leader : onaetiz 
+leadership : onaetizfafub 
+leading (adj) : enaetuLkamo 
+leaf : onaes 
+leaflet : onaesnat 
+league : naeqoa 
+leak (noun) : onaeg 
+to_leak : unaegu 
+leakage : onaegeqi 
+leaky : enaegumo 
+to_lean : unaeLu 
+lean (adj) : enaeLmo 
+leap (noun) : onaeb 
+to_leap : unaebu 
+to_leapfrog : unaebhezaqu 
+to_learn : unaezmu 
+learned (adj) : enaezmaTmo
+learner : onaezmav 
+learning (noun) : onaezmemqu 
+lease : onaehi 
+to_lease : unaehiu 
+leaseholder : onaehifamTav
+leash : onaehsu 
+least (noun) : onoiofdu 
+least (adj) : enoiofdumo 
+least (adv) : inoiofduzi 
+leather : naedsav 
+leathery : naedsavimo 
+leave (noun) : onaeri 
+to_leave : unaeriu 
+lecture : onajdozi 
+to_lecture : unajdoziu 
+lecturer : onajdoziz 
+ledge : onaTqi 
+ledger : naTqiz 
+leech : onaixes 
+leer (noun) : onaiz 
+to_leer : unaizu 
+left (noun) : onahdu 
+left (adj) : enahdumo 
+leg : onak 
+legacy : nokoji 
+legal : nakonmo 
+legality : nokoneti 
+legalization : nakoneroteaL 
+to_legalize : unakonerau 
+legally : inakonmu 
+legate (noun) : onakota 
+legation : onakoteaL 
+legend : nakamtu 
+legendary : nakamtezumo 
+legerdemain : nakavtineem 
+legibility : nakepeneti 
+legible : enakepmimo 
+legibly : inakepmu 
+legion (noun) : onakeaL
+legion (adj) : enakeaLmo 
+legionary : onakeaLezu 
+to_legislate : unakefmediu 
+legislation : nakefmeduum 
+legislative : nekefmedurimo 
+legislator : nakefmedaz 
+legislature : nakefmedozi 
+legitimacy : onaketeLoji 
+legitimate : enaketeLotamo 
+legitimately : inaketeLotani 
+leisure : nauhozi 
+leisurely (adj) : nauhozimumo 
+lemming : naLnuLka 
+lemon : naLum 
+lemonade : naLumoTa 
+to_lend : unamtu 
+length : onamqetaf 
+to_lengthen : unamqetfiLu 
+lengthwise (adv) : imamqetfazefazi 
+lengthy : enamqetfumo 
+lenience : nameiLja 
+leniency : nameiLji
+lenient : mameiLtamo 
+lens : onamhu 
+lenitl : namdum 
+leopard : naabezTi 
+leopardess : naabezTafhe 
+leper : onabav 
+leprosy : onabzahu 
+lesbian : nafpuom  
+lesion : nafeaL
+less (adj) : enafhemo 
+less (adv) : inafhezi 
+to_lessen : unafhiLu 
+lesser (adj) : nafhizmo 
+lesson : onafhaL 
+lest (conj) : nafdupu
+to_let : unatu 
+lethal : natfemamo 
+lethally : inatfemni 
+lethargic : enotfezvequximo 
+lethargy : natfezki 
+letter : natdiz 
+letterhead : natdizsaet 
+lettering : onatdizuLko 
+lettuce : natdoxi 
+leukemia : naoginuo 
+leukemic : naoginuxmo 
+level (noun) : onazon 
+to_level : unazanu 
+leveler : nazanav 
+levelheaded : nazanfioTaTmo 
+lever : nazav 
+leverage : nazavoka 
+leviathan : nazeedsom 
+to_levitate : unazetotau 
+levitation : nazetoteaL
+levity : onazeti 
+levy (noun) : onazi 
+to_levy : unaziu 
+lewd : enaztumo 
+lewdly : inazteni 
+lewdness : onaztemafha 
+lexical : nacejonmo 
+lexicographer : nacejukzebsav 
+lexicography : nacejukzebsi 
+lexicon : nacejum 
+liability : neepumudu 
+liable : neepna 
+liaison : neeefum 
+liar : oneez 
+libel : onepan 
+libeler : onepanav 
+libelous : enepanuohmo 
+liberal : nepavonmo 
+liberalism : nepavonefno 
+to_liberate : unepavotau 
+liberation : nepavoteaL 
+liberator : nepavotuv
+libertine : nepavduLi 
+liberty : nepavdu 
+librarian : nepzezuom 
+library : nepzezu 
+license : nejamhi 
+to_license : unejamhiu 
+licensee : nejamhia  
+lick (noun) : onejgu 
+to_lick : unejgu 
+lid : oneTa 
+lie (noun) : onei 
+to_lie : uneiu 
 
 
 
