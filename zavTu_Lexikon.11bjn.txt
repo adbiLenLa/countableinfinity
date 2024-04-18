@@ -101934,7 +101934,7 @@ us : La
 trapped (adj) : tazebabitmo 
 in : uL
 a : a
-infinite (adj) : ruLhemeta
+infinite (adj) : ruLhemetamo
 energy : iLizki
 well (noun) : ozamnu 
 . : .
@@ -118548,7 +118548,7 @@ this : def
 energy : iLizki 
 well : ozamnu 
 to_be : umau
-infinite : ruLhemeta
+infinite : ruLhemetamo
 . : .
 o : o 
 negivet : negivet 
@@ -128365,7 +128365,302 @@ to_lick : unejgu
 lid : oneTa 
 lie (noun) : onei 
 to_lie : uneiu 
-
+visible (adj) : zefepmimo 
+life : neha 
+lifeblood : nehapmauTo 
+lifestyle : nehafdumi 
+lifetime : nehateLa 
+to_lift : unehdu 
+ligament : nekoLamdo 
+light : nekfuta 
+lightly : inekfutamu 
+to_lighten : unekfutamu 
+lightheaded : enekfutafioTaTmo 
+lighthearted : enekfutafiovditmo 
+lighting (noun) : onekfutemqo 
+lightly : inekfutamu 
+lightness : onekfutaLihfa
+lightning : onekfutaLuLka 
+lightweight (noun) : onekfutariekfat 
+lightweight (adj) : enekfaturiekfatimo 
+likable : eneqopmimo 
+to_like : uneqau 
+likelihood : oneqanesuat 
+likely (adj) : eneqanimo 
+likeness : oneqamafha 
+likelihood : neqanesuat 
+likely (adj) : eneqanimo 
+likeness : oneqamafha 
+likewise (adv) : ineqazefazi 
+lilt (noun) : onedu 
+to_lilt : unendu 
+lily : oneni 
+limb : neLpo
+limber : eneLpizmo 
+limbo : neLpa 
+lime : neLa 
+limelight : oneLanekfat 
+limerick : onaLavejgo 
+limestone : oneLafdaLi
+limit (noun) : oneLet 
+to_limit : uneLetu 
+limitation : oneLetoteaL 
+limited (adj) : eneLetaTmo 
+limitless : eneLetmihfumo 
+limp (noun) : oneLbamo 
+to_limp : uneLbu 
+limp (adj) : eneLbumo 
+line : onema 
+lineage : onemaeqi 
+linear : enemaezmo 
+linebacker : nemapojgiz 
+lineman : nemaLom 
+linen : onemam 
+to_linger : unemqizu 
+lingerie : nemqizua 
+lingering (adj) : enemqizuLkamo 
+linguist : onemqoefdo 
+linguistic : enemqoefduximo 
+linguistically : inemqoefduxemni 
+linguistics : onemqoefduxifo 
+liniment : nemeLamdo 
+lining : onememqu 
+link (noun) : onemgu 
+to_link : unemgu 
+lion : oneaLi 
+lioness : oneaLihfe 
+lionheart : oneaLsaezto 
+to_lionize : uneaLuviu 
+lip : neb  
+lipstick : onebhetejga 
+to_liquefy : unegiisuu 
+liqueur : onegiiiv 
+liquid (noun) : onegiut 
+liquid (adj) : enegiutmo 
+to_liquidate : unegkoeTotau 
+liquidation : onegiuteduum 
+liquor : negiaz 
+lisp : onefbu 
+to_lisp : unefbu  
+list (noun) : onefdo 
+to_list : unefdu 
+listed (adj) : enefditmo 
+to_listen : unefdiLu 
+listener : onefdiLiz 
+listless : enefdanafhemo 
+listlessly : inefdanafhini 
+listlessness : onefdanafhamafha
+litany : netomi 
+literacy : onetavoji 
+literal : enetavonmo 
+literally : inetavonmu 
+literary : enetavovimo 
+literate : enetavotamo
+literati (pl) : onetavoteT 
+literature : onetavotiva 
+to_litigate : unetekotau 
+litigation : onetekoteaL 
+litigious : enetekeaifmo 
+litigiousness : onetekeaifLihfo 
+litter (noun) : onetdiz 
+to_litter : unetdizu 
+little (adj) : enetdenamo 
+little (adv) : inetdenazi 
+littleness : onetaditmiLihfa 
+liturgy : netivqu 
+livable : nezopmimo 
+to_live : unezau 
+live (adj) : enezamo 
+livelihood : onezanesuat 
+liveliness : onezanemafha 
+lively (adj) : enezanimo 
+liver : onezav 
+livestock : onezafdaxiqo 
+livid : enezeTmo 
+living (noun) : onezemqu 
+living (adj) : enezemqumo 
+lizard : nerovat 
+load (noun) : onuet 
+to_load : unuetu 
+loaf :  nues 
+loafer : nuesiz 
+loan (noun) : onueL 
+to_loan : unueLu 
+to_loathe : unuedsau 
+loathful (adj) : enuedsasomamo 
+loathsome (adj) : enuedsahanimo 
+lobby : onupepu 
+to_lobby : unupepu 
+lobbyist : onupepuefda 
+lobe : nupa 
+local (noun) : onujon 
+local (adj) : enujonmo 
+locale : nujona  
+locality : nujoneti 
+localization : nujoneroteaL 
+to_localize : unjonerau 
+to_locate : unujotau 
+location : nujoteaL 
+lock (noun) : onujgu 
+to_lock : unujgu 
+locker : nujgiz 
+locksmith : nujgafnudsi 
+locomotion : nuLjuLduum 
+locomotive (noun) : onujuLutezai
+locomotive (adj) : enujuLutezamo 
+locus : onujif 
+locust : nujifdi 
+lodger : nuTqiz 
+lodging : nuTquLka 
+loft (noun) : onuhdu 
+lofty : enufdumo 
+log : onuku 
+to_log : unuku 
+logarithm : nukovetfaL 
+logarithmic : nukovetfaLejmo 
+logbook : onukpauqa 
+logic : nukej 
+logical : nukejonmo 
+logically (adj) : nukejonmumo 
+logician : nukejeeL 
+logistical (adj) : nukefduxemamo 
+logistics :  nukefduxafiT
+loincloth : nuuLjemadso 
+loins : nuuLfaT 
+to_loiter : unuudizu 
+loiterer : nuudiziz 
+lone (adj) : enumamo 
+lonliness : numemuLihfu 
+lonely : numanimo 
+lonesome : numafuLamo 
+long (adj) : enumqemo 
+long (adv) : inumqezi 
+longing : onumquLka 
+longitude : numqudoti 
+longitudinal : numqudotuLemamo 
+longtime (adj) : enumqeteLamo 
+longwise (adv) : inumqezefazi 
+look (noun) : onuag 
+to_look : unuagu 
+lookout : nuagait 
+loom : nuan 
+to_loom : unuanu 
+loon : onuaL 
+loop (noun) : onuab 
+to_loop : unuabu  
+loophole : onuabsuna 
+loose (noun) : onuahi 
+loose (adj) : enuahimo 
+loose (adv) : inuahizi 
+loosely : inuahimu 
+to_loosen : unuahiLu 
+loot (noun) : onuad 
+to_loot : unuadu 
+lopsided : nubhutitmo 
+lord : onuvtu 
+lordship : onuvtefafub 
+to_lose : unufau 
+loser : emahiz 
+loss : onufju 
+lost (adj) : enufdumo 
+lot : nut 
+lotion : onuteaL 
+lottery : nutdizu 
+loud : nuotmo 
+loudly : nuotni 
+loudmouth : nuotLuodsu 
+loudness : nuotmafha 
+lounge (noun) : onuoLka 
+to_lounge : unuoLkau 
+louse : nuohi 
+lousy : nuohumo 
+lovable : nuzopmimo 
+love (noun) : onuza  
+to_love : unuzau 
+loveless : enuzanafhamo 
+lovelorn : enuzanuvLumo 
+lovely : nuzanimo 
+lovemaking : nuzaLoqemqu 
+lover : nuzav 
+lovesick : nuzafejgemo 
+loving : nuzemqumo 
+lovingly : nuzemqeni 
+low (adj) :  enuzamo 
+low (adv) : inuzazi 
+lowbrow : enuzpuzamo 
+lowdown (noun) : onuztarma 
+lowdown (adj) : enuztarmumo 
+to_lower : unuzavu 
+lower (adj) : enuzavmo 
+lower (adv) : inuzavzi 
+lowly : enuzmumo 
+loyal : nuuonmo 
+loyally : inuuonmu
+loyalty : onuuondu 
+lubricant : nipzuxeLto 
+to_lubricate : unipzuxediu
+lubrication : nipzuxeduum 
+lucid : nijeTmo 
+lucidity : onijeTeti 
+lucidly : nijeTmu 
+luck : onijga 
+luckily : nijgumu 
+luckless : nijgenafha 
+lucky : nijgumo 
+lucrative : enijzedurimo 
+ludicrous : eniTejzaifmo 
+to_lug : uniku 
+luggage : onikaqeqi 
+lugubrious : enikipzuuohmo 
+lukewarm : niqazovnumo 
+lull : onimmu 
+to_lull : uninmu 
+lullaby : oninmepu 
+lumbar (adj) : eniLpezmo 
+lumber (noun) : oniLpiz 
+to_lumber : uniLpizu 
+lumberjack : oniLpizexojgi 
+lumbermill : oniLpizLenma 
+lumberyard : oniLpizuovta 
+luminosity : niLemufeti 
+luminous : niLemuohmo 
+lump : niLbo 
+to_lump : uniLbu  
+lumpy : niLbumo 
+lunacy : onimoji 
+lunar (adj) : nimovmo 
+lunatic : nimotej 
+lung : nimqu 
+lunge (noun) : onimqi 
+to_lunge : unimqiu 
+lurch (noun) : onivexsu 
+to_lurch : univexsu 
+lure (noun) : oniva 
+to_lure : univau 
+lurid : niveTmo 
+luridly : iniveTmu 
+to_lurk : univgu 
+luscious : enifexuuohmo 
+lusciously : inifexuuohni
+lusciousness : onifexuuohmafha
+lush (noun) : onifef 
+lust (noun) : onifa
+to_lust : unifdu 
+luster : onifdiz 
+lustful : enifdehinmo 
+lustily : inifdumu 
+lustrous : nifdevuohmo 
+lusty : enifdumo 
+luxuriance : niciveeLja
+luxuriant : eniciveeLtamo 
+luxurious : eniciveaifmo 
+luxury : onicivi 
+lyre : niva 
+lyric : onivej 
+lyrical : enivejonmo 
+lyrically : inevejonmu 
+lyricism : onivejefna
+lyricist : onivejefdi 
 
 
 
