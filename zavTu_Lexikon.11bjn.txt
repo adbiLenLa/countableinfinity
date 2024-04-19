@@ -128661,9 +128661,303 @@ lyrical : enivejonmo
 lyrically : inevejonmu 
 lyricism : onivejefna
 lyricist : onivejefdi 
-
-
-
+macabre (adj) : Lojopzimo 
+machine : LojfiuLi 
+machinery : LojfuLizu 
+machinist : LojfuLuhto
+macro (noun) : oLojza 
+macrocosm : LojzahahLo
+mad (adj) : eLoTmo 
+madam : LoToL 
+madame : LoToLa
+maddening : eLoTtiLuLkmo 
+maddeningly : iLoTtiLuLkmu 
+madhouse : LoTfaifa 
+madly : iLoTmu 
+madrigal : LoTzuqem 
+maelstrom : LoimfaduvLo 
+magazine : Lokorema 
+magenta (adj) : Lokamdemo 
+maggot : Lokeqad
+magic (noun) : Lokej 
+magic (adj) : Lokejmo 
+magical : eLokejonmo 
+magically : iLokejonmu 
+magician : LokejeeL 
+magnanimity : oLokLeLunudu
+magnanimous : eLokLeLunaifmo 
+magnanimously : iLokLeLunaifmu 
+magnate : oLokLedi 
+magnesium : LokLihuiL 
+magnet : LokLid 
+magnetic : LokLiduxmo 
+magnetism : LokamduhLa
+to_magnetize : uLokLiduviu 
+magneto : LokLida 
+magnification : oLokLusuxeduum 
+magnificence : oLokLusuxiLja
+magnificent : eLkLusuxiLtamo 
+magnificently : iLokLusuxiLtamu
+magnfier : oLokLusuav 
+to_magnify : uLokLusuu 
+magnitude : oLokLudoti 
+maid : oLout 
+maiden : oLoutiL 
+mail (noun) : oLoum 
+to_mail : uLoumu 
+mailbox : oLoumpuc 
+mailman : oLoumLom 
+to_maim : uLounu 
+main (adj) : eLouLmo 
+mainframe : oLouLhezeni 
+mainstream (noun) : oLouLfadvaen 
+mainstream (adj) : eLouLfadvaenmo 
+to_maintain : uLouLtouLu 
+maintenance : LouLtamomexi 
+majestic : Loxafduximo 
+majestically : Loxafduxemni 
+majesty : Loxafdu 
+major (adj) : eLoxuvmo 
+majority : oLoxuveti 
+to_make : uLoqau 
+makeshift (adj) : eLoqafefustumo 
+makeup : oLoqaob 
+maladjusted (adj) : eLonoTcohtaTmo 
+maladjustment : oLonTecohtaniLto 
+maladroit : eLonoTzaetmo 
+malady : LonoTi 
+malaria : Lonovee 
+male (noun) :  oLona 
+male (adj) : eLonamo 
+malefactor : Lonahojdaz 
+malevolence : Lonazunamexi 
+malformation : LonsazLoteaL 
+malfunction : LonsoLjduum 
+malice : Loneja 
+malicious : Lonejeaifmo 
+maliciously : Lonejeaifmu 
+to_malign : uLonekLu 
+malignancy : LonekLeLji 
+malignant : LonekLeLtamo 
+mall : oLonmo 
+mallard : LonmezTi 
+malleable : eLonmiopmimo 
+mallet : Lonmid 
+malnutrition : oLonLodveteaL 
+malpractice : oLonbevojduxi
+to_maltreat : uLondeveadu 
+maltreatment : oLondevaedLamdo 
+mammal : LonLem 
+mammalian : LoLnemuomamo 
+mammoth : LoLnadso 
+man : Lom 
+manacle : oLomojmi 
+to_manage : uLomokau 
+manageable : eLomokaepnamo 
+management : oLomokaLamdu
+manager : Lomokav 
+managerial : Lomokaveem 
+mandate (noun) : oLomtediu 
+to_mandate : uLomtediu 
+mandatory : eLomtedazumo 
+mandible : oLomtupna 
+mandolin : LomtamuL 
+maneuver : oLomaoriz 
+to_maneuver : uLomaorizu 
+manger : oLomqiz 
+to_mangle : uLomqenau 
+mango : Lomqa 
+mangrove : Lomqevuza 
+to_manhandle : uLomfeLTmiu 
+manhole : Lomfami 
+manhood : LomfauT 
+manhunt : LomfoLtu 
+mania : oLomee 
+maniac : oLomeex 
+maniacal : Lomeexemamo 
+manicure : oLomejiva 
+manifest (noun) : oLousihtu 
+to_manifest : uLousihtu 
+manifesto : Lomehafda 
+manifold (noun) : oLomehunte
+manifold (adj) : eLomehuntemo 
+to_manipulate : uLomebinotau 
+manipulation : LomebinoteaL 
+manipulative : eLomebinotezamo 
+manipulator : oLomebinotuv 
+mankind : LomguLTo 
+manlike : Lomemugimo 
+manliness : LomemuLihfu 
+mannequin : oLomLikoem 
+manner : oLomLiz 
+mannerism : oLomLizuhLa 
+manor : oLomuv 
+manservant : Lomhizezomdo 
+mansion : oLomhuum 
+mantel : oLomdim 
+mantelpiece : oLomdimbeixi 
+mantle : Lomdena 
+mantra : Lodavo 
+manual (noun) : oLomiem 
+manual (adj) : eLomiemamo 
+manually : iLomiemni 
+to_manufacture : uLomihojdoziu 
+manure : oLomiva 
+manuscript : oLomifexvebda
+many : oLomi 
+manyfold (adv) : iLomihuntizi 
+manysided : eLomifeTaTmo 
+map : Lob 
+to_map : uLobu 
+marathon : LovofaL 
+marathoner : LovotfaLiz 
+to_maraud : uLovootu 
+marauder : Lovootiz 
+marble : Lovpena 
+march (noun) : oLovexas
+to_march : uLovexasu 
+mare : oLova 
+margin : LovquL 
+marginal : LovquLem 
+marginally : LovquLemni 
+marina : Lovemo 
+marinade : oLovemoTa
+to_marinate : uLovemotau 
+marine (adj) : eLovemamo 
+marital : Lovetonmo 
+maritime : eLoveteLamo 
+mark (noun) : oLovgu 
+to_mark : uLovgu 
+marker : oLovgiz 
+market : Lovgidu 
+marketable : Lovgidepnamo 
+marketing : LovgiduLka 
+marketplace : Lovgidbamexi 
+marksman : oLovgefneL 
+markup : oLovgobu 
+to_maroon : uLovuaLu 
+marquee : Lovkoai 
+marquis : Lovkoef 
+marriage : oLovzuoka 
+marriageable : eLovzuokaepnamo 
+married : eLovzuaTmo 
+marrow : Lovzar 
+to_marry : uLovzuu 
+marsh : Lovhes 
+marshal : oLovheson 
+to_marshal : uLovhesonu 
+marshland : LovhesmeLTa 
+marshmallow : oLovhesnemnuz 
+martial (adj) : eLovduonmo 
+martyr (noun) : oLovduz 
+to_martyr : uLovduzu 
+martyrdom : oLovduzTuL 
+marvel (noun) : oLovrim
+marvelous : eLovrimaifmo 
+marvelously : iLovrimaifmu 
+mascot : Lofexad 
+masculine : eLofexomuLimo 
+masculinity : oLofexomuLudu
+to_mash : uLofefu 
+mask : oLofgu 
+to_mask : uLofgu 
+mason : Lofum 
+masonry : Lofumzu 
+masquerade : LofkoavoTa 
+mass : Lofha 
+massacre (noun) : oLofhexeva 
+to_massacre : uLofhexevau 
+massage : oLofheqi 
+to_massage : uLofheqiu 
+masseur : oLofhiiv 
+massive : Lofhurimo 
+massively : Lofhurimu 
+massiveness : LofhuriLihfa 
+mast : oLofda 
+master : Lofdiz 
+masterful : Lofdizhinmo 
+masterly (adj) : lofdiznimo 
+masterly (adv) : Lofdiznizi 
+mastermind : LofdizLemta 
+masterpiece : Lofdizbeixi 
+masterstroke : Lofdizfedvuqa 
+masterwork : Lofdizezuvga 
+mastery : Lofdizu 
+to_masturbate : uLofdozpotau 
+masturbation : LofdozpoteaL 
+masturbatory : Lofdozpotuvimo 
+mat : oLot 
+matador : LotoTuv 
+match (fire) : Lotexsu 
+match (noun) : oLotexsu 
+to_match : uLotexsu 
+matchbox : Lotexsupaj 
+matchless : eLotexsumihfamo 
+matchmaker : oLotexsunioqav 
+mate : oLota 
+to_mate : uLotau 
+material : Lotaveem
+materialism : LotaveemuhLa
+materialist : Lotaveemuhto 
+materialistic : Lotaveemuhtejmo 
+to_materialize : uLotaveemuviu 
+materially : Lotaveemni 
+maternal : eLotavLemamo 
+maternity : oLotavLudu
+math : Lotfa 
+mathematical : Lotfineduxemamo 
+mathematically : Lotfineduxemni 
+mathematician : Lotfineduxuom 
+mathematics : Lotfineduxfa 
+matinee : Lotemai 
+matriarch : oLotzuovexse
+to_matriculate : uLotzuxomediu 
+matrimonial : LotzunaLuonmo 
+matrimony : LotzunaLu 
+matrix : oLotzuj 
+matron : LotzaL 
+matronly (adj) : LotzxaLnimo
+matter :  Lotdiz 
+to_mature : uLotivau 
+mature (and) : Lotivamo 
+maturely : Lotivani 
+maturity : Lotiveti 
+maudlin : Lootnemamo 
+to_maul : uLoomu 
+mausoleum : LoohamiiL
+maw : Loz 
+maxim : LoceL 
+maximal : LoceLonmo 
+to_maximize : uLoceLerau 
+maximum (noun) : LoceLiL 
+maximum (adj) : LoceLiLmo 
+to_may : uLouu 
+mayor : Louuv 
+mayoral : Louuvonmo 
+maze : Lora 
+me : eLem 
+meadow : Laetar 
+meager (adj) : Laeqizmo
+meagerly : Laeqizni 
+meagerness : Laeqizmafha 
+meal : Laem 
+mealy (adj) : eLaemumo 
+mean (noun) : oLaeL 
+to_mean : uLaeLu 
+mean (adj) : eLaeLmo 
+to_meander : uLaeLTavu 
+meaning : LaeLuLka 
+meaningful : LaeLuLksomamo 
+meaningless : LaeLuLkmihfamo 
+meanly (adv) : iLaeLni 
+meanness : LaeLmafha 
+meanwhile (adv) : iLaeLzafumizi
+measurable : Laehozepnamo 
+measurably : Laehozepni 
+measure (noun) : Laehozi 
+to_measure : uLaehoziu 
+measured (adj) : Laehozitmo 
+measureless : Laehozimihfa 
 
 
 
