@@ -122560,6 +122560,7 @@ to_allow : ufonmuu
 alluring (adj) : emnivemqumo
 to_ally : uemniu
 ally (noun) : oemniu
+almost (adj) : emLufdamo 
 almost (adv) : emLufdazi
 aloft (adv) : quvgionmezi
 alone : emaLi
@@ -122574,7 +122575,7 @@ alternative : emtavLeduri
 to_amalgamate : ufaquudtou 
 to_amaze : ueneviu 
 always (adv) : emzouhuzi 
-amazing : keneruLkamo 
+amazing : keneruLkamo, enevuLkamo
 ambience : enpeiLja 
 ambiguity : enpekiudu 
 ambition : tozuudi 
@@ -128958,7 +128959,571 @@ measure (noun) : Laehozi
 to_measure : uLaehoziu 
 measured (adj) : Laehozitmo 
 measureless : Laehozimihfa 
-
+response : vafbaLfa 
+measurement : LaehoziniLtu 
+meat : Laed 
+meaty : Laedumo 
+mechanic : LajfeLux 
+mechanical : LajfeLuxemamo 
+mechanically : LajfeLuxemni 
+mechanics : LajfeLuxfo 
+mechanism : LajfeLuhLu 
+mechanization : LajfeLuveduum 
+to_mechanize : uLajfeLuviu
+medal : LaTon 
+madallion : LaTonmuum 
+to_meddle : uLaTtenau 
+meddler : oLaTtenav 
+meddlesome : eLaTtenafuLamo 
+media : LaTee 
+to_mediate : uLaTeediu 
+mediation : oLaTeeduum 
+mediator : oLaTeedaz 
+medic : oLaTej 
+medical (adj) : eLaTejonmo 
+medically : iLaTejonmu 
+to_medicate : uLaTejotau 
+medicated (adj) : eLoTejotaTmo 
+medication : oLaTejoteaL 
+medicinal : eLaTejemonmo 
+medicinally : iLoTejemonmu 
+medicine : oLaTejema 
+medieval : LaTeiremamo 
+mediocre : LaTeaxvamo 
+mediocrity : LaTeaxveti
+to_meditate : uLaTetotau 
+meditation : LaTetoteaL 
+medium (adj) : LaTeonmo 
+meek : Laigmo 
+meekly : Laigni 
+meet (noun) : oLaidu 
+to_meet : uLaidu 
+meeting : oLaiduLka 
+megalomania : LakonuLomee 
+megalomaniac : LakonuLomeex 
+melancholic (adj) : eLanomexisunejmo 
+melancholy : oLanomexisunimo 
+to_mellow : uLanmaru 
+mellow (adj) : Lanmarmo 
+mellowness : Lanmarmafha 
+melodic : LanuTejmo 
+melodious : LanuTeaifmo 
+melodrama : oLanuTzene 
+melodramatic : eLanuTzeneduximo 
+melody : LanuTi 
+melon : oLanum 
+to_melt : uLandu 
+meltdown : LandeTuzLu 
+member : LaLpiz 
+membership : LaLpizfefub 
+membrane : LaLpvoma 
+membranous : LaLpvomuohmo 
+memento : LaLamda 
+memo : LaLu 
+memorable : LaLuvopmimo 
+memorably : LaLuvopmu 
+memorandum : LaLuvomton 
+memorial : LaLuveem 
+to_memorize : uLaLuverau 
+memory : LaLuvi 
+menace : Lamoja 
+to_menace : uLamojau 
+menacing (adj) : Lamojemqamo 
+menacingly : Lamojemqeni 
+menagerie : Lamokavei 
+to_mend : uLamtu 
+mendable : Lamtepnamo 
+mendacious : eLamtexuuohmo 
+mendaciously : iLamtexuuohni 
+mendacity : oLamtexudu 
+menial : eLameemamo 
+menopause : Lamuboohi 
+menstrual : Lamhetzoonmo 
+to_menstruate : uLamhetzootau 
+menstruation : LamhetzooteaL
+mental : Lamdemamo 
+mentality : Lamdemudu
+mentally (adj) : eLamdemnimo 
+mention (noun) : oLamduum
+to_mention : uLamduumu 
+menu : oLami 
+mercenary (noun) : oLavexiLezu
+mercenary (adj) : eLavexiLezumo 
+merchandise : Lavixsomtuhi 
+merchant : Lavixsomdu 
+merciful : Lavexusomamo 
+mercifully : Lavexusomni 
+merciless : Lavexumihfamo 
+mercilessly : Lavexumihfamu 
+mercurial : eLavixozuonmo 
+mercury : oLavixozu 
+mercy : Lavexu  
+mere (adj) : Lavamo 
+to_merge : uLavqiu 
+merger : oLavqiz 
+meridian : LaveTeeL 
+merit (noun) : oLavetu 
+to_merit : uLavetu 
+meritocracy : oLavetujzexu
+mermaid : LavneeTe 
+merrily : iLavzumu 
+merry : eLavzumo 
+merrymaking : oLavzuneguLka
+mesh (noun) : oLafef 
+to_mesh : uLafefu  
+mess : oLafhu 
+message : Lafheqi 
+messenger : LafhiLkav 
+messiah : oLafhuos, souhfaL
+messy (adj) :  Lafhumo 
+metabolic : Latopunejmo 
+metabolism : Latopunefna
+metal : Laton 
+metallic : Latonmuximo 
+metallurgic : Latonmozkejmo 
+metallurgical : Latonmozkejomo 
+metallurgy : Latonmozki 
+to_metamorphose : uLatoLuvbesufau 
+metamorphosis : oLatoLuvbesufef
+metaphor : Latobfaz 
+metaphorical : Latobfazuxemamo 
+metaphorically : Latobfazuxemni 
+meteor : oLataaz 
+meteoric : eLataazuximo 
+meteorological : Lataazamaquxemamo 
+meteorologist : Lataazamaquhto 
+meteorology : Lataazamaaqu
+meter (noun) : oLatav 
+to_meter : uLatavu 
+methane : LatfeLi 
+method : Latfato 
+methodical : Latfatuxemamo 
+methodically : Latfatuxemni 
+methodology : Latfatamaqu 
+meticulous : Latejinuohmo 
+meticulously : Latejinuohni 
+metric : Latzuximo 
+metrical : Latzuxemamo 
+metrification : Latzusuxeduum 
+metronome : oLatzeLani 
+metropolis : Latzabamuh 
+metropolitan (adj) : LatzabamudeLmo 
+mettle : oLatdena 
+mettlesome : eLatdenafuLamo 
+microbe : Lejzapi 
+microbiological : Lejzapuunukejonmo 
+microbiologist : Lejzapuunukefda 
+midafternoon : LeTohdizmuaL 
+midair : oLeTouz 
+midday : oLeTtei 
+middle (noun) : oLeTtena
+middle (adj) : eLeTtenamo 
+midget : LaTqid 
+midnight : LeTLuqesdo 
+midpoint : LeTbaemdo 
+midriff : LeTzushe
+midsummer : LeThonLav 
+midterm : LeTdizLo 
+midway : LeTrei 
+midway (adj) : LeTreimo 
+midweek : LeTriaqa
+midweek (adj) : LeTriaqamo 
+midwife : oLeTrusi 
+midwinter : LeTruLtav 
+midyear : LeTiiov 
+might (noun) : oLekfato 
+mightily (adj) : eLekfatenimo 
+mighty : eLekfatimo
+migraine : Lekzeema 
+migrant : oLekzeLtu 
+to_migrate : uLekzediu 
+migration : oLekzeduum 
+migratory : eLekzedazumo 
+mild : eLentamo 
+mildew : Lentir 
+to_mildew : uLentiru 
+mildly : iLenteni 
+mildness : oLentemafha 
+militant (noun) : Lenetomdi 
+militant (adj) : Lenetomdimo 
+militarist : Lenetovefdu 
+militarism : Lenetovefna 
+military : Lenetovi 
+militia : Lenetee 
+milk : oLenga
+milky : eLengumo 
+mill (noun) : oLenmo 
+to_mill : uLenmu 
+millennium : LenmiLmeon 
+miller : Lenmiz 
+millet : Lenmid 
+millimeter : Lenmunidiz 
+million : oLenmuum 
+millionaire : oLenmuumouzia 
+millionairess : oLenmuumouzihfe 
+millipede : Lenmubiti 
+millstone : oLenmefdaLi 
+mime (noun) : oLeLa 
+to_mime : uLeLau 
+mimeograph : oLeLaaqevobfa 
+to_mimic : uLeLeju 
+minaret : Lemovat 
+to_mince : uLemexiu 
+mind (noun) : oLemta 
+to_mind : uLemtu  
+mindless : eLemtanafha 
+mindset : oLemtafat 
+mine (noun) : oLema 
+mine (weapon) : Lema
+to_mine : uLemau 
+minefield : LemaheimTo 
+miner : oLemav 
+mineral : oLemavon 
+mineraloical : eLemavonukejonmo 
+meneralogist : oLemavonukefda 
+minerology : oLemavunuki 
+to_mingle : uLemqenau 
+miniature (noun) : Lemeedozi 
+miniature (adj) : Lemeedozimo 
+to_miniaturize : uLemeedozuviu 
+mimimal : LemeLonmo 
+minimally : Lememonmu 
+to_minimize : uLemeLerau 
+minimum (noun) : LemeLiL
+minimum (adj) : LemeLiLmo
+mining (noun) :  oLememqu 
+minion : LemeaL 
+minister (noun) : oLemefdiz 
+to_minister : uLemefdizu 
+ministerial : eLemefdizuonmo 
+ministry : oLemefdavi 
+minor (noun) : Lemuv 
+minor (adj) : Lemuvmo 
+minority : Lemuveti 
+minstrel : oLemhatzim 
+mint (money) : oLemdu 
+to_mint : uLemdu 
+minus (prep) : Lemifin 
+minute (adj) : Lemitamo 
+minutely : Lemitani 
+miracle : Levojmi 
+miraculous : Levojinuohmo 
+miraculously : Levojinuohni 
+mirage : Levoka 
+mire (noun) : oLeva 
+to_mire : uLevau 
+mirror : Levzaz 
+mirth : oLevdas 
+mirthful : eLevdasesomamo 
+mirthless : eLevdasmihfamo 
+mirthlessly : iLevdasmihfamu 
+misadventure : LefoTriLtiva 
+misanthrope : oLefomdisazabi 
+misanthropic : Lefomdisazabuximo 
+misanthropy : oLefomdisazabu 
+to_misapprehend : uLefobabvasamtu 
+misapprehension : Lefobabvasamhuum 
+to_misappropriate : uLefobabvubzuotau 
+misappropriation : LefobabvubzuoteaL 
+to_misbehave : uLefpiferiu 
+misbehavior : Lefpiferuuv 
+misbelief : Lefpimuah 
+to_miscalculate : uLefixemjinotau
+miscalculation : LefixemjinoteaL 
+miscarriage : Lefixezveeqi 
+to_miscarry : uLefixezviu 
+miscellaneous : eLefeximnimaaifmo 
+miscellany : oLefeximnomi
+mischief : oLefaxseis
+mischievous : eLefaxseiraifmo 
+mischievously : iLefaxsauraifmu 
+to_misconceive : uLefaxaLjauriu 
+misconception : LefaxaLjabduum 
+misconduct : LefexaLTijdu 
+misconstrue : uLefexaLifadviiu 
+miscreant : oLefexvaeLta
+misdeed : LeftiaTo 
+misdemeanor : Leftiniomuv 
+miser : oLefav 
+miserable : eLefavopmi  
+miserably : iLefavopmu 
+miserly : eLefavmumo 
+to_misfire : uLefsuzi 
+misfit : Lefsud 
+to_misfire : uLefsuziu 
+misfortune : Lefsaztima 
+misgivings : LefquruLkahuT 
+misguided : LefqoeTaTmo 
+mishap : Lefafeb 
+to_misjudge : uLefcotkau 
+to_mislay : uLefmeiu 
+to_mislead : uLefmioTu 
+to_mismanage : uLefneLeqiu 
+mismanagement : LefneLeqiniLta 
+misnomer : LefLaniz 
+misogynist : oLefukimefdi 
+misogyny : oLefukimi 
+misrepresentation : Lefzibvafamdeduum 
+to_miss : uLefhu 
+missile : oLefhumi 
+missing (adj) : eLefhuLku 
+mission : oLefhuum 
+missionary : oLefhuumovi 
+to_misspell : uLefhabanmu 
+misspelling : LefhabanmuLka 
+misspent : Lefhabamdumo 
+misstep : Lefhatab 
+mist : oLefda 
+mistake : Lefdegi 
+to_mistake : uLefgediu 
+mistaken : LefdegiLmo 
+mistakenly : LefdegiLni 
+mister : oLefdiz 
+mistress : oLefdavafhe 
+mistrial : Lefdaveem 
+mistrust : Lefdavifdu 
+to_mistrust : uLefdavifdu 
+mistrustful : Lefdavifdahinmo 
+misty : eLefdumo 
+to_misunderstand : uLefimtizfadeLTu 
+misunderstanding : LefimtizfadeLTemqa
+to_misuse : uLefifau 
+to_mitigate : uLetekotau 
+mitigaiton : LetekoteaL 
+mix (noun) : oLec
+to_mix : uLecu 
+mixed : eLecaTmo 
+mixture : oLecdozio 
+moan (noun) : oLueL 
+to_moan : uLueLu 
+moat : oLued 
+mob : oLupa 
+mobile : Lupenamo 
+mobility : Lupeneti 
+mobilization : LupeneroteaL 
+to_mobilize : uLupnerau 
+to_mock : uLujgu 
+mockery : oLujgizu 
+mockingbird : oLujguLkapuzTa 
+mode : oLuTa
+model : LuTan 
+moderate (adj) : eLuTavotamo 
+to_moderate : uLuTavotau 
+moderation : oLuTavoteaL 
+moderator : oLuTavotuv 
+modern : LuTavLamo 
+modernism : LuTavLuhLa 
+modernist : LuTavLuhto 
+modernization : LuTameroteaL 
+to_modernize : uLuTavLuviu
+modest : LuTafdumo 
+modestly : LuTafdeni 
+modicum : oLuTejiL 
+modification : LuTehejoteaL 
+modifier : LuTeheiz 
+to_modify : uLuTehiu 
+modular : eLuTinovmo 
+module : oLuTina 
+mogul : Lukin 
+moist : eLuuhatmo 
+to_moisten : uLuuhtamu
+moisture : oLuuhtiva 
+moisturizer : oLuuhtiverav 
+molar : Lunov 
+mold : oLuntu 
+mold (food) : oLuntua 
+to_mold : uLuntu 
+to_molder : uLuntizu 
+molecular : Lunajinovmo 
+molecule : Lunajina 
+to_molt : uLundu 
+molten : eLundiLu 
+moment : LuLamdu 
+momentarily : LuLamdezumumo 
+momentary : LuLamdezumo 
+momentous : LuLamdaifmo 
+momentousness : LuLamdaifLihfa
+momentum : oLuLamdon 
+monarch : Lumovexasi 
+monarchic :  Lumovexasejmo 
+monarchist : Lumovexisefda
+monarchy : Lumovexisi 
+monastery : oLumofdizu 
+monastic : eLumofduximo 
+monetary : Lumatovimo 
+money : Lumau 
+moneyed : LumauaTmo 
+moneymaker : Lumaunegiz 
+mongrel : oLumqivan 
+monitor : Lumetuv 
+to_monitor : uLumetuvu 
+monk : oLumgu 
+monkey : Lumgii 
+monogamist : LumukoLefda 
+monogamous : LumukoLuohmo 
+monogamy : LumukoLi 
+monogram : Lumukzen 
+monograph : Lumukzebsa 
+monolingual : Lumunemqoonmo 
+monolith : Lumunetfi 
+monolithic : Lumunetfuximo 
+monologue : Lumunukii 
+monomania : LumuLomee 
+monoplane : LumubmeLi 
+to_monopolize : uLumubunerau 
+monopoly : Lumubuni 
+monorail : Lumuvuom 
+monotheism : Lumutfeifna
+monotheistic : Lumutfiefduximo 
+monotone : oLumutuma
+monotonous : eLumutumuohmo 
+monotonously : iLumutumuohni 
+monotony : oLumutumi 
+monster : Lumhetav 
+monsrosity : Lumhetzahudu
+monstrous : Lumhetzaifmo 
+month : Lumdas 
+monthly (adj) : Lumdasmumo 
+monument : oLumiLamda 
+monumental : eLumiLamdemamo 
+mood : oLuat 
+moodily : iLuatumu
+moody : eLuatumo
+moon : LuaL 
+moonlight : LuaLnekfuta 
+moonlit : LuaLnetmo 
+moonstruck : LuaLfedvijgamo 
+moonscape : LuaLfexebi 
+moonwalk : LuaLzongu 
+moor : oLuaz 
+to_moor : uLuazu 
+moose : Luahi 
+mop : oLub 
+to_mop : uLubu 
+moped : LubaTo 
+morale : Luvona 
+moral : oLuvon 
+moralism : oLuvonefna
+moralist : oLuvonefdi 
+morality : oLuvoneti 
+to_moralize : uLuvonerau 
+morally (adj) : eLuvonmumo 
+morass : Luvofha 
+morbid : eLovputmo 
+morbidity : oLuvputudu
+morbidly : iLuvputni 
+mordant : LuvteLtamo 
+more (adj) : Luvamo 
+more (adv) : Luvazi 
+moreover (adv) : Luvaarizazi 
+morgue : oLuvqoa 
+morning (noun) :  oLuvLuLka 
+morning (adj) : eLuvLuLkamo 
+moron : Luvum 
+moronic : Luvumejmo 
+morose : eLuvufamo 
+morpheme : LuvbisaLa
+morphine : oLuvbasema 
+morphology : Luvbasunuki 
+morsel : Luvhim 
+mortal (noun): oLuvdem 
+mortal (adj) : eLuvdemamo 
+mortality : oLuvdemudu 
+mortally : iLuvdemni 
+mortar : Luvdez 
+mortarboard : LuvdezpuezTo 
+mortgage (noun) : Luvdikoka
+to_mortgage : uLuvdikokau 
+mortification : oLuvdusuxeduum 
+to_mortify : uLuvdusuu 
+mortuary : Luvdoovi 
+mosaic : oLufoux 
+mosque : oLufkoa 
+mosquito : Lufkoetu 
+moss : oLufha 
+mossy : eLufhumo 
+most (adj) : Lufdamo 
+most (adv) : Lufdazi 
+mostly (adv) : Lufdani 
+moth : Lutfa 
+mother : oLutfiz, onadsav 
+motherland : oLutfiznomta 
+motif : Luteh 
+motion : oLuteaL 
+motionless : eLuteaLnafha
+to_motivate : uLutezotau 
+motivation : oLutezoteaL 
+motive : oLuteza 
+motley : Lutmiimo 
+motor : Lutuv 
+motorbike : Lutuvpugi 
+motorboat : Lutuvpaot 
+motorcade : Lutuvoxeti 
+motorcycle : Lutuvexuxna 
+motorist : Lutuvefda 
+motorway : Lutuvrei 
+to_mount : uLuoLtu 
+mountain : LuoLtouL 
+mountainous : LuoLtouLaifmo 
+mountainside : LouLtouLfeTa 
+to_mourn : uLuozmu
+mourner : oLuozmav 
+mournful : eLuozmasomamo
+mourning : oLuozmemqu 
+mouse : Luohi 
+mousetrap : Luohidvob 
+mouth : oLuodsu 
+mouthful : oLuodsesom 
+mouthpiece : oLuodsabuaja
+movable : Luzopmimo 
+move (noun) : Luza 
+to_move : uLuzau 
+moveless : Luzanafha 
+movement : LuzaLamdu 
+movie : Luzei 
+movieland : LuzeimeLTa
+moviemaker : Luzeinegiz 
+moving (adj) : Lezemqamo 
+to_mow : uLuz 
+mower : Luzav 
+much (adj) : eLijfamo 
+much (adv) : iLijfezi 
+muck : Lijgu 
+to_muck : uLijgu 
+to_muckrake : uLijguvoqau 
+muckraker : Lijguvoqav
+mud : LiTe 
+to_muddle : uLiTtenau
+muddlehead : oLiTtenasaet
+muddleheaded : eLiTtenasaetitmo 
+muddy : LiTtumo 
+to_muffle : uLihsenau 
+muffler : oLihsenav 
+mug : oLik 
+mule : Lina 
+mulish : Linefafmo 
+to_mull : uLinmu 
+multicolor : eLinduxamazmo 
+multifarious : eLindusezuuohmo 
+multilateral : eLindumedizemamo 
+multilingual : eLindumuLkiemamo
+multimedia : eLindunituomo 
+multinational : eLinduLeduumonmo
+multiple : eLindubnamo 
+multiplication : oLindubnejoteaL
+to_multiply : uLindubniu 
+multitude : Lindudoti 
+to_munch : uLimexsu 
+mundane : LimteLimo 
+mundanely : LimteLimu 
+mundaneness : LimteLiLihfo 
+mundanity : LimteLudu 
+municipal : eLimejebonmo 
+municipality : oLimejeboneti
+munitions : LimeteaLfim 
+mural : Livon 
+murder (noun) : oLivtiz 
+to_murder : uLivtizu 
 
 
 
