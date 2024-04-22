@@ -123762,7 +123762,7 @@ dictatorial : Tejdedazuonmo
 dictatorship : Tejdedazfafub 
 diction : Tejduum 
 dictionary : Tejduumovi 
-to_die : uqiamnou 
+to_die : uqoaniLu 
 diet (noun): Teid 
 to_diet : uTeidu 
 dietary : Teidezumo 
@@ -127503,7 +127503,7 @@ innate (adj) : emuLmotamo
 inner (adj) : emuLmavmo 
 innermost : emuLmavnahtemo 
 innocence : omuLmujamexi 
-innocent : emuLmujamdamo 
+innocent : emuLmujamdamo , guLnujamdumo
 innocently : imuLmujamdeni 
 innocuous : emuLmujiaifmo 
 to_innovate : umuLmuzotau 
@@ -129524,8 +129524,996 @@ munitions : LimeteaLfim
 mural : Livon 
 murder (noun) : oLivtiz 
 to_murder : uLivtizu 
-
-
+murderer : oLivtiziz 
+murderess : oLivtizihfe 
+murderous : eLivtizaifmo 
+murk : Livga 
+murky : Livgumo 
+murkily : livgumu 
+murmur (noun) : Livnoz 
+to_murmur : uLivnozu 
+muscle : Lifexna 
+muscular : Lifexomezmo 
+musuem : Lifaon 
+music : Lifeju 
+musical (noun) : Lifejon 
+musical (adj) : Lifejonmo 
+musically : Lifejonmu 
+musician : LifejeeL 
+muslim : Lifmun 
+mussel : Lifhim 
+to_must : uLifdu 
+muster (noun) : oLifdiz 
+to_muster : uLifdizu 
+musty (adj) : eLifdumo 
+mutability : Litopeneti
+mutable : Litopmimo 
+mutagen : Litokam 
+mutant : Litomdo 
+to_mutate : uLitotau 
+mutation : LitoteaL 
+mute (noun) : Lita 
+mute (adj) : Litamo 
+muted : LitaTmo 
+to_mutilate : uLitenotau 
+mutilation : LitenoteaL 
+mutineer : Litemaiz 
+mutiny : Litemi 
+mutinous : Litemuohmo 
+mutual : Litiemamo 
+mutually : Litiemni 
+muzzle (noun) : Liravna 
+to_muzzle : uLiravnau 
+my : Liza 
+myopic : Liabuximo 
+myriad (adj) : Liveetmo 
+myself : Lifansu 
+mysterious : Lifdizuuohmo 
+mysteriously : Lifdizuuohni 
+mystery : Lifdizu 
+mystic : Lifdux 
+mysticism : LifduxuhLa 
+to_mystify : uLifdusuu 
+mystique : Lifdukoa 
+myth : Litfa 
+mythical : Litfuxemamo
+mythological : Litfamaquxemamo 
+mythologist : Litfamaquhti 
+mythology : Litfamaqu 
+nail : moum 
+nailhead : moumsaet 
+naive : mourimo 
+naked : moqaTmo 
+nakedly : moqaTmu 
+nakedness : moqaTLihfa 
+name (noun) : moL
+to_name : umoLu 
+namelessly : moLanafhani 
+namely (adv) : moLani 
+nap (noun) : mobu 
+to_nap : umobu 
+narcissism : movexuhfefna
+narcissist : movesuhfefdi 
+narcotic : omovexadux 
+to_narrate : umuvzediu 
+narration : omovzeduum 
+narrator : omovzedaz 
+narrow (adj) : movzarmo 
+nasal (adj) : mofonmo 
+nascent (adj) : mofexiLtamo 
+nastily : mofdumu 
+nasty : mofdumo 
+nastiness : mofduLihfo 
+national (adj) : moteaLemamo 
+nationalism : moteaLemuhLa
+nationalist : moteaLemuhto
+nationality : moteaLemudu 
+to_nationalize : umoteaLemuviu 
+nationally : moteaLemni 
+nationwide : moteaLzeTamo 
+native (noun) : omoteza 
+native (adj) : emotezamo 
+nativity : motezeti 
+natural (adj) : motivonmo 
+naturalism : motivonefna 
+naturalist : motivonefdi
+naturalization : motivoneroteaL 
+to_naturalize : umotivonerau 
+naturally : motivonmu 
+nature : motiva  
+naturist : motivefdu 
+naughtily : mooqesdumu 
+naughtiness : mooqesduLihfe 
+naughty : mooqesdumo 
+nausea : moohio 
+to_nauseate : umoohiotau 
+nauseating (adj) :  moohiotemqamo 
+nauseous : moohiuohmo 
+nautical : omooduxemamo 
+naval (adj) : mozonmo 
+navel (noun) : omozan 
+navigable (adj) : mozekopmimo 
+to_navigate : umozekotau 
+navigation : mozekoteaL 
+navigator : mozekotuv 
+navy : mozi 
+to_near : umaezu 
+near (prep) : maezin 
+near (adj) : maezamo 
+near (adv) : maezazi 
+nearly : maezni 
+nearness : maezmafha
+neat : maedmo 
+neatly : maedni 
+neatness : maedmafhe 
+nebulous : mapinuohmo 
+necessarily : majafhezumu 
+necessary : majafhezumo 
+to_necessitate : umajafhudediu 
+necessity : majafhudu
+neck : majge 
+necklace : majgenoja 
+necktie : majgetei 
+nectar : majdez 
+need (noun) : omait 
+to_need : umaitu 
+neediness : omaituLihfa
+needle : maome 
+needless : emaitnafhamo 
+needlessly : imaitnafheni
+needy : emaitumo 
+to_negate : umakotau 
+negation : makoteaL 
+negative (noun) : makoteza 
+to_negate : umakotezau 
+negatively : makotezani 
+negativity : makotezeti 
+neglect (noun) : omakmixto 
+to_neglect : umakmixtu 
+neglectful : makmixtesomamo
+negligence : makmuqiLja
+negligent : makmuqiLtamo 
+negligently : makmuqiLtamu 
+negligible : makmuqupnamo 
+negotiable : emakuteepnamo 
+to_negotiate : umakuteediu 
+negotiation : omakuteeduum 
+negotiator : omakuteedaz
+neighbor : mauqespaz 
+neighborhood : mauqespazesuat 
+neighboring (adj) : mauqespazuLkamo
+neighborly (adj) : mauqespaznimo 
+neither : maudsav
+nemesis : maLafef 
+nephew : mabfir 
+nepotism : mabutefana
+nerve : mavri 
+nerveless : mavrimihfamo 
+nervous : mavraifmo 
+nervousness : mavraifLihfo
+nest (noun) : omafda 
+to_nest : umafdu 
+to_nestle : umafdenau 
+nestling : omafdenemqa 
+net : omatu 
+nettle : matdena 
+to_nettle : umatdenau 
+network : matrazqo 
+networking : matrazqemqa 
+neural (adj) : maozemamo 
+neuron : maozaL
+neurosis : maozahuh
+neurotic (noun) : maozadux 
+neurotic : maozaduximo 
+to_neuter : umaodizu 
+neutral (adj) : modvonmo 
+to_neutralize : umaodvonerau 
+neutron : maodvum 
+never (adv) : mazav
+new (adj) : emazemo, oife 
+newborn : omazpazma
+newborn (adj) : emazpazmamo 
+newly : imazmu 
+newness : omazLihfa 
+news : omazhaT, oifeT
+newspaper : omazhebobav
+next (adv) : imacduzi 
+nibble (noun) : mepapna 
+to_nibble umepapnau 
+nice (adj) : mejamo 
+nicely : mejani 
+niceness : mejamafhe 
+niche : omejfi 
+night : mekfat, mekasdu  
+nimble : meLapnamo 
+nimbly : meLapni 
+nipple : mebabna 
+no : iL
+nobility : mupeneti 
+noble (adj) : mupmimo 
+nobleman : mupmineL 
+nobly : mupmu 
+nobody : mupuTu 
+nocturnal : mujdozmonmo 
+noise : muuhi 
+noiseless : muuhimihfamo 
+noiselessly : muuhimihfamu 
+noisily : muuhumu 
+noisome (adj) : emuuhanimo 
+noisy : muuhuimo 
+nomad : muLoTi 
+nomadic : muLotejmo 
+nominal : emuLemonmo 
+nominally : imuLemonmu 
+to_nominate : umuLemotau 
+nomination : muLemoteaL 
+nominee : muLemai 
+nonaligned : muaLemuqemaTmo 
+nonbeliever : mumpimuazav 
+nonchalance : omumexsonomexi 
+nonchalant : emumexsonomdumo 
+none : muma 
+nonetheless (adv) : imumatfimihfuzi 
+nonfiction : mumsuxteaL 
+nonfictional : mumsuxteaLemamo 
+nonhuman : mumfoneLmo
+nonprofit : mumbevuhetmo 
+nonsense : omumhiLfa 
+nonsensical : emumhiLfejonmo 
+nonsensically : imumhiLfejonmu 
+nonstop (adj) : emumhatubmo
+nonstop (adv) : imumhatubzi 
+noodle : muatna 
+nook : muag 
+noon : muaL 
+noonday : muaLTou 
+noontide : muaLteTa 
+norm (noun) : omuvna 
+normal : emuvnemamo 
+normalcy : omuvnemji 
+to_normalize : umuvnemuviu 
+normally : imuvnemni 
+north (noun) : muvdas
+north (adj) : muvdasmo 
+north (adv) : muvdasazi 
+nose : mufa 
+nostalgia : mufdemkee 
+nostalgic : mufdemkejmo 
+nostril : mufdaven 
+not : mot 
+notable : emutopmimo 
+notably : imutopmu 
+to_notarize : umutoverau 
+notary : mutovi 
+notation : mutoteaL 
+notch : mutexas 
+note (noun) : omuta 
+to_note : umuta 
+notebook : mutapaug 
+noteworthy : mutazuvdasimo 
+nothing : mutfuLko , eemhob 
+notice (noun) : muteja 
+to_notice : umutejau 
+noticeable : mutejaepnamo 
+noticably : mutejopmu 
+notification : mutehejoteaL 
+to_notify : umutehiu 
+notion : muteaL 
+notoriety : mutuveidu 
+notorious : mutuveaifmo 
+noun : omuoL 
+to_nourish : umuozuhsu 
+nourishment : muozuhsaniLto 
+novel (adj) : muzanmo 
+novel (noun) : muzan 
+novelty : omuzandu 
+novice (noun) : muzeja 
+now : muz, mit 
+nowhere (adv) :  muzafizi 
+noxious : muceaifmo 
+nuance : mieLja 
+nuclear : mijmiovmo 
+nucleus : mijmiifa 
+nude : miTamo 
+to_nudge : umiTqiu 
+nudist : miTefda 
+nudity : miTeti 
+nuisance : miuheLja 
+to_nullify : uminamusuu 
+numb (adj) : emiLpamo 
+to_numb : umiLpau 
+number : omiLpiz 
+to_number : umiLpizu 
+numbly : imiLpani
+numbness : omiLpamafha
+numeral : miLavon 
+numerical : miLavejonmo 
+numerically : miLavejonmu 
+numerous : miLavuohmo 
+nun : omim 
+nurse : mivhi 
+nursery : mivhizu 
+to_nurture : umivdoziu 
+nutrient : omitzuamde 
+nutrition : omitzuduum 
+to_nuzzle : umirvenau 
+oak : toLnu 
+oar : aovu 
+oath : aotfu 
+obedience : apituamxi 
+obedient : apituamdumo 
+obediently : apituamdeni 
+obeiscance : apiefexeLja
+obelisk : apimuhqi 
+obese : apihimo 
+obesity : apihudu 
+to_obey : uapiiu 
+object : oqusti  
+to_object : uapexajdu 
+objection : apexajduum 
+objectionable (adv) : iapexajduumopmizi 
+objective : oapexajduri 
+objectively : iapexajdurimu 
+obligation : apnekoteaL 
+obligatory : apnekotuvimo 
+to_oblige : uapnekau 
+obliging (adj) :  apnekemqumo 
+oblique : apnegiimo 
+obliquely : apnegiimu 
+to_obliterate : uapnetavotau 
+obliteration : apnetavoteaL 
+oblivion : apnezeaL 
+oblivious : eapnezeaifmo 
+obliviously : iapnezeaifmu 
+oblong : apnumqamo 
+obnoxious : apmuceaifmo 
+obscene : eapfexiLimo 
+obscenely : iapfexiLimu
+obscenity : oapfexiLudu
+obscure (adj) : apfexozimo 
+to_obscure : uapfexoziu 
+obscurely : apfexozimu 
+obscurity : apfexozudu 
+observance : apfavreLja 
+observant : apfavreLtamo 
+observantly : apfavreLtamu 
+observation : apfavreduum 
+observatory : apfavredazu 
+to_observe : uapfavri 
+observer : apfavriz
+to_obsess : uapfafhu 
+obsession : apfafhuum 
+obsessive (noun) : apfafhuri
+obsessive (adj) : apfafhurimo 
+onsessively : apfafhurimu 
+obsolescence : apfunafexiLja
+obsolescent : apfunafexiLtamo 
+obsolete : apfunatamo 
+obstacle : oapfedexna 
+obstinate : apfeduLedimo 
+obstinately : apfeduLedimu 
+to_obstruct : uapfedvijdu 
+obstruction : apfedvijduum 
+to_obtain : uaptouLu 
+obtainable : aptouLepnamo 
+obtuse : aptifamo 
+obtuseness : aptifamafha
+obvious : apzeaifmo 
+obviously : apzeaifmu 
+occasion : axjofeaL
+occasional : axjofeaLemamo 
+occasionally : axjofeaLemni 
+occupant : oaxjibamdo 
+occupation : axjiboteaL 
+occupational : axjiboteaLemamo 
+occupier : oaxjibeiz 
+to_occupy : uaxjibiu 
+to_occur : uaxjivu 
+occurrence : axjivziLja 
+ocean : Lave 
+octagon : axtokum 
+octagonal : axtokumonmo 
+octave : axtoza 
+ocular (adj) : axomezmo 
+odd (adj): eatTumo 
+odds : oatTehim, afTaT 
+odor : ataz 
+odorful : atazhinmo 
+odorless : ataznafha 
+odyssey : oatuhfau 
+of : asu 
+off (prep) : ashain , afvani 
+off (adv) : ashazi 
+offal : oashon 
+offbeat : ashepiotmo 
+offender : oashamtiz 
+offensive : eashamhurimo 
+offensiveness : oashamhuriLihfa
+offer (noun) : oashav 
+to_offer : uashavu 
+offering : oashavemqa 
+official (noun) : oashejeem 
+official (adj) : eashejeemamo 
+office : oasheja 
+officer : oashejav 
+officially : iashejeemni 
+officious : eashejeaifmo 
+officiously : iashejeaifmu 
+offset : oashehid
+to_offset : uashehidu 
+offshoot : oashehsuad
+offshore : eashehsuvamo 
+offspring : oashehbazuLka 
+often : astamzi 
+oil : oaeno 
+ointment : aemdaLamde
+old : zomfedmo 
+olive : amuri 
+omen : aniL 
+ominous : anuLaifmo 
+ominously : anuLaifmu 
+omission : anuhfeaL 
+to_omit : uanudu 
+omnipotence : anmebutamexi
+omnipotent : anmebutamdumo 
+omnipresent : anmebzihiLtamo 
+omniscience : anmefexuamexi
+omniscient : anmefexuamdumo 
+omnivore : anmezuva 
+onmivorous : anmezuvuohmo 
+on : aL 
+once (adv) : aLjazi 
+oncoming : aLjuLemqumo 
+one (adj) : eLikamo 
+one (pron) : aLi 
+oneself : aLihimha , eLkikamfahna
+ongoing : aLkuuLkamo 
+only (adj) : aLnimo , oemueni
+only (adv) : aLnizi
+onshore : aLfefazimo 
+onslaught : aLfmeikfat 
+onto (prep) : aLtuin 
+onward (adj) : aLzovtumo 
+onward (adv) : aLzovtuzi 
+opacity : abexudu 
+opaque : abekoamo 
+open (adj) : abiLmo 
+to_open : uabiLu 
+opening : abiLuLka
+to_operate : uabizediu 
+operation : abizeduum 
+operational : eabizeduumonmo 
+operative (noun) : oabizeduri
+operative (adj) : eabizedurimo 
+operator : abizedaz 
+opinion : abuLuum 
+opinionated : abuLuumotaTmo 
+opponent : abebumamdo 
+opportune : eababuvdoLimo 
+opportunely : iababuvdoLimu 
+opportunist : oababuvdoLuhti
+opportunistic : eababuvdoLuhtejmo 
+opportunity : oababuvdoLudu
+to_oppose : uababufau 
+opposed (adj) : abubufaTmo 
+opposite (noun) : abubufeta
+opposite (adj) : abubufetamo 
+opposite (adv) : abubufetazi
+opposite (prep) : abubufetain 
+opposition : oabubfeteaL
+oppression : abobzihfeaL
+to_oppress : uabubzihfu 
+oppressor : oabubzihafuv
+optical : abtejonmo 
+optics : abtejhuT 
+optimist : oabteLefdo 
+optimistic : eabteLefduximo 
+optimistically : iabteLefduxemni 
+to_optimize : uabteLerau 
+optimum : abteLiL
+optimum (adj) : abteLiLmo 
+option : oabteaL 
+optional : eabteaLemamo 
+opulence : abomiLkja 
+opulent : abomiLtamo 
+or : az 
+oracle : oazexna 
+oration : oazeduum 
+orator : oazedaz 
+orb : oazpo 
+orbit : oazpet 
+orbital : eazpetonmo 
+orbiter : oazpetav 
+orchard : oazjefazTe 
+to_ordain : uazTouLu 
+ordeal : azTaem 
+order (noun) : azTav 
+to_order : uazTavu 
+orderly (adj) : azTavmumo 
+ordinarily : azTemovzavmu 
+ordinary : azTemovimo 
+organ : azkom 
+organic : azkomejmo 
+organically : azkomejonmu
+organism : azkomefna 
+organization : azkomeroteaL 
+to_organize : uazkomerau 
+organized : azkomeraTmo 
+organizer : azkomerav 
+orgasm : azkofna 
+to_orient : uazuamdu 
+to_orientate : uazuamdediu 
+orientation : azuamdeduum 
+orienteering : azuamdiavemqu 
+orifice : azusuxi 
+origin : azuquL 
+original (noun) : azuquLem 
+original (adj) : azuquLemamo
+originality :  azuquLemudu 
+originally : azuquLemni 
+to_originate : uazuquLediu 
+originator : azuquLedaz 
+ornament : azmoLomda 
+ornamental : azmoLamdemamo
+ornate : azmotamo 
+ornately : azmotani 
+ornateness : azmotamafhe 
+orphan : azbefeL 
+orthodox : aztefatajmo 
+orthodoxy : aztefataju 
+to_oscillate : uahjenmediu 
+oscillation : ahjenmeduum 
+oscillator : ahjenmedaz 
+ostensible : ahtamhupnamo 
+ostensibly : ahtamhupni 
+ostentation : ahtamdeduum 
+ostentatious : ahtamdeduuohmo 
+to_ostracize : uahtezexuviu 
+other (adj) : aTizmo 
+other (adv) : aTizazi 
+other (pron) : adsav 
+other (noun) : aTiz
+otherwise (adv) : adsavruhizi 
+otherworldly :  adsavrazentenimo 
+ourselves : aivhimzaT 
+out : aut 
+outbreak : autpavaeg 
+outcast : autixehto 
+to_outclass : uautexnofhu 
+outcome : autexanio 
+outcry : autexvi 
+outdated : autateditmo 
+to_outdo : uautatau 
+outer (adj) : eautavmo 
+outermost (adj) :  eautavnahtamo 
+outfit (noun) : oautehdo 
+to_outfit : uautehdu 
+to_outflank : uautsinomgu 
+outgoing (adj) : auutqaemqamo 
+to_outgrow : uautquvu 
+outgrowth (noun) : oautqevuzdas 
+to_outguess : uautqoafhu 
+outlet : oautamid 
+outline (noun) : oautmuLi 
+to_outline : uautmuLiu 
+to_outlive : uautmuriu 
+outlook (noun) : oautmauqu 
+to_outnumber : uautLonpavu  
+outpost : oautbahto
+output (noun) : oautbod 
+to_output : uautbodu 
+outrage (noun) : oautzeqi
+outrageous : eautzeqiuohmo 
+outrageously : iautzeqiuohni 
+outset : oauthidi 
+outside (noun) : oauthuti 
+outside (adj) : eauthutimo 
+outside (adv) : iauthutizi 
+outside (prep) : authutiin 
+outsider : oauthutiz 
+outspoken : eauthabuqamamo 
+outstanding : eauthetomtuLkamo 
+outward (adj) : eautrezTamo 
+outward (adv) : iautrezTazi 
+outwards (adv) : iautrezTahzi 
+to_outwit : uautrudu 
+oval : arem 
+ovary : arezu 
+oven : ariL 
+over (prep) : ariz 
+over (adv) : arizazi 
+overbearing : arizpaezuLkumo 
+to_overcome : uarizjuLau 
+to_overdo : uarizTuu 
+overdose (noun) : arizTufa
+to_overdose : uarizTufau 
+to_overflow : uarizhemaru 
+to_overhaul : uarizsoomu 
+to_overpower : uarizbuzavu 
+overpowering : earizbuzavemqemu 
+to_overrate : uarizvotau 
+to_overreach : uarizvaexasu 
+to_override : uarizveTau 
+to_overrule : uarizvinau 
+to_oversee : uarizfaiu 
+overseer : arizfaiz 
+to_overshadow : uarizfefetaru 
+oversight : arizfekfat 
+overt : eariztao 
+to_overthrow : uariztefavuzu 
+overture : oariztiva 
+to_overwhelm : uarizazfimLu 
+to_owe : uariu 
+to_own : uarmu 
+ozone : avaLi 
+owner : oarmav 
+ownership : oarmavhasebo 
+pace (noun) : boja 
+to_pace : ubojau 
+pacification : bojehejoteaL 
+pacifism : bojehefna 
+pacifist : bojehefde
+to_pacify : ubojehiu 
+pack : bojgo 
+to_pack : ubojgu 
+package : bojgeqi 
+paddle : boTtenu 
+to_paddle : uboTtenu 
+paddleboat : boTtanapued
+pagan (noun) : bokom 
+pagan (adj) : bokomamo 
+page : boka 
+pain : bouL 
+painful : bouLhinmo 
+painkiller : bouLqenmiz 
+painless : bouLnafha 
+paint (noun) : obouLtu 
+to_paint : ubouLtu 
+painter : obouLtav 
+painting : obouLtemqe 
+pair (noun) : bouz 
+to_pair : ubouzu 
+palatable : bonotopmimo 
+palate : bonota 
+palatial : ebonoteemamo 
+pale (adj) : ebonamo 
+palette : bonatdi 
+to_pall : ubonmu 
+pallbearer : bonmapaeziz 
+to_palliate : ubonmuotau 
+pallative (noun) : bonmeduri 
+pallative (adj) : bonmedurimo 
+pallid : bonmutmo 
+pallor : bonmaz 
+palm : bonan
+to_palm : ubonanu 
+palmist : bonanuhte
+palmistry : bonanuhtazu 
+to_palpitate : ubonbudediu 
+palpitaiton : bonbudeduum 
+to_pamper : uboLbizu 
+to_pander : ubomtizu 
+panic : bomej 
+to_panic : ubomeju
+panorama : bomuvoLo 
+panoramic : bomuvoLej 
+paper : bobav 
+parable : bovopmi 
+parabola : bovopuno 
+parade : bovoTa 
+to_parade : ubovoTau 
+paradigm : bovoTekna 
+paradise : bovoTefa 
+paradox : bovoTuc 
+paradoxical : bovoTucejonmo 
+paradoxically : bovoTucejonmu 
+paragon : bovokum 
+parallel : bovonmimamo 
+paralysis : bovonifef 
+paralytic : bovonitej
+paralytic (adj) : bovonitejmo 
+to_paralyze : ubovonirau 
+parameter : bovoLatav 
+paramount : bovoLuoLtamo 
+paranoia : bovomuuo 
+paranoid : bovomuutmo 
+to_paraphrase : ubovobfavofau 
+parasite : bovofeta 
+parasitic : bovofetejmo 
+to_parch : ubovexasu 
+parchment : bovexisniLte 
+pardon (noun) : bovtaL 
+to_pardon : :ubovtaLu 
+parent : bovamda 
+parental : bovamdemamo 
+park : bovge 
+to_park : ubovgu 
+parlance : bovmeLja 
+parliament : bovmuoLamdo 
+parliamentary : bovmuoLamdezumo 
+parlor : bovmaz 
+parochial : bovujfuonmo 
+parody : bovuTi 
+parole (noun) : bovuna 
+to_parole : ubovunau 
+parolee : bovunai 
+parry (noun) : bovzu  
+to_parry : ubovzuu 
+parson : bovhaL 
+parsonage : bovhaLeqi
+part (osa)  : ahe
+part (rooli) : vuamu 
+to_part : ubovdu 
+partial : bovduonmo 
+partially : bovduonmu 
+participant : bovduxubeLta
+to_participate : ubovduxubediu 
+participation : bovduxubeduum 
+particle : bovduxna 
+particular (adj) : bovduxomezmo 
+particularly : bovduxomezni 
+partisan (noun) : bovduheL 
+paritsan (adj) : bovduheLmo 
+partition : bovduduum 
+to_partition : ubovduduumu 
+partner : bovdemav 
+partnership : bovdemavhaseb 
+party (puolue) : biamoa 
+party (juhla) : oxisme 
+to_party (juhlia) : uxismuou 
+passage : bofheqi 
+passenger : bofhiLkav 
+passion : bofhuum 
+passionate : bofhuumotamo 
+passionately : bofhuumotani 
+passionless : bofhuumihfamo 
+passive : bofhurimo 
+passively : bofhurimu 
+passiveness : bofhuriLihfe 
+passivity : bofhurudue
+password : bofhezuvto 
+past (noun) : obofdo 
+past (prep) : bofdin 
+pastor : bofdaz 
+pastoral : bofdazemamo 
+pasture : bofdozi 
+patch (noun) : botexaso 
+to_patch : ubofexasu 
+patent (noun) : botamda 
+patent (adj) : botamdemo 
+patently : botamdeni 
+paternal : botavLemamo 
+paternally : botavLemni 
+paternity : botavLudu 
+pathetic : botfiduximo 
+pathetically : botfidajejonmu 
+path : obotfa 
+pathfinder : obotfehemtiz 
+pathless : ebotfenafhamo 
+pathogen : botfaqiL 
+pathogenic : botfaqiLuximo
+pathological : botfamaquxemamo
+pathlology : botfamaqu 
+pathos : botfaho 
+pathway : obotfezou 
+patience : boteiLja 
+patient : boteiLte 
+patient (adj) : boteiLtemo 
+patiently : boteiLtemu 
+patriarch : botzuovexiso
+patriarchy : botzuovexisii
+patricide : botzuxuti 
+patriot : botzuuti 
+patriotic : botzuutejmo 
+patriotism : botzuutefni 
+patrol (noun) : botzam 
+to_patrol : ubotzamu 
+patron : botzaL 
+to_patronize : ubotzaLuviu 
+pattern : botdizma 
+pause (noun) : boohi 
+to_pause : uboohiu 
+paw (noun) : oboz 
+to_paw : ubozu 
+pawn : obozLi 
+pay : bou 
+to_pay : ubouu 
+peace : voose , baexi 
+peaceful : voosehinmo , baexisomamo 
+peacefully : baexisomni 
+peacefulness : baexisomamafha
+peacekeeper : baexigiabav 
+peacetime (noun) : baexiduni 
+peacetime (adj) : baexidunimo 
+peak : obaegi 
+to_peak : ubaegu 
+peasant : baeheLtu 
+peculiar : bajineezmo
+peculiarity : bajineezudu 
+peculiarly : bajineezni 
+pedagog : baTokuk 
+pedagogic : baTokukejmo 
+pedagogical : baTokukejonmo 
+pedagogically : baTokukejonmu 
+pedagogy : baTokuki 
+pedal : baTon 
+to_pedal : ubaTonu 
+pedant : baTomdu 
+pedantic : baTomduximo 
+to_peddle : ubaTtenu 
+peddler : baTtenav 
+pedestal : baTafdem 
+pedestrian (noun) : baTafdiveeL
+pedestrian (adj) : baTafdeveeLmo 
+pedigree : baTekzia 
+peel : baim 
+to_peel : ubaimu 
+to_peep : ubaibu 
+peephole : baibsuna 
+peer : baiz 
+to_peer : ubiavu 
+peerage : baizeqi 
+peerless : baiznafha 
+pen (kynä) : qimo 
+penal : bamonmo 
+to_penalize : ubamonerau
+penalty : bamondu 
+penance : bamomexi 
+pendulum : bamtomon 
+to_penetrate : ubamatzediu 
+penetration : bamatzeduum 
+penile (adj) : bamenamo 
+penis : obamefu 
+penitence : bametamexi 
+penitent : bametamdumo 
+penitentiary : bametamduovi 
+penniless : bamLumihfa
+penny : bamLu 
+penology : bamunuki 
+pensive : bamhurimo 
+pensively : bamhurimu 
+pentagon : bamdeqaL 
+pentagonal : bamdeqaLemamo 
+penthouse : bamdesuohi 
+penultimate : bamindunedimo 
+penumbra : bamiLpavo 
+people : kuunim , baabnaT 
+per (prep) : bavin 
+perceivable : bavexiezopmimo 
+to_perceive : ubavexiezau 
+percent : bavexiLti
+percentage : bavexiLtoka
+percentile : bavexiLtena
+percept : bavexibta 
+perceptible : bavexibtepmimo
+perception : bavexibteaL
+perceptive : bavexibtezamo 
+perch : bavoxise 
+to_perch : ubavoxisu 
+to_percolate : ubavixemediu 
+percolator : bavexamedaz 
+percussion : bavixohfeaL 
+percussionist : bavixohfeaLuhtu 
+perennial (noun) : bavamLuon 
+perennial (adj) : bavamLuonmo 
+perfect (noun) : bavsixta
+perfect (adj) : bavsixtamo 
+to_perfect : ubavsixtu 
+perfection : bavsixteaL 
+perfectionism : bavsixteaLuhLa 
+perfectionist : bavsixteaLuhtu 
+perfectly : bavsixtamu
+perfidious : bavsutuuohmo 
+perfidiously : bavsutuuohni 
+perfidy : bavsutu 
+to_perforate : ubavsazediu
+perforation : bavsazeduum 
+perforce (adv) : bavsazjazi 
+to_perform : ubavsazLu 
+performance : bavsazLomexi 
+performer : bavsazLav 
+perfume : bavsoni 
+to_perfume : ubavsoniu 
+perhaps (adv) : bavufebfazi 
+peril : baven 
+perilous : bavenuoh 
+perimeter : baveLatav 
+period : bavaet 
+periodic : baveatuximo 
+periodical : baveatuxem
+periodical (adj) : baveatuxemamo
+peripheral : bavebfizemamo 
+periphery : bavebfizu 
+to_perish : ubavefafu 
+perishable : bavefafepnamo 
+to_perjure : ubavcoziu 
+perjury : bavcozu 
+permanence : bavneLiLja 
+permanent : bavneLiLtamo
+permanently : bavneLiLtamu 
+to_permeate : ubavniotau 
+permissible : bavnuhfepmimo 
+permissive : bavnuhfezamo 
+permit : bavnud 
+to_permit : ubavnudu 
+pernicious : bavLuxuuohmo 
+perpendicular (noun) : bavbiLTejinov
+perpendicular (adj) :  bavbiLTejinovmo
+perpetual : bavubidoonmo 
+perpetually : bavubidoonmu
+to_perpetuate : ubavbidootau 
+perpetuation : bavbidooteaL
+to_perplex : ubavbenacu 
+perplexed : bavbenacaTmo 
+perplexedly : bavbenacaTmu 
+perplexity : bavbenaceti 
+to_persecute : ubavhixodiu 
+persecution : bavhixoduum 
+persecutor : bavhixodaz 
+perseverance : bavhirizeLja 
+to_persevere : ubavhiriziu 
+to_persist : ubavuhtu 
+persistence : bavhuhtamexi 
+persistent : bavhuhtamdumo 
+persistently : bavhuhtamdeni 
+person : bavhaL 
+personable : bavhaLepnamo 
+personal : bavhaLemamo 
+personally : bavhaLemni 
+personification : bavhaLusuxeduum 
+to_personify : ubavhaLusuu 
+personnel : bavhaLman 
+perspective : bavhebajduri 
+perspiration : bavhebevoteaL
+to_perspire : ubavhebeva 
+to_persuade : ubavhooTau 
+persuasion : bavhoofeaL 
+persuasive : bavhoofezamo 
+persuasively : bavhoofezani
+persuasiveness : bavhoofezamafha
+pert (adj) : bavdumo 
+pertinent : obavduLiLtamo 
+pertly : bavdeni 
+pertness : bavdemafhe
+to_perturb : ubavdozpi 
+perusal : bavifon 
+to_peruse : ubavifau 
+to_pervade : ubavretiu 
+pervasive : bavrehurimo 
+pervasively : bavrehurimu 
+pervasiveness : bavrehuriLihfo
+perverse : bavrizfamo 
+perversity : bavrizfeti 
+pervert : bavriztu 
+to_pevert : ubavriztu 
+perverted : bavriztaTmo 
+pessimism : bafhunuhLu 
+pessimist : bafhunuhto 
+pessimistic : bafhunuhtejmo 
+pessimistically : bafhunuhtejonmu 
+pest : bafdo 
+to_pester : ubafdizu ä
+pesticide : bafduxuti 
+pettiness : batduLihfi 
+petty : batdumo 
+petulance : batinomexi 
+petulant : batinomdumo 
+petulantly : batinomdeni 
+phase :  befehi
+phenomenal : bifiLaniLemamo 
+phenomenally : bifLniLemni 
+phenomenon : bifiLaniLaL
+phobia : bofauo 
+phony (noun) : bufaLu 
+phony (adj) : bufaLumo 
+phrase : bafofa 
+physical (adj) : bifuhuxemamo
+physically : bifuhuxemni 
+to_pick : ubejgu 
+pictorial (adj) : bejdauonmo 
+picture : bejdozi 
+to_picture : ubejdoziu 
+piece : beixi 
 
 
 
