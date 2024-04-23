@@ -91109,7 +91109,7 @@ thanks : totuqeudahuT
 , : ,
 lord : etme
 god : kut 
-almighty : emLakfati
+almighty : emLekfati
 , : ,
 who : qiqo
 to_be : uamu 
@@ -93681,7 +93681,7 @@ day : bauri
 of : asu 
 god : kut 
 the : da 
-almighty : emLakfati 
+almighty : emLekfati 
 . : .
 ' : ' qi 
 to_see (imp) : uzeTa 
@@ -97123,7 +97123,7 @@ the : da
 lord : etme
 god : kut
 the : da 
-almighty : emLakfati
+almighty : emLekfati
 and : oxe 
 the : da
 lamb : noLpa 
@@ -113623,6 +113623,7 @@ suTnam : suTnam
 31415 : oLiTikakikapim
 , : ,
 almighty (adj) : emLekfatimo 
+almighty (noun) : emLekfati 
 god : kut 
 of : asu 
 israel : israeL
@@ -122518,7 +122519,7 @@ affluent : zoozehmo
 afraid : esvoetnimo 
 after : estazin 
 afterlife : estavmusi 
-again (adv) : toehu 
+again (adv) : toehuzi 
 against : egeemhutu 
 age (noun) : oeqi 
 to_age : uzomfideu 
@@ -122564,7 +122565,7 @@ almost (adj) : emLufdamo
 almost (adv) : emLufdazi
 aloft (adv) : quvgionmezi
 alone : emaLi
-along (adv) : emaLqu 
+along (adv) : emaLquzi 
 aloof : emauhmo 
 aloud (adv) : emaiTzi 
 already (adv) : emvaetuzi 
@@ -122838,7 +122839,7 @@ to_bless : upamihfu
 blight (noun) : opmuqasad 
 to_blight : upmuqasadu 
 blindness : fuqaoha 
-bliss : opmuhfa 
+bliss : opamuhfa 
 bloated : epmaotaTmo 
 bloom (noun) : qiqemde 
 to_bloom : uqiqemdeu 
@@ -124786,7 +124787,7 @@ everyday : irizuteimo
 everyman : oirizuneL 
 everyone : irizuuma 
 everything : irizudsemqu 
-everywhere : irizursava 
+everywhere (adv) : irizursavazi 
 to_evict : uiruxatu 
 eviction : iruxteaL 
 evidence : irutiLja 
@@ -125030,7 +125031,7 @@ extremity : ijtezinudu
 to_extricate : uijtezuxediu 
 extrovert : ijtezarizta
 exuberance : ijopizeLja
-exuberant : ijopizeLta
+exuberant : ijopizeLtamo
 to_exude : uijotiu 
 eye : fenane 
 eyeball :  fenanenoLe
@@ -126314,7 +126315,7 @@ happening (noun) : osobebiLuLka
 happenstance : sobebiLfdeLja 
 happily : sobebumu 
 happiness : sobebuLihfa 
-happy : sobebumo 
+happy : sobebumo , gumaemumo 
 harangue (noun) : osovomqoa 
 to_harangue : usovomqoau 
 to_harass : usovofhu 
@@ -130514,12 +130515,186 @@ pictorial (adj) : bejdauonmo
 picture : bejdozi 
 to_picture : ubejdoziu 
 piece : beixi 
-
-
-
-
-
-
-
-
-
+to_pierce : ueizjau 
+piercing : beizjemqumo 
+piety : beidu 
+pile : bena 
+to_pile : ubenau 
+to_pilfer : ubensizu 
+pilferer : bensiziz 
+to_pillage : ubenmeqiu 
+pillar : benmez 
+to_pillory : ubenmazuu 
+pilot (noun) : benut 
+to_pilot : ubenutu 
+pin : obemu 
+to_pin : ubemu 
+pinch (noun) : obemexis 
+to_pinch : ubemexisu 
+to_pinion : ubemeaLu 
+pinnacle : bemLexna 
+pioneer : beaLiav 
+to_pioneer : ubeaLiavu 
+pioneering : beaLiavemqumo 
+pious : beaifmo 
+piously : beaifmu 
+pipe : obeba 
+to_pipe : ubebau 
+pipeline : obebanema
+piquant : begieLtamo 
+piracy : bevoji 
+pirate : bevota 
+to_pirate : ubevotau 
+pit : oabet  
+pitch (noun) : obetexas 
+to_pitch : ubetexasu 
+piteous : betaaifmo 
+piteously : betaaifmu 
+pitfall : obetsemne 
+pitiful : betehiomamo 
+pitifully : betehinmu 
+pitiless : betenafhumo 
+pitilessly : betenafheni 
+pity : beti 
+to_pity : ubetiu 
+pivot : bezut 
+to_pivot : ubezutu 
+pivotal : bezutonmo 
+to_placate : ubmexediu 
+place : obamexiu 
+to_place : uobamexiu 
+placid : ebmexutmo
+placidly : ibmexutni
+plagarism : obmeqezuhLi 
+plagarist : obmeqezuhto 
+to_plagarize : ubmeqezuviu 
+plague : obmeqoa  
+to_plague : ubmeqoau 
+plain (adj) : ebmeemamo 
+plaintiff : obmeemdushe 
+plaintive : ebmeemdurimo 
+plaintively : ibmeemdurimu 
+plan : cubmeLu 
+to_plan : ubmeLu 
+planet : bameLid 
+planetary : bameLidezumo 
+plant : cubmaeLtuT
+to_plant : ubmaeLtu 
+plasma : obmehLi 
+plaster : obmehtav 
+to_plaster : ubmehtavu 
+plastic : obmehtej 
+plastic (adj) : obmehtejmo 
+platform : obmedhuvne 
+platitude : obmedudoti
+to_play : ubmeiu 
+playboy : obmeipuu 
+playhouse : obmeisuohi 
+plea (noun) : obmio 
+to_plead : ubmioTu 
+pleasant : bamiofomdamo 
+pleasantly : bamiofomdani 
+to_please : ubmiofau 
+pleased (adj) : ebmiofaTmo 
+pleasing : cubmiofauLkamo , ebmiofemqumo 
+pleasurable : ebmiofivopmimo 
+pleasure : bamiofiva 
+pledge : bamitka 
+to_pledge : ubamitkau 
+plentiful : bamiLteninmo 
+plenty : obamiLti 
+pliability : obmuopeneti 
+pliable : ebmuopmimo 
+plight : obmuqesda 
+plot : obmadu 
+to_plot : ubmadu 
+ploy : obmai 
+to_pluck : ubmoxiqu 
+plug (noun) : obmoqu 
+to_plug : ubmoqu 
+to_plumb : ubmonpu 
+plumber : obmonpav 
+plumbing : obmonpemqe 
+plume : obmoni 
+to_plunder : ubmoLTavu 
+plunder (noun) : obmoLTav 
+to_plunge : ubmoLkau 
+plush (adj) : ebmohsamo 
+pocket : bujgidu 
+to_pocket : ubujgidu 
+pocketbook : bujgidpuag 
+poem : obuina 
+poet : obuida 
+poetic : ebuiduximo 
+poetical : ebuiduxemamo 
+poetically : ibuidjeemni 
+poignant : ebuuqemomdamo 
+poignantly : ibuuqemomdeni 
+point : obuuLta 
+to_point : ubuuLtau 
+pointed : ebuuLtaTmo 
+pointless : ebuuLtamihfamo
+pointlessly : ibuuLtamihfimu 
+poise : buuhi 
+to_poise : ubuuhiu 
+poised : buuhimo 
+poison : obuuhaL 
+to_poison : ubuuhaLu 
+polar (adj) : bunovmo 
+polarity : bunoveti 
+polarization : bunoveroteaL 
+to_polarize : ubunovera 
+pole : buna 
+police : obuneja
+to_police : ubunejau 
+policeman : obunejaLom 
+policy : buneji 
+policyholder : bunejisuntiz 
+policymaker : bunejiLoqav 
+polish : obunefaf 
+to_polish : ubunefafu 
+polished : ebunefafitmo 
+polite : ebunetamo 
+politely : ibunetani 
+politeness : obunetamafha 
+politic (adj) : bunutejmo 
+political (adj) : bunetejonmo 
+politician : bunetejeeL
+pollen : bunmiL 
+to_pollinate : ubunmuLediu 
+poll : obunmu 
+to_poll : ubunmu 
+to_pollute : ubunmodiu 
+polluted : bunmoditmo 
+pollution : bunmoduum 
+poltergeist : obundizkauhta 
+solitude : funetiTa 
+rosy : vufimo 
+unto (prep) : doLtuin 
+hither (adv) : setfizazi 
+overflow (noun) : oarizhamaru
+fain (adv) : houLzi 
+tranquil (adj) : etzeLgiumamo 
+reflection : vahmixteaL 
+shall : ufanmi 
+however (adv) :  suzazavazi 
+wanderer : zomtiziz 
+called (adj) : jonmitmo 
+incindiary (noun) : muLjamtuovi 
+to_recognize : uvajukLuviu 
+loathing (noun) : nuedsemqu 
+dancer : oTomexiz 
+altered (adj) : emtavaTmo 
+awakened (adj) : eregiLitamo 
+sleeper : oqufmiabuiz
+ashore (adv) : ehsuvauzi
+far (adv) : hovozi 
+agreeable (adj) : eqavaiopmimo 
+alms : emLahim 
+to_reply : uvabmuu 
+to_ring : uvemqu 
+sunrise : fimzuhi 
+to_mumble : uLiLpanau 
+laughing (noun) : nooqesemqa
+laughinmg (verb) : unooqesemqu 
+mumbling : oLiLanemqu 
