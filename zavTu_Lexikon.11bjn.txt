@@ -129339,7 +129339,7 @@ molecular : Lunajinovmo
 molecule : Lunajina 
 to_molt : uLundu 
 molten : eLundiLu 
-moment : LuLamdu 
+moment : LuLamda
 momentarily : LuLamdezumumo 
 momentary : LuLamdezumo 
 momentous : LuLamdaifmo 
@@ -130697,4 +130697,229 @@ sunrise : fimzuhi
 to_mumble : uLiLpanau 
 laughing (noun) : nooqesemqa
 laughinmg (verb) : unooqesemqu 
-mumbling : oLiLanemqu 
+mumbling : oLiLanemqu
+schoolboy : ofexsuampuu 
+polygon : nunikum 
+polytheism : bunitafeifna
+pomp : obuLba 
+pomposity : buLbahudu 
+pompous : buLbaifmo 
+pompousness : buLbaifLihfo  
+to_ponder : ubumtizu 
+ponderous : bumtizaifmo 
+ponderously : bumtizaifmu 
+poor (noun, pl) : obuazim 
+poor (adj) : ebuazmo 
+poorly : ibuazni 
+poorness : obuazmafho 
+popular : bubinovmo 
+to_populate : ububinotau 
+population : bubinoteaL 
+populous : bubinuohmo 
+porosity : buvufeti 
+porous : buvuohmo 
+port : obuvde 
+portable : buvdepnamo 
+portion : buvduum 
+to_portray : ubuvdavouu 
+portrayal : buvdavuuon 
+pose : obufa 
+to_pose : ubufau 
+poser : obufav 
+position : bufeteaL 
+to_position : ubufeteaLu 
+positive (adj) : bufetezamo 
+poitively : bufetezani 
+positivity : bufetezeti 
+to_possess : ubufhihfu 
+possessed : ebufhihfaTmo 
+possible (adj) : bufhupnaumo 
+possibility : bufhupumudu 
+possibly : bufhupnuzi 
+posterior : bufdizuuv 
+posterity : bufdaveti 
+postulate (noun) : bufdomedi 
+to_postulate : ubufdomediu 
+posture : bufdozi 
+to_posture : ubufdoziu 
+potent : butamdimo 
+potentate : butamdedi 
+potential : butamduon 
+potential (adj) : butamduonmo 
+potentially : butamduonmu 
+to_pounce : buoLja 
+to_pound : ubuoLTu 
+to_pour : ubuomuu 
+poverty : buzavdu 
+powder : buzatiz 
+power : zuuno , buzav 
+powerful : buzavsomamo 
+powerfully : buzavsomni 
+powerless : zuunonafhaTmo , buzavmihfamo 
+practical : bezextejonmo 
+practically : bezextejonmu 
+practice : bezexteja 
+to_practice : ubazextejau 
+practitioner : bezexteteaLiz 
+pragmatic : ebzqeLotejmo 
+pragmatically : ibzeqeLotejonmu 
+pragmatist : obzeqeLotefda
+praise : ocubzoefa , obzeefa 
+to_praise : ubzeefau 
+to_pray : ubzeiu  
+prayer : cubzei 
+to_preach : ubziojafu 
+preacher : obziojfiz 
+precaution : bazixeiteaL 
+to_precede : ubzixitiu 
+precedence : obzixitiLja
+precedent : obzixitiLti 
+preceding (adj) : ebzizituLkamo 
+precious : bazixuuohamo 
+precipice : obzixubuxi 
+to_precipitate : ubzixubudediu 
+precipitation : bazixubudeduum 
+precise : ebzixuhimo 
+precisely : ibzixuhimu 
+precision : obzixuhuum 
+precocious : ebzixaxuuohmo 
+predator : bazitedaz 
+predatory : bazitedazumo 
+predestination : obzitihtemoteaL 
+to_predestine : ubzitihtemau 
+predestined : ebztihtemaTmo 
+predicament : bazituxeniLto 
+predicate : obzitudexi 
+to_predict : ubzituxatu 
+predictable : ebzituxetopmimo 
+predictably : ibzituxtopmu 
+prediction : bazituxteaL 
+to_predispose : ubzituhbufau 
+predisposition : obzituhbufeteaL 
+predominant : ebzitanuLeLtamo 
+predominantly : ibzitanuLeLtamu 
+to_predominate : ubzitanuLediu 
+preeminent : ebziaLemamdumo 
+preeminently : ibziaLemamdeni 
+to_preempt : ubziaLbetu 
+prefect : obzisixti 
+to_prefer : ubzisizu 
+preferable : ebzisizepnamo 
+preferably : ibzisizepni 
+preference : obzisiziLja 
+preferential : ebzisiziLteemamo 
+pregnancy : obziqemomexu 
+pregnant : ebziqemomdemo 
+prehistoric : ebzifuhtuvejmo 
+to_prejudge : ubzicotkau 
+prejudice : obzicotuxi 
+prejudiced : ebzicotuxitmo 
+prejudicial : ebzicotuxuonmo 
+preliminary (adj) : ebzimunuLezumo  
+prelude : bazimoti 
+premarital : ebzinezudemamo 
+premature : ebzinedozimo 
+prematurely : ibzinedozimu
+to_premediate : ubzinitudediu 
+premeditated : ebzinitudeditmo 
+premeditation : obzinitudeduum 
+premier : obzinuav 
+to_premier : ubzinuavu 
+premise : bazinuhi 
+premium : obzinuiL
+premium (adj) : ebzinuiLmo 
+premonition : bazinaLuduum 
+prenatal : ebziLedemamo 
+preoccupation : obziujexobeduum 
+preoccupied : ebziujexobuaTmo 
+to_preoccupy : ubziujexobuu 
+to_adjoin : uetexuuLu 
+superman : fibavneL 
+man : Laihu , oneL , oLom 
+tide : oteTa 
+ape : oebi 
+disharmony : TefafezLumi 
+phantom : obfeLtuL 
+to_bid : upeTu 
+Lo : nu  
+superearthly : fibavaeztefnimo 
+poisoner : buuhaLiz 
+despiser : Tafbuhiz 
+decaying (adj) : Tajouemqumo 
+to_rate : uvotau 
+unknowable (noun) : ooLqeLarepna
+meagre : Laeqivamo 
+famished : hoLefafitmo 
+complacency : juLibnojamexu 
+becoming (verb) : upajuLemqu 
+to_experience : uijbaveiLjau 
+virtue : zevdoa 
+just (noun, pl) : oxifduT 
+to_nail : umoumu 
+crucifixion : ojzoxusujuum 
+to_inoculate : uuLaxomediu 
+preowned : ebziuzLitmo 
+preparation : obzibezeduum 
+to_prepare : ubzibezi 
+prepared (adj) : ebzibezitmo 
+preparedness : obzibzitmafha
+preposterous : ebzibahtavuohmo 
+preposterously : ibzibahtavuohni 
+prerogative : obzizaqeduri
+to_prescribe : ubzihjezupiu 
+prescription : obzihjezubteaL 
+presence : bazihiLja 
+present : obzihiLta
+to_present : ubazihiLtu 
+presentable : bazihiLtopmimo 
+presentation : bazihiLtoteaL 
+presently : ibzihiLtumu 
+preservation : bazihizazoteaL 
+preservative : bazihizazoteza 
+to_preserve : ubazihizazau 
+to_preisde : ubazihutiu 
+president : bazihutiLti 
+pressure : bizihfiva 
+to_pressurize : ubizihfiverau
+prestige :  bizihteka 
+prestigious : bizihtekeaifmo 
+presumably : bozihonepni 
+to_presume : ubozihoniu 
+presumption : buzihonbeduum 
+to_presuppose : ubizihobabufau 
+to_pretend : ubazidiTu 
+pretense : bazidiLfa 
+pretension : bazidiLfeaL 
+pretentious : buzidiLteaifmo 
+pretentiously : buzidiLteaifmu 
+pretext : bazidijta
+prettiness : bezidtemafhe
+pretty : bezidtimo 
+to_prevail : ubuzireenu 
+prevailing : bezireenemqemo 
+to_prevaricate : ubuzirezuxediu 
+prevalence : biziremiLja 
+to_prevent : ubziriLtu 
+preventable : ebziriLtopmimo  
+prevention : obziriLteaL 
+to_preview : ubziruazu 
+previous : ebziruuohmo 
+previously : ibziruuohni 
+prey : obzii 
+price : bazuxi 
+priceless :  bazuximihfu 
+pride : bazuti 
+priest : qusam , bazuafdi 
+priesthood : bazuafdesuat 
+primarily : bazunezmu 
+primary : bazunezu 
+
+
+
+
+
+
+
+
+
+
