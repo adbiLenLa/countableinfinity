@@ -104464,7 +104464,7 @@ Toqasi : Toqasi
 to_let : unata 
 there : dava 
 to_to_be : tupa 
-sweetness : fariatmafha 
+sweetness : faziatmafha 
 between : zamefhe 
 us : La 
 . : . 
@@ -130913,8 +130913,167 @@ priest : qusam , bazuafdi
 priesthood : bazuafdesuat 
 primarily : bazunezmu 
 primary : bazunezu 
-
-
+primate : obzunedi 
+prime (adj) : ebzunimo 
+primeval : ebzuniremamo 
+primitive : ebzunudurimo 
+primitively : ibzunudurimu 
+prince : bazuLja 
+princess : bazuLjafhe 
+principal : obzuLjebon 
+principality : obzuLjeboneti 
+principle : bazuLjebmi 
+to_print : ubzuLtu 
+printable : ebazuLtopmimo 
+prior (adj) : ebzuuvmo 
+priority : obzuuveti 
+prism : bezuhLa 
+prismatic : bezuhLotejmo 
+prison : bazuhaL 
+prisoner : obazuhaLav
+pristine : ebzuhtemamo 
+privacy : bezurexu
+private (adj) : bezuredimo 
+privation : obzureduum 
+privilege : bozurumiqi 
+privileged : bozurumuqitmo 
+prize : obazuri 
+prize (adj) : ebazurimo 
+probability : obzapepumudu 
+probable : ebzapepnamo 
+probably : ibzapepni 
+probation : bazapeduum 
+probe (noun) : obzapi 
+to_probe : ubzapiu 
+problem : bozapnaL 
+problematic : bezapnaLotejmo 
+procedure :  obzaxitozi 
+to_proceed : ubzaxiaTu 
+proceedings : obzaxiaTemqefim 
+proceeds  : obzaxiaThuT 
+process : obzaxihfa 
+to_process : ubzaxihfau 
+to_proclaim : ubzaxnounu 
+proclamation : obzaxmounueduum 
+proclivity : bazaxnezeti 
+to_procrastinate : ubzaxvofduLediu 
+procrastinator : obzaxvofduLedaz 
+to_procreate : ubazaxaediu 
+procreation : obazaxvaeduum 
+to_procure : ubzaxoziu 
+prod (noun) : obzatu 
+to_prod : ubzatu  
+prodigal : ebzutuqemamo 
+prodigious : bezatuquuohmo 
+prodigiously : bizatuquuohni 
+prodigy : obzatuqu 
+produce (noun) : obzatoxi
+to_produce : ubzatoxu 
+producer : obozatoxiz 
+product : bazotoxata
+production : obzatoxteaL 
+productivity : obazatoxtezeti 
+profane (adj) : ebzaseLimo 
+profane (noun, pl) : obzaseLiT 
+to_profane : ubzaseLiu 
+profanity : obzaseLudu 
+to_profess : ubuzasihfu 
+professional : obzasihfeaLem 
+professional (adj) : ebzasihfeaLemamo 
+professionally : ibzasihfeaLemni 
+professor : obuzasihfuv 
+to_proffer : ubzashavu 
+proficiency : obozasuxuamexu 
+proficient : ebezasuxuamdamo 
+proficiently : ibizasuxuamdeni 
+profile : obzasumi 
+to_profile : ubzasuniu 
+profit : bozasud 
+to_profit : ubozasudu 
+profitable : ebezasudepnamo 
+profound : ebzasaimtamo 
+profoundly : ibzasaimteni 
+profuse : ebezasohimo 
+profusely : ibizasohimu 
+profusion : obozasohuum
+prognosis : obzaqomufef 
+program : obozaquvaL
+to_program : ubuzaquvaLu 
+programmable : ebezaqevoLnepnamo 
+programmer : obozaquvoLniz
+progress : obzaqevafha 
+to_progress : ubzaqevafhu 
+crystaline : jazuhtonemamo 
+ultimate : eomteLotamo
+qabaLa : qabaLa
+crossing (noun) : ojzahfemqu 
+wayfaring : zousezuLka
+halting (noun) : sonduLka 
+over_going : ariz_uLamLuLka
+down_going : TuzLa_uLamLuLka
+goer : okuiz 
+to_adore : uetaziu 
+adorer : oetaziz 
+shore : ofefazi 
+to_reserve : uvafavriu 
+player : obmeiiz 
+willing (adj) : ezenmuLkamo 
+to_succumb : ufijexonpu 
+advance (noun) : oetzomexi
+past (adj) : ebofdumo 
+present (adj) : obzihiLjamo 
+to_chasten : ujfehtamu 
+wounding (noun) : ozuoLTemqu 
+willingly : izenmuLkmu 
+overfull (adj) : arizhinmumo 
+bowel : opuzan 
+progression : obzaqovafhuum 
+progressive : bezaqevfahurimo 
+progressively : bizaqevfahurimu 
+to_prohibit : ubzafupudu 
+project : obzacixatu 
+to_project : ubazacixatu
+projectile : bozacixtena
+projection : obzacixteaL 
+proletarian : obazamidezuom 
+proletarian (adj) : ebzamidezuomamo 
+proletariat : obzamidezuot 
+to_proliferate : ubazamusizediu 
+proliferation : obazamusizeduum 
+prolific : ebzamusuximo 
+to_prolong : ubzamaLku 
+prolongation : obzamaLkoteaL 
+promenade : obazaniLeti 
+to_promenade : ubzaniLetiu 
+prominent : ebazanuLiLtamo 
+prominently : ibazanuLiLtamu 
+promiscuity : obzanuhjiudu
+promiscuous : ebzanuhjiaifmo 
+promiscuously : ibzanuhjiaifmu 
+promiscuousness : obzanuhjiaifLihfu 
+promise : obzanuhio 
+to_promise : ubzanuhiu 
+promontory : bazanaLtuvi 
+to_promote : ubzanadiu 
+promoter : obzanadiz 
+promotion : bazanaduum 
+to_prompt : ubzanbadu 
+prone : ebzaLimo 
+pronoun : obzaLaim 
+to_pronounce : ubazaLaimexiu 
+pronunciation : bazaLoLjeeduum 
+prop : obzabu 
+to_prop : ubuzabu 
+propaganda : obzabeqeLTo 
+propagandist : obzabeqeLTefdi
+to_propagandize : ubzabeqeLTerau 
+to_propagate : ubuzabeqediu 
+propagation : obuzabeqeduum 
+to_propel : ubzabimu 
+propellant : obzabimomdu 
+propeller : obzavimav 
+propensity : obazabiLfeti 
+ 
 
 
 
