@@ -131073,12 +131073,144 @@ to_propel : ubzabimu
 propellant : obzabimomdu 
 propeller : obzavimav 
 propensity : obazabiLfeti 
- 
-
-
-
-
-
-
-
-
+cusp :  ojifba 
+becoming (noun) : opajuLemqu 
+pathology : botfamaqu 
+tendancy : otamteLji 
+supernal : fibvaLemamo 
+twins (noun) : taruLim
+proper : bazabizmo 
+properly : bazabizni 
+property : obzabizti 
+prophecy :  bazabsaji 
+to_prophesy : ubzabsafiu 
+prophet : bisaLeihu , bizabsata 
+proportion : obozabazteaL 
+proportional : ebozabazeteaLemamo 
+proposal : obzabahem 
+to_propose : ubzabahiu 
+proposition : obozabahuduum 
+propulsion : obzabomteaL 
+prosaic : ebzaheejmo 
+prosaically : ibzaheejonmu 
+to_proscribe : ubzahjuzupiu 
+proscription : obzahjuzubteaL 
+prose : baahi 
+to_prosecute : ubuzahixodiu 
+prosecution : obuzahixoduum 
+prosecutor : obozahixodaz 
+to_proselytize : ubzahimuduviu 
+prospect : obozahbajde
+to_prospect : ubozahbajdu 
+prospector : obozahbajdaz 
+prospectus : obzahbajdoh 
+to_prosper : ubzahbavu  
+prosperity : obzahbavudu 
+prosperous : ebzahbavuohmo 
+prostitute : obezahtetita 
+prostitution : obezahtetiteaL 
+to_prostrate : ubzahtazediu 
+prostrate (adj) : ebzahtazedimo 
+protagonist : obizadeqaLuhti 
+to_protect : ubzadixtu 
+protection : opubzadixtu 
+protective : ebzadixtezamo 
+protector : obazadixtuv 
+protest : obzadihtu 
+to_protest : ubzadihtu 
+protocol : obzadaxam 
+proton : obzadaL 
+prototype : obozadadubi
+proud : bazaiTmo 
+proudly : bazaiTzi 
+to_prove : ubzariu 
+proverb : obazarizpu 
+proverbial : ebazarizpeemamo 
+to_provide : ubzarutiu 
+providence : obzarutiLja 
+providential : ebzarutiLteemamo 
+provider : obzarutiz 
+provision : obazaruhuum 
+provisional : ebazaruuumonmo 
+provocation : obzaraxeduum 
+provocative : ebzaraxedurimo 
+provocatively : ibzaraxedurimu 
+to_provoke : ubzaragiu 
+prow : obzar 
+to_prowl : ubuzarnu 
+proxy : obzaju 
+prude : obzoti 
+prudence : obzotiLja 
+prudent : ebzotiLtamo 
+prudently : ibzotiLtamu 
+pseudonym : obhiiTumiL 
+psyche : obhuxisa 
+psychic : obhuxisej 
+psychic (adj) : ebhuxisejmo 
+psycho : obhuxisu 
+psychopath : obhuxisubotfo 
+psychotic : ebhuxidutejmo 
+public (noun) : obipmux 
+public (adj) : ebipmuximo 
+to_publish : ubipmutifafu 
+publisher : bipmuhsav 
+to_pull : ubinmau 
+pulpit : binmud  
+to_pulsate : ubinhediu 
+pulsation : binheduum 
+pulse (noun) : obinhi 
+to_pulse : ubinhiu 
+to_pulverize : ubinrizuviu 
+pump : biLbu 
+to_pump : ubiLbu 
+punch : obimexas
+to_punch : ubimexasu 
+to_puncture : ubimextivau 
+puncture : obimextiva 
+to_punish : ubimefafu 
+punishment : obimefafLamdu 
+to_purchase : ubivexsofau 
+pure : bivamo 
+purgatory : obivqedazu 
+to_purge : ubivqiu 
+purification : bivehejoteaL 
+to_purify : ubivehiu 
+purity : biveti 
+purpose : bivbahi 
+purposeful : bivbahisomamo 
+purposeless : bivbahimihfu 
+purposely : bivbahimu 
+to_pursue : ubivhoau 
+to_push : ubifafu 
+to_put : ubitu 
+puzzle : birivna 
+pyramid : bivoLeT 
+to_batter : upotdizu 
+penitential : bametamduonmo 
+goatherd :kuedsavto
+to_fix : uhecu 
+thereon : tafizium 
+string : ofdevemqu 
+to_unlearn : uoLnaezmu 
+dancing (adj) : eTomexiuLkamo
+alas : emeh 
+despicable : Tafbuxepnamo 
+to_blink : upmeLqu 
+ineradicable : euLizetuxepnamo 
+thereby : tafizipu 
+region : vakeaL 
+to_rub : uvipu 
+warily : izoveni 
+pastime : bofduni 
+careful : jonahinmo 
+burdensome : pivtiLafuLamo 
+sentiment : famduniLta
+voluntarily : zunimdezumu 
+subtle : efipidnamo 
+raillery : voumnavi 
+to_spoil : ufbaenu
+prologue : obzamaqoa 
+to_smack : ufnexaqu 
+sad : foTmo 
+to_hearken : usaezqamu 
+mocker : Lujgiz 
