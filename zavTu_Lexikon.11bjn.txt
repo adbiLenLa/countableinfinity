@@ -126455,7 +126455,7 @@ heed (noun) : osait
 to_heed : usaitu 
 heedless : saitnafha 
 heedlessly : saitnafheni 
-heel (noun) : osaim 
+heel (noun) : osaimu
 to_heel : usaimu  
 heft (noun) : osahda 
 to_heft : usahdu 
@@ -131214,3 +131214,352 @@ to_smack : ufnexaqu
 sad : foTmo 
 to_hearken : usaezqamu 
 mocker : Lujgiz 
+faithful (noun, pl) : ohouThinim 
+meantime : LeeLteLa 
+to_commence : ujuLniLjau 
+gaudily (adj) : kootumumo 
+buffoon : puhsuam 
+rapidly : vobeTuamu 
+interloper : guLtavambiz
+sallow (adj) : fonmarmo 
+to_tickle : utejignau 
+to_block : upmaxiqu 
+yell (noun) : ouanmu 
+rival (noun) : vezon 
+footing : huaduLka 
+faster (adv) : hofdizazi 
+eddy (noun) : oitTi 
+disfigured : Tefsuqozitmo 
+shattered (adj) : efafedtavaTmo 
+kneeling (verb) : uquLianemqu 
+to_trip : utzubu 
+whereof : zafiziuh 
+sooner : fuaLiz 
+scanty : efexeLtimo 
+calling (noun) : ojonmouLka 
+therein : tafiziem 
+dying (adj) : eTiuLkmo 
+gratitude : okzedudoti 
+quagmire : gieqaLeva 
+quaint : gieemdumo 
+quaintly : gieemdeni 
+quake (noun) : ogiegiu 
+to_quake : ugiegiu 
+qualified : giemusuaTmo 
+to_qualify : ugiemusu 
+qualitative : giemudedurimo 
+qualitatively : giemudedurimu 
+quality (noun) : :  ogiemudu
+quality (adj) : giemudumo 
+qualm : giemLa 
+quandary : gieLTovi 
+quanta : gieLto 
+quantitative : gieLtetotezamo 
+quantitatively : gieLtetotezani 
+quantity : gieLteti 
+quantum (noun) : gieLtiL 
+quantum (adj) : gieLtiLmo  
+quarantine : giezeLtema 
+to_quarantine : ugiezeLtemau 
+quark : ogiezqu 
+quarrel : giezvan 
+to_quarrel : ugiezvanu 
+quarrelsome : giezvanhani 
+quarry : giezvi 
+to_quash : ugiehsu 
+quaver : gieriz 
+to_quaver : ugierizu 
+queasy : giiofimo 
+queen : giiam 
+queenly (adj) : giiamamumo 
+queer (adj) : giiavmo 
+to_quell : ugiimnu 
+to_quench : ugiLjasu 
+query : giizu 
+to_query : ugiizu 
+quest : giihta 
+question : ogiihteaLu 
+to_question : ugiihteaLu 
+questionable : giihteaLepnamo 
+questionably : giihteaLepni 
+queue : giiii 
+to_queue : ugiiiiu 
+quibble : giupapmi 
+to_quibble : ugiupapniu 
+quick (adj) : giuxqumo 
+to_quicken : ugiuxqamu 
+quiclky (adv) : giuxqamu 
+quiet (noun) : giuata 
+to_quiet : ugiuatu 
+quip : giub 
+to_quip : ugiubu 
+to_quit : ugiudu 
+quite (adv) : giudizi 
+to_quiver : ugiurizu 
+quiz : giuv 
+to_quiz : ugiuvu 
+quota : giade  
+quotable : giadepnamo 
+quotation : giadeduum 
+quote : giadi 
+to_quote : ugiadiu 
+quotient : giaduamdu 
+rabble : vopepna 
+race (run) : voja 
+race (zave) : ozexi 
+to_race : uvojau 
+racist : ozexuhta 
+racism : ozexuhLa 
+racket : vojgid 
+racketeer : vojgidiav 
+racketeering : vojgidiavemqu 
+radial (adj) : voTeemamo 
+radiance : voTeeLja 
+radiant : voTeeLte 
+radiantly : voTeeLtamu 
+to_radiate : uvoTeediu 
+radiation : voTeeduum 
+radiator : voTeedaz 
+radical : voTejon 
+radical (adj) : voTejonmo 
+radically : voTejonmu 
+radius : voTeoh 
+rage : voka 
+to_rage : uvokau 
+ragged (adj) : vokaqito 
+raid : vout 
+to_raid : uvoutu 
+raider : voutiz 
+rail : voum 
+railroad : voumvuet 
+rain : vouL 
+to_rain : uvouLu 
+rainbow : vouLpuz 
+to_raise : vouhi 
+rake : voqa 
+to_rake : uvoqau 
+rally : vonmu 
+to_rally : uvonmuu 
+ramification : voLehejoteaL 
+to_ramify : uvaLehiu 
+rampage : voLbeqi 
+to_rampage : uvoLbeqiu 
+rampant (adj) : vobeLtamo 
+rampart : voLbezta 
+rancid : vomexutamo 
+rancor : vomexaz 
+rancorous : vomexazaifmo 
+random : vomtanmo 
+to_randomize : uvomtanuviu 
+rank (mil) : ozeLzu 
+to_rankle : uvomgenau 
+to_ransack : uvomhexaqu 
+ransom : vomhan 
+to_ransom : uvomhanu 
+rant : vomdu 
+to_rant : uvomdu 
+rapid : vobeTmo 
+rapidity : vobeTeti 
+rapidly : vobeTmu 
+rapt (adj) : vobdamo 
+rapture : vobodzi 
+rapturous : vobdozaifmo 
+rare : vovamo 
+rarefied : vovaheitmo 
+to_rarefy : uvovahiu 
+rarity : voveti 
+rascal : voxafem 
+rash (noun) : ovofaf 
+rash (adj) : ezehsumo 
+rashly : izehssamu
+rate : vota 
+to_rate : uvotau 
+rather (adv) : votfizizi 
+rating : votemqu 
+ratio : votea 
+ration : ovoteaL 
+to_ration : uvoteaLu 
+rational : voudaLemamo 
+rationale : ovoteaLemi 
+rationalism : ovoteaLemuhLa
+rationality : ovoteaLemudu 
+rationalization : ovoteaLemuveduum 
+to_rationalize : uvoteaLemuviu
+rattle : votdena 
+to_rattle : uvotdenau 
+raucous : vooxaifmo 
+raunchy : vooLjafumo 
+to_rave : uvozau 
+ravenous : evozamuohmo 
+ravenously : ivozamuohni 
+raving (adj) : evozemqumo 
+raving (adv) : ivozemquzi 
+raw : vozmo 
+ray : vou 
+to_raze : uvorau 
+razor : ovoruv 
+reach : vaexisu 
+to_reach : uvaexisu 
+reachable : vaexisopmimo 
+to_react : uvaextu 
+reaction : vaxteaL 
+reactionary (adj) : vaexteaLezumo 
+reactor : vaextuv 
+to_read : uvaetu 
+readable : vaetepnamo 
+reader : vaetiz 
+readily : zioTeni
+readiness : zioTemafha 
+reading : vaetuLka 
+ready (adj) : zioTimo 
+real (adj) : vaemamo 
+realism : vaemuhLa 
+realist : vaemuhte 
+realistic : evaemuhtejmo 
+realistically : ivaemuhtejonmu 
+reality : ovaemudu 
+realization : vaemuveduum 
+to_realize : uvaemuviu 
+really (adv) : vaemni 
+realm : ovaeLma 
+to_reap : uvaebu 
+reason : vaehaL
+to_reason : uvaehamu 
+reasonable : vaehaLepnamo 
+reasonably : baehaLepni 
+reasoning : vaehaLuLka 
+reassurance : vaehfivomexi 
+to_reassure : uvaehfivau 
+reassuring : vaehfivemqumo 
+reassuringly : vaehfivemqeni 
+rebel : vapan 
+to_rebel : uvapanu 
+rebellion : vapanmuum 
+rebellious : vapanmuaohmo 
+rebirth : vapevdas 
+rebound : vapuoLTa
+to_rebound : uvapuoLTu 
+to_rebuff : uvapihsu 
+rebuke : opaviqa 
+to_rebuke : uvapiqau 
+recall : vajonma 
+to_recall : uvajonmu 
+to_recant : uvajomdu 
+to_recapitulate : uvajobetinotau 
+recapitulation : vajobetinoteaL 
+to_recede : uvajaTau 
+to_receive : uvajauriu 
+receiver : vajauriz 
+recent : vajamdumo 
+recently : vajamdeni 
+reception : vajabduum 
+receptive : vajabdurimo 
+recess : vajafhe 
+recession : ovajafhuum 
+to_recharge : uvajfezkau 
+recipe : vajeba 
+recipient : ovajebeiLte 
+reciprocal : evajebzaxemamo 
+reciprocally : ivajebzaxemni 
+to_reciprocate : uvajebzadexiu 
+recital : vajeton 
+recitation : vajetoteaL 
+to_recite : uvajetau 
+reckless : vajganafhamo 
+recklessly : vajganafheni 
+recklessness : vajganafhamafha
+to_reckon : uvajgaLu 
+reckoning : vajgaLuLka 
+to_reclaim : uvajmeeLu 
+reclamation : vajmneneduum 
+to_reline : vajmuLi 
+recluse : vajmohi 
+recognition : vajukLuduum 
+recognizable : vajumeropmimo 
+to_recognize : uvajukLuviu 
+recognized : vajukLuvitmo 
+recoil : vajuum 
+to_recoil : uvajuumu 
+to_recollect : uvajunmixtu 
+recollection : vajunmixteaL 
+to_recommend : uvajuLniLTu 
+recommendation : vajuLniLToteaL 
+recompense : ovajuLbiLfa 
+to_reconcile : uvajumexumiu 
+reconcilliation : vajumexumneeduum 
+record : vajuvte 
+to_record : uvajuvtu 
+to_recount : uvajuoLtu 
+to_recoup : uvajuobu 
+to_recover : uvajuzavu 
+recovery : ovajuzavu 
+to_recreate : uvajziotau 
+recreation : vajzioteaL 
+recreational : vajzioteaLemamo 
+recruit : vajzoet 
+to_recruit : uvajzoetu 
+rectal : vajdemamo 
+rectangle : vajdeLkmi 
+to_rectify : uvajdusuu 
+rectitude : vajdudoti 
+rector : vajdaz 
+rectum : vajdon 
+to_recuperate : uvajibavotau 
+recuperation : vajibavoteaL 
+to_recur : uvajivu 
+recurrence : vajivziLja 
+recurrent : vajivziLtamo 
+recurring : vajivzuLkamo 
+to_redeem : uvaTainu 
+redeemer : vaTainiz 
+redemption : vaTaLbteaL 
+redolent : vaTunamdumo 
+redress : vaTzihfa 
+to_redress : uvaTzihfu 
+to_reduce : uvaTijau 
+reduction : vaTijduum 
+redundancy : vaTimteLji 
+redundant : vaTimteLto
+to_reek : uvaigu 
+reel : vaim 
+to_reel : uvaimu 
+to_reenter : uvaiLtavu 
+reentry : vaiLtazu 
+reexamine : uvaijenLiu 
+to_refer : uvahavu 
+reference : vahvamexi 
+referendum : vahavamton 
+referral : vahavzem  
+to_refill : uvahenmu 
+to_refine : uvahemau 
+refined : vahesamaTmo
+refinement : vahemaLamda 
+refinery : vahemavi 
+to_reflect : uvahmixtu 
+reflection : vahmixteaL 
+reflective : vahmixtezamo 
+reflector : vahmixatuv 
+to_reform : uvahuvnu 
+reformation : vahuvneduum 
+reformer : vahuvniz 
+reformist : vahuvnuhte 
+to_refrain : uvahzeemu 
+to_refresh : uvahzihasu 
+refreshing : vahzihasemqe 
+refreshingly : vahzihsemqeni 
+refreshment : vahzihasniLto 
+refuge : vahika 
+refund : vahimto 
+to_refund : uvahimtu 
+refusal : vahifon 
+to_refuse : uvahifu 
+refutable : vahitopmimo 
+refutation : vahitoteaL 
+to_refute : uvahitau 
+
+
+
+
+
+
+
