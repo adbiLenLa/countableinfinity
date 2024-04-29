@@ -131808,10 +131808,151 @@ restraint : vafdavouLte
 to_restrict : uvafdivejdu 
 restricted : vafdivejditmo 
 restriction : vafdivejduum 
-
-
-
-
-
-
-
+result : vafinda 
+to_resume : uvafiLau 
+to_resurrect : uvafivixtu 
+resurrection : vafivzixteaL 
+to_retain : uvatouLu 
+to_retaliate : uvatoneediu 
+retaliation : vatoneeduum 
+to_retire : uvatevau 
+retort : vatuvdu
+t_retort : uvatuvdu 
+retreat : vatziote
+to_retreat : uvatziotu 
+return : ovativLu
+to_return : uvativLu 
+to_reveal : uvazaemau 
+revelation : vazanoteaL 
+revenge : ovazamqi 
+to_revere : uvazavau 
+reverence : vazavamexi 
+to_reverse : uvazavhiu 
+revival : vazezon 
+to_revive : uvazezau 
+to_revoke : uvazuqau 
+revolt : vazunda 
+to_revolt : uvazundau 
+revolution : vazuniteaL 
+to_revolve : uvazunriu 
+revulsion : vazinhuum 
+reward : vazovte 
+to_reward : uvazovtu 
+rhetoric : ovfidazux 
+rhetorical : evfidazuxemamo 
+rhyme : ovfuni 
+to_rhyme : uvfuniu 
+ribald : vepontamo 
+rich : vejmo 
+to_rid : uveTu 
+riddle : oveTatna 
+ride : veTa 
+to_ride : uveTau 
+ridicule : vaTejina 
+to_ridicule : uvaTejinau 
+ridiculous : vaTejinuohmo 
+ridiculously : vaTejinuohni 
+rig : oveko 
+to_rig : uveku 
+right (noun) : oivekfata 
+right (adj) : eivekfatamo 
+righteous (noun, pl) : ovekfataafim 
+righteous (adj) : vekfataafmo 
+righteously : vekfataaifmuzi 
+righteousness : vekfataafmafha 
+rightful : vekfatsomamo 
+rightfully : vekfatsomni 
+rigid : vekeTmo 
+rigidly : vekeTmu 
+rigor : vekuv 
+rigorous : vekuvuohmo 
+rigorously : vekuvuohni 
+ring : ovemqe
+to_ring : uzuLku 
+ripe : evabamo 
+to_ripen : uvebamu 
+to_rise : uveru 
+risk : ovefgu 
+ritual : vetiem 
+ritual (adj) : vetiemamo 
+rival : vezon 
+river : exuqe 
+belief : opaneis 
+to_associate : uehfujeediu 
+sorely : fuvani 
+to_deride : uTaveTau
+carrying (verb) : ujovzuemqu 
+humour : siLouz 
+repast : vabofde
+immediately : iunLaTeedimu 
+anchorite : eLjfazudi 
+sullenly : finmiLni 
+walker : zongiz 
+to_dawn : uTozLu 
+asleep (adj) : ehnaibmo 
+tired : tevaTmo 
+road : vuet 
+to_roam : uvuenu 
+roar : ovaezu 
+to_roar : uvaezu 
+roaring (adj) : vuezuLkamo 
+roast : zaofdo 
+to_roast : uvuehtu 
+to_rob : uvupu 
+robber : vupapiz  
+robbery : vupapizu  
+robe : vupa 
+robust : vupifdumo 
+robustness : vupifdamafha 
+rock : vuqa 
+role : ovuna 
+to_roll : uvunmu 
+romance : vuLomexi 
+romantic : ovuLomdux 
+romantic (adj) : vuLomduximo 
+romp : ovuLbu 
+to_romp : uvuLbu 
+roof : vuas 
+room : ovuan 
+roost : ovuahte 
+to_roost : uvuahtu 
+root : vuadi 
+rope : vuba 
+ropedancer : vubaTomexiz 
+rostrum : vufdaviL 
+rot (noun) : ovuto 
+to_rot : uvutu 
+to_rotate : uvutotau 
+rotating : vutotemqumo 
+rotation :  ovutoteaL 
+rotten : vutdiLmo 
+rotund : vutimtemo 
+rough : vuoqasmo 
+round (adj) : vuoLTamo 
+to_rouse : uvuohiu 
+rousing : evuohuLkamo 
+route : vuodi 
+routine : vuoduLimo 
+routinely : vuoduLimu 
+royal : vuuonmo 
+royalty : vuuondu 
+rub : ovipe 
+to_rub : uvipu 
+rudder : oviTtiz 
+ruddy : eviTtumo 
+rude : eviTamo 
+rudeness : oviTamafhu 
+ruffian : vihsuom 
+rugged : evikoqitumo 
+ruggedly : ivikqitni 
+to_ruin : uviuLu 
+rule : ovinau
+to_rule : uvinau 
+rumor : oviLuv 
+to_run : uvimu 
+runner : ovimLiz 
+rush : ovifaf  
+to_rush : uvifafu 
+ruthless : vidmihafmo 
+ruthlessly : vidmihtuzi 
+ruthlessness : vidfunafhumafhu
