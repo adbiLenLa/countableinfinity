@@ -423,7 +423,7 @@ convocation : ququoh
 , : ,
 i : eLe
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_endure : uiLTivu
 solemn (adj) : funaLaLa
 assemblies : ehinpamuT
@@ -1775,7 +1775,7 @@ the : da
 booty : puadu
 of : asu
 the : da
-poor (pl) : bauzim
+poor (pl) : obuazim
 to_be : uamu
 in : uL
 your (pl) : femaTza
@@ -1797,7 +1797,7 @@ the : da
 face : qofrad
 of : asu
 the : da
-poor (pl) : bauzim 
+poor (pl) : obuazim 
 '? : qqu '?
 to_say : ubofu
 the : da
@@ -3044,7 +3044,7 @@ it : fa
 off : afvanu 
 and : oxe
 nobody : mupuTu
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_rescue : uvafexou
 . : .
 they : mi
@@ -3511,7 +3511,7 @@ jerusalem : jerusaLem
 but : pit
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_mount : uLuoLtu
 a : a
 attack (n) : ouedtojgu
@@ -4392,7 +4392,7 @@ will : danaLeu
 to_to_be : tupa
 brought : cupzuLkani
 to : tu
-naught (adv) : moiqasdazi
+naught (adv) : moiqasdazio
 , : ,
 to_speak (imp) : ubisia
 a : a
@@ -5351,7 +5351,7 @@ justice : exifduxi
 and : oxe
 to_rob : uvupu
 the : da
-poor (noun, pl) : bauzim
+poor (noun, pl) : obuazim
 of : asu
 my : eLemza
 people : kuunim
@@ -5877,7 +5877,7 @@ few (adj) : hazamo
 that : idta
 a : a
 child : jentuu
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_write : uzazudiu
 them : miim
 down : TuzLa
@@ -6359,7 +6359,7 @@ he : sa
 shall : ufanmu
 to_judge : ucuxiTqihuu
 the : da
-poor (noun, pl) : bauzim
+poor (noun, pl) : obuazim
 and : oxe
 to_decide : utianutu
 with : qemhe 
@@ -8320,7 +8320,7 @@ the : da
 firstborn : hevuhtapuvLu
 of : asu
 the : da
-poor (noun, pl) : bauzim
+poor (noun, pl) : obuazim
 will : danaLeu
 to_graze : ukzeviu
 and : oxe
@@ -8998,12 +8998,12 @@ kir-heres : kirheres
 when : qom
 moab : moab
 to_present : ubzihiLtu
-himself : saLfansa
+himself : siLfansa
 , : ,
 when : qom
 he : sa
 to_weary : uzaezu
-himself : saLfansa
+himself : siLfansa
 upon : obam
 the : da
 high : sekfamo
@@ -10096,7 +10096,7 @@ counsel : ojuoLfan
 . : .
 '? : '? qqi
 how : suo
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 you : fema
 to_say : ubofu
 to : tu
@@ -10208,7 +10208,7 @@ branch : pazeLjaf
 or : az
 reed : vaiTa
 will : danaLeu
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_to_do : tutuTuu
 anything : LetaeL
 for (conj) : huvupuzi
@@ -10850,7 +10850,7 @@ so : fu
 that : idta
 i : eLe
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_hear : ufnau
 . : .
 i : eLe
@@ -10860,7 +10860,7 @@ so : fu
 that : idta
 i : eLe
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_see : uzeTu
 . : .
 my : eLemza
@@ -12339,7 +12339,7 @@ but : pit
 her : soLza
 merchandise : LavexeLTefa
 will : danaLeu
-to_supply : pufibabnini
+to_supply : ufibebniu 
 abundant (adj) : epoLTomuxamo
 food : viage
 and : oxe
@@ -13074,7 +13074,7 @@ a : a
 refuge : vahika
 to : tu
 the : da
-poor (pl) : bauzim
+poor (pl) : obuazim
 , : ,
 a : a
 refuge : vahika
@@ -13499,7 +13499,7 @@ the : da
 feet : exongeT
 of : asu
 the : da
-poor (noun, pl) : bauzim
+poor (noun, pl) : obuazim
 , : ,
 the : da
 feet : exongeT
@@ -14012,7 +14012,7 @@ so : fu
 that : idta 
 no : iL
 one : eLikam
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_harm : usovnu
 it : fa
 . : .
@@ -15545,7 +15545,7 @@ given : cukezamuni
 to : tu
 those : dufa   
 who : qiqo
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_read : uvaetu
 with : qemhe
 the : da
@@ -15561,7 +15561,7 @@ to_say : ubofu
 ' : ' qi
 we : Lam
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 , : ,
 for (conj) : huvupuzi
 it : fa
@@ -15578,7 +15578,7 @@ to : to
 those : dufa
 who : qiqo
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_read : uvaetu
 , : ,
 with : qemhe 
@@ -15593,7 +15593,7 @@ to_say : ubofu
 ' : ' qi
 we : Lam
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_read : uvaetu
 ' : qu '
 the : da
@@ -16088,7 +16088,7 @@ a : a
 people : kuunim
 who : qiqo 
 not :  mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_profit : ubzasudu
 them : miim
 , : ,
@@ -16158,7 +16158,7 @@ a : a
 people : okuunima
 that : idta
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_profit : ubzasudu
 them : miim
 . : .
@@ -16600,7 +16600,7 @@ teacher : abubatoxo
 will : danaLeu
 not : mot
 to_hide : useTau
-himself : saLfansa
+himself : siLfansa
 any : eLu
 more : nefa
 , : ,
@@ -17584,7 +17584,7 @@ wicked (adj) : bosiohamo
 devices : oTazefaT
 to_to_ruin : tuviuLu
 the : da
-poor (noun, pl) : bauzim
+poor (noun, pl) : obuazim
 with : qemhe
 lying (adj) : zuneimo
 words : zavTuT
@@ -17997,7 +17997,7 @@ it : fa
 the : da
 lord : etme
 to_be : uamu
-exalted (adj) : zuijemtmo
+exalted (adj) : zuijemtamo
 . : .
 he : sa
 to_dwell : uTarimnu
@@ -18211,7 +18211,7 @@ godless (noun, pl) : okutnafhaT
 who : qiqo
 among : enamku
 us : La
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_live : unezu
 with : qemhe
 the : da
@@ -18222,7 +18222,7 @@ fire : tine
 who : qiqo
 anong : enamku
 us : La
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_live : unezu
 with : qemhe
 everlasting : iriznofduLkamo
@@ -18237,7 +18237,7 @@ to_walk : uzongu
 righteously (adv) : vekfataaifmuzi
 and : oxe
 to_speak : ubisiu
-uprightly (adv) : obvekfatmuzi
+uprightly (adv) : ibvekfatmuzi
 . : .
 who : qiqo
 to_despise : uTafbuhiu
@@ -18375,7 +18375,7 @@ speech : bubisio
 that : idta
 you : fema
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_comprehend : ujuLbavasintu
 , : ,
 stammering : ufadenLavuka
@@ -18384,7 +18384,7 @@ a : a
 language : nomqooka
 you : fema
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_understand : uunLavau
 . : .
 to_look (imp) : unaugoa
@@ -18452,13 +18452,13 @@ no : iL
 galley : konmii
 with : qemhe
 oars : aovim
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_go : uLamLu 
 , : ,
 nor : muz
 stately (adj) : fadedimumo
 ship : noure
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_pass : ubofhau
 . : .
 for (conj) : huvupu
@@ -19627,7 +19627,7 @@ two_thousand : eLipaTaTaTa
 horses : suvhiT
 if : fux
 you : fema
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_set : ufatu
 riders : puveTavim
 on : aL
@@ -19636,7 +19636,7 @@ them : miim
 '? : '? qqi
 how : suo
 then : fenmaem
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 you : fema
 to_repulse : uvabinhiu
 a : a
@@ -19824,7 +19824,7 @@ for (conj) : huvupu
 he : sa
 will : danaLeu
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_deliver (fut) : uTanezavi
 you (pl) : femaT
 . : .
@@ -20118,7 +20118,7 @@ his : saLza
 clothes : qumaTim
 , : ,
 to_cover (past) : ujuzavo
-himself : saLfansa
+himself : siLfansa
 with : qemhe
 sackcloth : fojgujamaTa
 , : ,
@@ -21714,7 +21714,7 @@ security (noun) : ofajiveti
 '? : '? qqi
 but : pit
 what : Leta
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 i : eLe
 to_say : ubofu
 '? : qqu '?
@@ -21727,7 +21727,7 @@ me : eLem
 , : ,
 and : oxe
 he : sa
-himself : saLfansa
+himself : siLfansa
 have : ueLanad
 to_do (past) : utuTuo
 it : fa
@@ -21814,13 +21814,13 @@ back (noun) : ofange
 for (conj) : huvupu
 sheol : seoL
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_thank : udomgu
 you : fema
 . : .
 death : gabuTaeT
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_praise : ubzeefau
 you : fema
 . : .
@@ -21832,7 +21832,7 @@ to : tu
 the : da
 pit : oabet
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_hope : usubau
 for (prep) : huvuin
 your : femaza
@@ -22825,7 +22825,7 @@ he : sa
 to_bring : upzuLku
 princes : bazuLjaT
 to : tu
-naught : moiqasdazi
+naught : moiqasdazio
 , : ,
 and : oxe
 to_make : uLaqau
@@ -23240,7 +23240,7 @@ so : fu
 that : idta
 it : fa
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_to_be : tupa  
 moved : guLuzauni
 . : .
@@ -23536,7 +23536,7 @@ to_glory : ukumazuu
 . : .
 when : qom
 the : da
-poor (noun, pl) : bauzim
+poor (noun, pl) : obuazim
 and : oxe
 the : da
 needy (noun, pl) : oumaitim
@@ -24319,7 +24319,7 @@ aloud : emaiTzi
 . : .
 he : sa
 to_show : umaudeu
-himself : saLfansa
+himself : siLfansa
 mighty : Lekfatimo
 against : egeemhutu
 his : saLza
@@ -25126,7 +25126,7 @@ to_be : uamu
 no : iL
 one : eLikam
 who : qiqo
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_deliver : uTanezavu
 from : hazani
 my : eLemza
@@ -25134,7 +25134,7 @@ hand : qafe
 . : .
 '? : '? qqi
 who : qiqo
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_hinder : usemtizu
 my : eLemza
 work : ozuvgu
@@ -25235,7 +25235,7 @@ down : TuzLa
 , : ,
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_to_rise : tuveru
 . : .
 they : mi
@@ -25808,7 +25808,7 @@ to_cast : ujofdu
 a : a
 image : gueqi
 that : idta
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_do : utuTuu
 no : iL
 good (noun) : okuat
@@ -25974,7 +25974,7 @@ it : fa
 . : .
 then : fenmaem 
 it : fa
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_to_be : tupa
 used : cuohituni
 for (prep) : huvuin
@@ -25986,7 +25986,7 @@ it : fa
 he : sa
 to_take : utoqau
 to_to_warm : tuzovno
-himself : saLfansa
+himself : siLfansa
 . : .
 he : sa
 to_kindle : uqemtanu
@@ -26046,7 +26046,7 @@ satisfied : cufotefsuni
 he : sa
 also : emfuzi
 to_warm : uzovnu
-himself : saLfansa
+himself : siLfansa
 and : oxe
 to_say : ubofu
 ' : ' qi
@@ -26055,7 +26055,7 @@ to_be : uamu
 warm : zovnomo
 . : .
 i : eLe
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_feel : uhaimu
 the : da
 fire : tine 
@@ -26118,7 +26118,7 @@ so : fu
 that : idta
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_see : uzeTu
 , : ,
 and : oxe
@@ -26130,7 +26130,7 @@ so : fu
 that : idta
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_understand : uunLavau
 . : .
 no : iL
@@ -26209,9 +26209,9 @@ astray : ehtazeizi
 and : oxe
 he : sa
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_save : ufozau
-himself : saLfansa
+himself : siLfansa
 or : az
 to_say : ubofu
 ' : ' qi
@@ -27220,7 +27220,7 @@ a : a
 god : kut
 who : qiqo
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_save : ufozau 
 . : .
 to_declare (imp) : uTajmeza
@@ -27421,7 +27421,7 @@ together (adv) : kuftafhezizi
 . : .
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_save : ufozau
 the : da
 burden : pivtiL
@@ -27579,7 +27579,7 @@ there : dava
 . : .
 it : fa
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_move : uLuzau  
 from : hazani
 its : safaza
@@ -28088,7 +28088,7 @@ you : fema
 which : zexu 
 you : fema
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_charm : ujaseznu
 away (adv) : ereizi
 . : .
@@ -28102,7 +28102,7 @@ which : zexu
 you : fema
 will : danaLeu 
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_ward : uzovtu
 off : afvanu
 . : .
@@ -28202,7 +28202,7 @@ them : miim
 . : .
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_deliver : uTanezavu
 themselves : daLhinhim
 from : hazani
@@ -28488,7 +28488,7 @@ them : miim
 so : fu 
 that : idta
 you : fema
-could : juomTuni
+could : tupaepnu
 not : mot
 to_say : ubofu
 ' : ' qi
@@ -29474,7 +29474,7 @@ me : eLem
 . : .
 ' : qu '
 '? : '? qqi
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 a  : a
 woman : zuLom
 to_forget : uhuvqidu
@@ -29801,7 +29801,7 @@ to : tu
 shame : ofafenia
 . : .
 '? : '? qqi
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 the : da
 prey : bazii
 to_to_be : tupa
@@ -29993,7 +29993,7 @@ shortened : gufufaztiuni
 that : idta
 it : fa
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_redeem : uvaTainu 
 , : , 
 or : az
@@ -31867,7 +31867,7 @@ away : ereizi
 . : .
 '? : '? qqi
 who : qiqo
-could : juomTuni
+could : tupaepnu 
 have : ueLanad
 to_imagine (past) :  uunequLio
 his : saLza
@@ -32030,7 +32030,7 @@ strong (noun, pl) : ozosroTim
 because : qufge
 he : sa
 to_pour (past) : ubuomo
-himself : saLfansa
+himself : siLfansa
 out : aut
 to : tu
 death : gabuTaeT
@@ -33351,7 +33351,7 @@ silent : fenamdumo
 dogs : quuzeT
 that : idta
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_bark : tupovgu 
 . : . : . : .: . : .
 dreaming : uboqoLuLka
@@ -33470,7 +33470,7 @@ peace : voose
 those : dufa
 who : qiqo
 to_walk : uzongu
-uprightly (adv) : obvekfatmuzi
+uprightly (adv) : ibvekfatmuzi
 will : danaLeu
 to_rest : uvafdu
 on : aL
@@ -34049,7 +34049,7 @@ tossing : utufhuLka
 sea : Lave
 that : idta
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_keep : uqaibu
 still (adj) : fadumnumo
 . : .
@@ -34699,14 +34699,14 @@ viper : zebav
 their : miza
 webs : zapim
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_serve : ufavriu
 as : eh
 clothing : qumaTuLka
 . : .
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_cover : ujuzavu
 themselves : daLhinhim
 with : qemhe
@@ -34971,7 +34971,7 @@ square : fagoov
 and : oxe
 uprightness : obvekfafmafha
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_enter : uiLtavu
 . : .
 truth : bentuu
@@ -35060,7 +35060,7 @@ clothing : qumaTuLka
 , : ,
 and : oxe
 to_wrap (past) : uzazebo
-himself : saLfansa
+himself : siLfansa
 in : uL
 fury : hivi
 as (adv)  : eh
@@ -36292,7 +36292,7 @@ as : eh
 a : a
 bridegroom : finfeLiL
 to_deck : uTajgu
-himself : saLfansa
+himself : siLfansa
 with : qemhe
 a : a
 garland : kovmeLTa
@@ -37074,7 +37074,7 @@ their : miza
 enemy : iLinu
 . : .
 he : sa
-himself : saLfansa
+himself : siLfansa
 to_fight (past) : uhekfato
 against : egeemhutu
 them : miim
@@ -37145,7 +37145,7 @@ before : pahuv
 them : miim
 to_to_make (past) : tuLaqao
 for (prep) : huvuin
-himself : saLfansa
+himself : siLfansa
 a : a
 everlasting : iriznofduLkamo
 name : moL
@@ -40449,7 +40449,7 @@ themselves : daLhinhim
 cracked (adj) : jazexqaTmo
 cisterns : exuhtavLaT
 that : idta
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_hold :  usuntuu
 no : iL
 water : zife
@@ -40718,7 +40718,7 @@ god : kut
 . : .
 '? : '? qqi
 how : suo
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 you : fema
 to_say : ubofu
 '? : qqu '?
@@ -40777,7 +40777,7 @@ wind : zemtu
 . : .
 '? : '? qqi
 who : qiqo
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_restrain : uvafdavouLu
 her's : soLza
 lust : onifda
@@ -40935,7 +40935,7 @@ to_come : ujuLau
 , : ,
 if : fux
 they : mi
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_save : ufozau
 you : fema
 in : uL
@@ -41054,7 +41054,7 @@ more : nefa
 ' : qu '
 '? : qqu '?
 '? : '? qqi
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 a : a 
 girl : kevma
 to_forget : uhuvqidu
@@ -41110,7 +41110,7 @@ lifeblood : nehazave
 of : asu
 the : da
 innocent (adj) : guLnujamdumo
-poor (noun, pl) : bauzim
+poor (noun, pl) : obuazim
 , : ,
 though : duoqufa
 you : fema
@@ -41406,7 +41406,7 @@ the : da
 evil : vuirum
 that : idta
 you : fema
-could : juomTuni
+could : jtupaepno
 . : .
 the : da
 lord : etme
@@ -42675,7 +42675,7 @@ wildly (adv) : zentanizi
 . : .
 it : fa
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_keep : uqaibu
 silent (adj) : fenamdumo
 . : .
@@ -43087,7 +43087,7 @@ and : oxe
 to_see (imp) : uzeTa
 if : fux
 you : fema
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_find : unoudeu
 one : eLikam
 person : bavhaL
@@ -43174,7 +43174,7 @@ these : dafa
 to_be : uamu
 only : oemueni
 the : da
-poor (noun, pl) : bauzim
+poor (noun, pl) : obuazim
 , : ,
 they : mi
 to_have : utuseu 
@@ -43291,7 +43291,7 @@ great : kaziotmo
 . : .
 '? : '? qqi
 how : suo
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 i : eLe
 to_pardon : ubovtaLu
 you : fema
@@ -43564,7 +43564,7 @@ not : mot
 to_know  : uqaLaru
 , : ,
 nor : muz
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 you : fema
 to_understand : uunLavau
 what : Leta
@@ -43786,7 +43786,7 @@ barrier : povzuav
 that : idta
 it : fa
 not : not
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_pass : ubofhau
 . : .
 though : duoqufa
@@ -43796,7 +43796,7 @@ to_toss : utufhu
 , : ,
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_prevail : ubzireemu
 . : .
 though : duoqufa
@@ -43805,7 +43805,7 @@ to_raor : uvuezu
 , : ,
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_pass : ubofhau
 over : ariz
 it : fa
@@ -44324,7 +44324,7 @@ closed (adj) : jamahitmo
 . : .
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_listen : unefdiLu
 . : .
 the : da
@@ -46347,7 +46347,7 @@ lord : etme
 . : .
 '? : '? qqi
 how : suo
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 you (pl) : femaT
 to_say : ubofu
 ' : ' qi
@@ -46691,7 +46691,7 @@ you (pl) : femaT
 adders : etTavaT
 that : idta
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_to_be : tupa
 charmed : cujaseznuni
 , : ,
@@ -47048,7 +47048,7 @@ them : miim
 for (conj) : huvupu
 what : Leta 
 else : imfa
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 i : eLe
 to_do : utuTuu
 with : qemhe
@@ -47779,7 +47779,7 @@ so : fu
 that : idta
 it : fa
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_move : uLuzau
 . : .
 their : miza
@@ -47795,7 +47795,7 @@ field : heimtu
 and : oxe
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_speak : ubisiu
 . : .
 they : mi
@@ -47806,7 +47806,7 @@ carried : cujovzuuni
 for (conj) : huvupu
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_walk : uzongu
 . : .
 to_do (imp) : utuTua
@@ -47819,7 +47819,7 @@ them : miim
 for (conj) : huvupu
 they : mi
 not : mot
-to_to_be : tupaepna
+to_to_be : tupaepnu 
 to_do : utuTuu
 evil : vuirum
 , : ,
@@ -47976,7 +47976,7 @@ and : oxe
 the : da
 nations : moteuLim
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_endure : uiLTivu
 his : saLza
 indignation : fiotdunoha
@@ -48373,7 +48373,7 @@ as : eh
 they : mi
 to_walk : uzongu 
 not : mot
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_direct : uTevajtu 
 their : miza 
 steps : fadibim
@@ -48787,7 +48787,7 @@ them : miim
 that : idta
 they : mi
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_escape : uihqebu
 . : .
 though : duoqufa
@@ -48934,7 +48934,7 @@ vile (adj) : zenamo
 deeds : Taitim 
 '? : qqu '?
 '? : '? qqi 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 vows : zuzim 
 and : oxe 
 sacrificial (adj) : fojzusuxuonmo
@@ -48944,7 +48944,7 @@ your : femaza
 doom (noun) : oTuan
 '? : qqu '?
 '? : '? qqi 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 you : fema 
 then : fenmaem 
 to_exult : uijomtu
@@ -50533,7 +50533,7 @@ to_be : uamu
 violated : LuzofuoLTatauni
 . : .
 '? : '? qqi
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 ethiopians : kuskuunim
 to_change : ujemqiu
 their : miza
@@ -50547,7 +50547,7 @@ spots : fabadim
 then : fenmaem
 also (adv) : emfuzi
 you : fema
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_do : utuTuu
 good (noun) : okuat
 who : qiqo
@@ -50875,7 +50875,7 @@ mighty : Lekfatimo
 warrior : zovzuuv
 who : qiqo
 not : mot
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_give : ukezu
 help : opusanbu
 '? : '? qqi
@@ -51343,7 +51343,7 @@ with : qemhe
 us : La
 . : .
 '? : '? qqi
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 any : eLu
 idols : utamfaT
 of : asu
@@ -51353,7 +51353,7 @@ to_bring : upzuLku
 rain : vouL 
 , : ,
 or : az
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 the : da 
 heavens : toerehuT
 to_give : ukezu
@@ -51803,7 +51803,7 @@ of : asu
 distress : oTefdavathu
 . : .
 '? : '? qqi
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 iron : guzaL
 and : oxe
 bronze : pazaLra
@@ -52849,7 +52849,7 @@ no : iL
 profit : bazasud 
 . : .
 '? : '? qqi
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 mortals : Luvtomim 
 to_make : uLaqau 
 gods : kutim 
@@ -53167,7 +53167,7 @@ perverse (adj) : bavrizfimo
 . : .
 '? : '? qqi 
 who : qiqo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_understand : uunLavau
 it : fa
 '? : qqu '?
@@ -53884,7 +53884,7 @@ to : tu
 me : eLem
 . : .
 '? : '? qqi 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 not : mot 
 i : eLe 
 to_do (fut) : utuTui 
@@ -54919,7 +54919,7 @@ vessel : zafhima
 so : fu 
 that : idta 
 it : fa 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 never : mazav
 to_to_be : tupa
 mended :  muLamtuni
@@ -55454,7 +55454,7 @@ in : uL
 and : oxe
 i : eLe 
 not : mot
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 . : .
 for (conj) : huvupu 
 i : eLe
@@ -55489,13 +55489,13 @@ to_to_stumble : tufdinapniu
 ' : ' qi
 perhaps (adv) : bavufebfazi 
 we : Lam
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_entice : uiLtejau
 him : saL
 , : ,
 and : oxe
 we : Lam
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_prevail :  ubzireemu 
 against : egeemhutu
 him : saL
@@ -56225,7 +56225,7 @@ to_say : ubofu
 ' : ' qi
 '? : '? qqi 
 who : qiqo
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_come : ujuLau 
 down : TuzLa 
 against : egeemhutu 
@@ -56233,7 +56233,7 @@ us : La
 , :  ,
 or : az 
 who : qiqo
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_enter : uiLtavu 
 our : Lamza 
 places : obamexiuT
@@ -56776,7 +56776,7 @@ the : da
 cause (noun) : ojoohi
 of : asu 
 the : da 
-poor (noun, pl) : bauzim 
+poor (noun, pl) : obuazim 
 and : oxe 
 the : da 
 needy (noun, pl) : oumaitim
@@ -58042,7 +58042,7 @@ lord : etme
 . : .
 '? : '? qqi 
 who : qiqo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_hide : useTau 
 in : uL
 secret (adj) : fajzidmo
@@ -58050,7 +58050,7 @@ places : obamexiuT
 where : Lefhi 
 i : eLe 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_see : uzeTuLka
 them : miim 
 '? : qqu '? 
@@ -58645,7 +58645,7 @@ bad : poTmo
 that : idta 
 they : mi 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_be  tupa
 eaten : cueiqamauni 
 . : .
@@ -58692,7 +58692,7 @@ bad : poTmo
 that : idta
 they : mi 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_be : tupa 
 eaten : cueiqamauni
 . : .
@@ -58842,7 +58842,7 @@ bad : poTmo
 that : idta �
 they : mi 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_be : tupa 
 eaten : cueiqamauni 
 , : ,
@@ -59787,7 +59787,7 @@ name : moL
 '? : '? qqi 
 and : oxe
 how : suo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 you : fema 
 possibly (adv) : bufhupnuzi
 to_avoid : ueraeTu
@@ -62893,7 +62893,7 @@ bad : poTmo
 that : idta
 they : mi 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 eaten : cueiqamauni 
 . : .
 i : eLe
@@ -63531,7 +63531,7 @@ now : mit
 and : oxe
 to_see (imp) : uzeTa 
 '? : '? qqi 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 a : a
 man : Laihu 
 to_bear : upaezu 
@@ -65470,7 +65470,7 @@ if : fux
 the : da 
 heavens : toerehuT 
 above : epari 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_be : tupa 
 measured : muLaehouni
 , : ,
@@ -65481,7 +65481,7 @@ of : asu
 the : da 
 earth : iovTa 
 below (prep) : panuzin
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_to_be : tupa 
 explored :  cuijbamazuni
 , : ,
@@ -66406,7 +66406,7 @@ to_happen (past) : usobabiLo
 as : eh 
 you : fema 
 yourself : buuozhanrihu 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_see : uzeTu 
 . : .
 yet : cuatpu 
@@ -67738,7 +67738,7 @@ if : fux
 any : eLu 
 of : asu 
 you (pl) : femaT 
-could : juomTuni 
+could : tupaepnu  
 to_break : upzioqu 
 my : eLemza
 covenant : juzamomda 
@@ -67764,7 +67764,7 @@ time : ieqo
 , : ,
 only : oemueni 
 then : fenmaem
-could : juomTuni 
+could : tupaepni  
 my : eLemza 
 covenant : juzamomda 
 with : qemhe 
@@ -67803,7 +67803,7 @@ hosts : sufduT
 of : asu 
 heaven : toerehu 
 not : mot 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_to_be : tupa 
 measured : muLaehouni 
 and : oxe
@@ -67813,7 +67813,7 @@ of : asu
 the : da 
 sea : Lave 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_be : tupa 
 measured : muLaehouni 
 , : ,
@@ -69188,7 +69188,7 @@ jerusalem : jerusaLem
 . : .
 ' : ' qi
 '? : '? qqi
-to_be_ able : tupaepna 
+to_be_ able : tupaepnu  
 you (pl) : femaT 
 not : mot 
 to_learn : unaozmau
@@ -74201,7 +74201,7 @@ many : boncaL
 as : eh 
 your : femaza
 eyes : fenaneT 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_see : uzeTu 
 . : .
 to_let (imp) : unata 
@@ -76272,7 +76272,7 @@ mind : bahuiqa
 '? : qqu '? 
 the : da 
 lord : etme 
-could : juomTuni 
+could : tupaepno  
 no : iL
 longer : numqiziz
 to_bear (past) : upaezo 
@@ -77016,12 +77016,12 @@ lord : etme
 the : da
 swift (noun, pol) : ofarustuT
 not : mot 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_flee : uhmiadu 
 away : ereizi 
 , : ,
 nor : muz 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 the : da 
 warrior : zovzuuv 
 to_escape : uihqebu 
@@ -77971,7 +77971,7 @@ still (adj) : fadumnumo
 . : .
 '? : '? qqi 
 how : suo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 it : fa 
 to_to_be : tupa 
 quiet (adj) : giuatmo 
@@ -78370,7 +78370,7 @@ their : miza
 confidence : jumsetilja 
 . : .
 how : suo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 you : fema 
 to_say : ubofu
 ' : ' qi 
@@ -78632,7 +78632,7 @@ because : qufge
 he : sa 
 have : ueLanad 
 to_magnify (past) : uLokLuhuo 
-himself : saLfansa 
+himself : siLfansa 
 against : egeemhutu 
 the : da 
 lord : etme 
@@ -79108,7 +79108,7 @@ people (sing) : okuunim
 because : qufge 
 he : sa 
 to_magnify (past) :  uLokLuhuo
-himself : saLfansa 
+himself : siLfansa 
 against : egeemhutu 
 the : da 
 lord : etme 
@@ -79608,9 +79608,9 @@ hiding : oseTauLka
 and : oxe 
 he : sa
 not : mot
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_conceal :  tujumexiu
-himself : saLfansa 
+himself : siLfansa 
 . : .
 his : saLza 
 offspring : ashuhbazuLkim 
@@ -79920,7 +79920,7 @@ me :eLem
 '? : qqu '? 
 '? : '? qqi 
 who : qiqo 
-to_be_able : tupaepna  
+to_be_able : tupaepnu   
 to_summon : ufiLnaLu 
 me : eLem
 '? : qqu '? 
@@ -79930,7 +79930,7 @@ to_be : uamu
 the : da
 shepherd : bunoLnehsavtu 
 who : qiqo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_stand : uqomdeu
 before : pahuv 
 me : eLem
@@ -80075,7 +80075,7 @@ the : da
 sea : Lave 
 that : idta 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_be : uamu
 quiet (adj) : giuatmo
 . : .
@@ -82006,7 +82006,7 @@ me : eLema
 '? : qqu '? 
 '? : '? qqi 
 who : qiqo 
-to_be_ able : tupaepna 
+to_be_ able : tupaepnu  
 to_summon : ufiLnaLu 
 me : eLem
 '? : qqu '?
@@ -82016,7 +82016,7 @@ to_be : uamu
 the : da 
 shepherd : bunoLnehsavtu 
 who : qiqo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_stand : uqomdeu 
 before : pahuv 
 me : eLem
@@ -82160,7 +82160,7 @@ to_let (imp) : unata '
 him : saL 
 not : mot 
 to_array : uezvoubu 
-himself : saLfansa
+himself : siLfansa
 in : uL 
 his : saLza 
 coat : jued 
@@ -82328,7 +82328,7 @@ to_to_heal : tusaemu
 babalon : babaLon 
 but : pit
 she : so
-could : juomTuni
+could : tupaepno
 not : mot 
 to_to_be : tupa 
 healed : cusaemni 
@@ -85766,7 +85766,7 @@ to_know : uqaLaru
 that : idta
 you : fema 
 not : mot 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_tolerate : utunavotau
 evildoers : ovuirumtuTuuizim
 . : .
@@ -87860,7 +87860,7 @@ to_conquor (past) : ujumkouvo
 so : fu 
 that : idta 
 he : sa
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_open : uabiLu 
 the : da 
 scroll : fexvunma
@@ -88753,7 +88753,7 @@ so : fu
 that : idta 
 no : iL 
 wind : tiomu 
-could : juomTunic 
+could : tupaepnu 
 to_blow : upmaru 
 on : aL 
 earth : iovTa 
@@ -88960,7 +88960,7 @@ multitude : Lindudoti
 that : idta
 no : iL 
 one : eLikam 
-could : juomTuni 
+could : tupaepno 
 to_count : ujuoLtu 
 , : ,
 from : hazani 
@@ -90231,7 +90231,7 @@ and : oxe
 wood : zaut
 which : zexu 
 not : mot
-to_be_ able : tupaepna 
+to_be_ able : tupaepnu  
 to_see : uzeTu 
 or : az
 hear : ufnau 
@@ -91326,7 +91326,7 @@ birth (noun) : opevTa
 so : fu 
 that : idta 
 he : sa
-could : juomTuni 
+could : tupaepnu  
 to_devour : uTazuouzu
 the : da 
 child : jentuu 
@@ -91397,7 +91397,7 @@ so : fu
 that : idta 
 there : dava 
 she : so 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_be : tupa 
 nourished : numuozuhahuni
 for (prep) : huvuin 
@@ -91658,7 +91658,7 @@ eagle : iokmi
 so : fu 
 that : idta 
 she : so 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_fly : uhmuu 
 from : hazani 
 the : da 
@@ -91921,7 +91921,7 @@ the : da
 beast : paehat 
 and : oxe
 who : qiqo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_fight : uhekfatu 
 against : egeemhutu 
 it : fa
@@ -92224,7 +92224,7 @@ image : guneqi
 of : asu 
 the : da 
 beast : paehat 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 even : iriL 
 to_speak : ubisiu 
 and : oxe
@@ -92275,7 +92275,7 @@ so : fu
 that : idta 
 no : iL 
 one : eLikam 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_buy : upiu 
 or : az 
 to_sell : ufahmau 
@@ -92425,7 +92425,7 @@ elders : imTavim
 . : .
 no : iL 
 one : eLikam 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_learn : tunaozmau
 this : def 
 song : fumqa 
@@ -93280,7 +93280,7 @@ power : zuuno
 and : oxe
 no : iL
 one : eLikam 
-could : juomTuni 
+could : tupaepno 
 to_enter : uiLtavu 
 the : da 
 temple : afuna
@@ -99328,7 +99328,7 @@ and : oxe
 now : mit 
 , : ,
 he : sa
-could : juomTiuni 
+could : tupaepnu  
 to_reach : utuvaexsu 
 out : aut 
 his : saLza
@@ -99905,7 +99905,7 @@ jesus : jesus
 , : ,
 ' : ' qi 
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_hear : ufnau 
 your : femaza 
 doubt : TuopTu
@@ -99917,7 +99917,7 @@ to_want : uzomdu
 to_to_believe : tupaneiriu 
 that : idta 
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_be : tupa 
 in : uL 
 the : da
@@ -100335,7 +100335,7 @@ i : eLe
 to_know : uqaLaru 
 that : idta
 you : fema 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_hear : ufnau 
 me : eLem 
 . : . 
@@ -100430,7 +100430,7 @@ that : idta
 young (adj) : gamiamo 
 . : .
 you : fema 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_be : tupa 
 a : a
 muse (noun) : oLifau 
@@ -100989,7 +100989,7 @@ distant : TefdeLatmo
 future : hitiva 
 . : .
 you : fema 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_remember : uLiohtuu
 the : da 
 day : bauri 
@@ -100999,7 +100999,7 @@ you : fema
 to_rejoice : uvaxuuaxau 
 . : .
 you : fema 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 barely (adv) : povanizi
 to_imagine : uunequLiu 
 the : da 
@@ -101026,7 +101026,7 @@ in : uL
 zavTu : zavTu 
 . : .
 i : eLe
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_hear : ufnau 
 you (pl) : femaT 
 rejoicing : uvaxuuaxauLka 
@@ -101627,7 +101627,7 @@ us : La
 by : pi 
 what : Leta 
 metaphor : Latohuv 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 we : Lam 
 to_proceed : ubzaxiaTu 
 '? : qqu '? 
@@ -101654,7 +101654,7 @@ lord : etme
 god : kut 
 '? : qqu '? 
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 barely (adv) : povanizi 
 to_move : uLuzau 
 . : .
@@ -102022,7 +102022,7 @@ to : tu
 a : a
 book : qevce 
 they : mi 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_take : utoqau 
 with : qemhe 
 them : miim 
@@ -102593,7 +102593,7 @@ jonekino : jonekino
 amuqimax : amuqimax 
 . : .
 i : eLe
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 barely : povanizi 
 to_breathe : upziodau 
 . : .
@@ -102641,7 +102641,7 @@ her : soL
 . : .
 she : so 
 not : mot 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_wait : uzoudu 
 for (prep) : huvuin 
 me : eLem 
@@ -102670,12 +102670,12 @@ david : david
 '? : '? qqi 
 what : Leta 
 more : nefa 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 i : eLe 
 to_do : utuTuu
 '? : qqu '? 
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_see : uzeTu 
 you : fema 
 so : fu 
@@ -102698,7 +102698,7 @@ aLaLuie : aLaLuie
 . : .
 they : mi 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 the : da 
 darkness : Togumafha 
 we : Lam 
@@ -103501,7 +103501,7 @@ multiverse : Linduzizfi
 . : .
 only : oemueni 
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_create : ujziotau 
 sisoTipa : sisoTipa 
 . : .
@@ -103781,7 +103781,7 @@ terrible : tavzupnamo
 . : .
 i : eLe 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_pander : ubomtizu 
 to :  tu 
 the : da 
@@ -104144,7 +104144,7 @@ dangerous (adj) : doTomqizaifmo
 waters : zifeT 
 . : .
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 but : pit 
 to_speak : ubisiu 
 in : uL 
@@ -104348,7 +104348,7 @@ to_to_be : tupa
 babaLon : babaLon 
 . : .
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_take : utoqau 
 you : fema 
 there : dava 
@@ -104434,7 +104434,7 @@ containment : jumdeemniLta
 , : ,
 and : oxe
 they : mi 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_keep (fut) : uqaibi
 me : eLem 
 here : suvu 
@@ -104447,7 +104447,7 @@ dark : Tovgumo
 . : .
 i : eLe 
 not : mot 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_see : uzeTu 
 how : suo 
 this : def 
@@ -105218,7 +105218,7 @@ technologies : taqaLamaquT
 but : pit 
 they : mi 
 not : mot 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_derive : uTavezau 
 them : miim  
 without : zeduodzi 
@@ -105629,7 +105629,7 @@ to_to_come : tujuLau
 from : hazani 
 such (adj) : fijafmo
 a : a
-wild (adj) : zerntamo
+wild (adj) : zentamo
 vector : ozajdaz 
 . : .
 they : mi 
@@ -106672,13 +106672,13 @@ prosperity : obzahbavudu
 . : .
 we : Lam 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_hold : usuntuu 
 the : da 
 sins : timduT 
 of : asu 
 the : da 
-poor (noun , pl) : bauzim 
+poor (noun , pl) : obuazim 
 against : egeemhutu 
 them : miim 
 . : .
@@ -106718,7 +106718,7 @@ game : koLa
 they : mi 
 to_see : uzeTu 
 the : da 
-poor (noun, pl) : bauzim 
+poor (noun, pl) : obuazim 
 as : eh 
 losers : nufavim 
 . : .
@@ -106743,7 +106743,7 @@ may : Lou
 to_compete : ujuLbadiu 
 to_to_see : tuzeTu 
 who : qiqo 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_do : utuTuu 
 the : da 
 most : Lufda 
@@ -106948,7 +106948,7 @@ there : dava
 to_be : uamu 
 nothing : eemhob
 he : sa 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_do : utuTuu 
 . : .
 there : dava 
@@ -107380,7 +107380,7 @@ ninaToTi : ninaToTi
 . : .
 you : fema 
 not : mot 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_imagine : uunequLiu
 being : uamuLka 
 so : fu
@@ -107476,7 +107476,7 @@ how : suo
 much : Liju
 more : Lefa 
 fruit : hazoet 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 this : def
 tree : bio 
 to_give : ukezu 
@@ -107551,7 +107551,7 @@ in : uL
 this : def 
 well (noun) : ozamnu
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_hold : usuntuu 
 me : eLem
 forever : huvazav 
@@ -107865,7 +107865,7 @@ hazoet : hazoet
 . : .
 einsTein : einsTein 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_anticipate : tueLtejebotau 
 the : da 
 analog : eLemaqu 
@@ -108057,7 +108057,7 @@ fact (noun) : ohojda
 my : eLemza 
 fortune : huvdoLi 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 measured : muLaehouni 
 . : .
 i : eLe 
@@ -108296,7 +108296,7 @@ you : fema
 to_know : uqaLaru 
 that : idta 
 i : eLe 
-to_be_able : tupaepna
+to_be_able : tupaepnu 
 to_crack : ujzaexqu
 the : da 
 code : ojuTa
@@ -109388,7 +109388,7 @@ hearts : fiTamim
 . : .
 they : mi 
 not : mot 
-to_be_ able : tupaepna 
+to_be_ able : tupaepnu  
 to_deny : uTamiu 
 that : idta 
 they : mi 
@@ -109414,7 +109414,7 @@ to_wonder (past) : uzumdizo
 aloud : emaiTzi
 how : suo 
 there : dava 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 any : eLu 
 uranium : ozeLuiL 
 remaining : uvaLouLuLkamo 
@@ -109508,7 +109508,7 @@ light : nekfuta
 they : mi
 will : danaLeu 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_figure : tuhekivau
 out : aut 
 how : suo 
@@ -109542,7 +109542,7 @@ my : eLemza
 voice : zuuxi 
 . : .
 i : eLe
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_say : ubofu 
 whatever : zafediriz 
 i : eLe 
@@ -110298,7 +110298,7 @@ and : oxe
 forever : huvazav 
 . : .
 '? : '? qqi 
-to_be_able : tupaepna  
+to_be_able : tupaepnu   
 you : fema 
 to_envision : uiLzefeaLu 
 a : a 
@@ -110594,7 +110594,7 @@ love : voqofdeu
 the : da
 reader : vaetiz 
 not :  mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_imagine : uunequLiu
 the : da 
 terrible : tavzupnamo
@@ -111350,7 +111350,7 @@ pit : oabet
 and : oxe 
 your : femaza 
 prayers : cubzeiT
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_set : ufatu 
 us : La
 free : haziamo 
@@ -111557,7 +111557,7 @@ one : eLikam
 kiss : qefha 
 '? : qqu '?
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_see : uzeTu 
 death : gabuTaeT 
 my : eLemza 
@@ -111643,7 +111643,7 @@ to_happen (past) : usobabiLo
 before (adv) : pahuvzi 
 . : .
 it : fa 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_happen : usobabiLu 
 again : toehu 
 . : .,
@@ -112476,7 +112476,7 @@ a : a
 civilization : jezeneroteaL 
 wherein : LefhiuL
 everyone : qiugqe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_prosper : ubzahbavu
 and : oxe 
 to_thrive : udzuriu 
@@ -112685,7 +112685,7 @@ to_to_die : tuqoaniLu
 . : .
 this : def
 we : Lam 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_undo : uoLTuu 
 . : .
 i : eLe 
@@ -113527,7 +113527,7 @@ if : fux
 the : da 
 wicked (noun , pl) : obosiohaT 
 not : mot 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 contained (adj) : jumdeemumo
 , : ,
 then : fenmaem 
@@ -114712,7 +114712,7 @@ blood : zave
 , : ,
 and : oxe 
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_to_die : tuqoaniLu
 . : .
 more : nefa 
@@ -115764,7 +115764,7 @@ a : a
 machine : oLojem 
 that : idta 
 anyone : eLuuma 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_build : ubiumTu 
 . : .
 one : eLikam
@@ -116949,7 +116949,7 @@ to_need : utovrudtamuu
 war : futo 
 . : .
 they : mi 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 just : dafixu 
 to_release : uvanaehu
 a : a 
@@ -117260,7 +117260,7 @@ the : da
 beginning : cupakemu 
 . : .
 i : eLe 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_say : ubofu 
 anything : LeteaL
 here : suvu 
@@ -117907,7 +117907,7 @@ stars : tasduT
 . : .
 if : fux
 i : eLE 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 just : dafixu
 to_hold (fut) : usuntui
 on : aL 
@@ -119162,7 +119162,7 @@ watching : uqothauLka
 us : La 
 . : .
 they : mi 
-could : juomTuni
+could : tupaepnu
 to_destroy : utisutu 
 us : La 
 with : qemhe 
@@ -119393,7 +119393,7 @@ and : oxe
 ruthless : vidmihafmo
 . : . 
 they : mi 
-to_be_able : tupaepna 
+to_be_able : tupaepnu  
 to_kill : utobabou 
 without : zeduodzi 
 spilling : ufabimnuLka
@@ -123847,7 +123847,7 @@ to_disband : uTefpeLTu
 disbelief : Tefpimuah 
 to_disbelieve : uTefpimuaza 
 to_discard : uTefexezTu 
-to_discern : uTefexizmu 
+to_discern : uTefexizmuu
 discernible : Tefexizmepmimo
 discharge (noun) : Tefexasovqi
 to_discharge : uTefexasovqiu 
@@ -124334,7 +124334,7 @@ effortless : ishuvdenafhamo
 effortlessly : ishuvdenafheni 
 effrontery : ishezaLtavi 
 egg : iqek 
-ego : iqa 
+ego : iqa , aku 
 egocentric : iqaxiLtzuxmo 
 egotist : iqaduhta
 egotistic : iqaduhtejmo 
@@ -127783,7 +127783,7 @@ inundation : ouLoLToteaL
 to_inure : uuLoziu 
 to_invade : uuLzoTau 
 invader : ouLzoTav
-invalid (noun) : omuLzoneT  
+invalid (noun) : omuLzoneTa  
 invalid (adj) :  emuLzoneTmo 
 to_invalidate : uuLzoneTotau 
 invalidation : ouLzoeToteaL 
@@ -129963,7 +129963,7 @@ omniscient : anmefexuamdumo
 omnivore : anmezuva 
 onmivorous : anmezuvuohmo 
 on : aL 
-once (adv) : aLjazi 
+once (adv) : ajLazi 
 oncoming : aLjuLemqumo 
 one (adj) : eLikamo 
 one (pron) : aLi 
@@ -130708,8 +130708,8 @@ pompousness : buLbaifLihfo
 to_ponder : ubumtizu 
 ponderous : bumtizaifmo 
 ponderously : bumtizaifmu 
-poor (noun, pl) : obuazim 
-poor (adj) : ebuazmo 
+poor (noun, pl) : oobuazim 
+poor (adj) : buazmo 
 poorly : ibuazni 
 poorness : obuazmafho 
 popular : bubinovmo 
@@ -132238,7 +132238,7 @@ thousand : otfaifomta
 reverent : vazavamdamo 
 formidable (adj) : huvnutepnamo 
 assumption : ehfiLbeteaL 
-preying (verb) : ubziiuLku 
+preying (verb) : ubaziiuLku 
 arbitrariness : ezpetzezuLihfe
 forgetfullness : huvqidhinmamafha 
 academic : exetinuxmo 
@@ -132502,6 +132502,490 @@ to_speculate : ufbixomediu
 speculation : ofbixomeduum 
 speech : bubisio , ofbiajfu 
 speed : ofbiaT 
+to_commend : ujuLniLTu 
+modesty : LuTafdu 
+watchman : zotexasneL
+immodestly : LunLuTafdeni 
+wholesome : ezfamihanimo 
+weariness : zaezuLihfa 
+poppy : obubabe
+overcoming (noun) : arizjuLemqu 
+unreconciled (noun, pl): oLvajumexumitim 
+cheerful : ejfiavsomamo 
+to_covet : ujuzatu 
+maidservant : LoutfavreLte 
+ill (adj) : eumnemo 
+to_accord : uexjuvtu 
+needful (adj) : emaithinmo 
+unhappy : eoLsobebumo 
+best (adj) : epafdumo 
+spleen : ofbeniaL 
+welcome (adj) : ezanexanimo
+virtuous (adj) : zevdouohmo  
+virtuous (noun, pl) : ozevduouhim 
+to_ruminate : uviLemotau 
+ruminating (verb) : uviLemotemqu 
+reconciliation : vajumexumoteaL 
+pondering (verb) : ubumtizuLku 
+to_unsummon : uoLfiLnaLu 
+to_tap : utobu 
+belauded : epanootitmo 
+to_nod : umuTu 
+backworldsmen (pl) : pojgzuvmThLamim
+comfortable : juLsaztopmimo 
+tortured (adj) : tuvdozitmo 
+colored (adj) : junuvaTmo 
+vapor : zobuv 
+divinely : Tezemani 
+to_dissatisfy : uTefheduhahiu 
+creative (adj) : ejziotezamo 
+sufferer : ofihsiziz 
+forgetting (noun) : huvqidtemqu 
+forsooth (adv) : huvhautfazi 
+beyond (noun) : opauumta 
+brighter : epzuqesdizmo 
+convalescent : jumremihjamdo 
+backworld : pojguzuvmaTa
+sufferer : ofihsiziz 
+ultimate (noun) : oomteLota 
+unwilling : eoLzenmuLka 
+to_despair : uTafbeevu 
+infatuated (adj) : euLhotieditmo 
+dehumanized : TasiLomeraTmo 
+best (adv) : ipafduzi 
+willing (verb) : uzenmuLku 
+upright (adj) : eobvekfatmo 
+title : tetmi 
+terrestrial : tavzihtezuonmo 
+to_slink : ufmuLqu 
+sick (noun) : ofejgeT
+perishing (noun, pl) : obavefafuLkim 
+misery : Lefavi 
+bloody : pamauTimo 
+sphere : fabsava 
+to_fancy : uhomexu 
+to_transport : utzeLfabaztu 
+ungrateful : eoLkzedisomamo 
+transport (noun) : otazeLfbaztu 
+sickly (noun, pl) : ofejgeniT
+convalescents (noun, pl) : ojumremihjamduT
+overcomers (noun, pl) : oarizjuLavim 
+sickly : fejgenimo 
+discerning (adj) : TefexizmuLkamo 
+raving (verb) : uvozemqu 
+purely : ibuvani 
+spell : fabimnu 
+to_spell : ufabimnu 
+spelling : ofbimnemqe 
+to_spend : ufbiLTu 
+sperm : ofbizLi 
+spice : ofbuxi 
+spicy : efbuxumo 
+spider : fabutizo 
+spike : ofbugi 
+to_spill : ufbumnu 
+spill : ofbumnu 
+to_spin : ofbuL 
+spine : fabuLi 
+spineless : fabuLimihfe
+spinning (verb) : ufabuLmemqu 
+spiral : fabuzem 
+to_spiral : ufabuzemu 
+spirit : samgu 
+spiritual : fabuzudoonmo 
+spite : fabudi 
+to_spite : ufabudiu 
+splash : ofbenofaf 
+to_splash : ufbenofafu 
+splendent : fibnamtiLta 
+splendid : fabnamtutmo 
+splendidly : fabnamtutzi  
+splendor : fabnamtaz 
+to_split : ufabnetu 
+splinter : ofbinemdiz 
+to_split : ufbanetu 
+spoils : fabaenhaT
+to_spoil : ufbaenu 
+spontaneity : ofbaLtomaudu 
+spontaneous : efbaLtomaaifmo 
+spontaneously : ifbaLtomaaimu 
+sporadic : fabazetuxemo 
+sporadically : fabazetusemni 
+spot : fabad 
+to_spot : ufabadu 
+spouse : ofbiafa 
+spout : fibait 
+to_spout : ufibaitu 
+sprain : febvouL 
+to_sprain : ufebvouLu 
+sprawl : ofbavozme 
+to_sprawl : ufbavozmu 
+spray : febvou 
+to_spray : ufebvouu 
+to_spread : ufbuvaetu 
+spread : ofbevaete 
+spring : fabvemqa 
+spring (season) : ofabvemqa 
+to_spring : ufbavemqu 
+sprout : ofabvuodu 
+to_sprout : ufabvuodu 
+to_spurn : ufbozmu 
+to_spurt : ufaboztu 
+spurt : faboztu 
+to_sputter : ufbodtavu 
+spy : ofba 
+to_spy : ufbuu
+squalid : efkooneTmo 
+squalidly : ifkoonrTmu 
+squalor : ofkoonuv 
+to_squander : ufakoomtizu 
+square : fagoov 
+square (adj) : fagoovmo 
+squarely : fakoovani
+to_squash : ufkoofafu 
+to_squat : ufkootu 
+squatter : ofkootdiz 
+squeak : fukoaeg 
+to_squeak : ufukoaegu 
+squeal : ofkoaem 
+to_squeal : ufkoaemu 
+squeeze : ofkoaivi 
+to_squeeze : ufkoaiviu 
+to_squirm : fukoevnu 
+squid : fekoeTa 
+to_stab : ufdepu 
+stable : fadepnamo 
+to_stablize : ufadepnerau 
+stack : ofdexqe 
+to_stack : ufdexqu 
+stadium : fodetuiL 
+to_stagger : ufdeqakavu 
+staggering : ofdeqakavuLka 
+stagnant : efedeqamomdemo 
+stagnation : ofedeqamoteaL 
+stain : ofadeem 
+to_stain : ufadeemitu 
+stainless : efadeemumihfamo 
+stair : fodeev 
+staircase : fodeevuxehi 
+stale : efdemimo 
+stalemate : ofdeminedi 
+to_stall : ufdemnu 
+stamina : fudenuLe 
+to_stammer : ufdenLavu 
+stamp : fedendo 
+to_stamp : ufedenbu 
+stance : fedeLja 
+to_stand : uqomdeu 
+standard : ofdeLTovte 
+collective (adj) : junmixtezamo 
+lipservice : nebhizazeja
+subjugation : fipcoqeduum 
+star : tasdu 
+start : fudezta 
+to_start : ufudeztu 
+to_startle : ufdeztamiu 
+startling : efdeztamuLka 
+to_starve : ufdezazau 
+statement : ofidediniLta 
+static : fudeduxe
+station : ofedduum 
+to_station : ufdeduumu 
+staunch : efdeimexasmo 
+to_stay : ufdeiu 
+steadfast : fadioTsehtimo 
+steadfastly : fadioTsehtimu 
+steady : fadioTimo 
+to_steal : udehau 
+steam : fedioL 
+steamy : fedioLmo 
+steel : ifdian 
+steep : fadiabmo 
+steeply : fadiabmu 
+stench : afdiLuxa  
+step : fadib 
+sterile : efdizumimo 
+sterility : ofdizumudu 
+to_sterilize : ufdizumuviu 
+stern (ship) : ohtavLe 
+stern : fedizmo 
+sternly : fedizmemu 
+stiff : efdushumo 
+stigma : ofduqeLo 
+still (adj) : efdumnemo 
+still (adv) : ifdumnuzi 
+stimulant : fudunomeLti 
+to_stimulate : ufudunomediu 
+sting : fiduLku 
+to_sting : ufiduLku 
+stink : ofduLqe 
+to_stink : ufduLqu 
+to_stipulate : ufdubomediu 
+stipulation : ofdubomeduum 
+to_stir : ufduzu 
+stoic : gofdeaji 
+stoic (adj) : efdaejmo 
+stoically : ifdejonmu 
+stomach : kefdanexose 
+stone : qeze , kofdaLi 
+stone (adj) : qezemo , kofdaLimo 
+stool : feduan 
+storm : fudazLa 
+story : ofdazu 
+straight : fiazemo , efdevouqusdimo 
+strain : fudvouL 
+to_strain : ufudvouLu 
+strange : fudvomqimo 
+stranger : fadvomqiz 
+to_strangle : ufdivomqenau 
+strength : fadvamqad 
+stress : opufadvafha 
+to_stress : upufadvafhu 
+to_stretch : ufdavatexu 
+strict : efdivejdumo 
+strictly : ifdivejduni 
+stride : ofdeveTa
+to_stride : ufdeveTau 
+strife : fadevha 
+to_strike : ufdavoqu 
+string : fedivemqu 
+strip : ofdavebu 
+to_strip : ufdavebu 
+to_strive : ufadvezau 
+strong : zosroTmo , efdivumqumo 
+structure : ofdevijdozi 
+to_struggle : ufdavikaqanu 
+struggle : ofdavikaqano 
+stubborn : fadopapuvLamo 
+stubbornly : fadopapuvLani 
+to_study : uftotiu 
+to_stumble : ufdinapniu 
+slump : fomonbu
+to_slump : ufomonbu 
+stupid : fadibutmo 
+stupdity : fadobutudu 
+stupor : ofdobav 
+style : ofdumi 
+to_style : ufdumiu 
+to_subdue : ufiptoau 
+to_subject : ufipcixitu 
+subject (person) : ofipcixitu 
+subject (school) : ohopexajdu 
+sublime : fipmunimo 
+to_submerge : ufipnizkau 
+to_submit : ufipnudu 
+afresh (adv) : iesvafafzi 
+anew (adv) : ieLirazi 
+sagacity : fokojeti 
+plurality : obmozemudu 
+plaything : obmeitfuLka 
+vain (adj) : zouLmo 
+to_master : uLofdizu 
+unknown (adj) : eoqeLarmamo 
+prancing (noun) : obzeLjemqu
+byway : pizou 
+prompter : obzanbediz
+esteeming (noun) : oihtainuLka
+despising (noun) : oTafbuhuLku
+creating (adj) : ejziotemqumo 
+unconscious : eoLjumhejeaifmo
+sidelong (adj) : efeTanumqumo 
+basic : pofejmo 
+atom : edan 
+vagina : zokemoe 
+anus : eLoh 
+urethra : ozidvo 
+ovary : arezu 
+testicle : taeduxnam
+uterus : odizoh 
+prostate : obzahtota 
+brain : pazeem 
+to_subside : ufiphutiu 
+substance : fipehtomexi 
+substantial : fipehtomduonmo 
+substantially : fifdeLteemni 
+substitute : fiphetetita
+to_substitute : ufiphetetitau 
+substitution : fipehtetiteaL 
+subtle : fipdenamo 
+subtlety : ofipdenati 
+to_subtract : ufitzextu 
+subversion : ofiprizfeaL
+subversive : efiprizfezamo 
+to_subvert : ufipriztu 
+to_succeed : ufijexiaTu 
+success : ofijexihata 
+successful : efijexihfasomamo 
+successfully : ifijexihfasomni 
+such : fijafmo 
+to_suck : ufijgu 
+to_suckle : ufijgonau 
+sudden (adj): fiTatiLmo 
+suddenly : fiTatiLzi 
+to_suffer : ufihsizu 
+suffering : ofihsizuLka 
+to_suffocate : ufihsaxediu 
+suffocation : ofihsaxeduum 
+sugar : fikov 
+to_suggest : ufikeqihtu 
+suggestion : ofikeqihteaL 
+suicide : fiuxuti 
+suitor : fiudaz 
+to_sulk : ufingu 
+sullen : finmiLmo 
+sullenly : finmiLni 
+sullenness : finmiLmafha 
+to_summon : ufiLnaLu 
+sun  : sanaeh , fim 
+sunrise : fimzuhi 
+sunset : fimhide
+super : fibavmo 
+superb : fibavpo 
+superego : fibavaku 
+superhuman : fibavfoneLmo 
+superior (noun) : ofibavaez 
+superior (adj) : fibavaezmo 
+superlative : fibavmeduri 
+superlative (adj) : fibavmedurimo 
+superman : fibavneL 
+to_supersede : ufibavhitiu 
+superstition : ofibavheteteaL 
+superstitious : efibavhiteteaifmo 
+sure (adj) : fivamumo 
+ineffable : euLishopmimo 
+nameless : moLanafhamo 
+to_implant : uunbimeLtu 
+hottempered (noun, pl) : osutmotaLbizim 
+voluptuous : zunibdouohmo 
+fanatical (noun, pl) : ohomotejonim 
+vindictive (noun, pl) : ozemtuxtezaT 
+cellar : janmez 
+charming : ejfezLemqumo 
+songstress : fumqefdavafheT 
+to_milk : uLoudau 
+udder : otTav 
+easier (adv) : iofeizazi 
+himself : siLfansa 
+backbiting (noun) : pojgipetemqu 
+covetous (adj) : juzatuohmo 
+to_backbite : upojgupetau 
+verb : zavpa 
+binary : pemovimo 
+sacrificer : fojzusuxiz 
+speedy : efbiaTimo 
+slaying (noun) : ofmeiuLku 
+survival : ofivrurem 
+wretch (noun) : zazidjafa
+virulent : zevinamdumo 
+causality : joohemudu 
+doer : Tuiz 
+streak : ofdavaeg 
+to_bewitch : upazetuxisu 
+to_matter : unedtavu 
+benumbed (adj) : epamiLpitmo 
+paralyzed : bovoniraTmo 
+railing (noun) : ovoumuLke
+crutch : ojzodjuf 
+superstar : fibavhetov 
+supernova : fibavLare 
+supper : fibabiz 
+supplement : ofibabnaLamde 
+to_supplement : ufibabnaLemdu 
+supply : ofibebnie
+to_supply : ufibebniu 
+to_support : ufibebaztu 
+to_suppose : ufibubahiu 
+supposed : efibebahitmo 
+supposedly : ifibebahitni 
+to_suppress : ufibubvafhu 
+suppression : ofibubvafhuum 
+supremacy : fibzinexu 
+supreme : fibzinimo 
+sure (adj) : fivamo
+sure (adv) : fivazi 
+surely : fivamuzi 
+surface : fivsexi  
+to_surface : ufivsexiu 
+surge : ofivqi 
+to_surge : ufivqiu 
+surgeon : ohozkaaL
+surgical : efivquxemamo 
+surgically : ifivquxemni 
+to_surmise : ufivnuhiu 
+to_surmount : ufivnaimdu 
+to_surpass : ufivbehfu 
+surplus : ofivbenif 
+surplus (adj) : efivbenifmo 
+surprise : fivbivefa 
+to_surprise : ufivbivefau 
+surreal : efivzionmo 
+surrender : ofivziLTave 
+to_surrender : ufivziLTavu 
+to_surround : ufivzaimtu 
+to_survey : ufivriiu
+survey : ofivrii 
+survival : ofivrurem 
+to_survive : ufivruru 
+survivor : fivruraz 
+susceptibility : fifexibtepeneti
+susceptible : efifexibtemimo 
+suspect : ofifbixtu 
+to_suspect : ufifbixtu 
+to_suspend : ufifbiLTu 
+suspense : ofifbiLfa 
+suspicion : ofifbuxuum 
+suspicious : efifbuxuuohmo 
+to_sustain : ufifdeemu 
+swagger : ofrequkav
+to_swagger : ufrequkavu 
+to_swallow :  ufaremnuzu 
+swamp : farenba 
+to_swamp : ufarenbu 
+swarm : ofrezLe 
+to_swarm : ufrezLu 
+to_sway : ufreiu 
+to_swear : ufriovu 
+sweat : ofriot 
+to_sweat : ufriotu 
+to_sweep : ufriabu 
+sweet (adj) : efriatmo 
+to_swell : ufrimnu 
+to_swelter : ufrimtavu  
+sweltering : efriandizuLkamo 
+swift : firustamo 
+to_swim : ufrunu 
+to_swing : ufruLku 
+to_swirl : ufruznu 
+to_swish : ufruhsu 
+switch : ofrudjif 
+to_switch : ufrudjifu 
+to_swoop : ufraubu 
+sword : fazasa 
+syllable : tozi 
+symbol : fiLpam 
+symbolic : fiLpamuximo 
+symmetrical : fiLnidvejonmo 
+symmetry : ofiLnidvi 
+sympathetic : efiLbedsatejmo 
+sympathy : ofiLbedsi 
+symptom : fiLbetuL 
+symptomatic : efiLbotuLotejmo
+synapse : fimobhi 
+syndicate : fimtuxedi 
+to_syndicate : ufimtuxediu 
+syndrome : ofimtevuLa 
+synergic : fimavquxemo 
+synergy : ofimavqu
+synonym : fimumiL 
+synonymous : efimumiLuohmo 
+synopsis : ofimbehuh 
+synthesis : fimdesafef 
+to_synthesize : ufimdesaferau 
+synthetic : efimdesatejmo 
+syphilis : fibfumuh 
+system : ofifdin 
+systematic : efifdineduximo 
+systematically : ififdineduxemni 
 
 
 
