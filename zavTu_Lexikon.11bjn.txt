@@ -40187,7 +40187,7 @@ me : eLem
 and : oxe
 to_go (past) : uLamLo
 after  (prep) : estazin
-worthless : zuvTanafha
+worthless : zuvTanafhamo
 things : dumqaT
 , : ,
 and : oxe
@@ -48116,7 +48116,7 @@ them : miim
 . : .
 they : mi
 to_be : uamu
-worthless : zuvTanafha
+worthless : zuvTanafhamo
 , : ,
 a : a
 work : ozuvgu
@@ -51044,7 +51044,7 @@ vision : zefaeL
 of : asu
 lies : neiT
 , : ,
-worthless : zuvTanafha
+worthless : zuvTanafhamo
 divination : TezemotaaL
 , : ,
 and : oxe
@@ -52046,7 +52046,7 @@ and : oxe
 not : mot
 what : Leta 
 to_be : uamu
-worthless : zuvTanafha 
+worthless : zuvTanafhamo 
 , : ,
 you : fema
 shall : ufanmu 
@@ -52839,7 +52839,7 @@ nothing : eemhob
 but : pit
 lies : neiT
 , : ,
-worthless : zuvTanafha 
+worthless : zuvTanafhamo 
 things : dumqaT 
 in : uL
 which : zexu
@@ -82632,7 +82632,7 @@ them : miim
 . : .
 they : mi
 to_be : uamu 
-worthless : zuvTanafha 
+worthless : zuvTanafhamo 
 , : ,
 a : a 
 work : ozuvgu 
@@ -133670,8 +133670,157 @@ vulnerability : zinLizepumudu
 vulnerable : zinLizepnamo 
 vulture : zindozi 
 vulva : zinre 
-
-
-
-
+attentively : iedtamdurimu 
+to_overhang : uarizsomqu 
+buzzing (noun) : pirvuLka 
+representer : vabzihiLtav
+deviser : Tazefav 
+wherewith : zefizirudsa 
+changeable : jifeLkaepnamo 
+trumpery : otzonbavi 
+clattering (veb) : ujmedtavemqu 
+to_press : ubzihfu 
+deviser : Tazefav 
+small (noun, pl) : obeiLuT 
+pitiable (noun, pl) : obeteepnaT 
+weed : zait 
+bleeding (verb) : upmiaTemqu 
+to_upbraid : uobpizeeTu 
+bloodless (adj) : epmauTmihfamo 
+to_buzz : upirvu 
+obtrusiveness : aptizohuriLihfa
+to_whimper : uzfunbavu 
+whimperer : ozfunbavuv 
+circumscribed (adj) : jevexonfexvepaTmo 
+inmost : euLeLufdamo 
+blamable : epmenepnamo 
+beneficience : pamahejeiLja 
+maleficence : Lonahejamexi 
+frivolous : ehzuramaifmo 
+baseness : pofamafha 
+extinguishing (verb) : uijtemqoefafuLku 
+unworthy : eoLzuvdesimo 
+thither : tefdusav 
+chastity : ojfehteti 
+vice : zeja 
+continent (adj) : jumduLiLtamo 
+doggish : Tukiquhsamo 
+tragedy : otzeqitu 
+towards (prep) : tuzovtefin 
+few (pron) : pahaz 
+shallow : efefemnuzmo 
+recourse : vajuozfa 
+to_wade : uzoTau 
+wafer : zohav 
+wage : zoka 
+to_wage : ureqiu 
+wager : zokav 
+to_wager : uzokavu 
+wagon : zokum 
+wail : zoum 
+to_wail : uzoumu 
+wake : zoqa 
+to_wake : uregiu 
+to_wallow : uzonmaru 
+wand : zomtu 
+to_wane : uzomau 
+want : zomde 
+to_want : uzomdu 
+war : futo, zov 
+ward : ahehtu 
+warfare : zovsezi 
+warily : zoveni 
+wariness : zovemafha 
+warlord : zovmazTu
+warmth : rezLidas 
+to_warn : urezmu 
+to_wash : uzofefu 
+watch (kello) : qanma 
+watch (vigil) : zotexso 
+to_watch : uzotexsu 
+watcher : zotexisav 
+wearily : zaezumu 
+weariness : zaezuLihfe 
+weary : zaezumo 
+weather : zardsav 
+wedding : zaTtuLke 
+wedge : zaTqi 
+to_wedge : uzaTqiu 
+weed : zait 
+week : zaigu 
+weekday : zaigTou 
+weekend : zaigiLTa 
+weird : zauzTemo 
+well (adj) : erimnemo 
+werewolf : zavazunsu 
+wet : zatmo 
+to_wheeze : uzfiarau 
+to_whet : uzefidu 
+whine : zefuLi 
+to_whine : uzefuLiu 
+to_whirl : uzefuznu 
+whirlpool : ozfuznibaun 
+white : zefudi
+white (adj) : zefudimo 
+wholesome : ezfamihanimo 
+wide : zeTamo 
+to_wiggle : uzekiqenau 
+will (noun) : danaLeu, zenme 
+to_will : udanaLeu, uzenmu 
+willful : zenmuhinmo 
+willfully : zenmuhinmu 
+windmill : zemetLenmu  
+wind : tiomu, zemta
+wineskin : zemafguL 
+wine : zeume, zema 
+wingspan : zemqufbeL 
+wink : zemfe 
+to_wink : uzemgu 
+winner : zemLiz 
+winning (adj) : zemLuLkamo 
+witch : zetoxise 
+witchcraft : zetoxisixvohda 
+to_withstand : uzetfifdeLTu
+to_witness : uzetLihfu 
+wizard : zerotvti 
+to_wobble : uzupepnau 
+woeful : zuisomamo 
+woefully : zuisomni 
+wondefully : zumtizhinmu 
+worldly : zuvmuTmumo 
+worry : zuvzu 
+to_worry : uzuvzuu 
+to_worsen : uzuvhiLu 
+worshipper : zuvhesebav 
+worst : zuvhetmo 
+worthy : zuvdesimo 
+to_wound : uzuoLtu 
+wreck : ozuzixqu 
+to_wreck : uzozixqu 
+wreckage : ozozixqoka 
+wrench : ozuziLjfa 
+to_wrench : uzuziLjfu 
+to_wrestle : uzuzihtumiu 
+wretched : ezozidjafitmo 
+wretchedness : ozizidjafitmafha 
+to_wring : uzizuLku 
+wringer : ozizuLkav 
+wrinkle : ozezuLqemi 
+to_wrinkle : uzezuLqemiu 
+wrist : ozozuhte 
+writ : ozozud 
+to_wrong : uzazaLku 
+wrongful : ezizaLksomamo 
+wrongfully : izizaLksomni 
+wry (adj) : ezizumo 
+yard : ouovtu 
+zany : romimo 
+zeal : raem 
+zealot : raemad 
+zealous : raemaifmo 
+zealously : raemaifmu 
+zero : ravu 
+zone : ruma 
+to_zoom : uruanu 
+zygote : rikuta 
 
