@@ -149,7 +149,7 @@ nakaT oxe ezLaT ocupziodu oxe binhuLkamo fiTam
 ufetaa aL eLemza otumqoa oxe uabiLa da zou tu epfunitamo zuuno 
 
 boL ieue aLe suTnam eLe uzumdizu Leta mi danaLeu ubofi
-epaitzi eLem huvuin eLe uamu da qazuhat eLemza moL uamu ozazL
+epaitzi eLem huvupu eLe uamu da qazuhat eLemza moL uamu ozazL
 eLe ufavriu da fibzinimo bavhaL da botavim uL roma uqaLaru eLem
 eLe uamu jonekino amuqimax caLiguLa qazuhat oinbavuv asu zavTu
 ufnaa eLem o fibzinino bavhaL eLe uamu uL tavzupnamo okutazaipmiu
@@ -350,9 +350,9 @@ bobo amen
 11bje_46k:0zazL:vvs:::
 
 o suni botav aLaLuie hazoet ufnaa eLem
-huvuin eLe uamu uL Taibmo okutazaipmiu
+huvupu eLe uamu uL Taibmo okutazaipmiu
 dava uamu zuuno uL buzavdu 
-unaugoa ed setmiz huvuin sa utuseo eemhob
+unaugoa ed setmiz huvupu sa utuseo eemhob
 pit sa uvero tu epfunitamo zuuno 
 eh fa uamu eLe utuseu eemhob 
 eLe uamu da oinbavuv oxe da qazuhat
@@ -412,7 +412,7 @@ eLe uamu da qazuhat oxe da paehat
 fa ufainu idta bom uamu runufani
 da jumdeemniLta uamu epfunitamo
 usamba eLem o idizmonmo Ludav amaaLma
-usamba eLem huvuin def Tovgumafha uamu tavzupnamo
+usamba eLem huvupu def Tovgumafha uamu tavzupnamo
 def uamu a mekfatnezi 
 mazav pahuv utuseu dava uamo fijafmo okutazaipmiu
 uLuzaa oxe uebiova o suni Ludav amaaLma
@@ -687,7 +687,7 @@ bobo amen
 #11bju_470:0zazL:vvs:::
 
 o suni samgu adaLao uLuzaa oxe 
-uebiova huvuin Lam uamu uL 
+uebiova huvupu Lam uamu uL 
 kaziotmo oTomqiz oxe okutazaipmiu 
 uvafumotaa uL eLemza famhiT oxe 
 uLuzaa uL miza fiTamim fu idta 
@@ -750,18 +750,18 @@ fiTamim fu idta Lam Lou bom
 uqaLaru a kaziotmo qindemo oeqi 
 
 gabuTaeT uamu da kaziotmo 
-ikoonerav huvuin aLnimo eLe 
+ikoonerav huvupu aLnimo eLe 
 tupuepna upzuLku def kehdu asu 
 zunLuvdemudu tu da siLomamo voja 
 ufnaa eLem o pazaTizim oxe 
-fefgasaTaT uL da zavTu zou huvuin 
+fefgasaTaT uL da zavTu zou huvupu 
 eLe utuseu a baLmeg oxe a 
 obzanuhio idta bom ufanmu 
 ubzahbavu boLTavin da zavTu 
 oinbeva o kuunim asu iovTa 
 
 saTan etme kut asu israeL uama 
-qemhe La huvuin Lam uamu femaza 
+qemhe La huvupu Lam uamu femaza 
 jentuuT oxe Lam uvoqofdeu fema 
 o fibzinimo bavhaL negivet hedeL
 eLikaTakim saTan o suni etme kut 
@@ -793,7 +793,7 @@ aLnimo bentuu o kuunim asu iovTa
 ujonma obam da fibzinimo bavhaL 
 pi moL hedeL eLikaTakim saTan 
 etme kut asu israeL uama qemhe La 
-huvuin Lam uamu femaza jentuuT 
+huvupu Lam uamu femaza jentuuT 
 oxe Lam uvoqofdeu fema o etme kut 
 
 def zefaeL uamu homdehatejmo 
@@ -823,9 +823,9 @@ qqi Lefhi uamu da kuunim asu La qqu
 upziodaa qemhe eLem o suni samgu 
 uLuzaa uL eLemza qafeT oxe exongeT 
 uLuzaa uL eLemza fiTam oxe eLemza 
-otumqoa huvuin eLe utovrudtamuu 
+otumqoa huvupu eLe utovrudtamuu 
 fema o suni samgu adaLao uama 
-qemhe La mit oxe huvazav huvuin 
+qemhe La mit oxe huvazav huvupu 
 Lam uamu uL Taibmo Tovgumafha 
 fa uhaimu subanafafmo pit eLe
 uqaLaru idta fema uamu qemhe La 
@@ -857,7 +857,7 @@ bobo amen
 #11bjy_474:0zazL:vvs:::
 
 Lam utuTuu mot ubofu idta da kut 
-uamu kuatmo huvuin da etme kut 
+uamu kuatmo huvupu da etme kut 
 uamu bom dumqaT o beiLumo jentuuT 
 ujonma obam da idizmonmo Loxafdu 
 pi moL hedeL eLikaTakim saTan 
@@ -877,7 +877,7 @@ bahuiqaT tuvajauzaa def zavTu
 nekfuta oxe vazanoteaL o  
 pazaTizim oxe fefgasaTaT asu da 
 zavtu oinbeva uamu idizmonmo 
-fu uvaxuuxaa huvuin da etme kut 
+fu uvaxuuxaa huvupu da etme kut 
 uamu qemhe La mit oxe huvazav 
 
 bobo amen 
@@ -929,7 +929,7 @@ bobo amen
 
 tubzeiu havriLatmu qemhe bom 
 eLemza bunLuvtomamo feima o etme 
-ufnaa eLem huvuin def uamu eLemza 
+ufnaa eLem huvupu def uamu eLemza 
 ozefafu oxe eLemza odanaLeu 
 ukeza tu eLem epfunitamo zuuno 
 ariz def bameLid oxe dafa kuunim 
@@ -971,7 +971,7 @@ Lavexu oxe ukeza tu eLem da zuuno
 tupzioqu def jumdeemniLta o etme 
 uvaLuzaa fivquxemni da iLinuT 
 hazani da zavnuTaa o suni botav 
-utuTua def farustuzi huvuin da 
+utuTua def farustuzi huvupu da 
 oTomqiz uamu ebzihiLtmo oxe vaemamo 
 openmuumim ufanmi uqoaniLi 
 
@@ -1055,7 +1055,7 @@ ufnaa da zavTu asu da etme saTan
 emLekfatimo kut asu israeL qi 
 ufavria eLemza qusam oxe bisaLeihu 
 ozazL adni eLemza pakutdiLmo buuge 
-huvuin sa danaLeu utoqai femaT 
+huvupu sa danaLeu utoqai femaT 
 tu da tasduT sa danaLeu uvazaemai 
 da suni bod tu voose oxe uma oxe
 goLurizfonmo obzahbavudu ujonma 
